@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-03-18
 
 # Partie législative
 
@@ -9448,6 +9448,33 @@ un mois au moins après la notification faite aux membres participants et honora
 	  - Code des assurances - art. R334-9-1 (VD)
 
 
+###### Article R212-9-1
+
+Pour les mutuelles et unions régies par le présent livre, le montant du droit d'adhésion ne peut dépasser le rapport entre,
+d'une part, la marge de solvabilité mentionnée aux articles R. 212-12, R. 212-14, R. 212-16 et R. 212-19 et la solvabilité
+ajustée mentionnée aux articles R. 213-2 à R. 213-5 et, d'autre part, le nombre de membres participants et honoraires sur
+lequel portent les comptes approuvés. Toutefois, lorsque la marge de solvabilité effectivement constituée est inférieure au
+montant minimal réglementaire, le premier terme de ce rapport est majoré du montant de cette insuffisance.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 2 () JORF 18 mars 2005
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R212-12 (V)
+	  - Code de la mutualité - art. R212-14 (V)
+	  - Code de la mutualité - art. R212-16 (V)
+	  - Code de la mutualité - art. R212-19 (V)
+	  - Code de la mutualité - art. R213-2 (V)
+
+
 ##### Section 2 : Marge de solvabilité.
 
 ###### Article R212-10
@@ -12326,6 +12353,295 @@ obligation pour la mutuelle ou union.
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
+#### Chapitre III : Surveillance complémentaire
+
+###### Article R213-1
+
+Les mutuelles et unions régies par le présent livre qui sont des organismes participants, au sens du 3° de l'article L.
+212-7-1, d'au moins une mutuelle ou une union, une institution de prévoyance ou une union régie par le titre III du livre IX
+du code de la sécurité sociale, une entreprise de réassurance ou d'assurance dont le siège social est situé hors de France,
+disposent d'un système de contrôle interne pour la production de données et informations destinées à permettre la
+surveillance complémentaire de leur situation financière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L212-7-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - SPEC_APPLI: Code de la mutualité - art. L122-5 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R122-1 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R122-2 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R124-9 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R126-1 (V)
+	  - SPEC_APPLI: Code de la mutualité - art. R126-3 (M)
+	  - SPEC_APPLI: Code de la mutualité - art. R126-4 (M)
+	  - SPEC_APPLI: Code de la mutualité - art. R531-1 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R531-2 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R531-3 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R531-4 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R531-5 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R531-6 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R211-28-1 (VT)
+	  - Code de la mutualité - art. R213-2 (V)
+
+
+###### Article R213-2
+
+Les mutuelles et unions mentionnées à l'article R. 213-1 doivent présenter une solvabilité ajustée positive déterminée selon
+les modalités précisées à l'article R. 213-3 sur la base des comptes consolidés ou combinés établis conformément aux
+dispositions de l'article L. 212-7.
+
+Toutefois, la commission de contrôle mentionnée à l'article L. 510-1 peut dispenser du calcul de la solvabilité ajustée une
+mutuelle ou une union s'il s'agit d'une mutuelle ou d'une union apparentée à une autre mutuelle ou union participante agréée
+en France, si cette mutuelle ou union apparentée est prise en compte dans le calcul de la solvabilité ajustée de la mutuelle
+ou de l'union participante.
+
+La commission de contrôle mentionnée à l'article L. 510-1 peut également dispenser du calcul de la solvabilité ajustée une
+mutuelle ou une union s'il s'agit d'un organisme apparenté soit à un organisme assureur, soit à une entreprise de
+réassurance, soit à une société de groupe d'assurance qui ont leur siège social dans un autre Etat partie à l'accord sur
+l'Espace économique européen lorsque ladite commission a conclu un accord avec l'autorité compétente de cet Etat pour lui
+attribuer l'exercice de la surveillance complémentaire.
+
+Dans tous les cas de dispense de calcul de la solvabilité ajustée, la commission de contrôle s'assure au préalable que les
+éléments admissibles pour la marge de solvabilité des mutuelles et unions pris en compte dans le calcul sont répartis de
+manière adéquate entre ces organismes.
+
+Lorsqu'elle vérifie le calcul de la solvabilité d'une mutuelle ou d'une union, la commission de contrôle mentionnée à
+l'article L. 510-1 peut prendre en compte l'évaluation par une autre autorité compétente de la situation de solvabilité d'un
+organisme assureur apparenté dont le siège social est situé dans un autre Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen.
+
+En cas de solvabilité ajustée négative, la commission de contrôle exige de la mutuelle ou union concernée qu'elle prenne les
+mesures nécessaires au rétablissement d'une solvabilité ajustée positive.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R213-1, R213-3, L212-7, L510-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code de la mutualité - art. R212-9-1 (VD)
+	  - Code de la mutualité - art. R213-5 (V)
+
+
+###### Article R213-3
+
+La solvabilité ajustée d'une mutuelle ou d'une union participante est la différence entre les éléments admissibles pour la
+marge de solvabilité calculés à partir des données consolidées ou combinées établies conformément aux dispositions de
+l'article L. 212-7 et l'exigence de solvabilité calculée à partir des données consolidées ou combinées des organismes
+assureurs entrant dans le champ de la surveillance complémentaire établies en application de ces mêmes dispositions.
+
+Les éléments admissibles pour la marge de solvabilité de la mutuelle ou l'union participante pour laquelle la solvabilité
+ajustée est calculée et ceux pris en compte au titre des organismes apparentés sont ceux mentionnés aux articles R. 212-11 et
+R. 212-15. Toutefois, des éléments admissibles, notamment les plus-values latentes, les rappels de cotisations des mutuelles
+et les emprunts subordonnés, ne sont pris en compte, selon des modalités précisées par arrêté du ministre chargé de la
+mutualité, que dans la mesure où ils peuvent être effectivement rendus disponibles pour couvrir la marge de solvabilité de la
+mutuelle ou de l'union participante pour laquelle la solvabilité ajustée est calculée.
+
+L'exigence de solvabilité des organismes assureurs inclus dans le calcul de solvabilité ajustée se définit de la manière
+suivante :
+
+1. Pour une mutuelle ou union, elle correspond au montant réglementaire de la marge de solvabilité mentionné aux articles R.
+212-12, R. 212-14, R. 212-16 et R. 212-19 ;
+
+2. Pour une institution ou union relevant du titre III du livre IX du code de la sécurité sociale, elle correspond au montant
+réglementaire de la marge de solvabilité mentionné aux articles R. 931-10-4, R. 931-10-7 et R. 931-10-10 du code de la
+sécurité sociale ;
+
+3. Pour une entreprise agréée en France et soumise au contrôle de l'Etat en application de l'article L. 310-1 du code des
+assurances, elle correspond au montant réglementaire de la marge de solvabilité décrit aux articles R. 334-5, R. 334-6, R.
+334-13, R. 334-14, R. 334-19 et R. 334-20 du code précité ;
+
+4. Pour une entreprise de réassurance ou pour un organisme assureur dont le siège est situé hors de France, elle correspond à
+une exigence de solvabilité calculée dans les mêmes conditions que la marge de solvabilité pour les risques assimilables, le
+résultat ainsi obtenu ne pouvant être inférieur à celui qui serait résulté de l'application de ces règles à un organisme
+assureur agréé en France ;
+
+5. Pour une mutuelle ou union participante dont les participations sont détenues au travers d'une société de groupe
+d'assurance, l'exigence de solvabilité ajustée de cette dernière est égale à zéro ;
+
+La commission de contrôle mentionnée à l'article L. 510-1 peut prendre en compte les exigences de solvabilité et les éléments
+admissibles pour satisfaire ces exigences, retenus par les autorités d'un Etat non membre de la Communauté européenne ou qui
+n'est pas partie au traité sur l'Espace économique européen dans lequel un organisme assureur apparenté ou une entreprise de
+réassurance a son siège et dont les exigences sont considérées comme équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L212-7, R212-11, R212-15, R212-12, R212-14, R212-16, R212-19, L510-1
+	  - Code de la sécurité sociale. - art. R931-10-10 (M)
+	  - Code de la sécurité sociale. - art. R931-10-4 (M)
+	  - Code de la sécurité sociale. - art. R931-10-7 (M)
+	  - Code des assurances - art. L310-1 (M)
+	  - Code des assurances - art. R*334-13 (M)
+	  - Code des assurances - art. R*334-14 (M)
+	  - Code des assurances - art. R*334-19 (M)
+	  - Code des assurances - art. R*334-20 (M)
+	  - Code des assurances - art. R*334-5 (M)
+	  - Code des assurances - art. R*334-6 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R213-2 (V)
+	  - Code de la mutualité - art. R213-4 (V)
+
+
+###### Article R213-4
+
+Lorsque la méthode décrite à l'article R. 213-3 ne permet pas d'obtenir un résultat satisfaisant en raison des structures du
+groupe concerné, la commission de contrôle mentionnée à l'article L. 510-1 est autorisée à appliquer, à titre exceptionnel et
+dérogatoire, l'une des deux méthodes suivantes :
+
+1. Méthode n° 1 : la solvabilité ajustée de la mutuelle ou de l'union participante est la différence entre :
+
+a) La somme des éléments admissibles pour la marge de solvabilité de la mutuelle ou de l'union participante et de la part
+proportionnelle de cette dernière dans les éléments admissibles pour la marge de solvabilité de l'organisme assureur
+apparenté ;
+
+b) La somme de la valeur comptable de l'organisme assureur apparenté dans la mutuelle ou l'union participante et de la part
+proportionnelle de l'exigence de solvabilité de l'organisme assureur apparenté.
+
+2. Méthode n° 2 : la solvabilité ajustée de l'institution ou l'union participante est la différence entre :
+
+a) La somme des éléments admissibles pour la marge de solvabilité de la mutuelle ou l'union participante ;
+
+b) La somme de l'exigence de marge de solvabilité de la mutuelle ou l'union participante et de la part proportionnelle de
+l'exigence de solvabilité de l'organisme assureur apparenté.
+
+Lorsque l'organisme assureur apparenté est une filiale et qu'il présente un déficit de solvabilité, ce déficit de solvabilité
+doit être pris en compte en totalité dans le calcul de la solvabilité ajustée de l'organisme référent mentionné au 1° de
+l'article L. 212-7-1. Toutefois, dans le cas où la responsabilité de l'organisme de référence détenant une part de capital
+est limitée strictement et sans ambiguïté à cette part de capital, la commission de contrôle mentionnée à l'article L. 510-1
+peut décider d'admettre que le déficit de la filiale est pris en compte sur une base proportionnelle.
+
+Pour le calcul de la solvabilité ajustée en application de ces deux méthodes, les opérations intragroupe sont éliminées d'une
+manière équivalente à celle définie par le règlement du comité de la réglementation comptable mentionné à l'article L. 212-7.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R213-3, L510-1, L212-7-1, L212-7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
+
+
+###### Article R213-5
+
+Les mutuelles ou unions dont l'organisme de référence mentionné au 1° de l'article L. 212-7-1 est une société de groupe
+d'assurance, une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 du code des assurances ou
+une entreprise d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne
+ou partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée positive selon des
+modalités définies aux articles R. 213-2 à R. 213-4. Dans ce but, elles procèdent à un calcul de la solvabilité ajustée de
+leur organisme de référence dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité d'une
+mutuelle ou union participante agréée en France et pratiquant les mêmes opérations.
+
+La commission de contrôle mentionnée à l'article L. 510-1 peut dispenser du calcul de la solvabilité ajustée une mutuelle ou
+une union s'il s'agit :
+
+1. D'une mutuelle ou d'une union apparentée à un autre organisme assureur et si cette mutuelle ou union est déjà prise en
+compte dans le calcul effectué pour cet autre organisme assureur ;
+
+2. D'une institution ou d'une union dont l'organisme de référence est une société de groupe d'assurance, entreprise
+d'assurance ou de réassurance dont le siège social est situé hors d'un Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen et est à la fois commune avec un ou plusieurs organismes assureurs agréés en France
+et déjà pris en compte dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
+
+3. D'une institution ou d'une union dont l'organisme de référence est une société de groupe d'assurance, entreprise
+d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen dès lors que la commission de contrôle mentionnée à l'article L. 510-1 a conclu un
+accord avec une autorité compétente d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen pour attribuer à cette autorité l'exercice de la surveillance complémentaire.
+
+Si la commission de contrôle mentionnée à l'article L. 510-1 estime, à partir de ce calcul de solvabilité ajustée, que la
+solvabilité de la mutuelle ou l'union concernée est compromise ou susceptible de l'être, elle exige de celle-ci qu'elle
+prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L212-7-1, R213-2 à R213-4, L510-1
+	  - Code des assurances - art. L310-1-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
+
+
+###### Article R213-6
+
+Les opérations qu'une mutuelle ou union effectue avec ses organismes apparentés sont soumises au contrôle de la commission de
+contrôle mentionnée à l'article L. 510-1, notamment celles qui portent sur les prêts, les garanties et les opérations hors
+bilan, les éléments admissibles pour la marge de solvabilité, les investissements, les opérations de réassurance et les
+accords de répartition des coûts. La mutuelle ou l'union déclare au moins une fois par an à cette commission les opérations
+importantes mentionnées ci-dessus. Un arrêté du ministre chargé de la mutualité précise les conditions dans lesquelles ces
+opérations doivent être déclarées.
+
+Si la commission de contrôle mentionnée à l'article L. 510-1 estime, à partir de l'examen de ces déclarations, que la
+solvabilité de la mutuelle ou de l'union est compromise ou susceptible de l'être, elle exige de cette mutuelle ou union
+qu'elle prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R211-28-1 (VT)
+
+
 ### Titre II : Opération des mutuelles et des unions.
 
 #### Chapitre II : Dispositions relatives à certaines opérations de retraite.
@@ -14883,6 +15199,27 @@ paiement des valeurs de rachat ou le versement d'avances sur les bulletins d'adh
 	**Modifié par**:
 
 	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+
+
+###### Article R510-10-1
+
+Les mesures prévues aux articles R. 510-3 à R. 510-10 peuvent être appliquées à une mutuelle ou union soumise à la
+surveillance complémentaire lorsqu'elle présente une situation de solvabilité ajustée négative ou que la surveillance
+complémentaire a révélé que la solvabilité de cette entreprise apparaît compromise ou susceptible de l'être.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R510-3 à R510-10
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2005-244 du 14 mars 2005 - art. 3 () JORF 18 mars 2005
 
 
 #### Section 3 : Procédure disciplinaire

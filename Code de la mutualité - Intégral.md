@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-10-17
 
 # Partie législative
 
@@ -13358,6 +13358,78 @@ Le plafond mentionné à l'article L. 223-9 ne peut être inférieur à 120 000 
 	**Créé par**:
 
 	  - Décret n°2002-1571 du 24 décembre 2002 - art. 1 () JORF 29 décembre 2002
+
+
+## Livre IV : Relations avec l'Etat et les autres collectivités publiques.
+
+### Titre Ier : Organes administratifs de la mutualité.
+
+#### Chapitre II : Comités régionaux de coordination de la mutualité.
+
+###### Article D412-1
+
+Avant le 31 janvier de chaque année, le comité régional de coordination de la mutualité établit un état prévisionnel de ses
+dépenses et de ses recettes et désigne l'organisme mutualiste chargé d'avancer les fonds nécessaires au fonctionnement
+régulier et à l'exercice des attributions du comité telles que définies à l'article R. 412-2. Cet organisme recouvre les
+sommes avancées auprès des mutuelles, sections, unions et fédérations.
+
+Le montant global des dépenses annuelles ne peut excéder le montant obtenu en multipliant 50 % de la valeur mensuelle du
+plafond, mentionné à l'article L. 241-3 du code de la sécurité sociale, par le nombre de membres titulaires du comité
+régional de coordination de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R412-2
+	  - Code de la sécurité sociale. - art. L241-3 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2003-988 du 14 octobre 2003 - art. 1 () JORF 17 octobre 2003
+
+
+###### Article D412-2
+
+Les sommes dues au titre d'une année par les mutuelles, sections, unions et fédérations sont calculées par le comité régional
+de coordination de la mutualité, suivant l'une des deux méthodes suivantes :
+
+1° Répartition au prorata de l'effectif des membres participants de chaque organisme ayant son siège dans la circonscription
+régionale constaté au 31 décembre de l'année précédente et mentionné au registre national des mutuelles. Pour les mutuelles,
+les effectifs retenus sont nets des effectifs de leurs sections.
+
+2° Répartition proportionnelle aux cotisations de chaque organisme constatées au 31 décembre de l'année précédente. Pour les
+mutuelles, les cotisations retenues sont nettes de celles versées à leurs sections.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2003-988 du 14 octobre 2003 - art. 1 () JORF 17 octobre 2003
+
+
+###### Article D412-3
+
+Le représentant de l'Etat dans la région notifie à chaque organisme le montant de la somme due et l'invite à la verser, avant
+la fin de l'année au plus tard, directement à l'organisme qui a consenti l'avance des fonds.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2003-988 du 14 octobre 2003 - art. 1 () JORF 17 octobre 2003
 
 
 # Partie réglementaire - Arrêtés

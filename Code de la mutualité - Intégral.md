@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-04-22
+Version Consolidée au 2004-06-05
 
 # Partie législative
 
@@ -8651,58 +8651,64 @@ justifier de l'existence d'une marge de solvabilité suffisante relative à l'en
 
 ###### Article R212-11
 
-La marge de solvabilité mentionnée à l'article R. 212-10 des mutuelles et unions agréées pour pratiquer des opérations
-relevant des branches 1,2, 15, 16 a et h, 17, 18 mentionnées à l'article R. 211-2 est constituée, après déduction des pertes,
-de la part des frais d'acquisition non admise en représentation des engagements réglementés et des autres éléments
+I. - La marge de solvabilité mentionnée à l'article R. 212-10 des mutuelles et unions agréées pour pratiquer des opérations
+relevant des branches 1, 2, 15, 16 a et h, 17, 18 mentionnées à l'article R. 211-2 est constituée, après déduction des
+pertes, de la part des frais d'acquisition non admise en représentation des engagements réglementés et des autres éléments
 incorporels, par les éléments suivants :
 
 1. Le fonds d'établissement constitué ;
 
-2. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ;
-
-3. L'emprunt ou les emprunts pour fonds de développement ; toutefois, à partir de la moitié de la durée d'un emprunt, celui-
-ci ne sera retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant
-égal au double du montant total de cet emprunt divisé par le nombre d'années de sa durée ;
-
-4. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
+2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
 de capitalisation ;
 
-5. Les excédents reportés ;
+3. Les excédents reportés ;
 
-6. Les rappels de cotisations que les mutuelles peuvent exiger de leurs membres participants et honoraires au titre de
+4. Le ou les emprunts pour fonds de développement ; toutefois, à partir de la moitié de la durée d'un emprunt, celui-ci n'est
+retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant égal au
+double du montant total de cet emprunt divisé par le nombre d'années de sa durée.
+
+II. - La marge de solvabilité peut également être constituée par :
+
+1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés.
+
+Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du
+ministre chargé de la mutualité. La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de l'exigence de
+marge de solvabilité ou de la marge de solvabilité disponible, le montant le plus faible étant retenu. Toutefois, la prise en
+compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de
+cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de l'article L. 510-11, donner
+lieu à application de sanctions par la commission de contrôle mentionnée à l'article L. 510-1 ;
+
+2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
+mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie.
+
+III. - Sur demande et justification de la mutuelle ou de l'union et avec l'accord de la commission de contrôle mentionnée à
+l'article L. 510-1, la marge de solvabilité peut également être constituée par les éléments suivants :
+
+1. Avec l'accord des autorités de contrôle des Etats membres de la Communauté européenne où la mutuelle ou l'union exerce son
+activité :
+
+a) La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ;
+
+b) Les rappels de cotisations que les mutuelles peuvent exiger de leurs membres participants et honoraires au titre de
 l'exercice, à concurrence de la moitié de la différence entre les cotisations maximales et les cotisations effectivement
 appelées ; toutefois, ces possibilités de rappel ne peuvent représenter, d'une part, plus de 50 % de la marge prévue au
-présent article, d'autre part, plus de 50 % du montant réglementaire de la marge prévu à l'article R. 212-12 ;
+présent article, d'autre part, plus de 50 % de l'exigence minimale de marge prévue à l'article R. 212-12 ;
 
-7. Sur demande et justification de la mutuelle ou de l'union et avec l'accord de la commission de contrôle mentionnée à
-l'article L. 510-1 et des autorités de contrôle des Etats membres de la Communauté européenne où la mutuelle ou l'union
-exerce son activité, les plus-values pouvant résulter de la sous-estimation d'éléments d'actifs et de la surestimation
-d'éléments de passif, dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
+c) Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif,
+dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
 
-8. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés ; ces titres et emprunts
-doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de la
-mutualité ; la prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de la marge de solvabilité prévue au
-présent article ; toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée
-n'est admise qu'à concurrence de 25 % de cette marge ; tout remboursement effectué irrégulièrement peut, conformément aux
-dispositions de l'article L. 510-11 du présent code, donner lieu à application de sanctions par la commission de contrôle
-mentionnée à l'article L. 510-1 ;
+2. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71, lorsque
+les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 212-31 ou
+réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81.
 
-9. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
-mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie ;
-
-10. Sur demande et justification de la mutuelle ou union et avec l'accord de la commission de contrôle mentionnée à l'article
-L. 510-1, les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71,
-lorsque les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R.
-212-31 ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81.
-
-Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 7 et au
-10.
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés aux 1 (c)
+et 4 du III.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-10, R211-2, R212-12, L510-1, L510-11, L111-6, L431-1, R212-70, R212-71, R212-31, R212-81
+	  - Code de la mutualité (nouveau) R212-10, R211-2, L510-11, L510-1, L111-6, L431-1, R212-12, R212-70, R212-71, R212-31, R212-81
 
 	**Liens**:
 
@@ -8710,7 +8716,7 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 	**Modifié par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -8728,28 +8734,29 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 ###### Article R212-12
 
 En ce qui concerne les mutuelles et unions agréées pour pratiquer des opérations relevant des branches 1, 2, 15, 16 a et h,
-17 et 18 mentionnées à l'article R. 211-2, le montant réglementaire de la marge de solvabilité est déterminé soit par rapport
-au montant annuel des cotisations, soit par rapport à la charge moyenne annuelle des sinistres. Ce montant réglementaire est
-égal au plus élevé des résultats obtenus par application des deux méthodes suivantes :
+17 et 18 mentionnées à l'article R. 211-2, l'exigence minimale de marge de solvabilité est déterminée soit par rapport au
+montant annuel des cotisations, soit par rapport à la charge moyenne des sinistres pour les trois derniers exercices. Cette
+exigence minimale de marge est égale au plus élevé des résultats obtenus par application des deux méthodes suivantes :
 
 (a)) Première méthode (calcul par rapport aux cotisations) :
 
-Au total des cotisations émises en opérations directes au cours du dernier exercice, quel que soit l'exercice au titre duquel
-elles ont été émises, accessoires compris, sont ajoutées les cotisations acceptées en réassurance au cours du dernier
-exercice.
+La base des cotisations est calculée à partir des cotisations brutes émises ou des cotisations brutes acquises, le chiffre le
+plus élevé étant retenu. Au total des cotisations émises en opérations directes au cours du dernier exercice, quel que soit
+l'exercice au titre duquel elles ont été émises, accessoires compris, sont ajoutées les cotisations acceptées en réassurance
+au cours du dernier exercice.
 
 De cette somme sont déduits, d'une part, le total des cotisations annulées au cours du dernier exercice, d'autre part, le
 total des impôts et taxes afférents aux cotisations précitées.
 
-Le montant obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 10 millions d'euros A 18 % de la
+Le montant obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 50 millions d'euros A 18 % de la
 première tranche sont ajoutés 16 % de la seconde.
 
 Le résultat déterminé par application de la première méthode est obtenu en multipliant la somme des deux termes de l'addition
-prévue à l'alinéa précédent par le rapport existant, pour le dernier exercice, entre le montant des sinistres demeurant à
-charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce rapport
-puisse être inférieur à 50 %.
+prévue à l'alinéa précédent par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres
+demeurant à charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce
+rapport puisse être inférieur à 50 %.
 
-b) Deuxième méthode (calcul par rapport à la charge moyenne annuelle des sinistres) :
+b) Deuxième méthode (calcul par rapport à la charge moyenne des sinistres pour les trois derniers exercices) :
 
 Au total des sinistres payés pour les opérations directes au cours des trois derniers exercices, sans déduction des sinistres
 à la charge des cessionnaires et rétrocessionnaires, sont ajoutés, d'une part, les sinistres payés au titre des acceptations
@@ -8760,17 +8767,23 @@ De cette somme sont déduits, d'une part, les recours encaissés au cours des tr
 provisions pour prestations à payer constituées au commencement du deuxième exercice précédant le dernier exercice, tant pour
 les opérations directes que pour les acceptations en réassurance.
 
-Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 7 millions d'euros A
-26 % de la première tranche sont ajoutés 23 % de la seconde.
+Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 35 millions d'euros
+A 26 % de la première tranche sont ajoutés 23 % de la seconde.
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en multipliant la somme des deux termes de l'addition
-prévue à l'alinéa précédent par le rapport existant, pour le dernier exercice, entre le montant des sinistres demeurant à la
-charge de la mutuelle ou de l'union après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce
-rapport puisse être inférieur à 50 %.
+prévue à l'alinéa précédent par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres
+demeurant à la charge de la mutuelle ou de l'union après cession en réassurance et le montant des sinistres brut de
+réassurance, sans que ce rapport puisse être inférieur à 50 %.
 
 Pour les opérations relevant de la branche 18 mentionnée à l'article R. 211-2, le montant des sinistres payés entrant dans le
 calcul du résultat déterminé par application de la seconde méthode est le coût résultant pour la mutuelle ou l'union des
 interventions effectuées en matière d'assistance, y compris les coûts d'assistance directs internes.
+
+Si les calculs des a et b donnent un résultat inférieur à l'exigence de marge de l'exercice précédent, l'exigence de marge de
+solvabilité est au moins égale à celle de l'exercice précédent multipliée par le rapport entre les provisions techniques pour
+sinistres à payer à la fin du dernier exercice et le montant des provisions techniques à payer au début du dernier exercice.
+Dans ces calculs, les provisions techniques sont calculées déduction faite de la réassurance, le ratio ne pouvant jamais être
+supérieur à un.
 
 **Liens relatifs à cet article**
 
@@ -8782,10 +8795,9 @@ interventions effectuées en matière d'assistance, y compris les coûts d'assis
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -8800,37 +8812,41 @@ interventions effectuées en matière d'assistance, y compris les coûts d'assis
 ###### Article R212-13
 
 Le fonds de garantie des mutuelles et unions agréées pour pratiquer une ou plusieurs branches mentionnées aux 1, 2, 15, 16 (a
-et h), 17, 18 de l'article R. 211-2 est égal au tiers du montant réglementaire de la marge de solvabilité défini à l'article
-R. 212-12.
+et h), 17, 18 de l'article R. 211-2 est égal au tiers de l'exigence minimale de marge de solvabilité définie à l'article R.
+212-12.
 
 Ce fonds ne peut être inférieur au montant minimal suivant :
 
-300 000 Euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 15 de l'article
-R. 211-2 ;
+2,25 millions d'euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 15 de
+l'article R. 211-2 ;
 
-225 000 Euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 1, 2, 16 (a et
-h), 18 de l'article R. 211-2 ;
-
-150 000 Euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 17 de l'article
-R. 211-2.
+1,5 million d'euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 1, 2, 16
+(a et h), 17, 18 de l'article R. 211-2.
 
 Lorsqu'une mutuelle ou union est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en
 considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé.
+
+Les montants en euros mentionnés aux troisième et quatrième alinéas sont révisés annuellement en fonction de l'évolution de
+l'indice européen des prix à la consommation publié par Eurostat pour l'ensemble des Etats membres. Chaque année, la
+commission de contrôle communique les nouveaux montants en euros calculés en fonction de l'évolution de cet indice et
+arrondis au multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5
+%, ces montants ne sont pas révisés.
+
+Le fonds est constitué par les éléments mentionnés aux 1, 3, 4, 5, 7 et 8 de l'article R. 212-11.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R211-2, R212-12
+	  - Code de la mutualité (nouveau) R211-2, R212-12, R212-11
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -8839,8 +8855,8 @@ considération pour le calcul du fonds de garantie la branche à laquelle corres
 
 ###### Article R212-14
 
-Les montants minima prévus aux troisième à cinquième alinéas de l'article R. 212-13 ne sont pas applicables aux mutuelles et
-unions qui remplissent simultanément les conditions suivantes :
+Les montants minima prévus aux troisième et quatrième alinéas de l'article R. 212-13 ne sont pas applicables aux mutuelles et
+unions qui remplissent simultanément les conditions suivantes : 
 
 a) Leurs statuts prévoient la possibilité de procéder à des rappels de cotisations ou à des réductions de prestations ;
 lorsque les statuts de la mutuelle ou de l'union sont modifiés en application du quatrième alinéa de l'article R. 212-9, le
@@ -8848,97 +8864,17 @@ membre participant ou la personne morale souscriptrice du contrat collectif a, d
 modifications statutaires de la mutuelle ou de l'union, le droit de résilier le ou les bulletins d'adhésion et le ou les
 contrats collectifs souscrits. Dans ce cas, la faculté de résiliation ouverte au membre participant et à la personne morale
 souscriptrice du contrat collectif comporte restitution par la mutuelle ou l'union des portions de cotisation afférentes à la
-période pour laquelle les risques ne sont plus garantis ;
+période pour laquelle les risques ne sont plus garantis ; 
 
-b) Le montant annuel des cotisations émises, accessoires compris et annulations déduites, ne dépasse pas un million d'euros ;
+b) Le montant annuel des cotisations émises, accessoires compris et annulations déduites, ne dépasse pas cinq millions
+d'euros ; 
 
-c) Elles ne couvrent pas les risques relevant de la branche 15 mentionnée à l'article R. 211-2 ;
+c) Elles ne couvrent pas les risques relevant de la branche 15 mentionnée à l'article R. 211-2 ; 
 
 d) Lorsqu'elles pratiquent des opérations relevant du a, c, d du 1° du I de l'article L. 111-1, la moitié au moins de leurs
 cotisations est versée par leurs membres participants ou honoraires.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-13, R212-9, R211-2, L111-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Code de la mutualité - art. R212-1 (VD)
-	  - Code de la mutualité - art. R212-20 (VT)
-	  - Code de la mutualité - art. R212-9-1 (V)
-
-
-###### Article R212-15
-
-La marge de solvabilité mentionnée à l'article R. 212-10 relative aux mutuelles et unions agréées pour pratiquer des
-opérations relevant des branches 20 à 22 et 24 à 26 mentionnées à l'article R. 211-2 est constituée, après déduction des
-pertes, de la part des frais d'acquisition non admise en représentation des engagements réglementés et des autres éléments
-incorporels, par les éléments suivants :
-
-1. Le fonds d'établissement constitué ;
-
-2. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ;
-
-3. Le ou les emprunts pour fonds de développement ; toutefois, à partir de la moitié de la durée de l'emprunt, celui-ci ne
-sera retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant égal
-au double du montant total de cet emprunt divisé par le nombre d'années de sa durée ;
-
-4. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
-de capitalisation ;
-
-5. Les excédents reportés ;
-
-6. Sur demande et justification de la mutuelle ou de l'union et avec l'accord de la commission de contrôle mentionnée à
-l'article L. 510-1 :
-
-a) Un montant représentant 50 % des excédents futurs de la mutuelle ou l'union. Le montant des excédents futurs est obtenu en
-multipliant le bénéficie annuel estimé de la mutuelle ou de l'union par le facteur qui représente la durée résiduelle moyenne
-des garanties prévues dans les bulletins d'adhésion ou contrats collectifs.
-
-Un arrêté du ministre chargé de la mutualité fixe les modalités de calcul du facteur mentionné à l'alinéa précédent ainsi que
-les éléments constitutifs du bénéfice annuel estimé ;
-
-b) Avec l'accord des autorités de contrôle des Etats membres de la Communauté européenne ou d'un Etat partie à l'accord sur
-l'Espace économique européen où la mutuelle ou l'union exerce son activité, les plus-values pouvant résulter de la sous-
-estimation d'éléments d'actif et de la surestimation d'éléments de passif autres que les provisions mathématiques, dans la
-mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
-
-7. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés ; ces titres et emprunts
-doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de la
-mutualité ; la prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de la marge de solvabilité prévue au
-présent article ; toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée
-n'est admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux
-dispositions de l'article L. 510-11 du présent code, donner lieu à application de sanctions par la commission de contrôle
-mentionnée à l'article L. 510-1 ;
-
-8. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
-mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie ;
-
-9. Sur demande et justification de la mutuelle ou union et avec l'accord de la commission de contrôle mentionnée à l'article
-L. 510-1, les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71, dès
-lors que les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R.
-212-31 ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81.
-
-Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 6 (b)
-et au 9.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-10, R211-2, L510-1, L510-11, L111-6, L431-1, R212-70, R212-71, R212-31, R212-81
 
 	**Liens**:
 
@@ -8946,7 +8882,93 @@ et au 9.
 
 	**Modifié par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code de la mutualité - art. R212-1 (VD)
+	  - Code de la mutualité - art. R212-20 (VT)
+	  - Code de la mutualité - art. R212-9-1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. R211-2
+	  - Code de la mutualité - art. R212-13 (VT)
+	  - Code de la mutualité - art. R212-9
+
+
+###### Article R212-15
+
+I. - La marge de solvabilité mentionnée à l'article R. 212-10 des mutuelles et unions agréées pour pratiquer des opérations
+relevant des branches 20 à 22 et 24 à 26 mentionnées à l'article R. 211-2 est constituée, après déduction des pertes, de la
+part des frais d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par
+les éléments suivants :
+
+1. Le fonds d'établissement constitué ;
+
+2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
+de capitalisation ;
+
+3. Les excédents reportés ;
+
+4. Le ou les emprunts pour fonds de développement ; toutefois, à partir de la moitié de la durée d'un emprunt, celui-ci n'est
+retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant égal au
+double du montant total de cet emprunt divisé par le nombre d'années de sa durée.
+
+II. - La marge de solvabilité peut également être constituée par :
+
+1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés.
+
+Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du
+ministre chargé de la mutualité. La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de la marge de
+solvabilité prévue au présent article. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
+emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
+peut, conformément aux dispositions de l'article L. 510-11, donner lieu à application de sanctions par la commission de
+contrôle mentionnée à l'article L. 510-1 ;
+
+2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
+mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie.
+
+III. - Sur demande et justification de la mutuelle ou de l'union et avec l'accord de la commission de contrôle mentionnée à
+l'article L. 510-1, la marge de solvabilité peut également être constituée par :
+
+1. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ;
+
+2. Avec l'accord des autorités de contrôle des Etats membres de la Communauté européenne ou d'un Etat partie à l'accord sur
+l'Espace économique européen où la mutuelle ou l'union exerce son activité, les plus-values pouvant résulter de la sous-
+estimation d'éléments d'actif et de la surestimation d'éléments de passif autres que les provisions mathématiques, dans la
+mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
+
+3. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71, dès lors
+que les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 212-31
+ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81 ;
+
+4. Jusqu'au 31 décembre 2009, un montant représentant 50 % des excédents futurs de la mutuelle ou l'union, mais n'excédant
+pas 25 % du montant le plus faible de la marge de solvabilité disponible ou de l'exigence de marge de solvabilité. Le montant
+des excédents futurs est obtenu en multipliant le bénéfice annuel estimé de la mutuelle ou de l'union par le facteur qui
+représente la durée résiduelle moyenne des garanties prévues dans les bulletins d'adhésion ou contrats collectifs.
+
+Un arrêté du ministre chargé de la mutualité fixe les modalités de calcul du facteur mentionné à l'alinéa précédent ainsi que
+les éléments constitutifs du bénéfice annuel estimé.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés aux 3 et 4
+du III.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-10, R211-2, L510-11, L510-1, L111-6, L431-1, R212-70, R212-71, R212-31, R212-81
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -8958,17 +8980,21 @@ et au 9.
 	  - Code de la mutualité - art. R212-20-1 (M)
 	  - Code de la mutualité - art. R432-16 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
+
 
 ###### Article R212-16
 
 En ce qui concerne les mutuelles ou les unions agréées pour pratiquer les branches mentionnées aux 20 à 22 et 24 à 26 de
-l'article R. 211-2, le montant minimal réglementaire de la marge de solvabilité est déterminé, en fonction des branches
-exercées, en application des dispositions suivantes :
+l'article R. 211-2, l'exigence minimale de marge de solvabilité est déterminée en fonction des branches exercées, en
+application des dispositions suivantes :
 
 a) Pour les branches 20 et 21, à l'exception des garanties complémentaires :
 
-Le montant minimal réglementaire de la marge est calculé par rapport aux provisions mentionnées aux 1° et 4° de l'article R.
-212-26 et aux capitaux sous risque. Ce montant est égal à la somme de deux résultats suivants :
+L'exigence minimale de marge est calculée par rapport aux provisions mentionnées aux 1° et 4° de l'article R. 212-26 et aux
+capitaux sous risque. Ce montant est égal à la somme de deux résultats suivants :
 
 Le "premier résultat" est obtenu en multipliant un nombre représentant 4 % de la somme des provisions mentionnées aux 1° et
 4° de l'article R. 212-26 relatives aux opérations directes sans déduction des cessions en réassurance et aux acceptations en
@@ -8989,7 +9015,7 @@ Le capital sous risque est égal au risque décès, déduction faite de la provi
 b) Pour les garanties complémentaires relatives à des bulletins d'adhésion ou contrats collectifs comportant des engagements
 résultant d'opérations classées aux branches 20 à 22 :
 
-Le montant minimal réglementaire de la marge est égal au résultat obtenu par application de la méthode suivante :
+L'exigence minimale de marge est égale au résultat obtenu par application de la méthode suivante :
 
 Au total des cotisations émises en opérations directes au cours du dernier exercice, quel que soit l'exercice au titre duquel
 elles ont été émises, accessoires compris, sont ajoutées les cotisations acceptées en réassurance au cours du dernier
@@ -9005,34 +9031,39 @@ La somme des deux termes prévus à l'alinéa précédent est multipliée par le
 le montant des sinistres demeurant à la charge de la mutuelle ou union après cession et rétrocession en réassurance et le
 montant des sinistres brut de réassurance, sans que ce rapport puisse être inférieur à 50 % ;
 
-c) Pour la branche 24, à l'exception des opérations de capitalisation exprimées en unités de compte, le montant minimal
-réglementaire de la marge est égal au résultat obtenu en multipliant un nombre représentant 4 % de la somme des provisions
-mentionnées aux 1° et 4° de l'article R. 212-26 relatives aux opérations directes et aux acceptations brutes de réassurance
-par le rapport mentionné au "premier résultat" défini au a du présent article ;
+c) Pour la branche 24, à l'exception des opérations de capitalisation exprimées en unités de compte, l'exigence minimale de
+marge est égale au résultat obtenu en multipliant un nombre représentant 4 % de la somme des provisions mentionnées aux 1° et
+4° de l'article R. 212-26 relatives aux opérations directes et aux acceptations brutes de réassurance par le rapport
+mentionné au "premier résultat" défini au a du présent article ;
 
 d) Pour la branche 22, à l'exception des garanties complémentaires, la branche 24 lorsqu'il s'agit des opérations de
-capitalisation exprimées en unités de compte, et la branche 25, le montant minimal réglementaire de la marge est égal :
+capitalisation exprimées en unités de compte, et la branche 25, l'exigence minimale de marge est égale :
 
 - lorsque la mutuelle ou l'union assume un risque de placement, à un nombre représentant 4 % des provisions techniques
 relatives aux opérations d'assurances directes et d'acceptations brutes de réassurance multiplié par le rapport mentionné au
 "premier résultat" défini au a du présent article ;
 
-- lorsque la mutuelle ou l'union n'assume pas de risque de placement, à un nombre représentant 1 % des provisions techniques
-relatives aux opérations directes et aux acceptations brutes de réassurance multiplié par le rapport mentionné au premier
-résultat du a du présent article, à la condition que la durée du bulletin d'adhésion ou du contrat collectif soit supérieure
-à cinq années et que le montant destiné à couvrir les frais de gestion prévus dans le bulletin d'adhésion ou le contrat
-collectif soit fixé pour une période supérieure à cinq années ;
+- lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque le montant destiné à couvrir des frais de
+gestion est fixé pour une période supérieure à cinq ans, à un nombre représentant 1 % des provisions techniques relatives aux
+opérations directes et aux acceptations brutes de réassurance multiplié par le rapport mentionné au premier résultat du a du
+présent article, à la condition que la durée du bulletin d'adhésion ou du contrat collectif soit supérieure à cinq années et
+que le montant destiné à couvrir les frais de gestion prévus dans le bulletin d'adhésion ou le contrat collectif soit fixé
+pour une période supérieure à cinq années ;
 
-- lorsque la mutuelle ou l'union assume un risque de mortalité, le montant réglementaire de la marge est obtenu en ajoutant à
-l'un ou l'autre des résultats déterminés par application des dispositions des deux alinéas précédents un nombre représentant
-0,3 % des capitaux sous risque, multiplié par le rapport existant, pour le dernier exercice, entre le montant des capitaux
-sous risque après cessions et rétrocessions en réassurance et le montant des capitaux sous risque brut de réassurance, sans
-que ce rapport puisse être inférieur à 50 % ;
+- lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque le montant destiné à couvrir des frais de
+gestion n'est pas fixé pour une période supérieure à cinq ans, à un nombre représentant 25 % des dépenses de gestion nettes
+relatives à ces opérations pour le dernier exercice ;
+
+- lorsque la mutuelle ou l'union assume un risque de mortalité, l'exigence minimale de marge est obtenue en ajoutant à l'un
+ou l'autre des résultats déterminés par application des dispositions des deux alinéas précédents un nombre représentant 0,3 %
+des capitaux sous risque, multiplié par le rapport existant, pour le dernier exercice, entre le montant des capitaux sous
+risque après cessions et rétrocessions en réassurance et le montant des capitaux sous risque brut de réassurance, sans que ce
+rapport puisse être inférieur à 50 % ;
 
 e) Pour la branche 26 :
 
-Le montant minimal de la marge est égal à un nombre représentant 4 % de la provision technique spéciale mentionnée à
-l'article R. 222-8, dans la limite de la provision mathématique théorique mentionnée à l'article R. 222-16.
+L'exigence minimale de marge est égale à un nombre représentant 4 % de la provision technique spéciale mentionnée à l'article
+R. 222-8, dans la limite de la provision mathématique théorique mentionnée à l'article R. 222-16.
 
 **Liens relatifs à cet article**
 
@@ -9044,10 +9075,9 @@ l'article R. 222-8, dans la limite de la provision mathématique théorique ment
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -9061,14 +9091,17 @@ l'article R. 222-8, dans la limite de la provision mathématique théorique ment
 ###### Article R212-17
 
 Le fonds de garantie des mutuelles ou unions agréées pour pratiquer des opérations relevant d'une ou plusieurs des branches
-mentionnées aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égal au tiers du montant réglementaire de la marge de
-solvabilité défini à l'article R. 212-16.
+mentionnées aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égal au tiers de l'exigence minimale de marge de solvabilité
+définie à l'article R. 212-16.
 
-Ce fonds ne peut être inférieur à 600 000 Euros.
+Ce fonds ne peut être inférieur à 2,25 millions d'euros. Ce montant est révisé annuellement en fonction de l'évolution de
+l'indice européen des prix à la consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque année, la
+commission de contrôle communique le nouveau montant en euros calculé en fonction de l'évolution de cet indice et arrondi au
+multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ce
+montant n'est pas révisé.
 
-A concurrence du seuil mentionné au deuxième alinéa ou de la moitié du fonds, si cette moitié est supérieure audit seuil ou
-lorsque celui-ci n'est pas applicable, le fonds est constitué par les éléments mentionnés à l'article R. 212-15, à
-l'exception de ceux mentionnés au 6° dudit article.
+Le fonds est constitué par les éléments mentionnés à l'article R. 212-15, à l'exception de ceux mentionnés au 2° et au 6° (a)
+dudit article.
 
 Le deuxième alinéa du présent article n'est pas applicable aux mutuelles qui :
 
@@ -9085,7 +9118,8 @@ contrats collectifs souscrits. Dans ce cas, la faculté de résiliation ouverte 
 souscriptrice du contrat collectif comporte restitution par la mutuelle ou l'union des portions de cotisation afférentes à la
 période pour laquelle les risques ne sont plus garantis ;
 
-Le montant des cotisations émises, accessoires compris et annulations déduites, ne dépasse pas 500 000 Euros annuellement.
+Le montant des cotisations émises, accessoires compris et annulations déduites, ne dépasse pas 5 millions d'euros
+annuellement.
 
 **Liens relatifs à cet article**
 
@@ -9097,10 +9131,9 @@ Le montant des cotisations émises, accessoires compris et annulations déduites
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -9142,8 +9175,8 @@ Les moins-values latentes sur instruments financiers à terme non provisionnées
 
 ###### Article R212-19
 
-Le montant minimal de la marge de solvabilité des mutuelles ou unions agréées pour pratiquer simultanément au moins deux ou
-plusieurs branches mentionnées soit aux 1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égal à la somme des
+L'exigence minimale de marge de solvabilité des mutuelles ou unions agréées pour pratiquer simultanément au moins deux ou
+plusieurs branches mentionnées soit aux 1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égale à la somme des
 deux éléments ci-après, dénommés respectivement fraction non-vie et fraction vie.
 
 Le montant minimal de la fraction non-vie est calculé dans les conditions définies à l'article R. 212-12, sur la base des
@@ -9164,32 +9197,34 @@ directes et aux acceptations relevant des branches 20 à 22 et 24 à 26 de l'art
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. R212-18 (VT)
 	  - Code de la mutualité - art. R212-20 (VT)
-	  - Code de la mutualité - art. R212-9-1 (V)
+	  - Code de la mutualité - art. R212-9-1 (VD)
 	  - Code de la mutualité - art. R510-3-1 (VT)
 
 
 ###### Article R212-20
 
 Le fonds de garantie des mutuelles ou unions agréées pour pratiquer simultanément au moins deux ou plusieurs branches
-mentionnées soit aux 1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2, est égal au tiers du montant réglementaire
-minimal de la marge de solvabilité défini à l'article R. 212-19, sans pouvoir être inférieur au seuil défini au deuxième
-alinéa de l'article R. 212-17.
+mentionnées soit aux 1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2, est égal au tiers de l'exigence minimale de
+marge de solvabilité définie à l'article R. 212-19, sans pouvoir être inférieur au seuil défini au deuxième alinéa de
+l'article R. 212-17.
 
 Par dérogation aux dispositions de l'alinéa précédent, le montant minimal défini au deuxième alinéa de l'article R. 212-17
 n'est pas applicable aux mutuelles répondant cumulativement aux conditions définies à l'article R. 212-14 et aux trois
 derniers alinéas de l'article R. 212-17.
 
-A concurrence de ce seuil ou de la moitié du fonds si cette moitié est supérieure audit seuil, le fonds est constitué par les
-éléments mentionnés aux 1, 2, 3, 4 et 7 de l'article R. 212-15.
+Le fonds est constitué par les éléments mentionnés aux 1, 3, 4 et 7 de l'article R. 212-15.
 
 **Liens relatifs à cet article**
 
@@ -9201,10 +9236,9 @@ A concurrence de ce seuil ou de la moitié du fonds si cette moitié est supéri
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -9328,9 +9362,9 @@ l'union et par les membres participants ou les souscripteurs de contrats collect
 réassurance et égale à la différence entre les valeurs actuelles des engagements respectivement pris l'un envers l'autre par
 le réassureur et le cédant ;
 
-8° Provision pour risque d'exigibilité des engagements techniques : provision destinée à faire face à une insuffisante
-liquidité des placements, notamment en cas de modification du rythme de règlement des sinistres, calculée dans les conditions
-définies au premier alinéa de l'article R. 212-24 ;
+8° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
+l'ensemble des actifs mentionnés à l'article R. 212-53. La provision à constituer est calculée dans les conditions définies
+au I de l'article R. 212-24 ;
 
 9° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
 collectives couvrant les risques de dommages corporels.
@@ -9341,43 +9375,7 @@ Un arrêté du ministre chargé de la mutualité fixe, en tant que de besoin, le
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R211-2, R212-24
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 5 () JORF 4 mai 2002
-
-
-###### Article R212-24
-
-La provision pour risque d'exigibilité des engagements techniques doit être constituée lorsque la valeur globale inscrite au
-bilan des placements visés à l'article R. 212-53 est supérieure à la valeur globale de ces mêmes placements évalués selon les
-règles prévues à l'article R. 212-54. La provision à constituer est égale à la différence constatée entre les deux
-évaluations. La commission de contrôle mentionnée à l'article L. 510-1 peut, à titre exceptionnel et en imposant toutes les
-conditions que comporte un tel ajournement, accorder aux mutuelles et unions dont la gestion n'est entachée d'aucune faute
-lourde le délai strictement nécessaire pour constituer cette provision.
-
-Pour le calcul mentionné à l'alinéa précédent, les valeurs déterminées selon l'article R. 212-54 prennent en compte les
-moins-values latentes des opérations sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72 ayant
-comme sous-jacent les actifs mentionnés à l'article R. 212-53. Ces moins-values latentes sont prises en compte à hauteur de
-la partie excédant la valeur des titres ou espèces donnés en garantie.
-
-Les plus-values latentes ne sont prises en compte que si elles sont garanties dans les conditions prévues à l'article R.
-212-81.
-
-La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais d'acquisition
-reportés en application des dispositions de l'article R. 212-59.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-53, R212-54, L510-1, R212-70 à R212-72, R212-81, R212-59
+	  - Code de la mutualité (nouveau) R211-2, R212-53, R212-24
 
 	**Liens**:
 
@@ -9385,7 +9383,48 @@ reportés en application des dispositions de l'article R. 212-59.
 
 	**Modifié par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
+	  - Décret n°2004-486 du 28 mai 2004 - art. 2 () JORF 5 juin 2004
+
+
+###### Article R212-24
+
+I. - La provision pour risque d'exigibilité est constituée lorsque les placements mentionnés à l'article R. 212-53 se
+trouvent en situation de moins-value latente nette globale. Une moins-value latente nette globale des placements mentionnés à
+l'article R. 212-53 est constatée lorsque la valeur nette comptable de ces placements est supérieure à la valeur globale de
+ces mêmes placements évalués selon les règles prévues à l'article R. 212-54.
+
+1° Lorsque la mutuelle ou l'union, avant dotation à la provision pour risque d'exigibilité, satisfait à la représentation de
+ses engagements réglementés et à la couverture de l'exigence minimale de marge de solvabilité, la dotation annuelle à la
+provision pour risque d'exigibilité au titre de l'exercice est égale au tiers du montant de la moins-value latente nette
+globale constatée sur les placements mentionnés à l'article R. 212-53, sans que cette dotation puisse conduire à ce que le
+montant total de la provision inscrite au bilan excède le montant de la moins-value latente nette globale constatée sur les
+placements mentionnés à l'article R.  212-53.
+
+2° Dans les autres cas, la provision pour risque d'exigibilité inscrite au bilan au titre de l'exercice est égale à la moins-
+value latente nette globale constatée sur les placements mentionnés à l'article R. 212-53.
+
+Pour les calculs mentionnés aux alinéas précédents, les valeurs déterminées selon l'article R. 212-54 prennent en compte les
+moins-values latentes des opérations sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72 ayant
+comme sous-jacent les actifs mentionnés à l'article R. 212-53. Ces moins-values latentes sont prises en compte à hauteur de
+la partie excédant la valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en compte que
+si elles sont garanties dans les conditions prévues à l'article R. 212-81.
+
+II. - La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais
+d'acquisitions reportés en application des dispositions de l'article R. 212-59.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-53, R212-54, R212-70 à R212-72, R212-81, R212-59, R212-26, R212-24, R212-27, R212-27-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Décret n°2004-486 du 28 mai 2004 - art. 2 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -9453,9 +9492,9 @@ collectifs non couvertes par ailleurs ;
 
 5° Provision pour aléas financiers : destinée à compenser la baisse de rendement de l'actif ;
 
-6° Provision pour risque d'exigibilité des engagements techniques : provision destinée à faire face à une insuffisante
-liquidité des placements, notamment en cas de modification du rythme de règlement des sinistres, calculée dans les conditions
-définies au premier alinéa de l'article R. 212-24 ;
+6° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
+l'ensemble des actifs mentionnés à l'article R. 212-53. La provision à constituer est calculée dans les conditions définies
+au I de l'article R. 212-24 ;
 
 7° Provision pour frais d'acquisition reportés : provision destinée à couvrir les charges résultant du report des frais
 d'acquisition constaté en application de l'article R. 212-59 ;
@@ -9473,11 +9512,6 @@ Un arrêté du ministre chargé de la mutualité fixe en tant que de besoin les 
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 5 () JORF 4 mai 2002
-
 	**Cité par**:
 
 	  - Décret n°2004-342 du 21 avril 2004 - art. 27 (Ab)
@@ -9493,7 +9527,11 @@ Un arrêté du ministre chargé de la mutualité fixe en tant que de besoin les 
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-24, R212-59
+	  - Code de la mutualité (nouveau) R212-24, R212-53, R212-59
+
+	**Modifié par**:
+
+	  - Décret n°2004-486 du 28 mai 2004 - art. 2 () JORF 5 juin 2004
 
 
 ###### Article R212-27
@@ -9524,6 +9562,36 @@ garantie qui en est l'objet principal.
 	**Cité par**:
 
 	  - Code de la mutualité - art. R510-19 (VD)
+
+
+###### Article R212-27-1
+
+Les mutuelles et unions effectuent chaque année avant l'arrêté des comptes un test d'exigibilité destiné à évaluer leur
+capacité à faire face à leurs engagements à l'égard des membres participants, bénéficiaires et ayants droit dans des
+conditions détériorées de marché. Les modalités de ce test sont fixées par arrêté du ministre chargé de la mutualité.
+
+Les résultats de ce test sont communiqués à la commission de contrôle mentionnée à l'article L. 510-1 à une date fixée par
+arrêté du ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-486 du 28 mai 2004 - art. 2 () JORF 5 juin 2004
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A114-8 (Ab)
+	  - Code de la mutualité - art. R510-3-1 (VT)
+	  - Code de la mutualité - art. R510-3-1-2 (VT)
 
 
 ##### Section 5 : Réglementation des placements et autres éléments d'actifs.
@@ -13307,9 +13375,23 @@ doit être tenu informé en permanence de l'élaboration du programme de rétabl
 financement à court terme éventuellement exigé par la commission, se fait rendre compte de la mise en oeuvre des décisions et
 mesures et veille à leur exécution.
 
-II. - Lorsque la gestion de la mutuelle ou de l'union ne lui paraît pas conforme aux intérêts des membres participants,
-bénéficiaires et ayants droit de ceux-ci, la commission de contrôle peut exiger que lui soit soumis pour approbation, dans le
-délai d'un mois, un programme de rétablissement prévoyant toutes mesures propres à rétablir l'équilibre de celle-ci.
+II. - Lorsqu'elle estime que les droits des membres participants, bénéficiaires et ayants droit sont menacés, la commission
+de contrôle peut exiger que lui soit soumis pour approbation, dans le délai d'un mois, un programme de rétablissement
+prévoyant toutes mesures propres à restaurer l'équilibre de la mutuelle ou union. Ce programme de rétablissement doit
+notamment comporter, pour les trois prochains exercices sociaux, une description détaillée des éléments suivants, et les
+justificatifs s'y rapportant :
+
+a) Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ;
+
+b) Un plan détaillant les prévisions de recettes et de dépenses, tant pour les affaires directes que pour les acceptations en
+réassurance et les cessions en réassurance ;
+
+c) Un bilan prévisionnel ;
+
+d) Une estimation des ressources financières devant servir à la couverture des engagements et de l'exigence de marge de
+solvabilité ;
+
+e) La politique générale en matière de réassurance.
 
 **Liens relatifs à cet article**
 
@@ -13322,9 +13404,9 @@ délai d'un mois, un programme de rétablissement prévoyant toutes mesures prop
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2004-486 du 28 mai 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -13334,6 +13416,60 @@ délai d'un mois, un programme de rétablissement prévoyant toutes mesures prop
 	  - Code de la mutualité - art. R510-3-3 (VT)
 	  - Code de la mutualité - art. R510-3-4 (VT)
 	  - Code de la mutualité - art. R510-7 (Ab)
+
+
+###### Article R510-3-1
+
+I. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 510-3, la commission de
+contrôle peut exiger d'une mutuelle ou union une marge de solvabilité renforcée, supérieure à l'exigence minimale de marge
+mentionnée ou bien à l'article R. 212-12, ou bien à l'article R. 212-16, ou bien à l'article R. 212-19.
+
+Le niveau de cette exigence de marge de solvabilité renforcée est déterminé par la commission de contrôle selon les modalités
+suivantes :
+
+a) Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité ont connu une baisse d'au moins 33 % au
+cours du dernier exercice clos par rapport à la moyenne de ces éléments constitutifs de la marge constatée au cours des
+quatre exercices précédant le dernier exercice, la commission peut demander à la mutuelle ou union de satisfaire, pour
+l'exercice en cours, à une exigence de marge de solvabilité renforcée.
+
+Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double de l'exigence minimale de marge
+mentionnée aux articles R. 212-12, R. 212-16 ou R. 212-19.
+
+b) Lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un risque de
+solvabilité, la commission peut :
+
+- ou bien demander à la mutuelle ou union de satisfaire, pour l'exercice en cours, à une exigence de marge de solvabilité
+renforcée. Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double de l'exigence minimale
+de marge mentionnée aux articles R. 212-12, R. 212-16 ou R. 212-19 ;
+
+- ou bien demander à la mutuelle ou union de déduire des éléments constitutifs de la marge de solvabilité tout ou partie du
+montant de la moins-value latente nette globale constatée sur les placements mentionnés à l'article R. 212-52 ;
+
+- ou bien demander à la mutuelle ou union de déduire tout ou partie du montant de la moins-value latente nette globale
+constatée sur les actifs mentionnés à l'article R. 212-53 et non provisionné par la provision pour risque d'exigibilité ;
+
+- ou bien mettre en oeuvre de manière appropriée une combinaison des mesures précédentes.
+
+II. - Après que lui a été communiqué le programme de rétablissement mentionné au II de l'article R. 510-3, la commission de
+contrôle peut limiter la réduction de marge de solvabilité prévue aux articles R. 212-12, R. 212-16 ou R. 212-19 lorsque :
+
+- le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ;
+
+- ou lorsque le programme de réassurance ne prévoit aucun transfert de risques, ou un transfert insignifiant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R510-3, R212-12, R212-16, R212-19, R212-27-1, R212-52, R212-53
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-486 du 28 mai 2004 - art. 3 () JORF 5 juin 2004
 
 
 ###### Article R510-4

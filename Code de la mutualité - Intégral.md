@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-08-31
 
 # Partie législative
 
@@ -256,6 +256,56 @@ participé ne peuvent remettre en cause les exigences de solvabilité définies 
 	**Cite**:
 
 	  - Code de la mutualité - art. L212-1 (V)
+
+
+###### Article L111-4-1
+
+Les statuts d'une union peuvent prévoir l'ouverture de cette union à des organismes relevant des catégories suivantes :
+
+1° Institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ou par l'article L. 727-2 du
+code rural ;
+
+2° Sociétés d'assurances mutuelles relevant du code des assurances ;
+
+3° Autres organismes d'assurance à forme mutuelle ou coopérative ou à gestion paritaire dont le siège est situé dans un Etat
+membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
+
+Dans un tel cas, l'union est dénommée union de groupe mutualiste.
+
+Pour l'application du premier alinéa, est considéré comme organisme assureur à gestion paritaire tout organisme assureur dont
+le conseil d'administration ou l'organe assimilé prend ses décisions par la voie de délibérations de représentants des
+employeurs et de représentants des salariés.
+
+L'union de groupe mutualiste a pour objet de faciliter et développer, en les coordonnant, les activités de ses membres qui
+demeurent, pour chacun d'entre eux, directement responsables de la garantie de leurs engagements. En aucun cas, les unions de
+groupe mutualiste ne peuvent pratiquer des opérations d'assurance ou de réassurance.
+
+Les liens entre l'union de groupe mutualiste et les organismes adhérents sont définis par une convention. Une mutuelle ou
+union ne peut adhérer à une union de groupe mutualiste que si ses statuts en prévoient expressément la possibilité. Les
+mutuelles et unions relevant du présent code disposent d'au moins la moitié des sièges à l'assemblée générale et au conseil
+d'administration. Toute clause contraire des statuts entraîne la nullité de la constitution de l'union de groupe mutualiste.
+
+Les conditions de fonctionnement de l'union de groupe mutualiste sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
+	  - Code de la sécurité sociale. - art. L931-2-1 (V)
+	  - Code des assurances - art. L322-1-5 (M)
+
+	**Cite**:
+
+	  - Code rural L727-2
 
 
 ###### Article L111-5
@@ -2441,7 +2491,7 @@ substitués à d'autres sont tenus d'informer la commission de contrôle au plus
 résiliation de la convention.
 
 A compter de l'entrée en vigueur de la convention, les mutuelles et unions auxquelles un autre organisme s'est substitué ne
-sont pas soumises aux dispositions des articles L. 212-1, L. 212-2, L. 212-3 et L. 212-15 à L. 212-22.
+sont pas soumises aux dispositions des articles L. 212-1, L. 212-3 et L. 212-15 à L. 212-22.
 
 Elles sont également dispensées de nommer un commissaire aux comptes lorsque la mutuelle ou l'union avec laquelle elles ont
 passé convention établit leurs comptes annuels. Dans ce cas, le commissaire aux comptes de l'organisme qui s'est substitué à
@@ -2496,16 +2546,19 @@ passibles des peines prévues à l'article L. 510-11.
 	  - Code de la mutualité - art. R432-13 (VD)
 	  - Code des assurances - art. R144-23 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+
 	**Cite**:
 
 	  - Code de la mutualité - art. L111-1 (Ab)
 	  - Code de la mutualité - art. L212-1 (V)
 	  - Code de la mutualité - art. L212-11 (M)
-	  - Code de la mutualité - art. L212-2 (Ab)
 	  - Code de la mutualité - art. L212-3 (M)
 	  - Code de la mutualité - art. L510-1 (M)
 	  - Code de la mutualité - art. L510-11 (M)
-	  - Code de la mutualité L111-1, L510-1, L212-1, L212-2, L212-3, L212-15 à L212-22, L212-11, L510-11
+	  - Code de la mutualité L111-1, L510-1, L212-1, L212-3, L212-15 à L212-22, L212-11, L510-11
 
 
 ###### Article L211-6
@@ -2677,13 +2730,19 @@ le retirer conformément à l'article L. 211-9 ;
 3° Les exigences supplémentaires qu'il convient d'instaurer pour l'application des dispositions du présent chapitre aux
 mutuelles et aux unions pratiquant à la fois des opérations mentionnées aux a et b du 1° du I de l'article L. 111-1, en vue
 notamment d'assurer une gestion distincte, pour la protection des intérêts de leurs membres participants et bénéficiaires, de
-chacune des deux catégories d'opérations.
+chacune des deux catégories d'opérations ;
+
+4° Les conditions du contrôle interne des mutuelles et unions régies par les dispositions du présent livre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 	**Cite**:
 
@@ -2756,36 +2815,6 @@ mutuelles, ainsi que sur leurs dispositions statutaires.
 	**Cite**:
 
 	  - Code de la mutualité - art. L111-1 (Ab)
-
-
-###### Article L212-2
-
-Les règles de calcul de la marge de solvabilité que doivent respecter les mutuelles et les unions qui sont soumises à
-l'obligation d'établir des comptes combinés ou consolidés conformément aux dispositions de l'article L. 212-7 sont
-déterminées par arrêté du ministre chargé de la mutualité.
-
-Lorsqu'il est fait usage de la dispense prévue à l'article L. 233-24 du code de commerce, la marge de solvabilité est
-calculée à partir des éléments des comptes combinés ou consolidés que ces mutuelles et unions auraient présentés si elles
-n'avaient pas fait usage de la dispense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-24 (M)
-	  - Code de la mutualité - art. L212-7 (M)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L211-5 (M)
 
 
 ###### Article L212-3
@@ -2959,6 +2988,152 @@ deuxième alinéa de l'article L. 225-235 du code de commerce.
 
 	  - Code de commerce. - art. L225-235 (M)
 	  - Code rural L727-2
+
+
+###### Article L212-7-1
+
+Pour l'application des dispositions législatives et réglementaires relatives à la solvabilité des mutuelles et unions
+soumises au livre II et à la surveillance complémentaire instituée à l'article L. 212-7-2 :
+
+1° L'expression : "organisme de référence" désigne un organisme ayant une activité économique qui contrôle de manière
+exclusive un autre organisme au sens du II de l'article L. 233-16 du code de commerce ou qui exerce une influence dominante
+sur un autre organisme ayant une activité économique à raison de l'existence de liens de solidarité importants et durables
+résultant d'engagements financiers ou de dirigeants ou de services communs. Ce second organisme est dénommé "organisme
+subordonné". Tout organisme subordonné d'un organisme subordonné est considéré comme subordonné à l'organisme de référence ;
+
+2° L'expression : "participation" désigne le fait de détenir, directement ou indirectement, 20 % ou plus des droits de vote
+ou du capital d'un organisme ;
+
+3° L'expression : "organisme participant" désigne un organisme de référence au sens du 1° du présent article ou un organisme
+qui détient une participation dans un organisme. L'organisme subordonné ou celui dans lequel la participation est détenue est
+dénommé "organisme affilié" ;
+
+4° L'expression : "organisme apparenté" désigne tout organisme affilié, participant ou affilié d'un organisme participant
+d'un organisme ;
+
+5° L'expression : "organisme assureur" désigne toute mutuelle ou union relevant du présent livre, institution de prévoyance
+régie par le titre III du livre IX du code de la sécurité sociale ou par l'article L. 727-2 du code rural, ou entreprise
+d'assurance ou de réassurance régie par le code des assurances, ainsi que les entreprises d'assurance et de réassurance dont
+le siège est situé hors de France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+
+	**Cité par**:
+
+	  - Décret n°2011-769 du 28 juin 2011 - art. 2
+	  - Code de la mutualité - art. L111-4-2 (V)
+	  - Code de la mutualité - art. L114-21 (V)
+	  - Code de la mutualité - art. L212-3-1 (MMN)
+	  - Code de la mutualité - art. L212-7-5 (Ab)
+	  - Code de la mutualité - art. L212-7-7 (Ab)
+	  - Code de la mutualité - art. L510-11 (Ab)
+	  - Code de la mutualité - art. R211-5-2 (VD)
+	  - Code de la mutualité - art. R211-7-1 (VT)
+	  - Code de la mutualité - art. R212-11 (VD)
+	  - Code de la mutualité - art. R212-15 (VT)
+	  - Code de la mutualité - art. R213-4 (V)
+	  - Code de la mutualité - art. R213-5 (V)
+	  - Code monétaire et financier - art. L511-34 (VT)
+	  - Code monétaire et financier - art. L517-3 (V)
+	  - Code monétaire et financier - art. L561-20 (VD)
+	  - Code monétaire et financier - art. L612-27 (V)
+	  - Code monétaire et financier - art. L612-36 (V)
+	  - Code monétaire et financier - art. R561-28 (VD)
+	  - Code monétaire et financier - art. R612-37 (VD)
+	  - Code monétaire et financier - art. R612-38 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-16 (M)
+	  - Code de la mutualité - art. L212-7-2 (M)
+	  - Code rural L727-2
+
+
+###### Article L212-7-2
+
+Les mutuelles ou unions régies par les dispositions du présent livre et apparentées à au moins un autre organisme assureur ou
+subordonnées à un organisme ayant une activité économique font l'objet d'une surveillance complémentaire de leur situation
+financière par la commission de contrôle mentionnée à l'article L. 510-1.
+
+La surveillance complémentaire tient compte des organismes qui sont apparentés à la mutuelle ou à l'union. La commission peut
+toutefois décider d'exclure un organisme apparenté de la surveillance complémentaire si elle estime que sa prise en compte
+présenterait un intérêt négligeable ou serait contraire aux objectifs de cette surveillance.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article, et notamment :
+
+- les données et informations nécessaires à l'exercice de la surveillance complémentaire ;
+
+- les règles prudentielles applicables dans le cadre de la surveillance complémentaire.
+
+**Nota:**
+
+Nota : Ordonnance 2001-767 2001-08-29 art. 3 : les dispositions de l'article L212-7-2 du code de la mutualité s'appliquent
+pour la première fois à la surveillance des comptes ouverts à compter du 1er janvier 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+
+	**Cité par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 3 (V)
+	  - Code de la mutualité - art. L212-7-1 (VD)
+	  - Code de la mutualité - art. L212-7-2-1 (VT)
+	  - Code de la mutualité - art. L510-7 (Ab)
+	  - Code de la mutualité - art. R212-11 (VD)
+	  - Code de la mutualité - art. R212-15 (VT)
+	  - Code de la sécurité sociale. - art. L933-3-1 (VT)
+	  - Code de la sécurité sociale. - art. L951-12 (Ab)
+	  - Code des assurances - art. L310-15 (Ab)
+	  - Code des assurances - art. L334-3-1 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L510-1 (M)
+
+
+###### Article L212-7-3
+
+Les mutuelles et unions soumises à une surveillance complémentaire en application de l'article L. 212-7-2 demandent à leurs
+organismes apparentés les données ou informations nécessaires à l'exercice de cette surveillance. Les organismes apparentés
+sont tenus de procéder à cette transmission.
+
+Les mutuelles et unions soumises à une surveillance complémentaire transmettent les données ou informations nécessaires à
+leurs organismes apparentés ayant leur siège social dans un Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen pour l'exercice de la surveillance complémentaire par les autorités
+compétentes de cet Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-7-2 (VT)
 
 
 ##### Section 2 : Création de succursales dans les Etats membres de la Communauté européenne et les Etats parties à l'accord sur l'Espace économique européen.
@@ -6492,17 +6667,36 @@ d'étendre le contrôle sur place d'une mutuelle, d'une union ou d'une fédérat
 indirectement avec cette mutuelle, union ou fédération par une convention susceptible d'altérer son autonomie de
 fonctionnement ou de décision et concernant l'un quelconque de ses domaines d'activité et, notamment, à toute mutuelle ou
 union régie par le livre III, ainsi qu'à toute personne morale qui constitue avec l'organisme contrôlé un groupe au sens de
-l'article L. 212-7. 
+l'article L. 212-7.
 
 Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la situation financière réelle de la mutuelle
 ou de l'union contrôlée, le respect par cette mutuelle ou cette union des engagements qu'elle a contractés auprès des membres
-participants et bénéficiaires.
+participants et bénéficiaires ou la capacité des personnes morales qui lui sont apparentées à participer à d'éventuelles
+mesures de redressement ou de sauvegarde de cette mutuelle ou union.
+
+La commission de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
+complémentaire instituée à l'article L. 212-7-2 auprès de la mutuelle ou l'union et de ses organismes apparentés. Lorsque
+l'un de ces organismes apparentés est un organisme relevant du code des assurances, l'extension du contrôle de la commission
+consiste dans le recueil d'informations auprès de la commission de contrôle des assurances.
+
+Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L. 212-7-2, la commission souhaite vérifier des
+informations utiles à l'exercice de sa surveillance concernant une entreprise située dans un Etat membre de la Communauté
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, elle demande aux autorités compétentes
+de cet Etat qu'il soit procédé à cette vérification. Lorsque les autorités d'un Etat membre de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitent, dans des cas déterminés, vérifier des
+informations utiles à l'exercice de leur surveillance concernant une mutuelle ou union apparentée à une entreprise
+d'assurance soumise à leur surveillance complémentaire, la commission de contrôle doit répondre à leur demande soit en
+procédant elle-même à cette vérification, soit en permettant à des personnes désignées par ces autorités d'y procéder.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 	**Cité par**:
 
@@ -6512,6 +6706,7 @@ participants et bénéficiaires.
 	**Cite**:
 
 	  - Code de la mutualité - art. L212-7 (M)
+	  - Code de la mutualité - art. L212-7-2 (M)
 
 
 ###### Article L510-8

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1989-06-08
+Version Consolidée au 1990-01-02
 
 # Partie législative
 
@@ -107,9 +107,12 @@ Ne sont pas soumises à cette obligation :
 
 a) Les entreprises et organismes régis par le code des assurances ;
 
-b) Les institutions définies aux articles L. 3 et L. 4 du code de la sécurité sociale ;
+b) Les institutions définies à l'article  L. 732-1 du code de la sécurité sociale ;
 
 c) Les institutions régies par le titre II du livre VII du code rural.
+
+Les mutuelles qui gèrent un régime obligatoire de sécurité sociale sont régies par le présent code, sous réserve des
+dispositions législatives, réglementaires et statutaires qui sont propres à la gestion d'un tel régime.
 
 **Liens relatifs à cet article**
 
@@ -117,9 +120,18 @@ c) Les institutions régies par le titre II du livre VII du code rural.
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
 
+	**Modifié par**:
+
+	  - Loi n°89-1009 1989-12-31 art. 28 I, II JORF 2 janvier 1990
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 28 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
 	**Cite**:
 
-	  - Code de la sécurité sociale L3, L4
+	  - Code de la sécurité sociale. - art. L732-1 (T)
 	  - Code de la mutualité - art. L111-1 (Ab)
 
 	**Cité par**:
@@ -142,15 +154,16 @@ c) Les institutions régies par le titre II du livre VII du code rural.
 
 ###### Article L121-1
 
-Les mutuelles peuvent admettre, d'une part, des membres participants qui, en contrepartie du versement d'une cotisation
+Les mutuelles peuvent admettre, d'une part, des membres participants qui, en contrepartie du versement d'une cotisation,
 acquièrent ou font acquérir vocation aux avantages sociaux, d'autre part, des membres honoraires qui payent une cotisation,
 font des dons ou ont rendu des services équivalents, sans bénéficier des avantages sociaux.
 
 Lorsque la mutuelle participe à des opérations de prévoyance collective, et notamment à celles régies par l'ordonnance n°
 59-75 du 7 janvier 1959 relative à certaines opérations de prévoyance collective et d'assurance, l'adhésion à la mutuelle
-peut résulter d'un contrat de travail, d'une convention collective, d'un accord d'établissement ou être souscrite par tout
-groupement habilité à cette fin à représenter les intéressés. Ceux-ci sont membres participants à titre individuel de la
-mutuelle.
+peut résulter d'un contrat de travail, d'une convention ou d'un accord collectif, de la ratification à la majorité des
+intéressés, dans des conditions fixées par décret en Conseil d'Etat, d'un projet d'accord proposé par le chef d'entreprise ou
+être souscrite par tout groupement habilité à cette fin à représenter les intéressés. Ceux-ci sont membres participants à
+titre individuel de la mutuelle.
 
 **Liens relatifs à cet article**
 
@@ -169,6 +182,14 @@ mutuelle.
 	  - Code de la mutualité - art. L311-3 (Ab)
 	  - Code de la mutualité - art. R311-4 (P)
 	  - Code de la mutualité - art. R321-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 28 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
 
 
 ###### Article L121-2
@@ -1699,8 +1720,8 @@ l'actif des caisses autonomes et jusqu'à concurrence du montant des provisions 
 
 ###### Article L321-8
 
-L'autorité administrative peut, en cas d'irrégularité grave, ou si les recettes cessent d'être suffisantes pour couvrir les
-dépenses ou répondre aux engagements, retirer l'approbation du règlement.
+La commission mentionnée à l'article L. 531-1 du présent code peut, en cas d'irrégularité grave, ou si les recettes cessent
+d'être suffisantes pour couvrir les dépenses ou répondre aux engagements, retirer l'approbation du règlement.
 
 La décision qui prononce ce retrait détermine les conditions de liquidation de la caisse ou de prise en charge des
 engagements par une autre caisse autonome mutualiste ou, à défaut, par la caisse nationale de prévoyance, ainsi que, le cas
@@ -1711,6 +1732,18 @@ engagements par une autre caisse autonome mutualiste ou, à défaut, par la cais
 	**Codifié par**:
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 20 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L531-1 (M)
 
 	**Cité par**:
 
@@ -2069,8 +2102,8 @@ fonctionnement applicables à ces établissements ou services en vertu des règl
 
 ###### Article L411-8
 
-L'autorité administrative peut, en cas d'irrégularité grave ou lorsque le fonctionnement de l'établissement ou du service est
-gravement compromis, retirer l'approbation.
+La commission mentionnée à l'article L. 531-1 du présent code peut, en cas d'irrégularité grave ou lorsque le fonctionnement
+de l'établissement ou du service est gravement compromis, retirer l'approbation.
 
 La décision portant retrait d'approbation peut, soit prononcer la liquidation de l'établissement ou du service dans les
 conditions fixées par le premier et le deuxième alinéa de l'article L. 126-5, soit déterminer les modalités de son transfert
@@ -2082,9 +2115,18 @@ conditions fixées par le premier et le deuxième alinéa de l'article L. 126-5,
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
 
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 20 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
 	**Cite**:
 
 	  - Code de la mutualité - art. L126-5 (Ab)
+	  - Code de la mutualité - art. L531-1 (M)
 
 
 ## Livre V : Relations avec l'Etat et les autres collectivités publiques
@@ -2298,8 +2340,8 @@ Un arrêté ministériel détermine les modalités de gestion du fonds.
 
 ###### Article L531-1
 
-Le contrôle de l'Etat s'exerce sur les mutuelles dans l'intérêt de leurs membres selon les modalités fixées par décret en
-Conseil d'Etat.
+Le contrôle des mutuelles est effectué, dans l'intérêt de leurs membres, par la commission de contrôle mentionnée aux
+articles L. 732-10 et L. 732-12 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -2318,18 +2360,197 @@ Conseil d'Etat.
 	  - Code de la mutualité - art. R531-1 (Ab)
 	  - Code de la mutualité - art. R531-7 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 18 () JORF 2 janvier 1990
+
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 14 septembre 1992
 	  - TXT_SOURCE: Arrêté du 14 septembre 1992 - art. 1 (V)
 
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L732-10 (Ab)
+	  - Code de la sécurité sociale. - art. L732-12 (Ab)
+
+
+###### Article L531-1-1
+
+La commission veille au respect par les mutuelles des dispositions législatives et réglementaires qui leur sont propres.
+
+Elle s'assure que les mutuelles sont toujours en mesure de remplir les engagements qu'elles ont contractés à l'égard des
+adhérents et qu'elles présentent la marge de sécurité prescrite ; à cette fin, elle examine leur situation financière et
+leurs conditions d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 19 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+
+###### Article L531-1-2
+
+Le contrôle des mutuelles est effectué sur pièces et sur place.
+
+La commission organise le contrôle et en définit les modalités ; à cette fin, sont mis à sa disposition, en tant que de
+besoin, les membres de l'inspection générale des affaires sociales et les agents du contrôle des services extérieurs du
+ministre chargé de la mutualité ainsi que les autres fonctionnaires commissionnés par elle qui sont nécessaires à l'exercice
+de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 19 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L311-8 (Ab)
+	  - Code de la mutualité - art. R531-4 (Ab)
+
+
+###### Article L531-1-3
+
+La commission peut demander aux mutuelles toutes informations nécessaires à l'exercice de sa mission.
+
+Elle peut également leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de
+tous documents comptables dont elle peut, en tant que de besoin, demander la certification.
+
+Elle peut porter à la connaissance du public toute information qu'elle estime nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 19 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L311-8 (Ab)
+
+
+###### Article L531-1-4
+
+La commission peut demander aux commissaires aux comptes d'une mutuelle tout renseignement sur l'activité de celle-ci. Les
+commissaires aux comptes sont alors déliés, à son égard, du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 19 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L311-8 (Ab)
+
+
+###### Article L531-1-5
+
+Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, la commission peut décider d'étendre le
+contrôle sur place d'une mutuelle à toute personne morale liée directement ou indirectement par une convention à celle-ci et
+susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un quelconque de ses domaines d'activité.
+
+Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la situation financière réelle de la mutuelle
+contrôlée ainsi que le respect par cette mutuelle des engagements qu'elle a contractés auprès des adhérents.
+
+Lorsque l'organisme lié à la mutuelle relève du code des assurances, la commission et la commission de contrôle des
+assurances instituée par l'article L. 310-12 du code des assurances peuvent échanger toutes les informations nécessaires à
+l'accomplissement de leurs missions respectives et organiser, conjointement, le contrôle des organismes qui relèvent de leurs
+compétences ; elles veillent à la coordination de leurs travaux ; à cette fin, elles peuvent tenir des réunions communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 19 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L311-8 (Ab)
+	  - Code de la mutualité - art. L541-2 (Ab)
+
+
+###### Article L531-1-6
+
+En cas de contrôle sur place, un rapport est établi. Si des observations sont formulées par le vérificateur, il en est donné
+connaissance à la mutuelle. La commission prend connaissance des observations formulées par le vérificateur et des réponses
+apportées par la mutuelle.
+
+Les résultats des contrôles sur place sont communiqués au conseil d'administration de la mutuelle. Ils sont également
+transmis aux commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 19 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L311-8 (Ab)
+
 
 ###### Article L531-2
 
-En cas de difficultés financières de nature à compromettre le fonctionnement normal d'une mutuelle, l'autorité administrative
-peut, sur proposition de l'assemblée générale, confier, pour une durée maximum d'un an, tout ou partie des pouvoirs dévolus
-au conseil d'administration de cette mutuelle, et notamment celui de fixer les montants ou les taux des cotisations, à un ou
-plusieurs administrateurs provisoires choisis par l'assemblée générale en dehors des membres du conseil d'administration.
+En cas de difficultés financières de nature à compromettre le fonctionnement normal d'une mutuelle, la commission peut, sur
+proposition de l'assemblée générale, confier, pour une durée maximum d'un an, tout ou partie des pouvoirs dévolus au conseil
+d'administration de cette mutuelle, et notamment celui de fixer les montants ou les taux des cotisations, à un ou plusieurs
+administrateurs provisoires choisis par l'assemblée générale en dehors des membres du conseil d'administration.
 
 L'assemblée générale est spécialement convoquée à cet effet par le conseil d'administration ou à la demande du quart des
 membres de la mutuelle. Sa décision, qui doit être motivée, est prise à la majorité des deux tiers des membres présents ou
@@ -2344,6 +2565,14 @@ provoquent des élections avant la fin de leur mandat, afin de renouveler le con
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
 
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 20 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
 	**Cité par**:
 
 	  - Code de la mutualité - art. L311-8 (Ab)
@@ -2356,15 +2585,23 @@ provoquent des élections avant la fin de leur mandat, afin de renouveler le con
 ###### Article L531-3
 
 Lorsque le fonctionnement d'une mutuelle n'est pas conforme aux dispositions du présent code ou aux dispositions de ses
-statuts ou qu'il compromet son équilibre financier, l'autorité administrative peut enjoindre à la mutuelle de présenter un
-programme de redressement. Si ce programme ne permet pas le redressement nécessaire, l'autorité administrative peut, après
-avertissement adressé à la mutuelle, recourir à la procédure prévue à l'article L. 531-4.
+statuts ou qu'il compromet son équilibre financier, la commission peut enjoindre à la mutuelle de présenter un programme de
+redressement. Si ce programme ne permet pas le redressement nécessaire, la commission peut, après avertissement adressé à la
+mutuelle, recourir à la procédure prévue à l'article L. 531-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 20 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
 
 	**Cité par**:
 
@@ -2382,9 +2619,8 @@ avertissement adressé à la mutuelle, recourir à la procédure prévue à l'ar
 ###### Article L531-4
 
 En cas d'irrégularité grave constatée dans le fonctionnement d'une mutuelle, ou si des difficultés financières de nature à
-mettre en cause l'existence d'une mutuelle persistent sans que les instances dirigeantes réussissent à y faire face,
-l'autorité administrative peut confier les pouvoirs dévolus au conseil d'administration à un ou plusieurs administrateurs
-provisoires.
+mettre en cause l'existence d'une mutuelle persistent sans que les instances dirigeantes réussissent à y faire face, la
+commission peut confier les pouvoirs dévolus au conseil d'administration à un ou plusieurs administrateurs provisoires.
 
 Le ou les administrateurs provisoires prennent toutes les mesures qui s'avèrent nécessaires pour assurer le fonctionnement
 régulier de la mutuelle et provoquent des élections afin de renouveler le conseil d'administration.
@@ -2396,6 +2632,14 @@ La durée du mandat des administrateurs provisoires est fixée à six mois. Elle
 	**Codifié par**:
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 20 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
 
 	**Cité par**:
 
@@ -2409,8 +2653,20 @@ La durée du mandat des administrateurs provisoires est fixée à six mois. Elle
 
 ###### Article L531-5
 
-En cas d'irrégularité grave ou en cas de difficultés financières de nature à mettre en cause l'existence d'une mutuelle,
-l'approbation peut être retirée par l'autorité administrative.
+Si une mutuelle n'a pas déféré à une injonction, la commission peut prononcer à son encontre, compte tenu de la gravité du
+manquement, l'une des sanctions disciplinaires suivantes :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
+
+4° Le retrait d'approbation.
+
+Lorsqu'une sanction prononcée par la commission est devenue définitive, la commission peut, aux frais de la mutuelle
+sanctionnée, ordonner l'insertion de sa décision dans trois journaux ou publications qu'elle désigne et l'affichage dans les
+lieux et pour la durée qu'elle indique.
 
 A dater de la publication de la décision portant retrait d'approbation, le fonctionnement de la mutuelle est suspendu. La
 liquidation s'opère conformément aux dispositions de l'article L. 126-5.
@@ -2427,9 +2683,16 @@ Dans le cas où la mutuelle gère une caisse autonome, sa dissolution entraîne 
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
 
+	**Modifié par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 21 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L126-5 (Ab)
 	  - Code de la mutualité - art. L321-8 (M)
 	  - Code de la mutualité - art. L411-1 (Ab)
 	  - Code de la mutualité - art. L411-3 (Ab)
@@ -2442,6 +2705,42 @@ Dans le cas où la mutuelle gère une caisse autonome, sa dissolution entraîne 
 	  - Code de la mutualité - art. R531-2 (Ab)
 	  - Code de la mutualité - art. R531-3 (M)
 	  - Code de la mutualité - art. R531-7 (Ab)
+
+
+###### Article L531-6
+
+Dans tous les cas mentionnés aux articles L. 531-2, L. 531-3, L. 531-4 et L. 531-5, la commission statue après une procédure
+contradictoire. Les intéressés peuvent demander à être entendus. Ils peuvent se faire représenter ou assister. Les mutuelles
+sanctionnées peuvent, dans le délai de deux mois qui suit la notification de la décision, former un recours de pleine
+juridiction devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 22 () JORF 2 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L311-4 (V)
+	  - Code de la mutualité - art. L311-8 (Ab)
+	  - Code de la mutualité - art. L531-1 (Ab)
+	  - Code de la mutualité - art. R531-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L531-2 (M)
+	  - Code de la mutualité - art. L531-3 (M)
+	  - Code de la mutualité - art. L531-4 (M)
+	  - Code de la mutualité - art. L531-5 (M)
 
 
 ### Titre IV : Dispositions pénales
@@ -2482,6 +2781,28 @@ direction d'une mutuelle ou d'une union de mutuelles.
 	  - Code de la mutualité - art. L121-2 (Ab)
 	  - Code de la mutualité - art. L122-3 (Ab)
 	  - Code de la mutualité - art. L122-5 (Ab)
+
+
+###### Article L541-2
+
+Tout dirigeant d'une mutuelle ou de l'une des personnes morales visées à l'article L. 531-1-5 qui met obstacle, de quelque
+manière que ce soit, à l'exercice de leurs fonctions par la commission de contrôle ou par les fonctionnaires mis à la
+disposition ou commissionnés par elle, est passible d'un emprisonnement de quinze jours à deux ans et d'une amende de 15000 à
+2000000 F ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 23 () JORF 2 janvier 1990
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L531-1-5 (Ab)
 
 
 ## Livre VI : Dispositions d'application.

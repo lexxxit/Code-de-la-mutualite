@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-12-31
 
 # Partie législative
 
@@ -1831,6 +1831,10 @@ Le taux de la majoration mentionnée au premier alinéa est réduit de moitié l
 personnes visées aux alinéas ci-dessus après un délai de dix ans à compter de l'attribution de la carte du combattant ou du
 titre de reconnaissance de la Nation.
 
+Le montant maximal donnant lieu à majoration par l'Etat de la rente qui peut être constituée au profit des bénéficiaires
+visés par les dispositions du présent article est revalorisé au 1er janvier de chaque année en fonction de l'indice des prix
+à la consommation hors tabac.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -1922,8 +1926,7 @@ titre de reconnaissance de la Nation.
 
 	**Modifié par**:
 
-	  - Loi n°95-116 du 4 février 1995 - art. 110 () JORF 5 février 1995
-	  - Loi n°95-116 du 4 février 1995 - art. 66 () JORF 5 février 1995
+	  - Loi - art. 101 (V) JORF 31 décembre 1995
 
 
 ## Livre IV : Action sociale

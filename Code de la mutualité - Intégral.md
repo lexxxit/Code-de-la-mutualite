@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2003-10-17
+Version Consolidée au 2004-01-01
 
 # Partie législative
 
@@ -4689,10 +4689,12 @@ d'une union a la faculté d'y renoncer par lettre recommandée avec demande d'av
 jours à compter du premier versement.
 
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné à faciliter l'exercice de cette faculté de
-renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat au terme de chacune
-des huit premières années au moins. La mutuelle ou l'union doit, en outre, remettre, contre récépissé, une note d'information
-sur les dispositions essentielles des règlements, sur les conditions d'exercice de la faculté de renonciation, ainsi que sur
-le sort de la garantie décès en cas d'exercice de cette faculté de renonciation.
+renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les plans
+d'épargne individuelle pour la retraite créés à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des
+retraites, les valeurs de transfert au terme de chacune des huit premières années au moins. La mutuelle ou l'union doit, en
+outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles des règlements, sur les
+conditions d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette
+faculté de renonciation.
 
 Le défaut de remise des documents et informations énumérés au précédent alinéa entraîne de plein droit la prorogation du
 délai prévu au premier alinéa jusqu'au trentième jour suivant la date de la remise effective de ces documents. Un nouveau
@@ -4707,11 +4709,24 @@ de deux mois, au double du taux légal.
 Toutefois, les dispositions qui précèdent ne s'appliquent pas aux bulletins d'adhésion ou contrats d'une durée maximum de
 deux mois.
 
+**Nota:**
+
+NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-8 du présent code, les mots
+"plans d'épargne individuelle pour la retraite" sont déclassés et ont dorénavant un caractère réglementaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Cite**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -4982,47 +4997,26 @@ cas, la mise à la disposition du porteur de la valeur de rachat que ladite gara
 
 ###### Article L223-20
 
-Les modalités de calcul de la valeur de rachat et, le cas échéant, de la valeur de réduction sont déterminées par un
-règlement général mentionné dans les règlements ou le contrat collectif et établi par la mutuelle ou l'union.
+Les modalités de calcul de la valeur de rachat ou de la valeur de transfert pour les opérations relevant de l'article 108 de
+la loi n° 2003-775 du 21 août 2003  précitée et, le cas échéant, de la valeur de réduction sont déterminées par un règlement
+général mentionné dans les règlements ou le contrat collectif et établi par la mutuelle ou l'union.
 
 Dès la signature du bulletin d'adhésion ou du contrat collectif, la mutuelle ou l'union informe l'adhérent que ce règlement
 général est tenu à sa disposition, sur sa demande. La mutuelle ou l'union doit communiquer à l'adhérent, sur la demande de
 celui-ci, le texte du règlement général.
 
-Dans la limite de la valeur de rachat, la mutuelle ou l'union peut consentir des avances au membre participant.
+Dans la limite de la valeur de rachat ou de la valeur de transfert pour les opérations relevant de l'article 108 de la loi n°
+2003-775 du 21 août 2003 précitée, la mutuelle ou l'union peut consentir des avances au membre participant.
 
-La mutuelle ou l'union doit, à la demande du membre participant, verser à celui-ci la valeur de rachat de la garantie dans un
-délai qui ne peut excéder deux mois. Au-delà de ce délai, les sommes non versées produisent de plein droit des intérêts au
-taux légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
+La mutuelle ou l'union doit, à la demande du membre participant, verser à celui-ci la valeur de rachat de la garantie ou la
+valeur de transfert du plan d'épargne individuelle pour la retraite dans un délai qui ne peut excéder deux mois. Au-delà de
+ce délai, les sommes non versées produisent de plein droit des intérêts au taux légal majoré de moitié durant deux mois,
+puis, à l'expiration de ce délai de deux mois, au double du taux légal.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. Annexe à l'article A223-6-1 (V)
-	  - Code de la mutualité - art. L223-20 (V)
-
-
-###### Article L223-21
-
-La mutuelle ou l'union doit communiquer chaque année au membre participant les montants respectifs de la valeur de rachat, le
-cas échéant de la valeur de réduction, des capitaux et des rentes garantis, ainsi que, pour les règlements dont les garanties
-sont exprimées en unités de compte, les valeurs de ces unités de compte et leur évolution annuelle à compter de la
-souscription de la garantie.
-
-Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif.
-
-La mutuelle ou l'union doit préciser en termes précis et clairs dans cette communication ce que signifient les opérations de
-rachat et de réduction et quelles sont leurs conséquences légales et contractuelles.
-
-Pour les garanties ne donnant plus lieu à paiement de cotisation, les informations visées ci-dessus ne sont communiquées pour
-une année donnée qu'au membre participant contractant qui en fait la demande.
-
-La garantie doit faire référence à l'obligation d'information prévue aux alinéas précédents.
+NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-20 du présent code, les
+mots "plan d'épargne individuelle pour la retraite" sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -5033,7 +5027,54 @@ La garantie doit faire référence à l'obligation d'information prévue aux ali
 	**Cite**:
 
 	  - Loi n°2003-775 2003-08-21 art. 108
-	  - Code de la mutualité 108
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. Annexe à l'article A223-6-1 (V)
+	  - Code de la mutualité - art. L223-20 (V)
+
+
+###### Article L223-21
+
+La mutuelle ou l'union doit communiquer chaque année au membre participant les montants respectifs de la valeur de rachat ou,
+pour son plan d'épargne retraite populaire tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, la
+valeur de transfert, le cas échéant de la valeur de réduction, des capitaux et des rentes garantis, ainsi que, pour les
+règlements dont les garanties sont exprimées en unités de compte, les valeurs de ces unités de compte et leur évolution
+annuelle à compter de la souscription de la garantie.
+
+Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif.
+
+La mutuelle ou l'union doit préciser en termes précis et clairs dans cette communication ce que signifient les opérations de
+rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles.
+
+Pour les garanties ne donnant plus lieu à paiement de cotisation, les informations visées ci-dessus ne sont communiquées pour
+une année donnée qu'au membre participant contractant qui en fait la demande.
+
+La garantie doit faire référence à l'obligation d'information prévue aux alinéas précédents.
+
+**Nota:**
+
+NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-21 du présent code, les
+mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Cite**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2004-346 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
 
 	**Cité par**:
 
@@ -13333,6 +13374,113 @@ catégorie ayant la même provision mathématique.
 	**Abrogé par**:
 
 	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+
+##### Section 2 : Combinaison des comptes
+
+###### Article D212-5
+
+Lorsqu'une ou plusieurs mutuelles ou unions relevant du livre II du présent code constituent avec une ou plusieurs autres
+mutuelles définies à l'article L. 111-1 ou unions définies à l'article L. 111-2 un groupe défini à l'article L. 212-7, des
+comptes combinés sont établis dans les conditions déterminées au présent chapitre.
+
+A défaut d'un accord préalable à la date de clôture de l'exercice tel que visé au premier alinéa de l'article D. 212-6,
+l'entité qui établit et publie les comptes combinés est celle ayant encaissé en moyenne, au cours des cinq derniers
+exercices, le montant de cotisations le plus élevé, sans considération de la nature de l'activité exercée. Dans le cas où
+l'obligation d'établir des comptes combinés ne découle que du 2° de l'article L. 212-7, le cessionnaire est, dans le cas où
+plusieurs cessionnaires interviennent, celui qui a accepté en moyenne, au cours des trois derniers exercices, le montant le
+plus élevé de primes ou cotisations cédées par les entités de l'ensemble soumis à obligation d'établir des comptes combinés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L111-1, L111-2, L212-7, D212-6
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+
+###### Article D212-6
+
+La désignation de l'entité chargée d'établir et de publier des comptes combinés fait l'objet d'une convention écrite entre
+toutes les entités dont la cohésion ne résulte pas de liens en capital et appartenant à l'ensemble soumis à obligation
+d'établir les comptes combinés. Cet accord engage de plein droit tous les organismes sur lesquels l'une des parties à
+l'accord exerce un contrôle exclusif, un contrôle conjoint ou une influence notable. Un arrêté du ministre chargé de la
+mutualité précise les dispositions que doit contenir cet accord.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+
+###### Article D212-7
+
+Lorsqu'une entité faisant partie d'un groupe défini à l'article L. 212-7 est incluse par intégration globale dans les comptes
+consolidés d'une entité elle-même soumise à une obligation de consolidation, l'entité tenue d'établir et de publier des
+comptes combinés est, par dérogation, l'entité consolidante. Cette obligation se confond dans ce cas avec l'obligation
+d'établir des comptes consolidés. Les comptes consolidés incluent alors les comptes des entités faisant partie de l'ensemble
+précité, qui sont agrégés aux comptes de l'entité consolidante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L212-7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+
+###### Article D212-8
+
+Lorsqu'une mutuelle ou une union de mutuelles en vertu des articles L. 111-1 et L. 111-2, ou une union de groupe mutualiste
+mentionnée à l'article L. 111-4-1, participe à un accord prévu à l'article D. 212-6, celui-ci est transmis à la commission de
+contrôle mentionnée à l'article L. 510-1 dans les quinze jours de sa signature par l'entité désignée par cet accord ou, à
+défaut, par chacune des parties à l'accord. Il est porté dans les mêmes délais et modalités à la connaissance des
+commissaires aux comptes de toutes les entités incluses dans le périmètre de la combinaison.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L111-1, L111-2, L111-4-1, D212-6, L510-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
 
 
 ### Titre II : Opérations des mutuelles et des unions.

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1988-08-01
+Version Consolidée au 1989-06-08
 
 # Partie législative
 
@@ -3298,9 +3298,9 @@ Pour l'application des dispositions du présent titre, les risques mentionnés �
 1. Accidents.
 
 2. Incapacité de travail ou invalidité résultant de la maladie et autres risques comportant le service de prestations au-delà
-d'un an [*durée*].
+d'un an.
 
-3. Opérations comportant des engagements dont l'exécution dépend de la vie humaine (vieillesse, vie, décès).
+3. Opérations comportant des engagements dont l'exécution dépend de la durée de la vie humaine (vieillesse, vie, décès).
 
 4. Prévoyance collective mentionnée à l'article L. 121-1 (2e alinéa).
 
@@ -3311,10 +3311,6 @@ d'un an [*durée*].
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-	**Modifié par**:
-
-	  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
 
 	**Cité par**:
 
@@ -3332,6 +3328,10 @@ d'un an [*durée*].
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 2 () JORF 8 juin 1989
 
 	**Cite**:
 
@@ -3768,12 +3768,131 @@ adhérents tant que la marge de sécurité n'est pas atteinte.
 	  - Code de la mutualité - art. R322-7 (M)
 
 
-#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition
+##### Section 3 : Placements des caisses autonomes mutualistes
 
-###### Article R323-1
+###### Article R322-10
 
-Les caisses autonomes assurant la couverture du risque vieillesse par répartition à la date du 31 juillet 1988 sont seules
-autorisées à exercer cette activité dans les conditions prévues à la présente section.
+Les provisions techniques constituées en application de l'article R. 322-2 et les fonds des caisses autonomes de retraite par
+répartition, quelles que soient les réserves dont ils sont la contrepartie, ne peuvent être représentés que sous la forme des
+actifs ci-après :
+
+1° Obligations et titres participatifs inscrits à la cote officielle ou en instance d'inscription, obligations non cotées
+émises par l'Etat ou jouissant de sa garantie ;
+
+2° Actions et parts d'organismes de placement collectif en valeurs mobilières, à l'exception de ceux relevant des chapitres
+III à V de la loi n° 88-1201 du 23 décembre 1988, dont l'objet est limité à la gestion d'un portefeuille de valeurs
+mentionnées au 1° ci-dessus ;
+
+3° Actions et droits de sociétés inscrites à la cote officielle ou à la cote du second marché des bourses françaises de
+valeurs, acquises par transaction effectuée sur une bourse française ;
+
+4° Actions et droits de sociétés non cotées à la cote officielle ou à la cote du second marché d'une bourse française de
+valeurs et actions de sociétés cotées sur une bourse étrangère ;
+
+5° Actions et parts d'organismes de placement collectif en valeurs mobilières, à l'exception de ceux qui relèvent des
+chapitres III à V de la loi n° 88-1201 du 23 décembre 1988, dont l'actif est composé de 50 p. 100 au moins de valeurs
+mobilières françaises cotées ;
+
+6° Actions des établissements spécialisés dans le financement des coopératives, mutuelles et associations et agréés à cet
+effet par le ministre chargé de la mutualité et le ministre chargé des finances ;
+
+7° Actions et parts des unions d'économie sociale instituées par la loi n° 83-657 du 20 juillet 1983 et figurant sur une
+liste dressée conjointement par le ministre chargé de la mutualité et le ministre chargé des finances ;
+
+8° Immeubles bâtis situés en France ;
+
+9° Immeubles non bâtis situés en France et parts de groupements forestiers ;
+
+10° Actions et parts de sociétés immobilières ;
+
+11° Prêts aux communes, syndicats de communes, communautés urbaines, districts, départements, régions, territoires d'outre-
+mer et leurs établissements publics ;
+
+12° Prêts hypothécaires ;
+
+13° Prêts aux organismes d'habitations à loyer modéré, aux coopératives de construction et aux sociétés d'économie mixte de
+construction de logements ;
+
+14° Prêts à des établissements spécialisés dans le financement des coopératives, mutuelles et associations et agréés à cet
+effet par le ministre chargé de la mutualité et le ministre chargé des finances ;
+
+15° Prêts à des organismes mutualistes régis par le code de la mutualité ;
+
+16° Bons émis et négociables sur le marché hypothécaire ;
+
+17° Billets de trésorerie, certificats de dépôt, bons des institutions et sociétés financières régies par les articles 32, 35
+et 36 de la loi n° 85-1321 du 14 décembre 1985 ;
+
+18° Bons du Trésor ;
+
+19° Dépôts à terme à plus d'un an auprès de la Banque de France, de la Caisse des dépôts et consignations, d'un comptable du
+Trésor et des établissements de crédit ;
+
+20° Dépôts en compte courant ou dépôts à terme d'un an au plus aux chèques postaux, à la Banque de France, à la Caisse des
+dépôts et consignations, auprès d'un comptable du Trésor et dans les établissements de crédit.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-657 1983-07-20
+	  - Loi n°85-1321 1985-12-14 art. 32, art. 35, art. 36
+	  - Loi n°85-1321 du 14 décembre 1985 - art. 36 (Ab)
+	  - Loi n°88-1201 1988-12-23
+	  - Code de la mutualité - art. R322-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Créé par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+	**Cité par**:
+
+	  - Décret n°90-1051 du 26 novembre 1990 - art. 29 (V)
+	  - Code de la mutualité - art. R322-11 (Ab)
+	  - Code de la mutualité - art. R322-12 (Ab)
+	  - Code de la mutualité - art. R322-13 (Ab)
+
+
+###### Article R322-11
+
+I. - Rapportée au montant des provisions techniques, ou à l'ensemble de l'actif pour les caisses autonomes de retraite par
+répartition, la valeur au bilan des catégories d'actifs énumérées ci-après doit satisfaire aux limites suivantes :
+
+a) 34 p. 100 au moins pour les placements mentionnés aux 1° et 2° de l'article R. 322-10 ;
+
+b) 1 p. 100 au plus pour les placements mentionnés au 4° ;
+
+c) 10 p.  100 au plus pour les placements mentionnés aux 6° et 7° ;
+
+d) 25 p. 100 au plus pour les placements mentionnés du 8° au 10°, les placements mentionnés au 9° ne devant pas dépasser 5 p.
+100 ;
+
+e) 40 p. 100 au plus pour les placements mentionnés du 11° au 20°.
+
+II. - Le rapport avec l'ensemble des provisions techniques, ou l'ensemble de l'actif pour les caisses autonomes de retraite
+par répartition, ne peut dépasser :
+
+a) 5 p. 100 pour les créances de toute nature sur une même personne morale, à l'exception des valeurs du Trésor ou garanties
+par l'Etat ainsi que des actions et parts de sociétés d'investissement à capital variable ou fonds communs de placement dont
+l'objet est limité à la gestion d'un portefeuille de ces mêmes valeurs ;
+
+b) 5 p. 100 pour les actions ou parts d'une même société ; toutefois, pour les valeurs mentionnées au 5° de l'article R.
+322-10 émises par une même société ou un même fonds, ce taux est fixé à 10 p. 100 et, pour les valeurs mentionnées au 4° de
+l'article R. 322-10 émises par une même société, ce taux est fixé à 0,25 p. 100.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
 
 **Liens relatifs à cet article**
 
@@ -3783,7 +3902,153 @@ autorisées à exercer cette activité dans les conditions prévues à la prése
 
 	**Créé par**:
 
-	  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+	  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+	**Cité par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 3 (V)
+	  - Décret n°90-1051 du 26 novembre 1990 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R322-10 (M)
+
+
+###### Article R322-12
+
+Les caisses autonomes peuvent procéder à des opérations de ventes de contrats ainsi qu'à des achats d'options de ventes,
+négociés sur des marchés réglementés, en couverture d'actifs qu'elles détiennent au titre des catégories énumérées à
+l'article R. 322-10.
+
+Elles ne peuvent procéder à des achats de contrats ou à des ventes d'options de ventes que s'ils ont pour objet le dénouement
+des opérations mentionnées à l'alinéa précédent.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Créé par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R322-10 (M)
+
+
+###### Article R322-13
+
+Les prêts mentionnés au 13° de l'article R. 322-10 doivent avoir reçu la garantie d'une collectivité locale [*condition
+d'obtention*] ayant pour effet, avec renonciation au bénéfice de discussion et au bénéfice de division, de substituer
+immédiatement et sans réserve la collectivité garante au débiteur défaillant.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Créé par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R322-10 (M)
+
+
+###### Article R322-14
+
+Les prêts consentis par les caisses autonomes mutualistes à des organismes mutualistes régis par le code de la mutualité
+doivent être assortis, à la date de conclusion du prêt, d'un taux d'intérêt au moins égal au plus élevé des deux taux
+suivants :
+
+[*condition de validité*] le taux de calcul des provisions mathématiques majoré du quart, et un taux fixé par arrêté conjoint
+du ministre chargé de la mutualité et du ministre chargé des finances.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Créé par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+	**Cité par**:
+
+	  - Arrêté du 7 juin 1989 - art. 2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
+
+
+###### Article R322-15
+
+Les placements des caisses autonomes mutualistes font l'objet d'une évaluation au 31 décembre de chaque année
+[*périodicité*].
+
+L'état retraçant ces placements est communiqué au ministre chargé de la mutualité au plus tard le 30 juin [*date limite*]
+suivant dans les formes et selon les règles d'évaluation fixées par arrêté du ministre chargé de la mutualité et du ministre
+chargé des finances.
+
+**Nota:**
+
+[*Nota : Décret 89-364 du 7 juin 1989 art. 3 : les caisses autonomes mutualistes devront s'être conformées aux dispositions
+de l'article R. 322-11 au plus tard le 31 décembre 1991.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Créé par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 1 () JORF 8 juin 1989
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 7 juin 1989
+	  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
+
+
+#### Chapitre III : Caisses autonomes assurant la couverture du risque vieillesse par répartition
+
+###### Article R323-1
+
+Les caisses autonomes assurant la couverture du risque vieillesse par répartition à la date du 31 juillet 1988 sont seules
+autorisées à exercer cette activité dans les conditions prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°89-364 du 7 juin 1989 - art. 2 () JORF 8 juin 1989
 
 
 ###### Article R323-2

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1992-09-17
+Version Consolidée au 1993-01-05
 
 # Partie législative
 
@@ -1778,6 +1778,12 @@ Nord, titulaires du titre de reconnaissance de la Nation institué par l'article
 ou titulaires de la carte du combattant attribuée dans les conditions fixées par la loi n° 74-1044 du 9 décembre 1974, ainsi
 que des veuves, orphelins et ascendants des militaires décédés du fait de leur participation à ces opérations.
 
+7° Des militaires des forces armées françaises ainsi que des personnes civiles titulaires de la carte du combattant du fait
+de leur participation, en vertu des décisions des autorités françaises, au sein d'unités françaises ou alliées ou de forces
+internationales, soit à des conflits armés, soit à des opérations ou missions menées conformément aux obligations et
+engagements internationaux de la France, ainsi que des veuves, veufs, orphelins ou ascendants des civils ou militaires
+décédés du fait de leur participation à ces opérations.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -1866,6 +1872,10 @@ que des veuves, orphelins et ascendants des militaires décédés du fait de leu
 	**Codifié par**:
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
+
+	**Modifié par**:
+
+	  - Loi n°93-7 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
 
 
 ## Livre IV : Action sociale

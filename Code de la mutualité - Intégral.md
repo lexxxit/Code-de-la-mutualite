@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-02-12
 
 # Partie législative
 
@@ -7325,6 +7325,108 @@ b) Un mandat donné pour une assemblée vaut pour les assemblées tenues sur deu
 
 
 #### Section 5 : Dispositions relatives aux fonctions d'administrateur.
+
+###### Article R114-4
+
+L'indemnité mentionnée au deuxième alinéa de l'article L. 114-26 peut être attribuée dans les organismes mutualistes qui, en
+moyenne annuelle au cours des trois derniers exercices, comptent au moins cinq mille membres participants recensés, ont
+encaissé au moins un million d'euros de cotisations ou ont employé au moins dix salariés en équivalent temps plein.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-132 du 10 février 2004 - art. 1 () JORF 12 février 2004
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L114-26 (V)
+
+
+###### Article R114-5
+
+Le montant total des indemnités versées par un même organisme mutualiste en application des dispositions du deuxième alinéa
+de l'article L. 114-26 ne peut excéder celui du total des dix plus hautes rémunérations versées à ses salariés par cet
+organisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L114-26
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-132 du 10 février 2004 - art. 1 () JORF 12 février 2004
+
+
+###### Article R114-6
+
+I. - Le montant annuel de l'indemnité, attribuée à un autre titre que le remboursement des rémunérations ou de la perte de
+gains et les remboursements de frais mentionnés au sixième alinéa de l'article L. 114-26, ne peut excéder le plafond prévu au
+premier alinéa de l'article L. 241-3 du code de la sécurité sociale pour l'année considérée.
+
+Ce montant est toutefois porté à deux fois le montant du plafond mentionné au premier alinéa pour les organismes qui, en
+moyenne annuelle au cours des trois derniers exercices, comptent au moins vingt-cinq mille membres participants, ont encaissé
+au moins cinq millions d'euros de cotisations ou ont employé au moins cinquante salariés en équivalent temps plein.
+
+II. - Chacune des personnes mentionnées au deuxième alinéa de l'article L. 114-26 et bénéficiant d'une indemnité présente au
+conseil d'administration de l'organisme un compte rendu annuel des activités qu'elle exerce et du temps passé au service de
+la mutuelle.
+
+Ce compte rendu est annexé au rapport prévu au c de l'article L. 114-17.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L114-26, L114-17
+	  - Code de la sécurité sociale. - art. L241-3 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-132 du 10 février 2004 - art. 1 () JORF 12 février 2004
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R114-7 (V)
+
+
+###### Article R114-7
+
+Le total des indemnités attribuées à un autre titre que le remboursement des rémunérations maintenues ou la perte de gains et
+les remboursements des frais mentionnés au sixième alinéa de l'article L. 114-26 que les présidents de conseil
+d'administration et les administrateurs, quel que soit le nombre de leurs mandats, peuvent recevoir au cours d'une année
+civile, ne peut excéder deux fois le montant du plafond prévu au premier alinéa de l'article L. 241-3 du code de la sécurité
+sociale de l'année considérée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L114-26
+	  - Code de la sécurité sociale. - art. L241-3 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-132 du 10 février 2004 - art. 1 () JORF 12 février 2004
+
 
 ###### Article R114-8
 
@@ -15129,35 +15231,6 @@ par arrêté du ministre chargé de la mutualité.
 	**Modifié par**:
 
 	  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-
-###### Article R125-2
-
-La délibération de l'assemblée générale mentionnée à l'article L. 125-5 [*indemnité annuelle des administrateurs*] est
-déposée, contre récépissé, à la préfecture du département dans lequel est situé le siège social de la mutuelle dans un délai
-d'un mois [*lieu*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-	**Modifié par**:
-
-	  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2004-132 du 10 février 2004 - art. 2 (V) JORF 12 février 2004
-
-	**Cité par**:
-
-	  - Décret n°2004-132 du 10 février 2004 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L125-5 (Ab)
 
 
 ###### Article R125-3

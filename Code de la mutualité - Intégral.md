@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1986-03-14
 
 # Partie législative
 
@@ -2503,5 +2503,1838 @@ Sauf dispositions contraires, les modalités d'application du présent code sont
 	**Abrogé par**:
 
 	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
+
+# Partie réglementaire ancienne
+
+## Livre Ier : Objet et règles générales de fonctionnement des mutuelles
+
+### Titre II : Règles générales de fonctionnement des mutuelles
+
+#### Chapitre II : Statuts
+
+###### Article R122-1
+
+Les statuts adoptés par l'assemblée constitutive doivent être déposés, contre récépissé, à la préfecture du département du
+siège social [*lieu*].
+
+La décision d'approbation ou de refus d'approbation est prise par le commissaire de la République de ce département
+[*autorité compétente*]. Toutefois, à l'égard des mutuelles, unions et fédérations gérant une caisse autonome mutualiste,
+elle est prise par le ministre chargé de la mutualité qui peut déléguer ses pouvoirs en la matière aux commissaires de la
+République.
+
+L'approbation ou le refus d'approbation doit intervenir dans le délai de trois mois, à compter de la date de réception des
+statuts [*point de départ*] par l'autorité administrative compétente pour leur approbation.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-1 (V)
+	  - Code de la mutualité - art. R311-3 (Ab)
+	  - Code de la mutualité - art. R321-1 (M)
+	  - Code de la mutualité - art. R321-6 (Ab)
+	  - Code de la mutualité - art. R531-2 (M)
+
+
+###### Article R122-2
+
+Les délibérations portant modification des statuts qui sont soumises à approbation doivent être déposées, contre récépissé, à
+la préfecture du département du siège social [*lieu*].
+
+La décision d'approbation ou de refus d'approbation est prise par le commissaire de la République de ce département.
+Toutefois, à l'égard des mutuelles, unions et fédérations gérant une caisse autonome mutualiste, elle est prise par le
+ministre chargé de la mutualité, qui peut déléguer ses pouvoirs en la matière aux commissaires de la République.
+
+Le délai mentionné au deuxième alinéa de l'article L. 122-7 est de trois mois à compter de la date de réception par
+l'autorité administrative compétente [*point de départ*] pour leur approbation. Ce délai peut être renouvelé une fois, sous
+réserve que les raisons de cette prolongation aient été notifiées à la mutuelle avant l'expiration du délai normal.
+
+**Nota:**
+
+[*Nota : Code de la mutualité R221-1 : L'article R. 122-2 est applicable à l'approbation du règlement visé au cinquième
+alinéa de l'article 221-1.
+
+Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L122-7 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+	  - SPEC_APPLI: Code de la mutualité R221-1, R213-1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R221-1 (V)
+	  - Code de la mutualité - art. R231-1 (V)
+	  - Code de la mutualité - art. R321-1 (M)
+	  - Code de la mutualité - art. R321-6 (Ab)
+
+
+###### Article R122-3
+
+La déclaration des modifications statutaires qui sont soumises à cette seule formalité est déposée, dans le délai d'un mois à
+compter de leur date [*point de départ*], contre récépissé, à la préfecture du département du siège social [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1106 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+
+
+###### Article R122-4
+
+La reconnaissance d'utilité publique obtenue par des sociétés mutualistes avant l'entrée en vigueur du décret n° 59-1209 du
+19 octobre 1959 ne peut être retirée que par décret en Conseil d'Etat, après avis du conseil supérieur de la mutualité
+[*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-1209 1959-10-19
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+#### Chapitre IV : Capacité civile et dispositions financières
+
+##### Section 1 : Dispositions générales
+
+###### Article R124-1
+
+Les déclarations prévues aux articles L. 124-2 [*acquisition, vente, construction, agrandissement changement de destination
+des immeubles*] et L. 124-3 [*emprunts*] sont faites, contre récépissé, à la préfecture du département dans lequel est situé
+le siège social de la mutuelle dans un délai d'un mois après la délibération de l'assemblée générale ou la décision du
+conseil d'administration [*point de départ, organisme compétent*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L124-2 (Ab)
+	  - Code de la mutualité - art. L124-3 (Ab)
+
+
+###### Article R124-2
+
+L'autorisation prévue à l'article L. 124-4 [*réception de dons et legs*] est accordée par le commissaire de la République du
+département dans lequel est situé le siège social de la mutuelle [*autorité compétente, compétence territoriale*].
+
+Toutefois, cette autorisation est accordée par le ministre chargé de la mutualité lorsque le montant de la libéralité dépasse
+le seuil fixé par le décret n° 66-388 du 13 juin 1966 relatif à la tutelle administrative des associations, fondations et
+congrégations.
+
+Dans tous les cas où les dons et legs donnent lieu à réclamation des familles, l'autorisation de les accepter est donnée par
+décret en Conseil d'Etat ou par arrêté du ministre chargé de la mutualité pris conformément à l'avis du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°66-388 1966-06-13
+	  - Code de la mutualité - art. L124-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
+
+
+##### Section 2 : Dépôts, placements de fonds et réserves
+
+###### Article R124-3
+
+La proportion des excédents annuels de recettes affectés à la constitution du fonds de réserve mentionné à l'article L. 124-5
+est de 50 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L124-5 (Ab)
+
+
+###### Article R124-4
+
+Le prélèvement prévu à l'article L. 124-5 cesse d'être obligatoire quand le montant du fonds de réserve atteint les trois
+quarts du total des prestations mises effectivement à la charge de la mutuelle pendant l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L124-5 (Ab)
+
+
+###### Article R124-5
+
+Les sommes affectées à la constitution du fonds de réserve ainsi que le montant des provisions pour prestations à payer en
+fin d'exercice et le montant des cotisations perçues d'avance doivent être employés dans les actifs suivants :
+
+1° Compte courant ou dépôts à terme d'un an au plus aux chèques postaux, à la Banque de France, à la Caisse des dépôts et
+consignations, dans les caisses d'épargne et dans les établissements de crédit ;
+
+2° Obligations françaises et titres participatifs inscrits à la cote officielle ou en instance d'inscription, actions des
+sociétés d'investissement à capital variable, parts de fonds communs de placement du titre Ier de la loi du 13 juillet 1979
+dont l'actif est composé exclusivement de ces mêmes obligations ;
+
+3° Bons émis par les établissements agréés par le ministre chargé des finances ;
+
+4° Bons du Trésor ;
+
+5° Dépôts à terme à plus d'un an auprès de la Banque de France, de la Caisse des dépôts et consignations, des caisses
+d'épargne et des établissements de crédit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°79-594 1979-07-13
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R124-6
+
+Le rapport avec l'ensemble de l'actif ne peut dépasser :
+
+1° 10 p. 100 pour les créances de toute nature sur une même personne morale, à l'exception de celles figurant sur une liste
+établie par le ministre chargé des finances ainsi que de bons du Trésor ou des dépôts à terme à plus d'un an auprès de la
+Banque de France, de la Caisse des dépôts et consignations, des caisses d'épargne et des établissements de crédit ;
+
+2° 10 p. 100 pour les actions ou parts d'une même société.
+
+Ces dispositions ne concernent pas les prêts consentis par les mutuelles aux unions et fédérations auxquelles elles sont
+affiliées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R124-7
+
+Un arrêté conjoint du ministre chargé de la mutualité et du ministre chargé des finances fixe les conditions dans lesquelles
+doivent être évalués au 31 décembre de chaque année [*date limite, périodicité*] les placements des mutuelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 7 juin 1989
+	  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 juin 1989 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 7 juin 1989 - art. 1 (V)
+
+
+###### Article R124-8
+
+Les valeurs mobilières détenues par les mutuelles sont obligatoirement déposées en compte chez un intermédiaire agréé, sauf
+lorsqu'elles sont essentiellement nominatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+#### Chapitre V : Assemblée générale et administration des mutuelles
+
+###### Article R125-1
+
+Les emprunts sont décidés par l'assemblée générale s'ils sont destinés à financer un investissement supérieur à un montant
+fixé par arrêté du ministre chargé de la mutualité ou si, compte tenu de l'emprunt projeté, le niveau d'endettement financier
+de la mutuelle dépasse un pourcentage des cotisations nettes de réassurance perçues à la clôture de l'exercice précédent fixé
+par arrêté du ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R125-2
+
+La délibération de l'assemblée générale mentionnée à l'article L. 125-5 [*indemnité annuelle des administrateurs*] est
+déposée, contre récépissé, à la préfecture du département dans lequel est situé le siège social de la mutuelle dans un délai
+d'un mois [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°2004-132 du 10 février 2004 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L125-5 (Ab)
+
+
+###### Article R125-3
+
+La régularité des opérations électorales destinées à la désignation des membres du conseil d'administration, des membres de
+la commission de contrôle, des représentants des salariés au conseil d'administration et des délégués des sections locales de
+vote peut être contestée, dans le délai de quinze jours à dater de l'élection, devant le tribunal d'instance du siège social
+de la mutuelle.
+
+La contestation est formée par déclaration orale ou écrite faite, remise ou adressée au greffe du tribunal d'instance.
+
+Dans les dix jours du recours, le tribunal d'instance statue en dernier ressort, sans frais ni forme de procédure et sur
+simple avertissement donné trois jours à l'avance à toutes les parties intéressées.
+
+La décision prise par ce tribunal est notifiée dans les trois jours par le greffe aux parties par lettre recommandée avec
+demande d'avis de réception.
+
+Le pourvoi en cassation est formé dans les dix jours de la notification de la décision du tribunal d'instance. Les
+dispositions des articles 999 à 1008 du nouveau code de procédure civile sont applicables.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R513-25 : les dispositions de l'article R. 125-3 sont applicables aux contestations relatives à
+la régularité des opérations électorales pour la désignation des membres du Conseil supérieur de la mutualité et des comités
+des comités de coordination de la mutualité.
+
+Ces contestations sont portées devant le tribunal d'instance du lieu de proclamation des résultats.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-19 (Ab)
+	  - Code de l'organisation judiciaire - art. R221-32 (V)
+	  - Code de la mutualité - art. R311-8 (P)
+	  - Code de la mutualité - art. R513-25 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R513-25 (M)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008
+
+
+###### Article R125-4
+
+Les mutuelles désignent au moins un [*nombre*] commissaire aux comptes, lorsqu'elles remplissent une des conditions
+suivantes :
+
+1° Avoir versé des prestations, nettes de réassurance, supérieures à un montant fixé par arrêté du ministre chargé de la
+mutualité ;
+
+2° Assumer la gestion d'une caisse autonome ou d'un établissement ou service visé à l'article L. 411-1 [*établissement ou
+service à caractère sanitaire, médico-social ou culturel*], dont les ressources sont supérieures à un montant fixé par arrêté
+du ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L411-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-2 (V)
+
+
+#### Chapitre VI : Fusion, scission, dissolution et liquidation
+
+###### Article R126-1
+
+La décision prévue au troisième alinéa de l'article L. 126-1 [*fusion décidée par l'autorité administrative compétente*] est
+prise par le commissaire de la République du département dans lequel est situé le siège social de la mutuelle absorbante,
+après avis du comité départemental de coordination de la mutualité.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L126-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-1 (V)
+
+
+###### Article R126-2
+
+La décision de l'assemblée générale extraordinaire prévue à l'article L. 126-3 [*dissolution volontaire*] est communiquée à
+la préfecture du département dans lequel est situé le siège social de la mutuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L126-3 (Ab)
+
+
+###### Article R126-3
+
+Dans le cas prévu à l'article L. 126-4, la dissolution est prononcée par le commissaire de la République du département dans
+lequel est situé le siège social de la mutuelle [*autorité compétente*] après avis du comité départemental de coordination de
+la mutualité.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L126-4 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-1 (V)
+
+
+###### Article R126-4
+
+L'autorité administrative compétente pour exercer la surveillance prévue par l'article L. 126-5 [*durant la liquidation de la
+mutuelle*] est le commissaire de la République, assisté du comité départemental de coordination de la mutualité.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L126-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-1 (V)
+
+
+## Livre II : Règles particulières à certains groupements à caractère professionnel
+
+### Titre Ier : Mutuelles et sections de mutuelles d'entreprises
+
+#### Chapitre unique
+
+###### Article R211-1
+
+Le procès-verbal de la délibération mentionnée à l'article L. 211-2 est communiqué au commissaire de la République du
+département dans lequel est situé le siège social de la mutuelle [*autorité compétente*] dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-2 (Ab)
+
+
+### Titre II : Sections de mutuelles à caractère professionnel ou interprofessionnel
+
+#### Chapitre unique
+
+###### Article R221-1
+
+L'article R. 122-2 est applicable à l'approbation du règlement visé au cinquième alinéa de l'article L. 221-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L221-1 (Ab)
+	  - Code de la mutualité - art. R122-2 (Ab)
+
+
+### Titre III : Mutuelles des militaires
+
+#### Chapitre unique
+
+###### Article R231-1
+
+Il est fait application aux mutuelles des militaires des articles L. 122-5, L. 122-7, L. 126-1, L. 126-4, L. 126-5, L. 411-6,
+L. 531-1, L. 531-2, L. 531-3, L. 531-4, L. 531-5 et des articles R. 122-1, R. 122-2, R. 126-1, R. 126-3, R. 126-4, R. 411-1,
+R. 531-1, R. 531-2 et R. 531-3, après avis du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L122-5 (Ab)
+	  - Code de la mutualité - art. L122-7 (Ab)
+	  - Code de la mutualité - art. L126-1 (Ab)
+	  - Code de la mutualité - art. L126-4 (Ab)
+	  - Code de la mutualité - art. L126-5 (Ab)
+	  - Code de la mutualité - art. L411-6 (Ab)
+	  - Code de la mutualité - art. L531-1 (M)
+	  - Code de la mutualité - art. L531-2 (M)
+	  - Code de la mutualité - art. L531-3 (M)
+	  - Code de la mutualité - art. L531-4 (M)
+	  - Code de la mutualité - art. L531-5 (M)
+	  - Code de la mutualité - art. R122-1 (Ab)
+	  - Code de la mutualité - art. R122-2 (Ab)
+	  - Code de la mutualité - art. R126-1 (M)
+	  - Code de la mutualité - art. R126-3 (M)
+	  - Code de la mutualité - art. R126-4 (M)
+	  - Code de la mutualité - art. R531-1 (T)
+	  - Code de la mutualité - art. R531-2 (M)
+	  - Code de la mutualité - art. R531-3 (M)
+	  - Code de la mutualité L122-5, L122-7, L126-1, L126-4, L126-5, L411-6, L531-1, L531-2, L531-3, L531-4, L531-5, R122-1, R122-2, R126-1, R126-3, R126-4, R411-1, R531-1, R531-2, R531-3
+
+
+###### Article R231-2
+
+Le commissaire aux comptes est désigné par le ministre chargé des armées, en application de l'article L. 231-4 et par
+dérogation aux dispositions de l'article R. 125-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L231-4 (Ab)
+	  - Code de la mutualité - art. R125-4 (M)
+
+
+## Livre III : Réparation des risques sociaux
+
+### Titre Ier : Règles générales
+
+#### Chapitre unique
+
+###### Article R311-1
+
+Toute mutuelle doit justifier qu'elle dispose d'une marge financière de sécurité dont le montant minimum est fixé, par arrêté
+du ministre chargé de la mutualité, en valeur absolue ou en pourcentage du montant des cotisations nettes de réassurance.
+
+La marge de sécurité doit être constituée dans le délai de trois ans suivant la création de la mutuelle [*point de départ*].
+
+Si la marge de sécurité vient à être entamée, la mutuelle doit établir un plan tendant à sa reconstitution à l'échéance d'une
+année au plus.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R311-4 : non application des dispositions du présent titre.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°86-384 du 13 mars 1986 - art. 2 (V)
+	  - Décret n°90-768 du 30 août 1990 - art. 13 (V)
+	  - Décret n°88-385 du 15 avril 1988 - art. 1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R311-4 (T)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 1 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 10 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 11 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 12 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 13 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 14 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 2 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 3 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 4 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 5 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 6 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 7 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 8 (V)
+	  - TXT_SOURCE: Décret n°88-385 du 15 avril 1988 - art. Annexe, article 9 (V)
+
+
+###### Article R311-2
+
+Les mutuelles dont l'effectif est supérieur à 3500 personnes protégées ou qui gèrent au moins un établissement ou service [*à
+caractère sanitaire, médico-social ou culturel*] mentionné à l'article L. 411-1 doivent se garantir auprès d'une fédération
+mutualiste. Cette garantie doit être souscrite dans le délai de trois ans suivant la création de la mutuelle [*point de
+départ*].
+
+Une convention entre la fédération mutualiste gestionnaire et la mutuelle détermine les conditions de cette garantie.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R311-4 : non application des dispositions du présent titre.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°86-384 du 13 mars 1986 - art. 2 (V)
+	  - Code de la mutualité - art. R324-1 (Ab)
+	  - Décret n°88-385 du 15 avril 1988 - art. Annexe, article 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°93-688 du 27 mars 1993 - art. 2 () JORF 28 mars 1993
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L411-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R311-4 (T)
+
+
+###### Article R311-3
+
+Les règlements des systèmes de garantie sont approuvés par le ministre chargé de la mutualité dans les conditions prévues à
+l'article R. 122-1.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R311-4 : non application des dispositions du présent titre.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Abrogé par**:
+
+	  - Décret n°93-688 du 27 mars 1993 - art. 2 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Décret n°93-688 du 27 mars 1993 - art. 4 (V)
+	  - Code de la mutualité - art. R311-11 (P)
+	  - Code de la mutualité - art. R311-4 (P)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R122-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R311-4 (T)
+
+
+###### Article R311-4
+
+Les dispositions du présent titre ne sont pas applicables aux caisses autonomes mutualistes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Transféré par**:
+
+	  - Décret n°93-688 du 27 mars 1993 - art. 2 () JORF 28 mars 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R311-1 (M)
+	  - SPEC_APPLI: Code de la mutualité - art. R311-2 (Ab)
+	  - SPEC_APPLI: Code de la mutualité - art. R311-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la mutualité - art. R311-23 (M)
+
+
+### Titre II : Règles particulières aux caisses autonomes mutualistes
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R321-1
+
+Les règlements des caisses autonomes mutualistes et leurs modifications sont approuvés par le ministre chargé de la mutualité
+dans les conditions prévues à l'article R. 122-1 et à l'article R. 122-2 respectivement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Arrêté du 27 juillet 1988 - art. 7 (Ab)
+	  - Arrêté du 23 mars 1992 - art. 1 (V)
+	  - Arrêté du 26 décembre 1997 - art. 1 (V)
+	  - Arrêté du 24 mars 1998 - art. 1 (V)
+	  - Code de la mutualité - art. R321-2 (V)
+	  - Code de la mutualité - art. R321-4 (M)
+	  - Code de la mutualité - art. R322-3 (Ab)
+	  - Code de la mutualité - art. R322-4 (Ab)
+	  - Code de la mutualité - art. R322-5 (Ab)
+	  - Code de la mutualité - art. R325-5 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 27 juillet 1988 - art. 7 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R122-1 (Ab)
+	  - Code de la mutualité - art. R122-2 (Ab)
+
+
+## Livre IV : Action sociale
+
+### Titre unique
+
+#### Chapitre unique
+
+###### Article R411-1
+
+Les règlements et conventions de gestion des établissements ou services à caractère sanitaire, médico-social, social ou
+culturel doivent être déposés, contre récépissé, à la préfecture du département dans lequel est situé le siège social de la
+mutuelle. Ils sont soumis à l'approbation du commissaire de la République du département. Le délai mentionné au troisième
+alinéa de l'article L. 411-6 est de trois mois à compter de la date du récépissé de dépôt [*point de départ*].
+
+Ce délai peut être renouvelé une fois par décision motivée notifiée à la mutuelle avant l'expiration du délai normal
+[*renouvellement exprès*].
+
+Ces dispositions sont applicables aux modifications apportées aux règlements et conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L411-6 (Ab)
+
+
+## Livre V : Relations avec les collectivités publiques
+
+### Titre Ier : Organes administratifs de la mutualité
+
+#### Chapitre Ier : Conseil supérieur de la mutualité
+
+###### Article R511-1
+
+Le conseil supérieur de la mutualité est présidé par le ministre chargé de la mutualité. Il comprend :
+
+Deux membres du Parlement, soit un député et un sénateur, élus par leurs collègues ;
+
+Un membre du Conseil d'Etat, désigné par le vice-président ;
+
+Un représentant du ministre chargé de la mutualité ;
+
+Un représentant du ministre chargé de la sécurité sociale ;
+
+Un représentant du ministre chargé du travail ;
+
+Un représentant du ministre chargé de la santé ;
+
+Un représentant du ministre chargé de l'économie et des finances ;
+
+Un représentant du ministre chargé de l'intérieur ;
+
+Un représentant du ministre chargé de l'économie sociale ;
+
+Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+
+Trente représentants des groupements mutualistes, dont vingt-cinq représentant l'ensemble des mutuelles réparties par
+collèges régionaux et cinq représentant les activités mutualistes spécifiques, élus par les précédents ;
+
+Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux désignées par le ministre chargé de la
+mutualité et une par le ministre chargé des armées ;
+
+Un représentant de chaque confédération syndicale désignée ci-après :
+
+- confédération française démocratique du travail ;
+
+- confédération française des travailleurs chrétiens ;
+
+- confédération générale des cadres ;
+
+- confédération générale du travail ;
+
+- confédération générale du travail Force ouvrière ;
+
+Un représentant du conseil national du patronat français ;
+
+Un membre des professions de santé désigné par le ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+
+
+###### Article R511-3
+
+Sans préjudice des autres attributions qui lui sont conférées par le présent code, le conseil supérieur donne son avis sur
+les dispositions législatives ou réglementaires qui concernent le fonctionnement des mutuelles, présente au ministre chargé
+de la mutualité toutes suggestions concernant la mutualité et peut être saisi par le ministre de toute question relative à ce
+domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R511-4
+
+La section permanente du Conseil supérieur de la mutualité comprend trois membres désignés par le ministre chargé de la
+mutualité et quatre membres choisis parmi les représentants des groupements mutualistes et élus par eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+#### Chapitre II : Comités départementaux et régionaux de coordination de la mutualité
+
+###### Article R512-1
+
+Un comité départemental de coordination de la mutualité est placé auprès du commissaire de la République.
+
+Il est élu pour six ans [*durée du mandat*] par les mutuelles ayant leur siège dans le département, les sections des
+mutuelles à caractère professionnel ou interprofessionnel instituées dans le département dans les conditions prévues par
+l'article L. 221-1 ainsi que les sections, situées dans le département, qui sont prévues par les statuts d'une mutuelle et
+dotées d'un organe de gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+	  - Code de la mutualité - art. R513-1 (V)
+	  - Code de la mutualité - art. R513-4 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L221-1 (Ab)
+
+
+###### Article R512-2
+
+Sans préjudice des autres attributions qui lui sont conférées par le présent code, le comité départemental de coordination de
+la mutualité :
+
+1° Procède aux enquêtes et donne les avis qui lui sont demandés par le commissaire de la République ;
+
+2° Présente, chaque année [*périodicité*], au commissaire de la République un rapport sur le fonctionnement de l'ensemble des
+groupements mutualistes de son ressort, qui est également transmis au Conseil supérieur de la mutualité ;
+
+3° Est habilité à rechercher et signaler au commissaire de la République les manquements aux dispositions de l'article L.
+122-3, alinéa 2 ;
+
+4° Développe l'idée mutualiste et favorise les initiatives locales, notamment en matière de prévoyance et d'action sociale ;
+
+5° Peut proposer toutes mesures de fusion ou de transfert de services ou établissements sociaux en vue de coordonner l'action
+mutualiste dans son département ;
+
+6° Organise dans le cadre de sa circonscription l'affiliation des membres participants ayant changé de résidence ou provenant
+de mutuelles dissoutes ;
+
+7° Peut régler à l'amiable les différends survenus entre les groupements mutualistes exerçant leur activité dans sa
+circonscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L122-3 (Ab)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R512-4 (V)
+
+
+###### Article R512-3
+
+Lors de sa première réunion, le comité départemental de coordination de la mutualité procède à l'élection de son président et
+de son bureau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R512-4
+
+Il peut être créé, par arrêté du commissaire de la République de région, un comité régional de coordination de la mutualité.
+Ce comité est composé de délégués désignés par les membres des comités départementaux de coordination de la mutualité dans
+les conditions fixées par arrêté du commissaire de la République de région. Ses attributions sont celles prévues à l'article
+R. 512-2 (1°, 2°, 4° et 7°).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R512-2 (M)
+
+
+#### Chapitre III : Elections au conseil supérieur de la mutualité et aux comités départementaux de la mutualité
+
+##### Section 1 : Elections au conseil supérieur de la mutualité
+
+###### Article R513-1
+
+Sont éligibles au Conseil supérieur de la mutualité :
+
+- en qualité de représentants de l'ensemble des mutuelles réparties par collèges régionaux, les membres participants des
+conseils d'administration des mutuelles et unions ayant leur siège ou une section au sens de l'article R. 512-1 dans la
+circonscription régionale considérée :
+
+- au titre des activités mutualistes spécifiques, les membres participants des conseils d'administration des mutuelles,
+unions ou fédérations représentant ces activités.
+
+Les représentants qui, au cours de leur mandat, cessent de remplir les conditions d'éligibilité sont déclarés démissionnaires
+d'office par le ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R512-1 (M)
+
+
+###### Article R513-2
+
+Le ministre chargé de la mutualité fixe les dates des élections au Conseil supérieur par un arrêté publié au Journal officiel
+trois mois au moins avant ces dates [*délai*]. Le même arrêté désigne le commissaire de la République de région chargé de
+l'organisation de l'élection du représentant du vingt-troisième collège prévu par l'article R. 513-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-3 (M)
+
+
+###### Article R513-3
+
+Les vingt-cinq représentants de l'ensemble des mutuelles sont élus par des collèges régionaux :
+
+1er collège Ile-de-France ;
+
+2e collège Nord-Pas-de-Calais ;
+
+3e collège Picardie ;
+
+4e collège Champagne-Ardenne ;
+
+5e collège Lorraine ;
+
+6e collège Alsace ;
+
+7e collège Franche-Comté ;
+
+8e collège Bourgogne ;
+
+9e collège Centre ;
+
+10e collège Haute-Normandie ;
+
+11e collège Basse-Normandie ;
+
+12e collège Bretagne ;
+
+13e collège Pays de la Loire ;
+
+14e collège Poitou-Charentes ;
+
+15e collège Aquitaine ;
+
+16e collège Midi-Pyrénées ;
+
+17e collège Auvergne ;
+
+18e collège Languedoc-Roussillon ;
+
+19e collège Limousin ;
+
+20e collège Rhône-Alpes ;
+
+21e collège Provence-Alpes-Côte d'Azur ;
+
+22e collège Corse ;
+
+23e collège Guadeloupe-Martinique-Guyane-Réunion.
+
+Chaque collège régional élit à la majorité relative un représentant titulaire et un suppléant.
+
+Toutefois, le premier collège élit au scrutin de liste à la majorité relative et sans panachage, trois représentants
+titulaires et trois suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-10 (V)
+	  - Code de la mutualité - art. R513-2 (V)
+
+
+###### Article R513-4
+
+Sont électrices les mutuelles ayant leur siège social dans les départements formant la circonscription du collège régional et
+les sections de mutuelles définies à l'article R. 512-1 situées dans les mêmes départements [*condition d'électorat*].
+
+Les mutuelles et sections de mutuelles composant le collège électoral disposent d'un nombre de voix déterminé en fonction de
+l'effectif de leurs membres.
+
+Ce nombre de voix est de :
+
+Une voix jusqu'à 100 membres participants ;
+
+Deux voix de 101 à 500 membres participants ; 
+
+Trois voix de 501 à 1000 membres participants ;
+
+Quatre voix de 1001 à 5000 membres participants ;
+
+Cinq voix de 5001 à 8000 membres participants ;
+
+Six voix de 8001 à 10 000 membres participants ;
+
+Sept voix de 10 001 à 15 000 membres participants ;
+
+Huit voix de 15 001 à 20 000 membres participants ;
+
+Neuf voix de 20 001 à 30 000 membres participants ;
+
+Dix voix au-dessus de 30 000 membres participants.
+
+L'effectif à retenir est, pour les mutuelles qui ne disposent pas de sections, celui qui ressort de l'état mentionné à
+l'article R. 531-1.
+
+L'effectif des membres de chaque section est déclaré par la mutuelle concernée au commissaire de la République du département
+où est située la section.
+
+Les mutuelles comportant des sections disposent, dans le département où elles ont leur siège, d'un nombre de voix déterminé
+en fonction de l'effectif des membres qui ne relèvent pas de sections. Cet effectif fait également l'objet d'une déclaration
+adressée au commissaire de la République du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R512-1 (M)
+	  - Code de la mutualité - art. R531-1 (T)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-5 (V)
+
+
+###### Article R513-5
+
+Le commissaire de la République de chaque département établit, après avis du comité départemental de coordination de la
+mutualité, la liste des mutuelles et sections de mutuelles admises à participer aux opérations électorales. Cette liste
+indique le nombre de voix dont dispose chaque mutuelle ou section.
+
+Aucun groupement ne peut être inscrit sur ces listes s'il n'a pas fourni l'état ou les déclarations mentionnés à l'article
+précédent.
+
+La liste est révisée, au plus tard quatre-vingt-douze jours avant chaque scrutin [*date limite, délai*], après avis du comité
+départemental de coordination de la mutualité.
+
+Une réclamation peut être formée par toute mutuelle ou section de mutuelle ayant son siège dans le département en vue de son
+inscription sur la liste ou de la radiation d'un autre groupement. Cette réclamation est formée devant le commissaire de la
+République du département dans les quinze jours [*délai*] qui suivent la publication de l'arrêté établissant ou révisant la
+liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-20 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-4 (M)
+
+
+###### Article R513-6
+
+Les candidatures doivent être déclarées à la préfecture de région et comporter les noms du candidat et de son suppléant. Pour
+le troisième collège, les candidatures sont présentées sous forme de listes comportant les noms de trois candidats et de
+trois suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R513-7
+
+Aucune déclaration de candidature ne peut être enregistrée après le quarante-cinquième jour qui précède la date des
+élections.
+
+Aucun retrait de candidature n'est admis après le trentième jour qui précède le scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-14 (V)
+	  - Code de la mutualité - art. R513-21 (V)
+
+
+###### Article R513-8
+
+Le commissaire de la République de région fait connaître aux électeurs les candidatures déclarées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R513-9
+
+Le conseil d'administration de chaque mutuelle ou l'organe de gestion de chaque section de mutuelle délibère sur les votes à
+émettre.
+
+En exécution de cette délibération, chaque mutuelle ou section adresse au commissaire de la République du département un
+nombre de bulletins de vote égal au nombre de voix dont elle dispose. Les bulletins comportent, à l'exclusion de toute autre
+mention :
+
+- la mention "Election au Conseil supérieur de la mutualité" ;
+
+- les noms des candidats.
+
+Chaque bulletin est placé sous enveloppe close ne portant aucun signe ni inscription. Toutes les enveloppes sont réunies dans
+une enveloppe close, paraphée par le président et indiquant l'élection à laquelle se rapportent les bulletins transmis ainsi
+que le nom et le siège de l'organisme électeur.
+
+Les bulletins de vote doivent parvenir à la préfecture de département au plus tard à la date fixée pour les élections.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-10 (V)
+	  - Code de la mutualité - art. R513-22 (V)
+
+
+###### Article R513-10
+
+Sont nuls les bulletins de vote qui ne respectent pas les règles énoncées aux articles R. 513-3 et R. 513-9 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-22 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-3 (M)
+	  - Code de la mutualité - art. R513-9 (M)
+
+
+###### Article R513-11
+
+Une commission présidée par le commissaire de la République du département ou son représentant et composée de trois
+présidents de mutuelle désignés par arrêté du commissaire de la République procède au recensement des envois effectués et au
+dépouillement des votes dans les trois jours [*délai*] qui suivent l'élection, dans les conditions prévues aux articles L. 65
+et L. 66 du Code électoral.
+
+Lorsqu'un électeur a envoyé un nombre d'enveloppes supérieur à celui des voix dont il dispose, la commission procède au
+retrait d'un nombre d'enveloppes égal à cet excédent. Les enveloppes sont annexées au procès-verbal sans avoir été ouvertes.
+Si les enveloppes sont en nombre inférieur à celui des voix dont dispose l'organisme, toutes sont prises en compte.
+
+Le commissaire de la République du département adresse, dans les vingt-quatre heures, au commissaire de la République de
+région le procès-verbal consignant les résultats du scrutin concernant l'élection des représentants au Conseil supérieur de
+la mutualité.
+
+Le commissaire de la République de région procède à la centralisation des résultats des votes dans un procès-verbal et
+l'adresse dans les vingt-quatre heures au ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code électoral - art. L65 (M)
+	  - Code électoral - art. L66 (V)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-23 (V)
+
+
+###### Article R513-12
+
+Une commission composée de trois présidents de groupement mutualiste désignés par le ministre chargé de la mutualité procède
+à la centralisation des résultats, établit un procès-verbal et proclame les résultats de l'élection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-17 (V)
+
+
+###### Article R513-13
+
+Les cinq représentants des activités mutualistes spécifiques comprennent :
+
+Un représentant de l'action sociale mutualiste ;
+
+Un représentant des caisses autonomes mutualistes ;
+
+Un représentant des mutuelles d'entreprise et interentreprises ;
+
+Un représentant des mutuelles de fonctionnaires ;
+
+Un représentant des mutuelles de travailleurs indépendants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R513-14
+
+Un représentant titulaire et un représentant suppléant sont élus à la majorité relative au titre de chaque activité
+spécifique par les représentants élus des collèges régionaux.
+
+Pour chaque activité spécifique, les candidatures sont présentées par les unions ou fédérations représentant, à titre
+exclusif ou non, cette activité.
+
+Les candidatures sont adressées au ministre chargé de la mutualité dans les délais prévus à l'article R. 513-7, ainsi que les
+bulletins de vote correspondants, en nombre suffisant pour être proposés aux vingt-cinq électeurs. Ces bulletins de vote
+comportent exclusivement la dénomination de l'activité spécifique concernée et les noms d'un candidat représentant titulaire
+et d'un candidat représentant suppléant.
+
+Le ministre chargé de la mutualité transmet les bulletins correspondant aux différentes déclarations de candidature à chacun
+des vingt-cinq électeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-16 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-7 (M)
+
+
+###### Article R513-15
+
+Chaque électeur adresse au ministre chargé de la mutualité les cinq bulletins de vote exprimant ses suffrages pour chacune
+des activités spécifiques.
+
+Les bulletins sont placés dans une enveloppe ne portant ni signe ni inscription et adressés au ministre sous enveloppe
+portant le nom et la signature de l'électeur.
+
+Les bulletins de vote doivent parvenir au ministre au plus tard à la date fixée pour les élections.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R513-16 (V)
+
+
+###### Article R513-16
+
+Sont nuls les bulletins qui ne respectent pas les règles énoncées aux articles R. 513-14 et R. 513-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-14 (M)
+	  - Code de la mutualité - art. R513-15 (M)
+
+
+##### Section Ier : Elections au conseil supérieur de la mutualité
+
+###### Article R513-17
+
+La commission mentionnée à l'article R. 513-12 procède au dépouillement des votes dans les conditions prévues aux articles L.
+65 et L. 66 du code électoral, établit un procès-verbal et proclame les résultats du scrutin.
+
+La liste des membres du Conseil supérieur de la mutualité est publiée au Journal officiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code électoral - art. L65 (M)
+	  - Code électoral - art. L66 (V)
+	  - Code de la mutualité - art. R513-12 (M)
+
+
+##### Section 2 : Elections aux comités départementaux de coordination de la mutualité
+
+###### Article R513-18
+
+L'élection des membres des comités départementaux de coordination de la mutualité se déroule en même temps que celle des
+représentants des collèges régionaux des mutuelles au Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+###### Article R513-19
+
+Sont éligibles au comité départemental de coordination de la mutualité les membres participants des conseils d'administration
+des mutuelles et unions ayant leur siège ou une section dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+
+
+###### Article R513-20
+
+Le collège électoral est composé des mutuelles et sections de mutuelles inscrites sur la liste mentionnée à l'article R.
+513-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-5 (M)
+
+
+###### Article R513-21
+
+Les candidatures sont déclarées à la préfecture du département dans le délai prévu à l'article R. 513-7 sous forme de listes
+comportant les noms des candidats représentants titulaires et des candidats représentants suppléants, en nombre égal à celui
+des sièges à pourvoir. Le commissaire de la République de département fait connaître aux électeurs les candidatures
+déclarées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-7 (M)
+
+
+###### Article R513-22
+
+Les opérations électorales se déroulent conformément aux dispositions des articles R. 513-9 et R. 513-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-10 (M)
+	  - Code de la mutualité - art. R513-9 (M)
+
+
+###### Article R513-23
+
+Le dépouillement des votes s'effectue conformément aux dispositions des trois premiers alinéas de l'article R. 513-11. Le
+commissaire de la République [*autorité compétente*] publie la liste des membres du comité départemental.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R513-11 (M)
+
+
+###### Article R513-24
+
+Les membres du comité départemental de coordination de la mutualité sont déclarés démissionnaires d'office par le commissaire
+de la République lorsque, au cours de leur mandat, ils cessent de remplir les conditions exigées pour être éligibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+
+##### Section 3 : Contentieux des opérations électorales
+
+###### Article R513-25
+
+Les dispositions de l'article R. 125-3 sont applicables aux contestations relatives à la régularité des opérations
+électorales pour la désignation des membres du Conseil supérieur de la mutualité et des membres des comités de coordination
+de la mutualité.
+
+Ces contestations sont portées devant le tribunal d'instance du lieu de proclamation des résultats [*juridiction
+compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R125-3 (M)
+
+
+### Titre II : Incitation à l'action mutualiste
+
+#### Chapitre III : Subventions
+
+###### Article R523-1
+
+Le ministre chargé de la mutualité et le ministre chargé des finances déterminent le programme d'expériences et de
+réalisations mutualistes pouvant donner lieu à subventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
+
+
+###### Article R523-2
+
+L'Etat peut accorder aux mutuelles constituées entre les fonctionnaires, agents et employés de l'Etat et des établissements
+publics nationaux des subventions destinées notamment à développer leur action sociale et, dans les conditions fixées par
+arrêté du ministre chargé de la mutualité et du ministre chargé des finances, à participer à la couverture des risques
+sociaux assurée par ces mutuelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
+
+
+### Titre III : Contrôle
+
+#### Chapitre unique
+
+###### Article R531-1
+
+Dans les trois premiers mois de chaque année [*délai, périodicité*], les mutuelles doivent adresser aux commissaires de la
+République, dans les formes déterminées par le ministre chargé de la mutualité, un état de leurs effectifs, de leurs
+placements de fonds, de leurs recettes et dépenses y compris celles des établissements, oeuvres ou services créés ou gérés
+par elles.
+
+Le ministre chargé de la mutualité peut faire procéder au contrôle sur place des opérations des mutuelles par les membres de
+l'inspection générale des affaires sociales, par les agents de contrôle de ses services extérieurs ou par les fonctionnaires
+de son choix.
+
+Le ministre chargé des finances peut également faire procéder aux mêmes vérifications par l'inspection générale des finances
+et par les comptables supérieurs du Trésor.
+
+Le commissaire de la République peut faire procéder aux mêmes vérifications sur les mutuelles soumises à son contrôle par les
+agents de contrôle des services extérieurs susmentionnés.
+
+Les mutuelles sont tenues [*obligation*] de communiquer aux fonctionnaires et agents chargés du contrôle sur pièce ou sur
+place leurs livres registres, procès-verbaux et pièces comptables de toute nature.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Transféré par**:
+
+	  - Décret n°92-328 du 30 mars 1992 - art. 2 () JORF 1er avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la mutualité - art. R124-9 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-1 (V)
+	  - Code de la mutualité - art. R513-4 (V)
+
+
+###### Article R531-2
+
+L'autorité administrative compétente pour engager les procédures prévues aux articles L. 531-2, L. 531-3 et L. 531-4 est
+déterminée suivant les dispositions de l'article R. 122-1.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L531-2 (M)
+	  - Code de la mutualité - art. L531-3 (M)
+	  - Code de la mutualité - art. L531-4 (M)
+	  - Code de la mutualité - art. R122-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-1 (V)
+
+
+###### Article R531-3
+
+Le retrait d'approbation prévu à l'article L. 531-5 est prononcé par arrêté motivé du ministre chargé de la mutualité, après
+avis de la section permanente du Conseil supérieur de la mutualité.
+
+En cas de recours contentieux devant la juridiction administrative, les opérations de liquidation sont suspendues jusqu'à ce
+que cette juridiction ait rendu une décision définitive.
+
+**Nota:**
+
+[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L531-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R231-1 (V)
+
+
+### Titre IV : Dispositions pénales
+
+#### Chapitre unique
+
+###### Article R541-1
+
+Sont punis de la peine d'amende prévue pour les contraventions de la cinquième classe :
+
+1° Toute personne qui, à quelque titre que ce soit, participe à l'administration ou à la direction d'un groupement soumis aux
+dispositions du présent code et fonctionnant sous la dénomination de mutuelle sans que ses statuts aient été approuvés en
+application de l'article L. 122-5 ;
+
+2° Toute personne qui participe à l'administration ou à la direction d'un groupement pratiquant des opérations régies par le
+présent code, au cas où ce groupement ne se serait pas conformé à l'article L. 111-2 ;
+
+3° Les présidents, les administrateurs ou directeurs de mutuelles qui se rendent coupables d'infractions aux articles L.
+121-2, L. 122-7, L. 124-6, L. 124-7, L. 125-3, L. 125-5, L. 125-7, L. 125-8, L. 125-9, L. 125-10, L. 321-1, L. 321-2 et L.
+411-6 et aux textes pris pour l'application de ces dispositions  ;
+
+4° Les présidents, les administrateurs ou directeurs de groupements enfreignant les dispositions de l'article L. 122-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-2 (M)
+	  - Code de la mutualité - art. L121-2 (Ab)
+	  - Code de la mutualité - art. L122-3 (Ab)
+	  - Code de la mutualité - art. L122-5 (Ab)
+	  - Code de la mutualité - art. L122-7 (Ab)
+	  - Code de la mutualité - art. L124-6 (Ab)
+	  - Code de la mutualité - art. L124-7 (Ab)
+	  - Code de la mutualité - art. L125-10 (Ab)
+	  - Code de la mutualité - art. L125-3 (Ab)
+	  - Code de la mutualité - art. L125-5 (Ab)
+	  - Code de la mutualité - art. L125-7 (Ab)
+	  - Code de la mutualité - art. L125-8 (Ab)
+	  - Code de la mutualité - art. L125-9 (Ab)
+	  - Code de la mutualité - art. L321-1 (Ab)
+	  - Code de la mutualité - art. L321-2 (Ab)
+	  - Code de la mutualité - art. L411-6 (Ab)
+
+
+## Livre V : Relations les collectivités publiques
+
+### Titre Ier : Organes administratifs de la mutualité
+
+#### Chapitre Ier : Conseil supérieur de la mutualité
+
+###### Article R511-2
+
+La durée du mandat des membres du conseil est de six ans. Les fonctions de membre du Conseil supérieur de la mutualité sont
+gratuites.
+
+Le conseil choisit, parmi ses membres, deux vice-présidents et un trésorier.
+
+Il est convoqué par le ministre chargé de la mutualité au moins une fois par an.
+
+Le ministre désigne un fonctionnaire comme secrétaire général du conseil supérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
 

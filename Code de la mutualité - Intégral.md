@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2002-12-17
+Version Consolidée au 2002-12-29
 
 # Partie législative
 
@@ -13077,6 +13077,31 @@ catégorie ayant la même provision mathématique.
 	**Abrogé par**:
 
 	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+
+### Titre II : Opérations des mutuelles et des unions.
+
+#### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation
+
+##### Section 1 : Dispositions générales
+
+###### Article D223-1
+
+Le plafond mentionné à l'article L. 223-9 ne peut être inférieur à 120 000 Euros.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L223-9
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1571 du 24 décembre 2002 - art. 1 () JORF 29 décembre 2002
 
 
 # Partie réglementaire - Arrêtés

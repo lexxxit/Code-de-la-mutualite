@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2003-01-08
+Version Consolidée au 2003-03-22
 
 # Partie législative
 
@@ -7189,6 +7189,30 @@ b) Un mandat donné pour une assemblée vaut pour les assemblées tenues sur deu
 	**Cite**:
 
 	  - Code de la mutualité - art. L114-12 (V)
+
+
+#### Section 5 : Dispositions relatives aux fonctions d'administrateur.
+
+###### Article R114-8
+
+Lorsque la mutuelle ou l'union pratique les opérations mentionnées à l'article L. 222-2 ou est constituée majoritairement de
+retraités, la limite d'âge à l'exercice des fonctions d'administrateur ne peut être supérieure à 75 ans. Les statuts peuvent
+prévoir que cette limite s'applique à tous les administrateurs ou seulement à une partie d'entre eux qui ne saurait être
+inférieure à un tiers des membres du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2003-264 du 20 mars 2003 - art. 1 () JORF 22 mars 2003
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L222-2 (V)
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.

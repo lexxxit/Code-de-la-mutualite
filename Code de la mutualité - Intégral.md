@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1992-04-01
+Version Consolidée au 1992-09-17
 
 # Partie législative
 
@@ -4765,10 +4765,6 @@ l'article L. 126-5.
 
 ###### Article R326-2
 
-Le ministre chargé de la mutualité peut retirer l'approbation, après avis de la section permanente du Conseil supérieur de la
-mutualité, en cas d'irrégularité grave constatée dans le fonctionnement de la caisse autonome, de difficultés financières
-graves ou de non-exécution du plan de redressement prévu à l'article R. 322-8.
-
 La procédure de retrait d'approbation comporte une mise en demeure au groupement gestionnaire de la caisse autonome de
 présenter ses observations par écrit dans le délai de un mois.
 
@@ -4778,18 +4774,14 @@ présenter ses observations par écrit dans le délai de un mois.
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-574 du 5 mai 1988 - art. 1 () JORF 7 mai 1988 en vigueur le 1er août 1988
+	  - Décret n°92-989 du 14 septembre 1992 - art. 2 (V) JORF 17 septembre 1992
 
 	**Cité par**:
 
 	  - Décret n°92-989 du 14 septembre 1992 - art. 2 (V)
 	  - Code de la mutualité - art. R321-3 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R322-8 (M)
 
 
 ###### Article R326-3
@@ -5732,9 +5724,9 @@ sociaux assurée par ces mutuelles.
 	  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
-### Titre III : Commission de contrôle
+### Titre III : Contrôle
 
-#### Chapitre unique
+#### Chapitre Ier : Commission de contrôle
 
 ###### Article R531-1
 
@@ -5754,7 +5746,7 @@ En matière disciplinaire, elle ne peut délibérer que si quatre, au moins, de 
 
 	**Modifié par**:
 
-	  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+	  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 	**Cite**:
 
@@ -5796,7 +5788,7 @@ Copie de la lettre de notification est adressée au commissaire du Gouvernement.
 
 	**Modifié par**:
 
-	  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+	  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 	**Cite**:
 
@@ -5831,7 +5823,7 @@ Il peut se faire assister ou représenter par toute personne de son choix.
 
 	**Modifié par**:
 
-	  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+	  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 	**Liens**:
 
@@ -5854,19 +5846,15 @@ Le secrétaire général et le commissaire du Gouvernement peuvent présenter de
 Le représentant de la mutuelle et, le cas échéant, son conseil doivent dans tous les cas pouvoir prendre la parole en
 dernier.
 
-**Nota:**
-
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+	  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 	**Cite**:
 
@@ -5882,19 +5870,15 @@ dernier.
 En matière disciplinaire la décision est prise en la seule présence du président, des membres de la commission, du secrétaire
 général et du commissaire du Gouvernement. La décision est signée du président.
 
-**Nota:**
-
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+	  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
 	**Liens**:
 
@@ -5906,11 +5890,47 @@ général et du commissaire du Gouvernement. La décision est signée du présid
 La décision de la commission de contrôle en matière disciplinaire est notifiée à la mutuelle concernée par lettre recommandée
 avec demande d'avis de réception.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+
+
+#### Chapitre II : Contrôle exercé au niveau régional
+
+###### Article R531-7
+
+Le contrôle des mutuelles mentionnées au deuxième alinéa de l'article L. 531-1 est exercé par le préfet de la région où est
+établi le siège social de l'organisme. Les attributions et pouvoirs du préfet de région à l'égard de ces mutuelles sont ceux
+qui sont conférés à la commission de contrôle par les articles L. 531-1 à L. 531-4 et L. 531-6.
+
+Afin de mettre la commission de contrôle en mesure d'exercer, le cas échéant, son pouvoir d'évocation, le préfet l'informe
+régulièrement des opérations de contrôle qu'il entreprend. Il l'informe notamment de toute mise en oeuvre des dispositions
+contenues dans les articles L. 531-2 à L. 531-4. Il peut en outre proposer à ladite commission d'engager à l'encontre d'une
+mutuelle la procédure disciplinaire prévue à l'article L. 531-5.
+
 **Nota:**
 
-[*NOTA : Code de la mutualité R231-1 : Application aux mutuelles de militaires.*]
+[*Nota - Arrêté du 14 septembre 1992 : Les dispositions de l'article R. 531-7 du code de la mutualité s'appliquent aux
+mutuelles, autres que les fédérations et les groupements mutualistes gérant une caisse autonome, dont les prestations versées
+en 1990 ont été inférieures à un montant de cent cinquante millions de francs.*]
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1992-09-14
+	  - TXT_SOURCE: Arrêté du 14 septembre 1992
+	  - TXT_SOURCE: Arrêté du 14 septembre 1992 - art. 1 (V)
 
 	**Codifié par**:
 
@@ -5918,11 +5938,18 @@ avec demande d'avis de réception.
 
 	**Créé par**:
 
-	  - Décret n°92-328 du 30 mars 1992 - art. 3 () JORF 1er avril 1992
+	  - Décret n°92-989 du 14 septembre 1992 - art. 1 () JORF 17 septembre 1992
 
-	**Liens**:
+	**Cité par**:
 
-	  - SPEC_APPLI: Code de la mutualité - art. R213-1 (M)
+	  - Arrêté du 14 septembre 1992 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L531-1 (M)
+	  - Code de la mutualité - art. L531-5 (M)
+	  - Code de la mutualité - art. L531-6 (Ab)
+	  - Code de la mutualité L531-1, L531-1 à L531-4, L531-6, L531-2 à L531-4, L531-5
 
 
 ### Titre IV : Dispositions pénales

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-07
 
 # Partie législative
 
@@ -8670,9 +8670,74 @@ d'avis de réception ou remise contre récépissé, à la mutuelle ou à l'union
 
 ###### Article R211-15
 
-La décision de retrait de l'agrément administratif est publiée.
+La décision de retrait de l'agrément administratif est publiée au Journal officiel de la République française ainsi qu'au
+Journal officiel de l'Union européenne.
+
+Cette publication est assurée, selon le cas, par la commission de contrôle mentionnée à l'article L. 510-1 ou par l'autorité
+administrative mentionnée à l'article R. 211-7. Elle précise le nom et les coordonnées des autorités compétentes pour les
+besoins de la liquidation et, le cas échéant, du ou des liquidateurs désignés. Elle indique également la législation qui est
+applicable à cette liquidation.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, R211-7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R211-15 (V)
+
+
+###### Article R211-15-1
+
+I. - En cas de retrait de l'agrément administratif accordé à une mutuelle ou une union de mutuelles et dans un délai de vingt
+jours à compter du lendemain du jour de la publication au Journal officiel de la République française de la décision de
+l'autorité administrative compétente en matière d'agrément prononçant le retrait d'agrément, chaque membre participant est
+avisé de ce retrait d'agrément par le liquidateur ou, en attendant la désignation du liquidateur, par le président du conseil
+d'administration de la mutuelle ou de l'union de mutuelles, ou son représentant.
+
+Cet avis, qui rappelle la législation applicable, est adressé par lettre recommandée au dernier domicile connu du membre
+participant.
+
+Lorsque le membre participant n'est pas l'assuré ou le bénéficiaire de l'adhésion, l'information est aussi adressée aux
+assurés ou bénéficiaires connus.
+
+Cet avis rappelle les dispositions des articles L. 212-16 et L. 212-18 et indique, s'il y a lieu, l'autorité auprès de
+laquelle les souscripteurs, assurés, adhérents et bénéficiaires de contrats peuvent présenter leurs observations relatives
+aux créances et précise, le cas échéant, les délais pour ce faire et les conséquences d'une non-observation des délais.
+
+Les avis individuels doivent être préparés sous la responsabilité des administrateurs de la mutuelle ou de l'union, dès lors
+que l'injonction en est adressée par l'autorité qui retire l'agrément.
+
+Lorsque le créancier d'assurance connu a sa résidence habituelle, son domicile ou son siège statutaire dans un Etat membre de
+la Communauté européenne ou partie à l'accord sur l'Espace économique européen autre que la France, l'avis est également
+rédigé dans la langue officielle ou l'une des langues officielles de cet Etat.
+
+II. - Lorsque le retrait d'agrément concerne une mutuelle ou une union agréée pour réaliser des opérations visées aux a, c,
+d, e du 1° du I de l'article L. 111-1, l'avis mentionné au I du présent article reproduit le texte de l'article L. 212-20 et
+précise la date à laquelle l'adhésion au règlement cessera de produire effet.
+
+III. - Lorsque le retrait d'agrément concerne une mutuelle ou une union réalisant des opérations visées au b du 1° du I de
+l'article L. 111-1, l'avis mentionné au I du présent article reproduit le texte des articles L. 212-19 et L. 212-21. Le cas
+échéant, chaque membre participant ou ayant droit est par ailleurs informé, dans les mêmes conditions, des décisions prises
+par la commission de contrôle en application du deuxième alinéa de l'article L. 212-21. Lorsque la décision de la commission
+a pour effet de fixer la date à laquelle les bulletins d'adhésion cessent d'avoir effet, cette communication intervient au
+plus tard vingt jours avant la date de cessation des effets du bulletin d'adhésion.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L212-16, L212-18, L111-1, L212-20, L212-19, L212-21
 
 	**Liens**:
 
@@ -8680,11 +8745,11 @@ La décision de retrait de l'agrément administratif est publiée.
 
 	**Créé par**:
 
-	  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 	**Cité par**:
 
-	  - Code de la mutualité - art. R211-15 (V)
+	  - Code de la mutualité - art. R510-8 (VT)
 
 
 ###### Article R211-16
@@ -8713,26 +8778,23 @@ autorisé dans les conditions prévues à l'article L. 212-11.
 
 ###### Article R211-17
 
-Si le retrait d'agrément prévu à l'article L. 211-9 ou au 6° du premier alinéa de l'article L. 510-11 concerne une mutuelle
-ou une union opérant également sur le territoire d'autres Etats membres de la Communauté européenne ou parties à l'accord sur
-l'Espace économique européen, l'autorité administrative mentionnée à l'article R. 211-7 ou la commission de contrôle, selon
-le cas, informe les autorités de contrôle de ces Etats.
+En cas de retrait d'agrément prévu à l'article L. 211-9 ou au 6° du premier alinéa de l'article L. 510-11, l'autorité
+administrative mentionnée à l'article R. 211-7 ou la commission de contrôle, selon le cas, informe d'urgence les autorités
+compétentes des autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L211-9, L510-11, R211-7
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1107 du 23 novembre 2001 - art. 2 () JORF 25 novembre 2001
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-9 (V)
-	  - Code de la mutualité - art. L510-11 (M)
-	  - Code de la mutualité - art. R211-7 (V)
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 ###### Article R211-18
@@ -8994,12 +9056,12 @@ Les bulletins d'adhésion et les contrats collectifs au sens de l'article L. 221
 concernées par la convention de substitution, auprès d'un organisme régi par les dispositions de l'article R. 211-26
 contiennent en caractères très apparents la désignation de l'adresse de la mutuelle ou de l'union qui est substituée à cet
 organisme et reproduisent la clause de la convention par laquelle cette mutuelle ou union déclare se substituer à lui pour la
-constitution des garanties et pour l'exécution des engagements.
+constitution des garanties et pour l'exécution des engagements. 
 
 Ils doivent également préciser que, si l'agrément accordé à la mutuelle ou à l'union qui se substitue lui est retiré, le
-bulletin d'adhésion ou le contrat collectif mentionné à l'article L. 221-1 sera résilié le dixième jour à midi à compter de
-la date de la publication de la décision du retrait d'agrément, la portion de cotisation afférente à la période non garantie
-étant alors restituée au souscripteur.
+bulletin d'adhésion ou le contrat collectif mentionné à l'article L. 221-1 sera résilié le quarantième jour à midi à compter
+de la date de la publication de la décision du retrait d'agrément, la portion de cotisation afférente à la période non
+garantie étant alors restituée au souscripteur.
 
 **Liens relatifs à cet article**
 
@@ -9007,14 +9069,14 @@ la date de la publication de la décision du retrait d'agrément, la portion de 
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L221-1 (Ab)
-	  - Code de la mutualité - art. R211-26 (M)
+	  - Code de la mutualité - art. L221-1 (V)
+	  - Code de la mutualité - art. R211-26 (V)
 
 
 ##### Section 5 : Contrôle interne
@@ -14517,7 +14579,7 @@ mutuelle ou l'union concernée.
 	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 
-#### Section 2 : Mesures de redressement et sauvegarde
+#### Section 2 : Mesures de sauvegarde et d'assainissement
 
 ###### Article R510-3
 
@@ -14560,7 +14622,7 @@ e) La politique générale en matière de réassurance.
 
 	**Modifié par**:
 
-	  - Décret n°2004-486 du 28 mai 2004 - art. 3 () JORF 5 juin 2004
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 	**Cité par**:
 
@@ -14621,9 +14683,9 @@ contrôle peut limiter la réduction de marge de solvabilité prévue aux articl
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-486 du 28 mai 2004 - art. 3 () JORF 5 juin 2004
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 ###### Article R510-4
@@ -14643,13 +14705,13 @@ et L. 510-11.
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
-
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-
 	**Cité par**:
 
 	  - Décret n°2004-486 du 28 mai 2004 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 ###### Article R510-5
@@ -14670,13 +14732,13 @@ d'un mois.
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
-
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-
 	**Cité par**:
 
 	  - Décret n°2004-486 du 28 mai 2004 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 ###### Article R510-6
@@ -14696,9 +14758,9 @@ l'union sont mis à même d'être entendus. Ils peuvent se faire assister ou rep
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 ###### Article R510-7
@@ -14719,37 +14781,57 @@ I de l'article R. 510-3.
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 ###### Article R510-8
 
-Lorsqu'elle restreint ou interdit la libre disposition de tout ou partie des actifs d'une mutuelle ou d'une union, la
-commission de contrôle informe, s'il y a lieu, les autorités compétentes des Etats membres de la Communauté européenne ou
-parties à l'accord sur l'Espace économique européen et peut leur demander de prendre les mesures nécessaires pour restreindre
-ou interdire dans les mêmes conditions, selon le droit de ces Etats, la libre disposition des actifs de la mutuelle ou de
-l'union concernée situés dans ces Etats.
+I. - Lorsqu'elle décide de mettre en oeuvre l'une des mesures d'assainissement définies à l'article L. 212-27, la commission
+de contrôle mentionnée à l'article L. 510-1 :
+
+1° En informe d'urgence les autorités compétentes des autres Etats membres de la Communauté européenne ou parties à l'accord
+sur l'Espace économique européen ;
+
+2° Procède à la publication de cette décision au Journal officiel de la République française ainsi qu'au Journal officiel de
+l'Union européenne.
+
+Cette publication précise le nom et les coordonnées des autorités compétentes pour les besoins des mesures d'assainissement.
+Elle indique également la législation qui est applicable à ces mesures d'assainissement.
+
+Cette publication n'est pas requise lorsque les mesures d'assainissement affectent exclusivement les droits des membres
+adhérents, des membres participants et des membres honoraires lorsqu'ils sont responsables de la gestion de la mutuelle ou de
+l'union de mutuelles, ou des employés de celles-ci considérés en tant que tels. Dans ce cas, la commission de contrôle prend
+les dispositions nécessaires à une information rapide des seuls intéressés ;
+
+3° Notifie sa décision aux créanciers connus dans les conditions définies à l'article R. 211-15-1. Lorsqu'un administrateur
+provisoire a été nommé, il lui appartient de procéder à cette notification.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L212-27, L510-1, R211-15-1
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2005-8 2005-01-05 art. 2 I, III JORF 7 janvier 2005
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 ###### Article R510-9
 
-Dans le cas mentionné à l'article R. 510-8, la commission de contrôle peut prescrire par lettre recommandée à toute société
-ou collectivité émettrice ou dépositaire de refuser l'exécution de toute opération portant sur des comptes ou des titres
-appartenant à la mutuelle ou à l'union intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres
-ou subordonner l'exécution de ces opérations au visa préalable d'un des agents mentionnés à l'article L. 951-4 du code de la
-sécurité sociale ou de toute personne qu'elle accréditera à cet effet.
+Lorsqu'elle est amenée à restreindre ou interdire la libre disposition de tout ou partie des actifs d'une mutuelle ou d'une
+union, la commission de contrôle peut prescrire par lettre recommandée à toute société ou collectivité émettrice ou
+dépositaire de refuser l'exécution de toute opération portant sur des comptes ou des titres appartenant à la mutuelle ou à
+l'union intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres ou subordonner l'exécution de
+ces opérations au visa préalable d'un des agents mentionnés à l'article L. 951-4 du code de la sécurité sociale ou de toute
+personne qu'elle accréditera à cet effet.
 
 La commission peut, en outre, faire inscrire sur les immeubles de la mutuelle ou de l'union l'hypothèque mentionnée à
 l'article L. 212-24 ; elle peut prescrire aux conservateurs des hypothèques, par lettre recommandée, de refuser la
@@ -14771,16 +14853,17 @@ des sanctions prévues à l'article R. 510-19.
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R510-8, L212-24, R510-19
+	  - Code de la mutualité (nouveau) L212-24, R510-19
 	  - Code de la sécurité sociale. - art. L951-4 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2005-8 2005-01-05 art. 2 I, II JORF 7 janvier 2005
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 	**Cité par**:
 
@@ -14798,9 +14881,9 @@ paiement des valeurs de rachat ou le versement d'avances sur les bulletins d'adh
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
 
 
 #### Section 3 : Procédure disciplinaire

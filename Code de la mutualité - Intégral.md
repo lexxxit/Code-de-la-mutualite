@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2003-06-14
+Version Consolidée au 2003-08-02
 
 # Partie législative
 
@@ -618,18 +618,28 @@ documents utiles et procéder aux vérifications nécessaires.
 La dissolution d'une mutuelle, union ou fédération est prononcée par l'assemblée générale dans les conditions prévues au I de
 l'article L. 114-12.
 
-A défaut de réunion de celle-ci malgré deux convocations successives, la dissolution peut être prononcée par la commission de
-contrôle mentionnée à l'article L. 510-1.
-
 L'excédent de l'actif net sur le passif est dévolu, par décision de l'assemblée générale statuant dans les conditions prévues
 au I de l'article L. 114-12 à d'autres mutuelles, unions ou fédérations ou au fonds de solidarité et d'action mutualistes
-mentionné à l'article L. 421-1 ou au fonds de garantie mentionné à l'article L. 431-1.
+mentionné à l'article L. 421-1 ou au fonds de garantie mentionné à l'article L. 431-1. A défaut de dévolution, par
+l'assemblée générale ayant prononcé la dissolution, de l'excédent de l'actif net sur le passif, celui-ci est affecté au fonds
+de garantie mentionné à l'article L. 431-1.
+
+A défaut de réunion de l'assemblée générale durant deux années civiles consécutives, la dissolution peut être prononcée par
+la commission de contrôle mentionnée à l'article L. 510-1, qui nomme un liquidateur. L'excédent de l'actif net sur le passif
+est dévolu au fonds de garantie mentionné à l'article L. 431-1.
+
+A défaut de décision de l'assemblée générale dans les cas de dissolution visés à l'article L. 212-16, l'excédent de l'actif
+net sur le passif est affecté au fonds de garantie mentionné à l'article L. 431-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 90 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -640,6 +650,7 @@ mentionné à l'article L. 421-1 ou au fonds de garantie mentionné à l'article
 	**Cite**:
 
 	  - Code de la mutualité - art. L114-12 (V)
+	  - Code de la mutualité - art. L212-16 (M)
 	  - Code de la mutualité - art. L421-1 (V)
 	  - Code de la mutualité - art. L431-1 (V)
 	  - Code de la mutualité - art. L510-1 (M)
@@ -3202,104 +3213,22 @@ compétentes de cet Etat.
 	  - Code de la mutualité - art. L212-7-2 (VT)
 
 
-##### Section 2 : Création de succursales dans les Etats membres de la Communauté européenne et les Etats parties à l'accord sur l'Espace économique européen.
-
-###### Article L212-8
-
-Toute mutuelle ou union, agréée conformément aux dispositions des articles L. 211-7 et L. 211-8 et désirant ouvrir une
-succursale dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen, en informe l'autorité administrative qui lui a délivré l'agrément et lui transmet les documents dont la liste est
-fixée par arrêté.
-
-L'autorité administrative transmet ces informations à l'autorité compétente de l'Etat sur le territoire duquel il est proposé
-d'ouvrir la succursale dans les trois mois de la réception du dossier complet. Elle informe de cette transmission la mutuelle
-ou l'union qui peut alors ouvrir la succursale dans des délais et conditions fixés par arrêté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7 (M)
-	  - Code de la mutualité - art. L211-8 (M)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-10 (Ab)
-	  - Code de la mutualité - art. L212-11 (M)
-
-
-###### Article L212-9
-
-L'autorité administrative peut, toutefois, refuser de communiquer ces informations lorsque l'examen du dossier fait
-apparaître que les structures administratives ou la situation financière de l'organisme demandeur ou l'honorabilité ou la
-qualification ou l'expérience professionnelle de ses dirigeants ne permettent pas d'ouvrir la succursale dans des conditions
-satisfaisantes. Dans ce cas, la mutuelle ou l'union ne peut ouvrir sa succursale.
-
-L'autorité administrative fait connaître les raisons de ce refus à l'organisme demandeur dans les trois mois suivant la
-réception du dossier complet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-10 (Ab)
-
-
-###### Article L212-10
-
-Tout projet de modification de la nature ou des conditions d'exercice des activités de la succursale est soumis à la
-procédure prévue aux articles précédents. Les délais prévus aux articles L. 212-8 et L. 212-9 sont alors d'un mois à compter
-de la réception des nouvelles informations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-8 (Ab)
-	  - Code de la mutualité - art. L212-9 (Ab)
-
-
 ##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation.
 
 ###### Article L212-11
 
-Les mutuelles et unions ainsi que leurs succursales mentionnées à l'article L. 212-8 peuvent être autorisées, dans les
-conditions définies au présent article, à transférer tout ou partie de leur portefeuille d'opérations, avec ses droits et
-obligations et couvrant des risques ou des engagements situés sur le territoire d'un Etat membre de la Communauté européenne
-ou d'un Etat partie à l'accord sur l'Espace économique européen, à une ou plusieurs des mutuelles ou unions régies par le
-présent code, à une ou plusieurs des institutions de prévoyance régies par le code de la sécurité sociale ou l'article L.
-727-2 du code rural, et à une ou plusieurs des entreprises d'assurance régies par le code des assurances ou dont l'Etat
-d'origine est membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen. Elles peuvent
-également être autorisées à effectuer ces transferts auprès des succursales des organismes visés ci-dessus et établies sur le
-territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
-Elles peuvent également être autorisées à effectuer ces transferts auprès d'entreprises d'assurance dont le siège est établi
-dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen mais dont la succursale est établie et agréée
-dans l'Etat du risque ou de l'engagement, membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
-européen.
+Les mutuelles et unions ainsi que leurs succursales peuvent être autorisées, dans les conditions définies au présent article,
+à transférer tout ou partie de leur portefeuille d'opérations, avec ses droits et obligations et couvrant des risques ou des
+engagements situés sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen, à une ou plusieurs des mutuelles ou unions régies par le présent code, à une ou plusieurs des
+institutions de prévoyance régies par le code de la sécurité sociale ou l'article L. 727-2 du code rural, et à une ou
+plusieurs des entreprises d'assurance régies par le code des assurances ou dont l'Etat d'origine est membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen. Elles peuvent également être autorisées à effectuer ces
+transferts auprès des succursales des organismes visés ci-dessus et établies sur le territoire d'un Etat membre de la
+Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen. Elles peuvent également être
+autorisées à effectuer ces transferts auprès d'entreprises d'assurance dont le siège est établi dans un Etat qui n'est pas
+partie à l'accord sur l'Espace économique européen mais dont la succursale est établie et agréée dans l'Etat du risque ou de
+l'engagement, membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
 
 Dans tous les cas, le nouvel assureur doit respecter les garanties concernant les activités transférées, telles que la
 mutuelle ou l'union les avaient établies.
@@ -3322,7 +3251,7 @@ l'accord sur l'Espace économique européen autre que la France, l'autorité adm
 l'autorité de contrôle de l'Etat du risque ou de l'engagement.
 
 Pour les transferts de portefeuilles d'opérations relevant du b du 1° du I de l'article L. 111-1, cette approbation est en
-outre fondée sur les données de l'état sur les plus values latentes prévu à l'article L. 212-6.
+outre fondée sur les données de l'état sur les plus-values latentes prévu à l'article L. 212-6.
 
 L'approbation rend le transfert opposable aux membres participants ainsi qu'aux créanciers à partir de la date de publication
 au Journal officiel de l'arrêté mentionné au quatrième alinéa du présent article. Les membres participants ont la faculté de
@@ -3354,13 +3283,16 @@ convention, de l'accord ou de la décision unilatérale.
 
 	  - Ordonnance 2001-350 2001-04-19
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+
 	**Cite**:
 
 	  - Code rural L727-2
 	  - Code de la mutualité - art. L111-1 (Ab)
 	  - Code de la mutualité - art. L114-12 (V)
 	  - Code de la mutualité - art. L212-6 (V)
-	  - Code de la mutualité - art. L212-8 (Ab)
 
 
 ###### Article L212-12
@@ -6107,11 +6039,11 @@ dommage résultant d'un cas de force majeure.
 
 ###### Article L421-2
 
-Le fonds national de solidarité et d'actions mutualistes est alimenté par :
+Le fonds national de solidarité et d'actions mutualistes est alimenté par : 
 
-a) Les sommes mentionnées au dernier alinéa de l'article L. 113-4 ;
+a) Les sommes mentionnées au deuxième alinéa de l'article L. 113-4 ; 
 
-b) Les sommes qui lui sont versées en application du premier alinéa de l'article 18 du code des caisses d'épargne ;
+b) Les sommes qui lui sont versées en application du premier alinéa de l'article L. 221-5 du code monétaire et financier ; 
 
 c) Les produits financiers de ses placements.
 
@@ -6121,10 +6053,14 @@ c) Les produits financiers de ses placements.
 
 	  - Ordonnance 2001-350 2001-04-19
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 90 (V) JORF 2 août 2003
+
 	**Cite**:
 
-	  - Code des caisses d'épargne - art. 18 (MMN)
-	  - Code de la mutualité - art. L113-4 (M)
+	  - Code monétaire et financier - art. L221-5 (V)
+	  - Code de la mutualité - art. L113-4 (V)
 
 
 ###### Article L421-3
@@ -6479,8 +6415,8 @@ Ce décret est pris après avis du directoire du fonds de garantie.
 ###### Article L510-1
 
 Le contrôle de l'Etat sur les mutuelles, unions et fédérations régies par le présent code est exercé, dans l'intérêt de leurs
-membres et de leurs ayants droit, par la commission de contrôle des mutuelles et des institutions de prévoyance instituée par
-l'article L. 951-1 du code de la sécurité sociale.
+membres et de leurs ayants droit, par la Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance instituée à l'article L. 310-12 du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -6565,26 +6501,122 @@ l'article L. 951-1 du code de la sécurité sociale.
 	  - Code de la sécurité sociale. - art. L951-1 (V)
 	  - Code des assurances - art. L310-14 (M)
 
+	**Modifié par**:
 
-###### Article L510-2
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
-Par dérogation aux dispositions de l'article L. 510-1, le contrôle des mutuelles et des unions est exercé au niveau régional
-par l'autorité administrative, lorsque les mutuelles et les unions ont souscrit une convention de substitution en application
-de l'article L. 211-5 ou lorsque les engagements ou les activités des mutuelles ou des unions sont inférieurs à des seuils
-déterminés par arrêté du ministre chargé de la mutualité, pris après avis de la commission de contrôle.
+	**Cite**:
 
-La commission de contrôle dispose, cependant, d'un pouvoir d'évocation à l'égard de ces mutuelles et unions et demeure seule
-compétente pour prononcer les sanctions disciplinaires prévues à l'article L. 510-11.
+	  - Code des assurances - art. L310-12 (V)
 
-La commission de contrôle peut décider de soumettre à son contrôle toute personne morale ou physique qui s'entremet,
-directement ou indirectement, moyennant rémunération, entre une mutuelle ou une union régie par le livre II et une personne
-qui souhaite adhérer ou adhère à cette mutuelle ou à cette union.
+
+###### Article L510-1-1
+
+La composition et l'organisation administrative de la commission de contrôle sont fixées par l'article L. 310-12-1 du code
+des assurances ci-après reproduit :
+
+"Art. L. 310-12-1. - La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est composée
+de neuf membres :
+
+1° Un président nommé par décret ;
+
+2° Le gouverneur de la Banque de France, président de la Commission bancaire ;
+
+3° Un conseiller d'Etat, proposé par le vice-président du Conseil d'Etat ;
+
+4° Un conseiller à la Cour de cassation, proposé par le premier président de la Cour de cassation ;
+
+5° Un conseiller maître à la Cour des comptes, proposé par le premier président de la Cour des comptes ;
+
+6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité et de prévoyance.
+
+Les membres mentionnés aux 3° à 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité
+sociale et de la mutualité.
+
+Le gouverneur de la Banque de France peut être représenté. Des suppléants du président et des autres membres sont nommés dans
+les mêmes conditions que les titulaires.
+
+Le directeur du Trésor, ou son représentant, et le directeur de la sécurité sociale, ou son représentant, siègent auprès de
+la commission de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
+sanctions, demander une seconde délibération dans des conditions fixées par décret en Conseil d'Etat. Lorsqu'elle décide
+d'une sanction, la commission de contrôle délibère hors de leur présence.
+
+Le président et les membres mentionnés aux 3° à 6° sont nommés pour une durée de cinq ans. Leur mandat est renouvelable une
+fois.
+
+En cas de vacance d'un siège de membre de la commission de contrôle pour quelque cause que ce soit, il est procédé à son
+remplacement pour la durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte
+pour l'application de la règle de renouvellement. Les membres titulaires et suppléants de la commission ne peuvent être
+révoqués.
+
+Les décisions de la commission de contrôle sont prises à la majorité des voix. En cas de partage égal des voix, celle du
+président est prépondérante.
+
+Dans des matières et conditions fixées par décret en Conseil d'Etat, la commission de contrôle peut créer en son sein une ou
+plusieurs commissions spécialisées et leur donner délégation pour prendre des décisions de portée individuelle. Il est créé
+au moins une commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité.
+
+La commission de contrôle peut également constituer des commissions consultatives, dans lesquelles elle nomme le cas échéant
+des experts, pour préparer et instruire ses décisions.
+
+Le président de la commission de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction.
+
+Il peut déléguer sa signature dans les matières où il tient de dispositions législatives ou réglementaires une compétence
+propre.
+
+Les services de la commission de contrôle sont dirigés par un secrétaire général nommé parmi les membres du corps de contrôle
+des assurances par arrêté conjoint des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, après avis
+de la commission.
+
+Le personnel des services de la commission de contrôle est composé d'agents publics mis à sa disposition dans des conditions
+fixées par décret en Conseil d'Etat, d'agents contractuels de droit public et de salariés de droit privé.
+
+Sur proposition du secrétaire général, la commission de contrôle fixe les règles de déontologie applicables au personnel des
+services de la commission.
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance et la Commission bancaire se
+réunissent conjointement au moins deux fois par an et en tant que de besoin sur des sujets d'intérêt commun."
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-12-1 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L612-39 (VT)
+
+
+###### Article L510-2
+
+Par dérogation aux dispositions de l'article L. 510-1, le contrôle des mutuelles et des unions est exercé au niveau régional
+par l'autorité administrative, lorsque les mutuelles et les unions relèvent du livre III, ont souscrit une convention de
+substitution en application de l'article L. 211-5, ou pratiquent exclusivement les opérations mentionnées au a du 1° du I de
+l'article L. 111-1 à l'exception des prestations d'une durée supérieure à un an et au titre desquelles les cotisations
+encaissées et les prestations versées ne dépassent pas des seuils fixés par arrêté conjoint des ministres chargés de la
+mutualité et de l'économie, pris après avis de la commission de contrôle.
+
+La commission de contrôle dispose, cependant, d'un pouvoir d'évocation à l'égard de ces mutuelles et unions et demeure seule
+compétente pour prononcer les sanctions disciplinaires prévues à l'article L. 510-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -6599,6 +6631,7 @@ qui souhaite adhérer ou adhère à cette mutuelle ou à cette union.
 
 	**Cite**:
 
+	  - Code de la mutualité - art. L111-1 (Ab)
 	  - Code de la mutualité - art. L211-5 (M)
 	  - Code de la mutualité - art. L510-1 (M)
 	  - Code de la mutualité - art. L510-11 (M)
@@ -6615,14 +6648,18 @@ présentent la marge de solvabilité prescrite. A cette fin, elle examine leur s
 d'exploitation. Elle vérifie que les mutuelles et unions disposent d'une bonne organisation administrative et comptable et de
 procédures de contrôle interne adéquates.
 
+La commission de contrôle s'assure en outre que les modalités de constitution et de fonctionnement des organismes soumis à
+son contrôle sont conformes aux dispositions qui les régissent.
+
 Toute mutuelle ou union relevant du livre II, agréée conformément aux dispositions de l'article L. 211-7, qui projette
-d'exercer pour la première fois des activités en libre prestation de services sur le territoire d'un autre Etat membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen ou de modifier la nature ou les conditions
-d'exercice de ces activités, notifie son projet à la commission de contrôle. Celle-ci s'assure que la mutuelle ou l'union
-dispose d'une structure administrative et d'une situation financière adéquates au regard de son projet. Si elle estime que
-ces conditions ne sont pas remplies, la commission de contrôle ne communique pas à l'autorité de contrôle de cet autre Etat
-les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les conditions d'application du
-présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels la commission doit se prononcer.
+d'ouvrir une succursale, ou d'exercer pour la première fois des activités en libre prestation de services sur le territoire
+d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou de modifier la
+nature ou les conditions d'exercice de ces activités, notifie son projet à la commission de contrôle. Celle-ci s'assure que
+la mutuelle ou l'union dispose d'une structure administrative et d'une situation financière adéquates au regard de son
+projet. Si elle estime que ces conditions ne sont pas remplies, la commission de contrôle ne communique pas à l'autorité de
+contrôle de cet autre Etat les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les
+conditions d'application du présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels la
+commission doit se prononcer.
 
 Avant un refus d'agrément, la commission de contrôle est saisie pour avis par l'autorité administrative détentrice du pouvoir
 d'accorder l'agrément, dans les conditions mentionnées à l'article L. 211-8.
@@ -6632,6 +6669,10 @@ d'accorder l'agrément, dans les conditions mentionnées à l'article L. 211-8.
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -6702,12 +6743,19 @@ La commission de contrôle peut demander aux commissaires aux comptes d'une mutu
 renseignement sur l'activité de celle-ci. Les commissaires aux comptes sont alors déliés, à son égard, du secret
 professionnel.
 
-Les commissaires aux comptes sont tenus de signaler, dans les meilleurs délais, à la commission tout fait ou décision
-concernant la mutuelle, l'union ou la fédération mentionnée à l'alinéa précédent, dont ils ont eu connaissance dans
-l'exercice de leur mission, de nature :
+La commission de contrôle peut également transmettre aux commissaires aux comptes des personnes mentionnées au premier alinéa
+les informations nécessaires à l'accomplissement de leur mission. Ces informations sont couvertes par le secret
+professionnel.
 
-a) A constituer une violation des dispositions du présent code et susceptible d'avoir des effets significatifs sur la
-situation financière, le résultat ou le patrimoine ;
+La commission de contrôle peut en outre transmettre des observations écrites aux commissaires aux comptes qui sont alors
+tenus d'apporter des réponses en cette forme.
+
+Les commissaires aux comptes sont tenus de signaler, dans les meilleurs délais, à la commission tout fait ou décision
+concernant la mutuelle, l'union ou la fédération mentionnée au premier alinéa, dont ils ont eu connaissance dans l'exercice
+de leur mission, de nature :
+
+a) A constituer une violation des dispositions législatives et réglementaires qui leur sont applicables et susceptible
+d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
 
 b) A porter atteinte à la continuité de son exploitation ;
 
@@ -6719,6 +6767,12 @@ organisme relevant de l'article L. 212-7.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 ils procèdent en exécution des obligations imposées par le présent article.
+
+La commission de contrôle est saisie pour avis de toute proposition de désignation ou de renouvellement du mandat des
+commissaires aux comptes dans les organismes soumis à son contrôle dans des conditions fixées par décret.
+
+La commission de contrôle peut en outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux
+comptes supplémentaire.
 
 Lorsqu'elle a connaissance d'une infraction aux dispositions du présent article ainsi que de celles de l'article L. 114-39,
 commises par un commissaire aux comptes, la commission de contrôle peut demander au tribunal compétent de relever ce
@@ -6732,6 +6786,10 @@ informations qu'elle estime nécessaires.
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -6760,9 +6818,7 @@ participants et bénéficiaires ou la capacité des personnes morales qui lui so
 mesures de redressement ou de sauvegarde de cette mutuelle ou union.
 
 La commission de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
-complémentaire instituée à l'article L. 212-7-2 auprès de la mutuelle ou l'union et de ses organismes apparentés. Lorsque
-l'un de ces organismes apparentés est un organisme relevant du code des assurances, l'extension du contrôle de la commission
-consiste dans le recueil d'informations auprès de la commission de contrôle des assurances.
+complémentaire instituée à l'article L. 212-7-2 auprès de la mutuelle ou l'union et de ses organismes apparentés.
 
 Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L. 212-7-2, la commission souhaite vérifier des
 informations utiles à l'exercice de sa surveillance concernant une entreprise située dans un Etat membre de la Communauté
@@ -6781,7 +6837,7 @@ procédant elle-même à cette vérification, soit en permettant à des personne
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -6796,25 +6852,26 @@ procédant elle-même à cette vérification, soit en permettant à des personne
 
 ###### Article L510-8
 
-Lorsqu'une mutuelle, une union ou une fédération a enfreint une disposition législative ou réglementaire à laquelle elle est
-soumise ou lorsque son fonctionnement met gravement en péril sa marge de solvabilité ou l'exécution des engagements qu'elle a
-contractés envers les participants, les bénéficiaires ou leurs ayants droit, la commission de contrôle, après l'avoir mise en
-mesure de présenter des observations, peut lui adresser une mise en garde.
-
-Elle peut également, dans les mêmes conditions, lui enjoindre de prendre dans un délai déterminé toutes mesures destinées à
-rétablir ou renforcer son équilibre financier ou à corriger ses pratiques.
+La commission de contrôle peut adresser à tout organisme ou toute personne soumis à son contrôle une recommandation de
+prendre toutes les mesures appropriées pour restaurer ou renforcer sa situation financière, améliorer ses méthodes de gestion
+ou assurer l'adéquation de son organisation à ses activités ou à ses objectifs de développement. L'organisme est tenu de
+répondre dans un délai de deux mois en précisant les mesures prises à la suite de cette recommandation.
 
 Lorsqu'un rapport lui est transmis dans les conditions de l'article L. 212-4, et qu'elle estime que la solvabilité d'une
 mutuelle ou d'une union régie par le livre II est mise en cause ou est susceptible, à terme, d'être mise en cause par des
-transferts financiers vers une mutuelle ou une union régie par le livre III, la commission de contrôle peut, après l'avoir
-mise en mesure de présenter des observations, enjoindre à l'organisme de cesser dans un délai déterminé les transferts en
-cause.
+transferts financiers vers une mutuelle ou une union régie par le livre III, la commission de contrôle peut adresser à cette
+mutuelle ou à cette union une recommandation tendant à faire cesser les transferts en cause. L'organisme est tenu de répondre
+dans les conditions prévues à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -6835,20 +6892,28 @@ cause.
 
 ###### Article L510-9
 
-Lorsque la situation financière d'une mutuelle ou d'une union est telle que les intérêts des membres participants et des
-bénéficiaires et de leurs ayants droit sont compromis ou susceptibles de l'être, la commission de contrôle prend les mesures
-d'urgence nécessaires à la sauvegarde de ces intérêts.
+Lorsque la situation financière d'une mutuelle ou d'une union ou ses conditions de fonctionnement sont telles que les
+intérêts des membres participants et des bénéficiaires et de leurs ayants droit sont compromis ou susceptibles de l'être, la
+commission de contrôle prend les mesures d'urgence nécessaires à la sauvegarde de ces intérêts.
 
 Elle peut, à ce titre, mettre la mutuelle ou l'union sous surveillance spéciale.
 
 Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de la mutuelle ou de l'union,
-limiter ou suspendre temporairement certaines opérations ou désigner un administrateur provisoire à qui sont transférés les
-pouvoirs nécessaires à l'administration et à la direction de la mutuelle ou de l'union. Cette désignation est faite soit à la
-demande des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative
-de la commission de contrôle lorsque la gestion de la mutuelle ou de l'union ne peut plus être assurée dans des conditions
-normales, ou lorsque la commission a pris une mesure de suspension en application de l'article L. 510-11. A la date de cette
-désignation, les pouvoirs du conseil d'administration et des dirigeants salariés ayant reçu délégation de pouvoirs sont
-suspendus.
+limiter ou suspendre temporairement certaines opérations ou désigner un ou plusieurs administrateurs provisoires à qui sont
+transférés les pouvoirs nécessaires à l'administration et à la direction de la mutuelle ou de l'union. Cette désignation est
+faite soit à la demande des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit
+à l'initiative de la commission de contrôle lorsque la gestion de la mutuelle ou de l'union ne peut plus être assurée dans
+des conditions normales, ou lorsque la commission a pris une mesure de suspension en application de l'article L. 510-11. A la
+date de cette désignation, les pouvoirs du conseil d'administration et des dirigeants salariés ayant reçu délégation de
+pouvoirs sont suspendus.
+
+La commission de contrôle peut exiger de l'entreprise une marge de solvabilité plus importante que celle prescrite par la
+réglementation afin que l'entreprise soit rapidement en mesure de satisfaire à l'ensemble des exigences de solvabilité. Le
+niveau de cette exigence supplémentaire de marge de solvabilité est déterminé selon des modalités définies par décret en
+Conseil d'Etat.
+
+La commission de contrôle peut, par entreprise, revoir à la baisse les éléments admis à constituer la marge de solvabilité
+dans des conditions fixées par décret en Conseil d'Etat.
 
 Les mesures mentionnées au troisième alinéa du présent article sont levées ou confirmées par la commission de contrôle, après
 procédure contradictoire, dans un délai prévu par décret en Conseil d'Etat. Ce même décret précise les modalités
@@ -6859,6 +6924,10 @@ d'application du présent article.
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -6916,28 +6985,43 @@ union régie par le livre III.
 ###### Article L510-11
 
 Lorsqu'une mutuelle, une union ou une fédération a enfreint une disposition législative ou réglementaire dans le domaine
-relevant du contrôle de la commission ou n'a pas déféré à une injonction, la commission peut prononcer à son encontre, ou à
-celle de ses dirigeants, une ou plusieurs des sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
+relevant du contrôle de la commission ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des
+engagements qu'elle a contractés envers les membres participants, ayants droit ou bénéficiaires, la commission peut prononcer
+à son encontre, ou celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en fonction de la
+gravité du manquement : 
 
-1° L'avertissement ;
+1° L'avertissement ; 
 
-2° Le blâme ;
+2° Le blâme ; 
 
-3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
+3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ; 
 
-4° La suspension temporaire d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ;
+4° La suspension temporaire d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
 
-5° La démission d'office d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ;
+5° La démission d'office d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
 
-6° Le retrait total ou partiel d'agrément ;
+6° Le retrait total ou partiel d'agrément ; 
 
 7° Le transfert d'office, après organisation d'un appel d'offres fructueux, de tout ou partie de portefeuille de contrats de
-la mutuelle ou de l'union.
+la mutuelle ou de l'union. 
+
+La commission de contrôle peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la mutuelle, l'union
+ou la fédération pour prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa. 
+
+En outre, la commission de contrôle peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire.
+Le montant de cette sanction doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % des
+cotisations perçues au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à 5 % en
+cas de nouvelle violation de la même obligation. Les sommes correspondantes sont versées au Trésor public. Elles sont
+recouvrées comme des créances de l'Etat étrangères à l'impôt et au domaine. 
+
+Pour les mutuelles et unions qui ont la qualité d'organisme de référence au sens de l'article L. 212-7-1, le montant maximum
+de la sanction pécuniaire est défini par référence aux cotisations de celle des mutuelles et unions incluses par intégration
+globale dans la consolidation dont le total des cotisations émises au cours du dernier exercice clos est le plus élevé. 
 
 Lorsqu'une sanction prononcée par la commission de contrôle est devenue définitive, la commission peut, aux frais de la
 mutuelle, de l'union ou de la fédération sanctionnée, ordonner l'insertion de sa décision au registre national des mutuelles
 et dans trois journaux ou publications qu'elle désigne, et l'affichage dans les lieux et pour la durée qu'elle indique. Cette
-procédure ne s'applique pas aux sanctions énoncées aux 1° et 2° ci-dessus.
+procédure ne s'applique pas aux sanctions énoncées aux 1° et 2° ci-dessus. 
 
 Dans tous les cas prévus au présent article, la commission de contrôle statue après une procédure contradictoire. Elle
 informe obligatoirement les intéressés de leur droit à être entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se
@@ -6949,6 +7033,10 @@ qui suit la notification de la décision, former un recours de pleine juridictio
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -6972,6 +7060,10 @@ qui suit la notification de la décision, former un recours de pleine juridictio
 	  - Code des assurances - art. R*310-18 (M)
 	  - Code des assurances - art. R*310-19 (V)
 	  - Code des assurances - art. R310-12 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-7-1 (V)
 
 
 ###### Article L510-12
@@ -14544,16 +14636,12 @@ figurant dans le règlement ou le contrat collectif.
 ###### Article A223-3
 
 Lorsque l'unité de compte servant de référence à la valorisation du capital ou de la rente garantis par le règlement ou le
-contrat collectif est une part de société civile de placement immobilier soumise au contrôle de la Commission des opérations
-de bourse, la valeur de cette société visée à l'article R. 223-2 est la valeur de réalisation de cette société, au sens de
+contrat collectif est une part de société civile de placement immobilier soumise au contrôle de l'Autorité des marchés
+financiers, la valeur de cette société visée à l'article R. 223-2 est la valeur de réalisation de cette société, au sens de
 l'article 11 de la loi n° 70-1300 du 31 décembre 1970 modifiée fixant le régime applicable aux sociétés civiles autorisées à
 faire publiquement appel à l'épargne.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2002-12-26 art. 1, art. 2 JORF 8 janvier 2003
 
 	**Cite**:
 
@@ -14563,6 +14651,10 @@ faire publiquement appel à l'épargne.
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 
 ###### Article A223-4

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1986-03-14
+Version Consolidée au 1986-12-31
 
 # Partie législative
 
@@ -3435,11 +3435,18 @@ mutuelles à caractère professionnel ou interprofessionnel instituées dans le 
 l'article L. 221-1 ainsi que les sections, situées dans le département, qui sont prévues par les statuts d'une mutuelle et
 dotées d'un organe de gestion.
 
+Le nombre des membres de ce comité est fixé par arrêté du commissaire de la République du département ; il est compris entre
+six et vingt-quatre.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°86-1359 du 30 décembre 1986 - art. 1 () JORF 31 décembre 1986
 
 	**Cité par**:
 
@@ -3729,14 +3736,18 @@ liste.
 ###### Article R513-6
 
 Les candidatures doivent être déclarées à la préfecture de région et comporter les noms du candidat et de son suppléant. Pour
-le troisième collège, les candidatures sont présentées sous forme de listes comportant les noms de trois candidats et de
-trois suppléants.
+le premier collège, les candidatures sont présentées sous forme de listes comportant les noms de trois candidats et de trois
+suppléants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°86-1359 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
 
 
 ###### Article R513-7
@@ -3997,14 +4008,23 @@ représentants des collèges régionaux des mutuelles au Conseil supérieur de l
 
 ###### Article R513-19
 
-Sont éligibles au comité départemental de coordination de la mutualité les membres participants des conseils d'administration
-des mutuelles et unions ayant leur siège ou une section dans le département.
+Sont éligibles au comité départemental de coordination de la mutualité :
+
+- les membres participants des conseils d'administration des mutuelles et unions ayant leur siège dans le département ;
+
+- les membres participants des conseils d'administration des mutuelles ayant une section dans le département ;
+
+- les membres participants élus des organes de gestion desdites sections.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°86-1359 du 30 décembre 1986 - art. 3 () JORF 31 décembre 1986
 
 	**Cité par**:
 
@@ -4047,6 +4067,9 @@ déclarées.
 
 ###### Article R513-22
 
+Les membres du comité départemental de coordination de la mutualité sont élus au scrutin de liste, à la majorité relative et
+sans panachage.
+
 Les opérations électorales se déroulent conformément aux dispositions des articles R. 513-9 et R. 513-10.
 
 **Liens relatifs à cet article**
@@ -4054,6 +4077,10 @@ Les opérations électorales se déroulent conformément aux dispositions des ar
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°86-1359 du 30 décembre 1986 - art. 4 () JORF 31 décembre 1986
 
 	**Cite**:
 

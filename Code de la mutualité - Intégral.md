@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-02-12
+Version Consolidée au 2004-03-19
 
 # Partie législative
 
@@ -13299,6 +13299,35 @@ articles D. 114-4 et D. 114-6 sont majorés en proportion de l'augmentation de c
 
 	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
 	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+#### Section 6 : Dispositions financières et comptables.
+
+###### Article D114-10
+
+Sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L.
+225-219 du code de commerce les mutuelles et unions relevant du livre III et les fédérations qui dépassent deux des seuils
+suivants :
+
+a) 1 524 490 Euros pour le total du bilan ;
+
+b) 3 048 980 Euros pour le montant hors taxes des ressources ;
+
+c) 50 salariés en équivalent temps plein.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-239 du 16 mars 2004 - art. 1 () JORF 19 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-219 (Ab)
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-03-19
+Version Consolidée au 2004-03-26
 
 # Partie législative
 
@@ -8246,6 +8246,122 @@ la date de la publication de la décision du retrait d'agrément, la portion de 
 	  - Code de la mutualité - art. R211-26 (M)
 
 
+##### Section 5 : Contrôle interne
+
+###### Article R211-28
+
+La mutuelle ou union est tenue de disposer en permanence d'un contrôle interne de la gestion de ses placements.
+
+Le conseil d'administration approuve au moins annuellement les lignes directrices de la politique de placement et se prononce
+notamment sur la qualité des actifs, les opérations sur instruments financiers à terme et le choix des intermédiaires
+financiers.
+
+Un rapport sur la politique de placement lui est soumis au moins annuellement. Il détaille dans ce cadre :
+
+a) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui
+concerne l'évaluation de la qualité des actifs, le suivi des opérations sur instruments financiers à terme et l'appréciation
+des performances et des marges des intermédiaires financiers utilisés ;
+
+b) Le dispositif interne de contrôle de la gestion des placements : répartition interne des responsabilités au sein du
+personnel, les personnes chargées d'effectuer les transactions ne pouvant être également chargées de leur suivi ; délégations
+de pouvoir ; diffusion de l'information ; procédures internes de contrôle ; audit interne ;
+
+c) La structure des différents portefeuilles de placements, par type et par catégories, ainsi que les résultats obtenus sur
+les placements correspondants.
+
+Ce rapport peut être inclus dans le rapport de solvabilité mentionné à l'article L. 212-3.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2008-468 du 19 mai 2008 - art. 9 (V)
+
+
+###### Article R211-29
+
+Le rapport sur la politique de placement présente en détail les opérations mentionnées aux articles R. 212-70 à R. 212-73 et
+réalisées au cours de la période écoulée. Il fixe les limites aux risques de marché, de contrepartie et de liquidité encourus
+sur les opérations à venir.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
+
+
+###### Article R211-30
+
+Lorsqu'elle se propose d'utiliser pour la première fois des instruments financiers à terme, la mutuelle ou union en informe
+préalablement la commission de contrôle mentionnée à l'article L. 510-1, en lui transmettant le rapport sur la politique de
+placement mentionné à l'article R. 211-28 après son approbation par le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, R211-28
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 4 (V)
+
+
+###### Article R211-31
+
+La mutuelle ou union effectue un suivi permanent des opérations mentionnées aux articles R. 212-70 à R. 212-73. Elle tient à
+cet effet un relevé quotidien des positions prises pour chaque catégorie de placement sous-jacent, échéance par échéance. 
+
+Le système de suivi doit permettre : 
+
+a) Une évaluation sans délai des valeurs de réalisation ; 
+
+b) Le respect à tout moment des limites internes mentionnées à l'article R. 211-29 ; 
+
+c) Le contrôle à tout moment du respect par les gestionnaires de ces limites et des procédures internes nécessaires à
+l'accomplissement des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R211-29 (VT)
+	  - Code de la mutualité - art. R212-70
+
+
 #### Chapitre II : Fonctionnement.
 
 ##### Section 1 : Dispositions générales.
@@ -8570,22 +8686,29 @@ dispositions de l'article L. 510-11 du présent code, donner lieu à application
 mentionnée à l'article L. 510-1 ;
 
 9. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
-mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie.
+mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie ;
+
+10. Sur demande et justification de la mutuelle ou union et avec l'accord de la commission de contrôle mentionnée à l'article
+L. 510-1, les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71,
+lorsque les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R.
+212-31 ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 7 et au
+10.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-10, R211-2, R212-12, L510-1, L510-11, L111-6, L431-1
+	  - Code de la mutualité (nouveau) R212-10, R211-2, R212-12, L510-1, L510-11, L111-6, L431-1, R212-70, R212-71, R212-31, R212-81
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -8799,22 +8922,29 @@ dispositions de l'article L. 510-11 du présent code, donner lieu à application
 mentionnée à l'article L. 510-1 ;
 
 8. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
-mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie.
+mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie ;
+
+9. Sur demande et justification de la mutuelle ou union et avec l'accord de la commission de contrôle mentionnée à l'article
+L. 510-1, les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71, dès
+lors que les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R.
+212-31 ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 6 (b)
+et au 9.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-10, R211-2, L510-1, L510-11, L111-6, L431-1
+	  - Code de la mutualité (nouveau) R212-10, R211-2, L510-1, L510-11, L111-6, L431-1, R212-70, R212-71, R212-31, R212-81
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -8987,6 +9117,8 @@ représentation des engagements réglementés et des autres éléments incorpore
 l'article R. 212-15. Toutefois, l'élément défini au 6, (a) de cet article n'est à prendre en compte que dans la limite du
 montant de la fraction vie définie au troisième alinéa de l'article R. 212-19.
 
+Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés ci-dessus.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -8997,10 +9129,9 @@ montant de la fraction vie définie au troisième alinéa de l'article R. 212-19
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 3 () JORF 4 mai 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -9229,6 +9360,14 @@ règles prévues à l'article R. 212-54. La provision à constituer est égale �
 conditions que comporte un tel ajournement, accorder aux mutuelles et unions dont la gestion n'est entachée d'aucune faute
 lourde le délai strictement nécessaire pour constituer cette provision.
 
+Pour le calcul mentionné à l'alinéa précédent, les valeurs déterminées selon l'article R. 212-54 prennent en compte les
+moins-values latentes des opérations sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72 ayant
+comme sous-jacent les actifs mentionnés à l'article R. 212-53. Ces moins-values latentes sont prises en compte à hauteur de
+la partie excédant la valeur des titres ou espèces donnés en garantie.
+
+Les plus-values latentes ne sont prises en compte que si elles sont garanties dans les conditions prévues à l'article R.
+212-81.
+
 La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais d'acquisition
 reportés en application des dispositions de l'article R. 212-59.
 
@@ -9236,15 +9375,15 @@ reportés en application des dispositions de l'article R. 212-59.
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-53, R212-54, L510-1, R212-59
+	  - Code de la mutualité (nouveau) R212-53, R212-54, L510-1, R212-70 à R212-72, R212-81, R212-59
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002 et rectificatif JORF 21 septembre 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -9565,25 +9704,34 @@ D. - Dispositions communes :
 
 Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements.
 
+Lorsqu'un instrument financier à terme a été souscrit dans les conditions définies à l'article R. 212-70 et qu'il est lié à
+un titre ou à un groupe de titres de même nature, parmi ceux mentionnés au paragraphe A du présent article, les primes ou
+soultes versées ou reçues pour la mise en place de l'instrument sont assimilées audit titre ou groupe de titres de même
+nature, dans la limite de la part restant à amortir et, pour les primes ou soultes versées au titre d'opérations de gré à
+gré, du montant des garanties reçues dans les conditions de l'article R. 212-81.
+
 Les actifs représentatifs des provisions techniques sont évalués en net des dettes contractées pour l'acquisition de ces
 mêmes actifs.
 
 Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibles en représentation des autres engagements.
+Par exception, les actifs remis en garantie d'opérations de taux sur instruments financiers à terme mentionnées aux articles
+R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values latentes enregistrées sur les actifs mentionnés
+à l'article R. 212-52 auxquels ces instruments financiers à terme sont liés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-28, R212-29, R212-35 à R212-42, R212-21, R212-47, R212-46, R212-48, R212-44, R212-45, R212-49
+	  - Code de la mutualité (nouveau) R212-28, R212-29, R212-35 à R212-42, R212-21, R212-47, R212-46, R212-48, R212-44, R212-45, R212-49, R212-70, R212-81, R212-71, R212-52
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002 et rectificatif JORF 21 septembre 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -9606,10 +9754,10 @@ Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibl
 
 ###### Article R212-32
 
-Rapportée au montant total des engagements réglementés mentionnés à l'article R. 212-21, toutes monnaies confondues, diminuée
-du montant total des actifs mentionnés aux articles R. 212-36 à R. 212-42, toutes monnaies confondues, la valeur au bilan de
-chacune des catégories d'actifs énumérées ci-après ne peut excéder, sauf dérogation accordée cas par cas par la commission
-mentionnée à l'article L. 510-1 :
+Rapportée à la base de dispersion constituée par la différence entre le montant total des engagements réglementés mentionnés
+à l'article R. 212-21, toutes monnaies confondues, et le montant total des actifs mentionnés aux articles R. 212-36 à R.
+212-42, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après ne peut excéder,
+sauf dérogation accordée cas par cas par la commission de contrôle mentionnée à l'article L. 510-1 :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° de l'article R. 212-31 et des prêts mentionnés au troisième
 alinéa du I de l'article R. 212-45, dont 5 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères
@@ -9619,7 +9767,9 @@ d'assurance mentionnées au 8° de l'article R. 212-31, par les actions et parts
 2° 40 % pour les actifs immobiliers mentionnés aux 13° et 14° de l'article R. 212-31 ;
 
 3° 10 % pour l'ensemble des valeurs mentionnées aux 15°, 16° et 17° de l'article R. 212-31 à l'exception des prêts mentionnés
-au 1° du présent article.
+au 1° du présent article ;
+
+4° 0,5 % pour le montant total des primes ou soultes mentionnées au deuxième alinéa du paragraphe D de l'article R. 212-31.
 
 **Liens relatifs à cet article**
 
@@ -9631,10 +9781,9 @@ au 1° du présent article.
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -10271,6 +10420,10 @@ I. - Les valeurs amortissables énumérées aux 1°, 2°, 3° et 4° de l'articl
 les parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date
 d'acquisition.
 
+Lorsqu'un instrument financier à terme est utilisé dans les conditions définies à l'article R. 212-71 et qu'il est lié à
+l'achat d'un titre ou d'un groupe de titres de même nature, la valeur de réalisation de l'instrument est prise en compte dans
+le prix d'achat de ce titre ou de ce groupe de titres.
+
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de remboursement, la différence est amortie sur la durée de
 vie résiduelle des titres.
 
@@ -10283,36 +10436,47 @@ choix ainsi effectué par la mutuelle ou l'union s'applique à l'ensemble des ti
 Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru.
 
 Lors de l'arrêté comptable, les moins-values latentes ressortant de la différence entre la valeur comptable, diminuée des
-amortissements et majorée des produits mentionnés aux deuxième et troisième alinéas, et la valeur de réalisation des titres
+amortissements et majorée des produits mentionnés aux troisième et quatrième alinéas, et la valeur de réalisation des titres
 correspondants évaluée conformément à l'article R. 212-54, ne font pas l'objet d'une provision.
 
 Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
 paiement des intérêts, soit pour le remboursement du principal, une provision pour dépréciation doit être constituée à
 l'inventaire.
 
-II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix, avec une garantie
-de remboursement au pair et émises ou garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1° du A
-de l'article R. 212-31, ou dont le débiteur est juridiquement un établissement public national de l'un des Etats membres de
-la Communauté européenne ou de l'un des Etats parties à l'accord sur l'Espace économique européen. La différence entre le
-prix d'achat d'une obligation indexée sur le niveau général des prix et son prix de remboursement est constatée linéairement
-sur la durée résiduelle du titre. Le prix de remboursement s'entend du prix de remboursement initial multiplié par le rapport
-entre l'indice de référence à la date considérée et ce même indice à la date d'émission du titre.
+II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix, avec garantie de
+remboursement au pair et émises ou garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1° du A de
+l'article R. 212-31, ou dont le débiteur est un établissement public national de l'un des Etats membres de la Communauté
+européenne ou parties à l'accord sur l'Espace économique européen.
+
+Pour le calcul de la différence à amortir entre le prix d'achat d'une obligation indexée sur le niveau général des prix et
+son prix de remboursement, celui-ci est le prix de remboursement initial du titre multiplié par le rapport entre l'indice des
+prix de référence à la date d'acquisition et ce même indice à la date d'émission.
+
+A chaque arrêté comptable, le gain ou la perte lié à l'indexation depuis le dernier arrêté comptable ou depuis l'achat, s'il
+est plus récent, est enregistré en produits ou en charges.
+
+Sans préjudice des dispositions du I, les obligations indexées sur le niveau général des prix donnent lieu à la constitution
+d'une provision pour dépréciation si une situation de déflation durable est envisagée. Pour la détermination du montant de
+cette provision, la valeur de réalisation de ces obligations, qui ne peut être inférieure à leur nominal, est la valeur la
+plus faible entre, d'une part, leur valeur de marché et, d'autre part, leur valeur calculée sur la base des prévisions
+d'évolution de l'indice des prix de référence publiées par un organisme figurant sur la liste fixée par arrêté du ministre
+chargé de l'économie en application de l'article R. 332-19 du code des assurances.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-31, R212-54
+	  - Code de la mutualité (nouveau) R212-31, R212-71, R212-54
 	  - Décret n°2002-720 2002-05-02
+	  - Code des assurances - art. R*332-19 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+	  - Décret n°2004-262 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -10332,8 +10496,10 @@ A l'exception des valeurs inscrites comme il est dit à l'article R. 212-52, les
 les autres placements financiers et immobiliers sont inscrits au bilan sur la base du prix d'achat ou de revient, dans les
 conditions ci-après :
 
-a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat. Le prix d'achat
-s'entend hors intérêt couru ;
+a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat. Lorsqu'un
+instrument financier à terme est utilisé dans les conditions définies à l'article R. 212-71 et qu'il est lié à l'achat d'un
+titre ou d'un groupe de titres de même nature, la valeur de réalisation de l'instrument est prise en compte dans le prix
+d'achat de ce titre ou de ce groupe de titres. Le prix d'achat s'entend hors intérêt couru ;
 
 b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières non inscrites à la cote d'une bourse de
 valeurs d'un Etat membre de l'Organisation de coopération et de développement économique sont retenus pour leur prix d'achat
@@ -10359,16 +10525,15 @@ définitive.
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-52, R212-31, L510-1, R212-56
+	  - Code de la mutualité (nouveau) R212-52, R212-31, R212-71, L510-1, R212-56
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -10440,6 +10605,42 @@ l'inventaire.
 	  - Code de la mutualité - art. R212-55 (V)
 
 
+###### Article R212-54-1
+
+La valeur de réalisation des instruments financiers à terme mentionnés aux articles R. 212-70 à R. 212-73 est :
+
+a) Pour les instruments financiers à terme échangés sur des marchés reconnus au sens du dernier alinéa du A de l'article R.
+212-31, la valeur de la dernière cotation ;
+
+b) Pour les instruments échangés de gré à gré, le coût de remplacement, évalué par au moins deux organismes n'appartenant pas
+à un même groupe au sens de l'article R. 212-45. Un des organismes peut être la mutuelle ou union elle-même, sauf opposition
+de la commission de contrôle mentionnée à l'article L. 510-1. Les organismes habilités à cette évaluation sont les
+établissements de crédit, les entreprises d'investissement ou, sur accord de la commission de contrôle mentionnée à l'article
+L. 510-1, des organismes spécialisés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-70 à R212-73, R212-31, R212-45, L510-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 47 (Ab)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 54 (Ab)
+
+
 ###### Article R212-55
 
 I. - Les cessions de titres en portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou
@@ -10494,14 +10695,15 @@ passif.
 
 La commission de contrôle mentionnée à l'article L. 510-1 peut requérir la fixation par une expertise de la valeur de tout ou
 partie de l'actif des mutuelles ou unions, et notamment des immeubles et des parts et actions de sociétés immobilières leur
-appartenant ou sur lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire.
+appartenant ou sur lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire, ainsi que des instruments
+financiers à terme utilisés par les mutuelles ou unions.
 
 Cette expertise peut être également demandée à la commission par les mutuelles et unions.
 
-La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue à
-l'article R. 212-54. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions fixées dans
-chaque cas par la commission de contrôle. Elle constitue alors le nouveau prix d'achat mentionné à l'article R. 212-53, la
-différence entre cette valeur et la valeur comptable antérieure étant constatée en compte de résultat.
+La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue aux
+articles R. 212-54 et R. 212-54-1. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions
+fixées dans chaque cas par la commission de contrôle. Elle constitue alors le nouveau prix d'achat mentionné à l'article R.
+212-53, la différence entre cette valeur et la valeur comptable antérieure étant constatée en compte de résultat.
 
 Les frais de l'expertise sont à la charge de la mutuelle ou de l'union.
 
@@ -10509,16 +10711,15 @@ Les frais de l'expertise sont à la charge de la mutuelle ou de l'union.
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L510-1, R212-54, R212-53
+	  - Code de la mutualité (nouveau) L510-1, R212-54, R212-54-1, R212-53
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -10775,6 +10976,454 @@ mutuelle ou de l'union.
 
 	  - Code de la mutualité - art. L212-13 (V)
 	  - Code de la mutualité - art. R211-2 (V)
+
+
+##### Section 7 : Instruments financiers à terme.
+
+###### Article R212-70
+
+Une mutuelle ou union peut utiliser un instrument financier à terme au sens de l'article L. 211-1 du code monétaire et
+financier, lié à un placement ou un groupe de placements détenus ou à détenir si sont remplies durant toute l'opération les
+conditions suivantes :
+
+a) Le placement ou le groupe de placements est détenu ou a été acquis à terme avec une échéance antérieure à la date
+d'échéance ou d'exercice de cet instrument ;
+
+b) Le placement ou le groupe de placements est identique ou assimilable au sous-jacent de cet instrument, et de montant au
+moins égal au montant notionnel de cet instrument ;
+
+c) Pour les contrats d'échange, le sous-jacent mentionné au b est celui que l'organisme s'engage à échanger ;
+
+d) L'instrument financier à terme permet, en adéquation avec les engagements de la mutuelle ou union, une gestion efficace et
+prudente du placement ou du groupe de placements détenus visant à titre principal au maintien de sa valeur ou de son
+rendement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1 (M)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R211-29 (VT)
+	  - Code de la mutualité - art. R211-31 (VT)
+	  - Code de la mutualité - art. R212-11 (VD)
+	  - Code de la mutualité - art. R212-15 (VT)
+	  - Code de la mutualité - art. R212-24 (VT)
+	  - Code de la mutualité - art. R212-31 (V)
+	  - Code de la mutualité - art. R212-73 (V)
+
+
+###### Article R212-71
+
+Une mutuelle ou union peut utiliser un instrument financier à terme en anticipation de placement si sont remplies durant
+toute l'opération les conditions suivantes :
+
+a) La mutuelle ou union détient ou recevra avant la date d'échéance ou d'exercice de cet instrument un montant de liquidités
+au moins égal au montant notionnel de l'instrument. Lorsque l'instrument financier à terme n'emporte pour la mutuelle ou
+union aucune obligation financière exigible à la date d'exercice ou ultérieurement, les liquidités peuvent être à recevoir de
+façon probable ;
+
+b) L'opération a pour objet de diminuer l'aléa des conditions de placement futur, en adéquation avec les engagements de la
+mutuelle ou union.
+
+Sont assimilées à des liquidités détenues les actions des sociétés d'investissement à capital variable et parts de fonds
+communs de placement mentionnés aux 3° et 8° de l'article R. 212-31 et classés dans la catégorie des OPCVM monétaires.
+
+Lorsque les liquidités sont à recevoir à une échéance supérieure à un an, les créances découlant de l'opération à terme
+doivent être intégralement garanties dans les conditions prévues à l'article R. 212-81.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-31, R212-81
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R212-31 (V)
+	  - Code de la mutualité - art. R212-52 (V)
+	  - Code de la mutualité - art. R212-53 (V)
+
+
+###### Article R212-72
+
+Une mutuelle ou union peut utiliser un instrument financier à terme de taux ou de devise lié à une dette financière si sont
+remplies durant toute l'opération les conditions suivantes :
+
+a) L'emprunt contracté ou la dette émise est identique ou assimilable au sous-jacent de cet instrument ;
+
+b) Pour les contrats d'échange, le sous-jacent mentionné au a est celui que la mutuelle ou union s'engage à échanger ;
+
+c) L'emprunt contracté ou la dette émise par la mutuelle ou union est de montant au moins égal au montant notionnel de cet
+instrument ;
+
+d) L'instrument financier à terme permet une gestion efficace et prudente de cette dette en adéquation avec les placements de
+la mutuelle ou union.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R212-73
+
+Sauf dérogation expresse de la commission de contrôle mentionnée à l'article L. 510-1, une mutuelle ou union ne peut utiliser
+d'instrument financier à terme que dans les cas prévus par les articles R. 212-70, R. 212-71 et R. 212-72.
+
+Toute opération financière à terme ne respectant plus les conditions fixées à ces articles doit être dénouée dans un délai de
+trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à l'article R. 211-28.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, R212-70, R212-71, R212-72, R211-28
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+
+###### Article R212-74
+
+Une mutuelle ou union ne peut procéder à des ventes d'option que dans les cas suivants :
+
+a) Vendre une option précédemment acquise dans le cadre défini par les articles R. 212-70 à R. 212-73 ;
+
+b) Vendre une option lorsque la mutuelle ou union achète simultanément une option similaire, à la seule différence du prix
+d'exercice ;
+
+c) Vendre une option d'achat à la condition que le sous-jacent soit un placement déjà détenu, à l'exclusion de tout placement
+à détenir comme de toute anticipation de placement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-70 à R212-73
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R212-75
+
+Les modalités d'enregistrement et de comptabilisation des opérations mentionnées aux articles R. 212-70 à R. 212-73 sont
+fixées par règlement du Comité de la réglementation comptable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-70 à R212-73
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+
+###### Article R212-76
+
+Sauf dérogation accordée au cas par cas par la commission de contrôle mentionnée à l'article L. 510-1, notamment au regard
+d'une modification globale des conditions de marché, la somme des valeurs de réalisation positives de l'ensemble des
+instruments financiers à terme conclus de gré à gré avec l'ensemble des contreparties ne peut excéder 10 % de la base de
+dispersion définie au premier alinéa de l'article R. 212-32.
+
+Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives vis-à-vis d'une même
+contrepartie s'il existe entre les parties à l'opération une convention-cadre mentionnée à l'article R. 212-81.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, R212-32, R212-81
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+
+###### Article R212-77
+
+Sauf dérogation accordée au cas par cas par la commission de contrôle mentionnée à l'article L. 510-1, le montant des
+liquidités à recevoir qui proviennent d'actifs mentionnés aux 1°, 2°, 2° bis et 2° ter du A de l'article R. 212-31 et qui
+font l'objet d'opérations d'anticipation de placement dans des titres de même nature ne peut excéder 20 % de la base de
+dispersion définie au premier alinéa de l'article R. 212-32.
+
+Dans les cas autres que prévus au premier alinéa, le montant des liquidités à recevoir faisant l'objet d'opérations
+d'anticipation de placement ne peut excéder 5 % de la base de dispersion.
+
+Lorsque l'instrument financier à terme n'emporte pour la mutuelle ou union aucune obligation financière exigible à la date
+d'exercice ou ultérieurement, les limitations du présent article ne s'appliquent pas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, R212-31, R212-32
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+
+###### Article R212-78
+
+Une mutuelle ou union ne peut souscrire d'instruments financiers à terme que :
+
+1. Sur les marchés reconnus au sens du dernier alinéa du A de l'article R. 212-31 ;
+
+2. De gré à gré, auprès :
+
+a) Des établissements de crédit et entreprises d'investissement ayant leur siège social sur le territoire de l'un des Etats
+membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen ;
+
+b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financier ;
+
+c) Des établissements de crédit ou entreprises d'investissement de pays tiers assujettis à des règles prudentielles
+considérées comme équivalentes par la commission bancaire ;
+
+d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de la commission de contrôle mentionnée à
+l'article L. 510-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-31, L510-1
+	  - Code monétaire et financier - art. L518-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+
+###### Article R212-79
+
+La somme des valeurs de réalisation positives de l'ensemble des contrats conclus avec une même société ou plusieurs sociétés
+appartenant au même groupe au sens de l'article R. 212-45 est prise en compte dans le plafond mentionné au 1° de l'article R.
+212-33.
+
+Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives des instruments
+financiers à terme conclus avec un même organisme s'il existe entre les parties à l'opération une convention-cadre mentionnée
+à l'article R. 212-81.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-45, R212-33, R212-81
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R212-81 (V)
+
+
+###### Article R212-80
+
+La somme des valeurs de réalisation positives des contrats financiers à terme conclus de gré à gré avec une même société ou
+plusieurs sociétés appartenant au même groupe au sens de l'article R. 212-45 ne peut excéder 0,5 % de la base de dispersion
+définie au premier alinéa de l'article R. 212-32.
+
+Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives des instruments
+financiers à terme conclus avec un même organisme s'il existe entre les parties à l'opération une convention-cadre mentionnée
+à l'article R. 212-81.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-45, R212-32, R212-81
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R212-81
+
+Les montants prévus aux articles R. 212-79 et R. 212-80 sont calculés net de la valeur des garanties reçues en application
+d'une convention-cadre admissible.
+
+Est admissible une convention-cadre qui remplit l'ensemble des conditions suivantes :
+
+a) Elle respecte les principes généraux d'une convention-cadre de place nationale ou internationale ;
+
+b) Elle prévoit de façon explicite la compensation entre valeurs de réalisation positives et négatives ;
+
+c) Elle prévoit que la garantie prend la forme de remises en pleine propriété, opposables aux tiers sans formalité,
+d'espèces, de valeurs mentionnées au 1° du A de l'article R. 212-31, ou de parts ou d'actions d'organismes de placement
+collectif en valeurs mobilières mentionnés au 3° de cet article dont le portefeuille est exclusivement composé des valeurs
+mentionnées au 1° de cet article ;
+
+d) Elle prévoit que les lois ou règlements régissant la contrepartie, notamment en cas d'insolvabilité, ne font pas obstacle
+à la mise en oeuvre des modalités de résiliation, d'évaluation et de compensation, en application notamment de l'article L.
+431-7 du code monétaire et financier.
+
+La liste des conventions-cadres qui remplissent ces conditions est déterminée par un arrêté du ministre chargé de la
+mutualité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-79, R212-80, R212-31
+	  - Code monétaire et financier - art. L431-7 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R212-11 (VD)
+	  - Code de la mutualité - art. R212-15 (VT)
+	  - Code de la mutualité - art. R212-24 (VT)
+	  - Code de la mutualité - art. R212-31 (V)
+
+
+###### Article R212-82
+
+La commission de contrôle mentionnée à l'article L. 510-1 peut, pour apprécier les limites fixées à la présente section,
+prendre en compte les instruments financiers utilisés par les organismes :
+
+a) Dans lesquels, d'une part, la mutuelle ou union a investi un montant supérieur à 0,5 % de la base de dispersion définie au
+premier alinéa de l'article R. 212-32 et dans lesquels, d'autre part, le groupe auquel appartient la mutuelle ou union
+dispose de plus de 50 % du capital ou des parts ;
+
+b) Ou bien dans lesquels la mutuelle ou union a investi un montant supérieur à 5 % de la base de dispersion.
+
+Les dispositions du présent article s'appliquent notamment aux organismes mentionnés aux 3° et 8° de l'article R. 212-31.
+Elles ne s'appliquent pas aux actifs mis en représentation de contrats d'assurance vie ou de capitalisation, en unités de
+compte, dont la mutuelle ou union n'assume pas le risque de placement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, R212-32, R212-31
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+
+###### Article R212-83
+
+La mutuelle ou union utilisant des instruments financiers à terme effectue, au moins une fois par mois, des projections
+concernant la composition de son portefeuille de placements afin de prendre en compte l'impact sur celle-ci de ses opérations
+sur instruments financiers à terme.
+
+Ces projections sont établies pour les échéances d'un mois, trois mois, six mois, un an, et annuellement jusqu'à l'échéance
+maximale des instruments financiers à terme utilisés, en distinguant l'impact des opérations qui n'emportent aucune
+obligation pour la mutuelle ou union.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ### Titre II : Opération des mutuelles et des unions.

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2001-11-25
+Version Consolidée au 2001-12-04
 
 # Partie législative
 
@@ -4724,17 +4724,29 @@ deux mois.
 
 ###### Article L223-9
 
-La garantie en cas de décès est de nul effet si le membre participant se donne volontairement et consciemment la mort au
-cours de la première année de l'adhésion ou du contrat collectif.
+La garantie en cas de décès est de nul effet si le membre participant se donne volontairement la mort au cours de la première
+année de l'adhésion ou du contrat collectif.
 
-Les dispositions du présent article ne sont pas applicables aux opérations collectives obligatoires des mutuelles et des
+La garantie en cas de décès doit couvrir le risque de suicide à compter de la deuxième année du contrat. En cas
+d'augmentation des garanties en cours de contrat, le risque de suicide, pour les garanties supplémentaires, est couvert à
+compter de la deuxième année qui suit cette augmentation.
+
+Les dispositions du premier alinéa ne sont pas applicables aux opérations collectives obligatoires des mutuelles et des
 unions.
+
+L'assurance en cas de décès doit couvrir dès leur souscription, dans la limite d'un plafond qui sera défini par décret, les
+opérations collectives obligatoires des mutuelles et des unions ayant pour objet de garantir le remboursement d'un prêt
+contracté pour financer l'acquisition du logement principal de l'assuré.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 6 () JORF 4 décembre 2001
 
 	**Cité par**:
 
@@ -4918,16 +4930,19 @@ alinéa de l'article L. 223-14.
 ###### Article L223-18
 
 Dans le cas de réticence ou fausse déclaration mentionné à l'article L. 221-14 et dans le cas où le membre participant s'est
-donné volontairement et consciemment la mort au cours du délai mentionné à l'article L. 223-9 ou lorsque le bulletin
-d'adhésion ou le contrat collectif exclut la garantie du décès en raison de la cause de celui-ci, la mutuelle ou l'union
-verse au membre participant ou, en cas de décès de celui-ci, au bénéficiaire une somme égale à la provision mathématique de
-la garantie.
+donné volontairement la mort au cours du délai mentionné à l'article L. 223-9 ou lorsque le bulletin d'adhésion ou le contrat
+collectif exclut la garantie du décès en raison de la cause de celui-ci, la mutuelle ou l'union verse au membre participant
+ou, en cas de décès de celui-ci, au bénéficiaire une somme égale à la provision mathématique de la garantie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 6 () JORF 4 décembre 2001
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-06-10
+Version Consolidée au 2004-07-01
 
 # Partie législative
 
@@ -1220,7 +1220,10 @@ d) De l'ensemble des rémunérations versées aux dirigeants salariés ;
 
 e) De la liste des mandats et fonctions exercés par chacun des administrateurs de la mutuelle, union ou fédération ;
 
-f) Des transferts financiers entre mutuelles et unions.
+f) Des transferts financiers entre mutuelles et unions ;
+
+g) Pour les mutuelles ou leurs unions relevant du livre II, le montant et les modalités de répartition pour l'année écoulée
+de la participation aux excédents.
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les comptes consolidés ou combinés, lorsque la
 mutuelle, l'union ou la fédération fait partie d'un groupe au sens de l'article L. 212-7, ainsi qu'un rapport sur la gestion
@@ -1234,6 +1237,10 @@ et un état annuel annexé aux comptes et relatif aux plus-values latentes, vis�
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -4607,7 +4614,8 @@ l'article L. 111-1.
 
 ###### Article L223-2
 
-En matière d'assurance sur la vie, les sommes garanties sont fixées par le bulletin d'adhésion ou le contrat collectif.
+En matière d'assurance sur la vie, les sommes garanties et les conditions d'affectation des excédents techniques et
+financiers sont fixées par le bulletin d'adhésion ou le contrat collectif.
 
 En matière d'assurance sur la vie ou d'opérations de capitalisation, le capital ou la rente garantis peuvent être exprimés en
 unités de compte constituées de valeurs mobilières ou d'actifs offrant une protection suffisante de l'épargne investie et
@@ -4621,6 +4629,10 @@ réglementé de valeurs mobilières.
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -4735,9 +4747,11 @@ jours à compter du premier versement.
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné à faciliter l'exercice de cette faculté de
 renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les plans
 d'épargne retraite populaire créés à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les
-valeurs de transfert au terme de chacune des huit premières années au moins. La mutuelle ou l'union doit, en outre, remettre,
-contre récépissé, une note d'information sur les dispositions essentielles des règlements, sur les conditions d'exercice de
-la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation.
+valeurs de transfert ainsi que, dans le même tableau, la somme des cotisations versées au terme de chacune des huit premières
+années au moins. La mutuelle ou l'union doit, en outre, remettre, contre récépissé, une note d'information sur les
+dispositions essentielles des règlements incluant, lorsque le contrat comporte des garanties exprimées en unités de compte,
+les caractéristiques principales de ces unités de compte, sur les conditions d'exercice de la faculté de renonciation, ainsi
+que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation.
 
 Le défaut de remise des documents et informations énumérés au précédent alinéa entraîne de plein droit la prorogation du
 délai prévu au premier alinéa jusqu'au trentième jour suivant la date de la remise effective de ces documents. Un nouveau
@@ -4752,13 +4766,12 @@ de deux mois, au double du taux légal.
 Toutefois, les dispositions qui précèdent ne s'appliquent pas aux bulletins d'adhésion ou contrats d'une durée maximum de
 deux mois.
 
+Un arrêté du ministre chargé de la mutualité précise les modalités d'application de ces dispositions.
+
 **Nota:**
 
 NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-8 du présent code, les mots
-"plans d'épargne individuelle pour la retraite" sont déclassés et ont dorénavant un caractère réglementaire.
-
-NOTA : Décret 2004-346 2004-04-21 art. 4 : les mots "plans d'épargne individuelle pour la retraite" sont remplacés par les
-mots "plans d'épargne retraite populaire".
+"plans d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -4766,13 +4779,14 @@ mots "plans d'épargne retraite populaire".
 
 	  - Ordonnance 2001-350 2001-04-19
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
+
 	**Cite**:
 
 	  - Loi n°2003-775 2003-08-21 art. 108
-
-	**Modifié par**:
-
-	  - Décret n°2004-346 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
+	  - Code de la mutualité 108
 
 	**Cité par**:
 
@@ -5086,23 +5100,37 @@ mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un
 
 ###### Article L223-21
 
-La mutuelle ou l'union doit communiquer chaque année au membre participant les montants respectifs de la valeur de rachat ou,
-pour son plan d'épargne retraite populaire tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, la
-valeur de transfert, le cas échéant de la valeur de réduction, des capitaux et des rentes garantis, ainsi que, pour les
-règlements dont les garanties sont exprimées en unités de compte, les valeurs de ces unités de compte et leur évolution
-annuelle à compter de la souscription de la garantie.
+La mutuelle ou l'union communique chaque année au membre adhérent dont les capitaux garantis sont égaux ou supérieurs à un
+montant fixé par arrêté du ministre chargé de la mutualité :
 
-Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif.
+- le montant de la valeur de rachat ou la valeur de transfert de son plan d'épargne retraite populaire tel que défini à
+l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée (1) ;
 
-La mutuelle ou l'union doit préciser en termes précis et clairs dans cette communication ce que signifient les opérations de
-rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles.
+- le cas échéant, le montant de la valeur de réduction ;
 
-Pour les garanties ne donnant plus lieu à paiement de cotisation, les informations visées ci-dessus ne sont communiquées pour
-une année donnée qu'au membre participant contractant qui en fait la demande.
+- le montant des capitaux et des rentes garantis ;
 
-La garantie doit faire référence à l'obligation d'information prévue aux alinéas précédents.
+- le rendement garanti, la participation aux excédents ainsi que le taux moyen de rendement des actifs détenus en
+représentation des engagements au titre des garanties de même catégorie, dans des conditions fixées par arrêté du ministre
+chargé de la mutualité ;
+
+- et, pour les règlements dont les garanties sont exprimées en unités de compte, les valeurs de ces unités de compte, leur
+évolution annuelle à compter de la souscription du contrat et les modifications significatives affectant chaque unité de
+compte. Ces modifications sont précisées par arrêté du ministre chargé de la mutualité.
+
+Ces montants ne peuvent tenir compte de participations aux excédents qui ne seraient pas attribuées à titre définitif.
+
+La mutuelle ou l'union indique en termes précis et clairs dans cette communication ce que signifient les opérations de
+rachat, de transfert (1) et de réduction et quelles sont leurs conséquences légales et contractuelles.
+
+Lorsque les capitaux garantis sont inférieurs au montant défini au premier alinéa, les informations définies au présent
+article sont communiquées pour une année donnée au membre adhérent qui en fait la demande.
+
+La garantie fait référence à l'obligation d'information prévue aux alinéas précédents.
 
 **Nota:**
+
+NOTA (1) : Loi 2003-775 du 21 août 2003 article 108 XVI : ces dispositions entrent en vigueur le 1er janvier 2004.
 
 NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-21 du présent code, les
 mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
@@ -5113,14 +5141,15 @@ mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un
 
 	  - Ordonnance 2001-350 2001-04-19
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
+	  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2004-346 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
+
 	**Cite**:
 
 	  - Loi n°2003-775 2003-08-21 art. 108
-
-	**Modifié par**:
-
-	  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
-	  - Décret n°2004-346 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
 
 	**Cité par**:
 

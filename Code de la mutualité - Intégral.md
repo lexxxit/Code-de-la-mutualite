@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1986-12-31
+Version Consolidée au 1988-03-02
 
 # Partie législative
 
@@ -2658,8 +2658,8 @@ conseil d'administration [*point de départ, organisme compétent*].
 
 ###### Article R124-2
 
-L'autorisation prévue à l'article L. 124-4 [*réception de dons et legs*] est accordée par le commissaire de la République du
-département dans lequel est situé le siège social de la mutuelle [*autorité compétente, compétence territoriale*].
+L'autorisation prévue à l'article L. 124-4 [*réception de dons et legs*] est accordée par le préfet du département dans
+lequel est situé le siège social de la mutuelle [*autorité compétente, compétence territoriale*].
 
 Toutefois, cette autorisation est accordée par le ministre chargé de la mutualité lorsque le montant de la libéralité dépasse
 le seuil fixé par le décret n° 66-388 du 13 juin 1966 relatif à la tutelle administrative des associations, fondations et
@@ -2678,6 +2678,10 @@ décret en Conseil d'Etat ou par arrêté du ministre chargé de la mutualité p
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cité par**:
 
@@ -2919,8 +2923,8 @@ du ministre chargé de la mutualité.
 ###### Article R126-1
 
 La décision prévue au troisième alinéa de l'article L. 126-1 [*fusion décidée par l'autorité administrative compétente*] est
-prise par le commissaire de la République du département dans lequel est situé le siège social de la mutuelle absorbante,
-après avis du comité départemental de coordination de la mutualité.
+prise par le préfet du département dans lequel est situé le siège social de la mutuelle absorbante, après avis du comité
+départemental de coordination de la mutualité.
 
 **Nota:**
 
@@ -2931,6 +2935,10 @@ après avis du comité départemental de coordination de la mutualité.
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -2963,9 +2971,8 @@ la préfecture du département dans lequel est situé le siège social de la mut
 
 ###### Article R126-3
 
-Dans le cas prévu à l'article L. 126-4, la dissolution est prononcée par le commissaire de la République du département dans
-lequel est situé le siège social de la mutuelle [*autorité compétente*] après avis du comité départemental de coordination de
-la mutualité.
+Dans le cas prévu à l'article L. 126-4, la dissolution est prononcée par le préfet du département dans lequel est situé le
+siège social de la mutuelle [*autorité compétente*] après avis du comité départemental de coordination de la mutualité.
 
 **Nota:**
 
@@ -2976,6 +2983,10 @@ la mutualité.
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -2993,7 +3004,7 @@ la mutualité.
 ###### Article R126-4
 
 L'autorité administrative compétente pour exercer la surveillance prévue par l'article L. 126-5 [*durant la liquidation de la
-mutuelle*] est le commissaire de la République, assisté du comité départemental de coordination de la mutualité.
+mutuelle*] est le préfet, assisté du comité départemental de coordination de la mutualité.
 
 **Nota:**
 
@@ -3004,6 +3015,10 @@ mutuelle*] est le commissaire de la République, assisté du comité départemen
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -3026,14 +3041,18 @@ mutuelle*] est le commissaire de la République, assisté du comité départemen
 
 ###### Article R211-1
 
-Le procès-verbal de la délibération mentionnée à l'article L. 211-2 est communiqué au commissaire de la République du
-département dans lequel est situé le siège social de la mutuelle [*autorité compétente*] dans le délai d'un mois.
+Le procès-verbal de la délibération mentionnée à l'article L. 211-2 est communiqué au préfet du département dans lequel est
+situé le siège social de la mutuelle [*autorité compétente*] dans le délai d'un mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -3316,8 +3335,8 @@ dans les conditions prévues à l'article R. 122-1 et à l'article R. 122-2 resp
 
 Les règlements et conventions de gestion des établissements ou services à caractère sanitaire, médico-social, social ou
 culturel doivent être déposés, contre récépissé, à la préfecture du département dans lequel est situé le siège social de la
-mutuelle. Ils sont soumis à l'approbation du commissaire de la République du département. Le délai mentionné au troisième
-alinéa de l'article L. 411-6 est de trois mois à compter de la date du récépissé de dépôt [*point de départ*].
+mutuelle. Ils sont soumis à l'approbation du préfet du département. Le délai mentionné au troisième alinéa de l'article L.
+411-6 est de trois mois à compter de la date du récépissé de dépôt [*point de départ*].
 
 Ce délai peut être renouvelé une fois par décision motivée notifiée à la mutuelle avant l'expiration du délai normal
 [*renouvellement exprès*].
@@ -3329,6 +3348,10 @@ Ces dispositions sont applicables aux modifications apportées aux règlements e
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -3428,15 +3451,14 @@ mutualité et quatre membres choisis parmi les représentants des groupements mu
 
 ###### Article R512-1
 
-Un comité départemental de coordination de la mutualité est placé auprès du commissaire de la République.
+Un comité départemental de coordination de la mutualité est placé auprès du préfet.
 
 Il est élu pour six ans [*durée du mandat*] par les mutuelles ayant leur siège dans le département, les sections des
 mutuelles à caractère professionnel ou interprofessionnel instituées dans le département dans les conditions prévues par
 l'article L. 221-1 ainsi que les sections, situées dans le département, qui sont prévues par les statuts d'une mutuelle et
 dotées d'un organe de gestion.
 
-Le nombre des membres de ce comité est fixé par arrêté du commissaire de la République du département ; il est compris entre
-six et vingt-quatre.
+Le nombre des membres de ce comité est fixé par arrêté du préfet du département ; il est compris entre six et vingt-quatre.
 
 **Liens relatifs à cet article**
 
@@ -3446,7 +3468,7 @@ six et vingt-quatre.
 
 	**Modifié par**:
 
-	  - Décret n°86-1359 du 30 décembre 1986 - art. 1 () JORF 31 décembre 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cité par**:
 
@@ -3464,13 +3486,12 @@ six et vingt-quatre.
 Sans préjudice des autres attributions qui lui sont conférées par le présent code, le comité départemental de coordination de
 la mutualité :
 
-1° Procède aux enquêtes et donne les avis qui lui sont demandés par le commissaire de la République ;
+1° Procède aux enquêtes et donne les avis qui lui sont demandés par le préfet ;
 
-2° Présente, chaque année [*périodicité*], au commissaire de la République un rapport sur le fonctionnement de l'ensemble des
-groupements mutualistes de son ressort, qui est également transmis au Conseil supérieur de la mutualité ;
+2° Présente, chaque année [*périodicité*], au préfet un rapport sur le fonctionnement de l'ensemble des groupements
+mutualistes de son ressort, qui est également transmis au Conseil supérieur de la mutualité ;
 
-3° Est habilité à rechercher et signaler au commissaire de la République les manquements aux dispositions de l'article L.
-122-3, alinéa 2 ;
+3° Est habilité à rechercher et signaler au préfet les manquements aux dispositions de l'article L. 122-3, alinéa 2 ;
 
 4° Développe l'idée mutualiste et favorise les initiatives locales, notamment en matière de prévoyance et d'action sociale ;
 
@@ -3488,6 +3509,10 @@ circonscription.
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -3512,16 +3537,19 @@ de son bureau.
 
 ###### Article R512-4
 
-Il peut être créé, par arrêté du commissaire de la République de région, un comité régional de coordination de la mutualité.
-Ce comité est composé de délégués désignés par les membres des comités départementaux de coordination de la mutualité dans
-les conditions fixées par arrêté du commissaire de la République de région. Ses attributions sont celles prévues à l'article
-R. 512-2 (1°, 2°, 4° et 7°).
+Il peut être créé, par arrêté du préfet de région, un comité régional de coordination de la mutualité. Ce comité est composé
+de délégués désignés par les membres des comités départementaux de coordination de la mutualité dans les conditions fixées
+par arrêté du préfet de région. Ses attributions sont celles prévues à l'article R. 512-2 (1°, 2°, 4° et 7°).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cité par**:
 
@@ -3564,14 +3592,18 @@ d'office par le ministre chargé de la mutualité.
 ###### Article R513-2
 
 Le ministre chargé de la mutualité fixe les dates des élections au Conseil supérieur par un arrêté publié au Journal officiel
-trois mois au moins avant ces dates [*délai*]. Le même arrêté désigne le commissaire de la République de région chargé de
-l'organisation de l'élection du représentant du vingt-troisième collège prévu par l'article R. 513-3.
+trois mois au moins avant ces dates [*délai*]. Le même arrêté désigne le préfet de région chargé de l'organisation de
+l'élection du représentant du vingt-troisième collège prévu par l'article R. 513-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -3657,7 +3689,7 @@ Ce nombre de voix est de :
 
 Une voix jusqu'à 100 membres participants ;
 
-Deux voix de 101 à 500 membres participants ; 
+Deux voix de 101 à 500 membres participants ;
 
 Trois voix de 501 à 1000 membres participants ;
 
@@ -3678,18 +3710,22 @@ Dix voix au-dessus de 30 000 membres participants.
 L'effectif à retenir est, pour les mutuelles qui ne disposent pas de sections, celui qui ressort de l'état mentionné à
 l'article R. 531-1.
 
-L'effectif des membres de chaque section est déclaré par la mutuelle concernée au commissaire de la République du département
-où est située la section.
+L'effectif des membres de chaque section est déclaré par la mutuelle concernée au préfet du département où est située la
+section.
 
 Les mutuelles comportant des sections disposent, dans le département où elles ont leur siège, d'un nombre de voix déterminé
 en fonction de l'effectif des membres qui ne relèvent pas de sections. Cet effectif fait également l'objet d'une déclaration
-adressée au commissaire de la République du département.
+adressée au préfet du département.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -3703,9 +3739,9 @@ adressée au commissaire de la République du département.
 
 ###### Article R513-5
 
-Le commissaire de la République de chaque département établit, après avis du comité départemental de coordination de la
-mutualité, la liste des mutuelles et sections de mutuelles admises à participer aux opérations électorales. Cette liste
-indique le nombre de voix dont dispose chaque mutuelle ou section.
+Le préfet de chaque département établit, après avis du comité départemental de coordination de la mutualité, la liste des
+mutuelles et sections de mutuelles admises à participer aux opérations électorales. Cette liste indique le nombre de voix
+dont dispose chaque mutuelle ou section.
 
 Aucun groupement ne peut être inscrit sur ces listes s'il n'a pas fourni l'état ou les déclarations mentionnés à l'article
 précédent.
@@ -3714,15 +3750,18 @@ La liste est révisée, au plus tard quatre-vingt-douze jours avant chaque scrut
 départemental de coordination de la mutualité.
 
 Une réclamation peut être formée par toute mutuelle ou section de mutuelle ayant son siège dans le département en vue de son
-inscription sur la liste ou de la radiation d'un autre groupement. Cette réclamation est formée devant le commissaire de la
-République du département dans les quinze jours [*délai*] qui suivent la publication de l'arrêté établissant ou révisant la
-liste.
+inscription sur la liste ou de la radiation d'un autre groupement. Cette réclamation est formée devant le préfet du
+département dans les quinze jours [*délai*] qui suivent la publication de l'arrêté établissant ou révisant la liste.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cité par**:
 
@@ -3771,7 +3810,7 @@ Aucun retrait de candidature n'est admis après le trentième jour qui précède
 
 ###### Article R513-8
 
-Le commissaire de la République de région fait connaître aux électeurs les candidatures déclarées.
+Le préfet de région fait connaître aux électeurs les candidatures déclarées.
 
 **Liens relatifs à cet article**
 
@@ -3779,15 +3818,18 @@ Le commissaire de la République de région fait connaître aux électeurs les c
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
 
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
 
 ###### Article R513-9
 
 Le conseil d'administration de chaque mutuelle ou l'organe de gestion de chaque section de mutuelle délibère sur les votes à
 émettre.
 
-En exécution de cette délibération, chaque mutuelle ou section adresse au commissaire de la République du département un
-nombre de bulletins de vote égal au nombre de voix dont elle dispose. Les bulletins comportent, à l'exclusion de toute autre
-mention :
+En exécution de cette délibération, chaque mutuelle ou section adresse au préfet du département un nombre de bulletins de
+vote égal au nombre de voix dont elle dispose. Les bulletins comportent, à l'exclusion de toute autre mention :
 
 - la mention "Election au Conseil supérieur de la mutualité" ;
 
@@ -3804,6 +3846,10 @@ Les bulletins de vote doivent parvenir à la préfecture de département au plus
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cité par**:
 
@@ -3833,27 +3879,29 @@ Sont nuls les bulletins de vote qui ne respectent pas les règles énoncées aux
 
 ###### Article R513-11
 
-Une commission présidée par le commissaire de la République du département ou son représentant et composée de trois
-présidents de mutuelle désignés par arrêté du commissaire de la République procède au recensement des envois effectués et au
-dépouillement des votes dans les trois jours [*délai*] qui suivent l'élection, dans les conditions prévues aux articles L. 65
-et L. 66 du Code électoral.
+Une commission présidée par le préfet du département ou son représentant et composée de trois présidents de mutuelle désignés
+par arrêté du préfet procède au recensement des envois effectués et au dépouillement des votes dans les trois jours [*délai*]
+qui suivent l'élection, dans les conditions prévues aux articles L. 65 et L. 66 du Code électoral.
 
 Lorsqu'un électeur a envoyé un nombre d'enveloppes supérieur à celui des voix dont il dispose, la commission procède au
 retrait d'un nombre d'enveloppes égal à cet excédent. Les enveloppes sont annexées au procès-verbal sans avoir été ouvertes.
 Si les enveloppes sont en nombre inférieur à celui des voix dont dispose l'organisme, toutes sont prises en compte.
 
-Le commissaire de la République du département adresse, dans les vingt-quatre heures, au commissaire de la République de
-région le procès-verbal consignant les résultats du scrutin concernant l'élection des représentants au Conseil supérieur de
-la mutualité.
+Le préfet du département adresse, dans les vingt-quatre heures, au préfet de région le procès-verbal consignant les résultats
+du scrutin concernant l'élection des représentants au Conseil supérieur de la mutualité.
 
-Le commissaire de la République de région procède à la centralisation des résultats des votes dans un procès-verbal et
-l'adresse dans les vingt-quatre heures au ministre chargé de la mutualité.
+Le préfet de région procède à la centralisation des résultats des votes dans un procès-verbal et l'adresse dans les vingt-
+quatre heures au ministre chargé de la mutualité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -4051,14 +4099,17 @@ Le collège électoral est composé des mutuelles et sections de mutuelles inscr
 
 Les candidatures sont déclarées à la préfecture du département dans le délai prévu à l'article R. 513-7 sous forme de listes
 comportant les noms des candidats représentants titulaires et des candidats représentants suppléants, en nombre égal à celui
-des sièges à pourvoir. Le commissaire de la République de département fait connaître aux électeurs les candidatures
-déclarées.
+des sièges à pourvoir. Le préfet de département fait connaître aux électeurs les candidatures déclarées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -4091,13 +4142,17 @@ Les opérations électorales se déroulent conformément aux dispositions des ar
 ###### Article R513-23
 
 Le dépouillement des votes s'effectue conformément aux dispositions des trois premiers alinéas de l'article R. 513-11. Le
-commissaire de la République [*autorité compétente*] publie la liste des membres du comité départemental.
+préfet [*autorité compétente*] publie la liste des membres du comité départemental.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -4106,14 +4161,18 @@ commissaire de la République [*autorité compétente*] publie la liste des memb
 
 ###### Article R513-24
 
-Les membres du comité départemental de coordination de la mutualité sont déclarés démissionnaires d'office par le commissaire
-de la République lorsque, au cours de leur mandat, ils cessent de remplir les conditions exigées pour être éligibles.
+Les membres du comité départemental de coordination de la mutualité sont déclarés démissionnaires d'office par le préfet
+lorsque, au cours de leur mandat, ils cessent de remplir les conditions exigées pour être éligibles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ##### Section 3 : Contentieux des opérations électorales

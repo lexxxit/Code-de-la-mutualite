@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-03-26
+Version Consolidée au 2004-04-22
 
 # Partie législative
 
@@ -4690,11 +4690,10 @@ jours à compter du premier versement.
 
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné à faciliter l'exercice de cette faculté de
 renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les plans
-d'épargne individuelle pour la retraite créés à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des
-retraites, les valeurs de transfert au terme de chacune des huit premières années au moins. La mutuelle ou l'union doit, en
-outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles des règlements, sur les
-conditions d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette
-faculté de renonciation.
+d'épargne retraite populaire créés à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les
+valeurs de transfert au terme de chacune des huit premières années au moins. La mutuelle ou l'union doit, en outre, remettre,
+contre récépissé, une note d'information sur les dispositions essentielles des règlements, sur les conditions d'exercice de
+la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation.
 
 Le défaut de remise des documents et informations énumérés au précédent alinéa entraîne de plein droit la prorogation du
 délai prévu au premier alinéa jusqu'au trentième jour suivant la date de la remise effective de ces documents. Un nouveau
@@ -4714,6 +4713,9 @@ deux mois.
 NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-8 du présent code, les mots
 "plans d'épargne individuelle pour la retraite" sont déclassés et ont dorénavant un caractère réglementaire.
 
+NOTA : Décret 2004-346 2004-04-21 art. 4 : les mots "plans d'épargne individuelle pour la retraite" sont remplacés par les
+mots "plans d'épargne retraite populaire".
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4726,7 +4728,7 @@ NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 :
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2004-346 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
 
 	**Cité par**:
 
@@ -5009,14 +5011,14 @@ Dans la limite de la valeur de rachat ou de la valeur de transfert pour les opé
 2003-775 du 21 août 2003 précitée, la mutuelle ou l'union peut consentir des avances au membre participant.
 
 La mutuelle ou l'union doit, à la demande du membre participant, verser à celui-ci la valeur de rachat de la garantie ou la
-valeur de transfert du plan d'épargne individuelle pour la retraite dans un délai qui ne peut excéder deux mois. Au-delà de
-ce délai, les sommes non versées produisent de plein droit des intérêts au taux légal majoré de moitié durant deux mois,
-puis, à l'expiration de ce délai de deux mois, au double du taux légal.
+valeur de transfert du plan d'épargne retraite populaire dans un délai qui ne peut excéder deux mois. Au-delà de ce délai,
+les sommes non versées produisent de plein droit des intérêts au taux légal majoré de moitié durant deux mois, puis, à
+l'expiration de ce délai de deux mois, au double du taux légal.
 
 **Nota:**
 
 NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-20 du présent code, les
-mots "plan d'épargne individuelle pour la retraite" sont déclassés et ont dorénavant un caractère réglementaire.
+mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -5030,7 +5032,7 @@ mots "plan d'épargne individuelle pour la retraite" sont déclassés et ont dor
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 2003-08-21 art. 108 XIV 2° JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2004-346 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-01-07
+Version Consolidée au 2005-01-19
 
 # Partie législative
 
@@ -17475,6 +17475,8 @@ Toutefois, la commission peut également requérir une expertise selon les modal
 
 ### Chapitre unique
 
+#### Section 1 : Libre prestation de services.
+
 ###### Article A510-1
 
 I. - Les documents visés au premier alinéa du I de l'article R. 510-17 sont les suivants :
@@ -17504,9 +17506,9 @@ certifiée conforme dans la langue officielle de l'Etat membre de libre prestati
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2002-12-27 art. 1 JORF 8 janvier 2003
+	  - Arrêté 2005-01-10 art. 1 I JORF 19 janvier 2005
 
 	**Cite**:
 
@@ -17534,9 +17536,9 @@ du titre Ier du livre II du code de la mutualité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2002-12-27 art. 1 JORF 8 janvier 2003
+	  - Arrêté 2005-01-10 art. 1 I JORF 19 janvier 2005
 
 	**Cite**:
 
@@ -17564,9 +17566,9 @@ l'organisme sur lequel pèse l'obligation de consolidation, désigner, pour l'ap
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2002-12-27 art. 1 JORF 8 janvier 2003
+	  - Arrêté 2005-01-10 art. 1 I JORF 19 janvier 2005
 
 	**Cite**:
 
@@ -17575,6 +17577,40 @@ l'organisme sur lequel pèse l'obligation de consolidation, désigner, pour l'ap
 	  - Décret n°91-160 du 13 février 1991 - art. 2 (Ab)
 	  - Décret n°91-160 du 13 février 1991 - art. 3 (M)
 	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+#### Section 2 : Contrôle déconcentré.
+
+###### Article A510-4
+
+Le contrôle des mutuelles et unions pratiquant exclusivement les opérations mentionnées au a du 1° du I de l'article L. 111-1
+à l'exception des prestations d'une durée supérieure à un an est exercé au niveau régional lorsque la mutuelle ou l'union :
+
+1° N'a pas encaissé au cours de chacun des trois derniers exercices clos un montant de cotisations supérieur à quarante-cinq
+millions d'euros ;
+
+2° Et n'a pas versé au cours de chacun des mêmes exercices un montant de prestations supérieur à trente-six millions d'euros.
+
+Pour les mutuelles et les unions qui se sont substituées à d'autres organismes selon les modalités prévues à l'article L.
+211-5, sont prises en compte les cotisations encaissées et les prestations versées par ces derniers organismes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-01-10 art. 1 II JORF 19 janvier 2005
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L111-1, L211-5
 
 	**Liens**:
 

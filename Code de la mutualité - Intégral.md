@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2002-11-14
+Version Consolidée au 2002-11-28
 
 # Partie législative
 
@@ -7105,6 +7105,88 @@ d'Etat.
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.
+
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.
+
+#### Section 3 : Assemblée générale.
+
+###### Article R114-1
+
+Lorsque les statuts d'une mutuelle dont l'assemblée générale est composée des membres participants et, le cas échéant, de
+membres honoraires leur donnent la faculté de voter par correspondance, ils prévoient également qu'à compter de la date de la
+convocation de l'assemblée un formulaire de vote par correspondance et ses annexes doivent être remis ou adressés aux frais
+de l'organisme à tout membre qui en fait la demande. La mutuelle doit faire droit à toute demande déposée ou reçue au siège
+social au plus tard six jours ouvrables avant la date de la réunion.
+
+Le formulaire de vote par correspondance doit permettre un vote sur chacune des résolutions, dans l'ordre de leur
+présentation. Il doit offrir à chaque membre de l'assemblée générale la possibilité d'exprimer sur chaque résolution un vote
+favorable ou défavorable à son adoption ou sa volonté de s'abstenir de voter. Est annexé au formulaire le texte des
+résolutions proposées accompagné d'un exposé des motifs. Les statuts des mutuelles peuvent préciser le contenu du formulaire
+de vote par correspondance.
+
+Le formulaire de vote par correspondance comporte l'indication de la date fixée conformément aux statuts, avant laquelle il
+doit être reçu par l'organisme pour qu'il en soit tenu compte. La date après laquelle il ne sera plus tenu compte des
+formulaires de vote par correspondance reçus par l'organisme ne peut être antérieure de plus de trois jours à la date de la
+réunion de l'assemblée, un délai plus court pouvant être prévu par les statuts.
+
+Le formulaire de vote adressé à la mutuelle vaut pour les assemblées tenues sur deuxième convocation avec le même ordre du
+jour.
+
+Lorsque les statuts prévoient un délai de convocation de l'assemblée générale supérieur à quinze jours, les délais prévus au
+présent article sont majorés en proportion de l'augmentation de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1382 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1382 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+###### Article R114-2
+
+A compter de la date de la convocation de l'assemblée générale, une formule de vote par procuration doit être remise ou
+adressée aux frais de l'organisme à tout membre qui en fait la demande. La mutuelle doit faire droit à toute demande déposée
+ou reçue au siège social au plus tard six jours ouvrables avant la date de la réunion. 
+
+A toute formule de vote par procuration, adressée aux membres de l'assemblée par l'organisme, doit être joint le texte des
+résolutions proposées accompagné d'un exposé des motifs. 
+
+Les membres de l'assemblée générale qui votent par procuration doivent signer la procuration et indiquer leurs nom, prénom
+usuel et domicile ainsi que les noms, prénom usuel et domicile de leur mandataire. Ils doivent adresser la procuration à leur
+mandataire. 
+
+Le ou la mandataire doit être membre de l'assemblée générale de la mutuelle. 
+
+Le mandat est donné pour une seule assemblée, sauf dans les deux cas suivants : 
+
+a) Un mandat peut être donné pour deux assemblées tenues le même jour ou dans un délai d'un mois, lorsque l'une se réunit
+pour exercer les attributions visées au I de l'article L. 114-12 et l'autre pour exercer les attributions visées au II du
+même article ; 
+
+b) Un mandat donné pour une assemblée vaut pour les assemblées tenues sur deuxième convocation avec le même ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1382 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1382 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L114-12 (V)
+
+
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
 
 ### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
@@ -12102,6 +12184,168 @@ mutuelles, unions et fédérations ayant leur siège dans la région.
 	**Abrogé par**:
 
 	  - Décret n°2011-1192 du 26 septembre 2011 - art. 7
+
+
+# Partie réglementaire - Décrets simples
+
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.
+
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.
+
+#### Section 3 : Assemblée générale.
+
+###### Article D114-1
+
+Sauf clause contraire des statuts, les assemblées générales des mutuelles, unions et fédérations sont réunies au lieu fixé
+par le conseil d'administration.
+
+Une feuille de présence est tenue à chaque assemblée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+###### Article D114-2
+
+Sous réserve des articles D. 114-3 à D. 114-5, les statuts des mutuelles, unions et fédérations fixent les règles de
+convocation de l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) D114-3 à D114-5
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+###### Article D114-3
+
+La convocation indique la dénomination sociale de la mutuelle, union ou fédération, éventuellement suivie de son sigle,
+l'adresse du siège social, les jour, heure et lieu de la tenue de l'assemblée générale, son ordre du jour ainsi que les
+règles de quorum et de majorité applicables aux délibérations correspondantes.
+
+Sous réserve des questions diverses qui ne doivent présenter qu'une importance mineure, les questions inscrites à l'ordre du
+jour sont libellées de telle sorte que leur contenu et leur portée apparaissent clairement, sans qu'il y ait lieu de se
+reporter à d'autres documents.
+
+Lorsque les statuts prévoient la faculté de voter par correspondance, la convocation des membres de l'assemblée générale
+indique les conditions dans lesquelles cette faculté peut être exercée et les lieux et conditions dans lesquels ils peuvent
+obtenir les formulaires nécessaires et les documents qui y sont annexés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) annexe
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+###### Article D114-4
+
+Le délai entre la date de convocation à l'assemblée générale et la date de tenue de celle-ci est d'au moins quinze jours sur
+première convocation et d'au moins six jours sur deuxième convocation. En cas d'ajournement par décision de justice, cette
+décision peut fixer un délai différent.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+###### Article D114-5
+
+Lorsqu'une assemblée n'a pu délibérer régulièrement, faute du quorum requis, la deuxième assemblée est convoquée dans les
+formes prévues à l'article D. 114-3 et la convocation rappelle la date de la première.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) D114-3
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+###### Article D114-6
+
+Les membres participants ou les délégués composant l'assemblée générale d'une mutuelle, union ou fédération peuvent, dans une
+proportion fixée par les statuts de l'organisme mutualiste, requérir l'inscription à l'ordre du jour de projets de
+résolution. Cette proportion ne peut excéder le quart des membres de l'assemblée générale. Les statuts peuvent également
+imposer une condition de durée minimum d'adhésion qui ne peut excéder un an.
+
+Les demandes d'inscription à l'ordre du jour d'une assemblée générale de projets de résolution doivent être adressées par
+lettre recommandée avec demande d'avis de réception au président du conseil d'administration de la mutuelle, de l'union ou de
+la fédération cinq jours au moins avant la date de réunion de l'assemblée générale. Ces projets de résolution sont inscrits à
+l'ordre du jour et soumis au vote de l'assemblée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
+
+
+###### Article D114-7
+
+Lorsque les statuts prévoient un délai de convocation de l'assemblée générale supérieur à quinze jours, les délais prévus aux
+articles D. 114-4 et D. 114-6 sont majorés en proportion de l'augmentation de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) D114-4, D114-6
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
+	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
 
 
 # Partie réglementaire - Arrêtés

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 1994-01-19
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -2815,20 +2815,18 @@ juridiction devant le Conseil d'Etat.
 
 ###### Article L541-1
 
-Sont passibles d'une amende de 3000 à 30000 F lorsqu'ils ont subi depuis moins de cinq ans une condamnation pour
-contravention aux dispositions suivantes :
+Sont passibles d'une amende de 30000 F, lorsqu'ils ont subi depuis moins de cinq ans une condamnation pour contravention aux
+dispositions suivantes :
 
 1° Toute personne qui, à quelque titre que ce soit, participe à l'administration ou à la direction d'un groupement soumis aux
-dispositions du présent code et fonctionnant sous la dénomination de mutuelle sans que ces statuts aient été approuvés en
-application de l'article L. 122-5 ; 
+dispositions du présent code et fonctionnant sous la dénomination de mutuelle, sans que ses statuts aient été approuvés en
+application de l'article L. 122-5 ;
 
 2° Toute personne qui participe à l'administration ou à la direction d'un groupement pratiquant des opérations régies par le
-présent code, au cas où ce groupement ne se serait pas conformé à l'article L. 111-2 ; 
+présent code, au cas où ce groupement ne se serait pas conformé à l'article L. 111-2 ;
 
 3° Les présidents, les administrateurs ou directeurs des mutuelles qui se rendent coupables d'infraction aux articles L.
-121-2,
-
-L. 125-3, L. 125-5, L. 125-6, L. 125-7 et L. 411-6 et des textes pris pour l'application de ces dispositions ; 
+121-2, L. 125-3, L. 125-5, L. 125-6, L. 125-7 et L. 411-6 et des textes pris pour l'application de ces dispositions ;
 
 4° Les présidents, les administrateurs ou directeurs de groupements enfreignant les dispositions de l'article L. 122-3.
 
@@ -2841,20 +2839,33 @@ direction d'une mutuelle ou d'une union de mutuelles.
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
+
 	**Cite**:
 
 	  - Code de la mutualité - art. L111-2 (M)
 	  - Code de la mutualité - art. L121-2 (Ab)
 	  - Code de la mutualité - art. L122-3 (Ab)
 	  - Code de la mutualité - art. L122-5 (Ab)
+	  - Code de la mutualité - art. L125-3 (Ab)
+	  - Code de la mutualité - art. L125-5 (Ab)
+	  - Code de la mutualité - art. L125-6 (Ab)
+	  - Code de la mutualité - art. L125-7 (Ab)
+	  - Code de la mutualité - art. L411-6 (Ab)
 
 
 ###### Article L541-2
 
 Tout dirigeant d'une mutuelle ou de l'une des personnes morales visées à l'article L. 531-1-5 qui met obstacle, de quelque
 manière que ce soit, à l'exercice de leurs fonctions par la commission de contrôle ou par les fonctionnaires mis à la
-disposition ou commissionnés par elle, est passible d'un emprisonnement de quinze jours à deux ans et d'une amende de 15000 à
-2000000 F ou de l'une de ces deux peines seulement.
+disposition ou commissionnés par elle, est passible d'un emprisonnement de deux ans et d'une amende de 2000000 F ou de l'une
+de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -2862,9 +2873,13 @@ disposition ou commissionnés par elle, est passible d'un emprisonnement de quin
 
 	  - Loi n°85-773 1985-07-25 JORF 26 juillet 1985
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-1009 du 31 décembre 1989 - art. 23 () JORF 2 janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 3 JORF 22 avril 2001
 
 	**Cite**:
 
@@ -6790,7 +6805,7 @@ en 1990 ont été inférieures à un montant de cent cinquante millions de franc
 
 ###### Article R541-1
 
-Sont punis de la peine d'amende prévue pour les contraventions de la cinquième classe :
+Sont punis de la peine d'amende prévue pour les contraventions de la cinquième classe [*(1) montant*] :
 
 1° Toute personne qui, à quelque titre que ce soit, participe à l'administration ou à la direction d'un groupement soumis aux
 dispositions du présent code et fonctionnant sous la dénomination de mutuelle sans que ses statuts aient été approuvés en
@@ -6800,16 +6815,44 @@ application de l'article L. 122-5 ;
 présent code, au cas où ce groupement ne se serait pas conformé à l'article L. 111-2 ;
 
 3° Les présidents, les administrateurs ou directeurs de mutuelles qui se rendent coupables d'infractions aux articles L.
-121-2, L. 122-7, L. 124-6, L. 124-7, L. 125-3, L. 125-5, L. 125-7, L. 125-8, L. 125-9, L. 125-10, L. 321-1, L. 321-2 et L.
-411-6 et aux textes pris pour l'application de ces dispositions  ;
+121-2, L.  122-7, L. 124-6, L. 124-7, L. 125-3, L. 125-5, L. 125-7, L. 125-8, L.  125-9, L. 125-10, L. 321-1, L. 321-2 et L.
+411-6 et aux textes pris pour l'application de ces dispositions ;
 
 4° Les présidents, les administrateurs ou directeurs de groupements enfreignant les dispositions de l'article L. 122-3.
+
+**Nota:**
+
+Nota : (1) voir l'article 131-13 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L111-2 (M)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L121-2 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L122-3 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L122-5 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L122-7 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L124-6 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L124-7 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L125-10 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L125-3 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L125-5 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L125-7 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L125-8 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L125-9 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L321-1 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L321-2 (Ab)
+	  - TXT_ASSOCIE: Code de la mutualité - art. L411-6 (Ab)
 
 	**Cite**:
 

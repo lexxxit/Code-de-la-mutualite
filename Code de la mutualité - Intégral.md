@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-07-16
 
 # Partie législative
 
@@ -8155,22 +8155,24 @@ souscrits par cet organisme pour la ou les branches concernées.
 Elle précise en outre que toutes les écritures comptables afférentes aux engagements pris par cet organisme doivent
 apparaître dans la comptabilité de la mutuelle ou de l'union qui lui est substituée.
 
+Lorsqu'une mutuelle ou une union à laquelle un autre organisme s'est substitué pour la totalité de ses opérations choisit de
+se dispenser de nommer un commissaire aux comptes en application du cinquième alinéa de l'article L. 211-5, le mandat du
+commissaire aux comptes de l'organisme qui lui est substitué est étendu à cette mutuelle ou union.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R211-2, L510-1, L212-1, L211-5
+	  - Code de la sécurité sociale. - art. L951-4 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1107 du 23 novembre 2001 - art. 4 () JORF 25 novembre 2001
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L951-4 (M)
-	  - Code de la mutualité - art. L212-1 (V)
-	  - Code de la mutualité - art. L510-1 (M)
-	  - Code de la mutualité - art. R211-2 (V)
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 	**Cité par**:
 
@@ -13385,15 +13387,341 @@ et d'action mutualistes au cours de l'année considérée, en distinguant ces d�
 
 ###### Article R510-1
 
-La commission de contrôle mentionnée à l'article L. 510-1 se réunit sur convocation de son président.
+L'organisation administrative de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
+mentionnée à l'article L. 510-1 est fixée par les articles R. 310-11, R. 310-12 et R. 310-12-1 du code des assurances, ci-
+après reproduits :
 
-En matière disciplinaire, elle ne peut délibérer que si quatre, au moins, de ses membres sont présents.
+"Art. R. 310-11. - I. - La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance se réunit
+sur convocation de son président ou à la demande de la moitié de ses membres.
+
+Elle ne peut délibérer que si cinq au moins de ses membres sont présents, ce nombre étant porté à six en matière
+disciplinaire.
+
+II. - Il est établi un procès-verbal des séances de la commission de contrôle par un agent des services qui fait office de
+secrétaire de séance. Mention y est faite des noms des membres présents.
+
+Le procès-verbal est soumis à l'approbation de la commission.
+
+Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition de chacun des membres
+de la commission et des commissaires du Gouvernement.
+
+III. - Les membres de la commission perçoivent, pour chaque séance, une indemnité dont le montant est fixé par la commission.
+Le montant des indemnités versées annuellement à chaque membre ne doit pas dépasser un cinquième du traitement moyen afférent
+au cinquième groupe supérieur des emplois de l'Etat classés hors échelle. Le président de la commission perçoit une
+rémunération ou une indemnité du même montant, assortie d'une indemnité de fonction fixée par le ministre chargé de
+l'économie. Le montant de cette dernière indemnité est publié au Journal officiel de la République française."
+
+"Art. R. 310-12. - I. - Sur proposition de son président et à la majorité des deux tiers de ses membres, la commission de
+contrôle peut constituer une ou plusieurs commissions spécialisées mentionnées à l'article L. 310-12-1. Elle peut les créer
+en matière d'assurances de personnes, de biens et de responsabilité ainsi qu'en matière d'intermédiation et de gouvernance
+des organismes pratiquant des activités d'assurance.
+
+Ces commissions spécialisées ne peuvent intervenir dans les matières relevant du pouvoir de sanction mentionné à l'article L.
+310-18 du présent code, à l'article L. 951-10 du code de la sécurité sociale et à l'article L. 510-11 du code de la
+mutualité. Elles peuvent intervenir dans les matières relevant des mesures de redressement et de sauvegarde mentionnées au
+chapitre III du titre III du livre III du présent code, à la section V du chapitre Ier du titre III du livre IX du code de la
+sécurité sociale et aux articles L. 510-8 et L. 510-9 du code de la mutualité lorsque le chiffre d'affaires moyen des trois
+derniers exercices de l'organisme concerné est inférieur à un seuil déterminé par arrêté conjoint des ministres chargés des
+finances, de la sécurité sociale et de la mutualité et au moins égal à celui prévu en application de l'article L. 510-2 du
+code de la mutualité.
+
+Lorsqu'elle décide la création d'une commission spécialisée, la commission de contrôle précise :
+
+1° L'étendue de la délégation qu'elle lui donne pour prendre des décisions de portée individuelle ;
+
+2° Sa composition, chaque commission spécialisée comprenant, outre le président de la commission de contrôle, quatre membres
+au moins de cette dernière ;
+
+3° La durée pour laquelle elle l'habilite à prendre les décisions mentionnées au 1°.
+
+La décision de création d'une commission spécialisée est publiée au Journal officiel de la République française.
+
+II. - 1° La commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité,
+mentionnée à l'article L. 310-12-1, comprend, outre le président de la commission de contrôle, cinq de ses membres au moins.
+
+Elle est saisie de toute question concernant ces organismes, notamment par l'autorité administrative chargée du contrôle au
+niveau régional agissant dans le cadre des dispositions prévues à l'article L. 510-2 du code de la mutualité.
+
+Par dérogation aux dispositions du I, cette commission spécialisée est habilitée à prononcer à l'encontre des mutuelles
+régies par le livre III du code de la mutualité et selon les modalités définies aux articles R. 510-11, R. 510-12 et R.
+510-13 du même code, les sanctions prévues à l'article L. 510-11 de ce code.
+
+Lorsqu'elle l'estime utile, cette commission spécialisée renvoie l'affaire devant la commission de contrôle.
+
+2° Lorsqu'elle se réunit en formation consultative, cette commission spécialisée peut s'adjoindre des personnalités reconnues
+pour leur expérience dans les domaines de la sécurité sociale, de la prévoyance et de la gestion de structures de soins. Elle
+peut notamment donner des avis ou faire des recommandations sur les relations entre les régimes de base de sécurité sociale
+et les organismes relevant de sa compétence. Réunie en formation consultative, elle ne peut prononcer de décisions de portée
+individuelle.
+
+III. - 1° Chacune des commissions spécialisées mentionnées aux I et II se réunit sur convocation du président de la
+commission de contrôle ou à la demande de la moitié de ses membres. Elle ne peut délibérer que si quatre au moins de ses
+membres sont présents.
+
+Les commissaires du Gouvernement peuvent assister aux réunions des commissions spécialisées.
+
+2° Il est établi un procès-verbal des délibérations de la commission spécialisée. Mention y est faite du nom des membres
+présents. Le procès-verbal est soumis à l'approbation de la commission spécialisée.
+
+Une fois approuvé, ce procès-verbal est signé par le président et copie en est tenue à la disposition des membres de la
+commission de contrôle et des commissaires du Gouvernement.
+
+Le président rend compte à la plus prochaine réunion de la commission de contrôle des décisions adoptées par chaque
+commission spécialisée.
+
+3° Une décision d'une commission spécialisée est exécutoire sauf si l'un de ses membres ou un commissaire du Gouvernement
+demande, au cours de la séance, que la décision soit renvoyée à la Commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance."
+
+"Art. R. 310-12-1. - Chaque commissaire du Gouvernement dispose d'un délai de trois jours ouvrés suivant la réunion de la
+commission de contrôle pour demander une deuxième délibération."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, L310-12-1, L310-18, L510-11, L510-8, L510-9, L510-2, R510-11, R510-12, R510-13
+	  - Code de la sécurité sociale. - art. L951-10 (M)
+	  - Code des assurances R310-11, R310-12, R310-12-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+
+
+###### Article R510-1-2
+
+Le régime budgétaire et comptable de la Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance mentionnée à l'article L. 510-1, ainsi que les dispositions relatives à son personnel sont fixés par les articles
+R. 310-12-2 à R. 310-12-10 du code des assurances, ci-après reproduits :
+
+"Art. R. 310-12-2. - Sur proposition du secrétaire général et dans le cadre des dispositions mentionnées aux articles L.
+310-12-3 et L. 310-12-4, la commission de contrôle délibère sur :
+
+1° Le budget annuel et ses modifications en cours d'année ;
+
+2° Le compte financier et l'affectation des résultats ;
+
+3° Le règlement comptable et financier, qui est transmis aux ministres chargés de l'économie, de la sécurité sociale et de la
+mutualité ;
+
+4° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
+
+5° Les conditions générales de passation des contrats, conventions et marchés ;
+
+6° Les conditions générales d'emploi des fonds disponibles, de placement des réserves ;
+
+7° Les acquisitions, échanges et aliénations de biens immobiliers ;
+
+8° Les emprunts ;
+
+9° Les transactions au-delà d'un montant qu'il fixe, sur proposition du secrétaire général ;
+
+10° Les dons et legs."
+
+"Art. R. 310-12-3. - Sans préjudice des compétences du président, le secrétaire général représente la commission de contrôle
+dans tous les actes de la vie civile.
+
+Il est ordonnateur des recettes et des dépenses.
+
+Dans le cadre des règles générales fixées par la commission en vertu de l'article R. 310-12-2, il a qualité pour :
+
+1° Liquider et ordonnancer les recettes et les dépenses ;
+
+2° Tenir la comptabilité des engagements de dépense, dans les conditions définies par le règlement comptable et financier ;
+
+3° Gérer les disponibilités et décider des placements ;
+
+4° Passer au nom de la commission tous contrats, conventions et marchés, et décider des prises ou cessions à bail de biens
+immobiliers ;
+
+5° Engager, gérer et licencier le personnel à l'égard duquel il exerce la compétence de l'employeur et en fixer les
+rémunérations et les indemnités ;
+
+6° Prendre toutes les mesures conservatoires et exercer toutes les actions en justice dans les matières relevant de sa
+compétence propre ;
+
+7° Fixer le régime des indemnités de mission et de déplacement des personnels à l'égard duquel il exerce la compétence de
+l'employeur.
+
+Dans les matières relevant de sa compétence, le secrétaire général est autorisé à transiger au nom de la commission dans les
+conditions fixées par les articles 2044 à 2058 du code civil.
+
+Un secrétaire général adjoint, placé sous l'autorité du secrétaire général, est nommé parmi les membres du corps de
+l'inspection générale des affaires sociales par arrêté conjoint des ministres chargés des finances, de la sécurité sociale et
+de la mutualité pris après avis de la commission.
+
+Le secrétaire général peut déléguer sa signature au secrétaire général adjoint en toute matière, à l'exclusion des
+compétences qu'il détient, le cas échéant, en sa qualité de chef du corps des commissaires contrôleurs des assurances. Il
+peut également déléguer sa signature à tout autre agent du secrétariat général, dans des matières et des limites qu'il
+détermine.
+
+Le secrétaire général peut nommer un second secrétaire général adjoint."
+
+"Art. R. 310-12-4. - L'exercice comptable débute le 1er janvier et s'achève le 31 décembre.
+
+La commission de contrôle arrête son budget chaque année avant le début de l'exercice. Le budget comporte la prévision des
+recettes attendues et des dépenses nécessitées par la commission pour l'exercice de ses missions. Il peut être modifié en
+cours d'année. Les crédits inscrits au budget n'ont pas un caractère limitatif.
+
+Les délibérations de la commission de contrôle relatives au budget et à ses modifications sont exécutoires de plein droit à
+l'issue du délai dont disposent les commissaires du Gouvernement pour demander une seconde délibération."
+
+"Art. R.310-12-5. - I. - La commission de contrôle est dotée d'un agent comptable nommé par arrêté du ministre chargé du
+budget. L'agent comptable est responsable personnellement et pécuniairement dans les conditions de l'article 60 de la loi de
+finances pour 1963 (n° 63-156 du 23 février 1963) et du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à
+l'apurement des débets des comptables publics et assimilés.
+
+Il est chargé :
+
+a) De la tenue des comptabilités de la commission de contrôle ;
+
+b) Du recouvrement de la contribution pour frais de contrôle instituée à l'article L. 310-12-4, sans préjudice des
+dispositions de l'article L. 951-1 du code de la sécurité sociale, et de toutes les autres recettes de la commission de
+contrôle ;
+
+c) Du paiement des dépenses et du maniement des fonds ainsi que des mouvements de comptes de disponibilités.
+
+Avec l'accord du secrétaire général, il peut confier sous son contrôle la comptabilité analytique et la comptabilité matière
+aux services de la commission de contrôle.
+
+L'agent comptable peut nommer des mandataires qui sont agréés par le secrétaire général.
+
+II. - Les comptes de la commission de contrôle sont établis selon les règles du plan comptable général. Celui-ci peut faire
+l'objet d'adaptations proposées par le secrétaire général et approuvées par le ministre chargé du budget.
+
+Les taux d'amortissement et de dépréciation ainsi que les modalités de tenue des inventaires sont fixés par le règlement
+comptable et financier.
+
+L'agent comptable établit un compte financier au terme de chaque exercice. Le compte financier comprend le compte de
+résultat, le bilan, l'annexe, la balance générale des comptes à la clôture de l'exercice, le tableau de rapprochement des
+prévisions et des réalisations effectives et, le cas échéant, la balance des comptes spéciaux.
+
+Le compte financier est préparé par l'agent comptable et soumis par le secrétaire général à la commission de contrôle qui
+entend l'agent comptable. Le compte financier est arrêté par la commission de contrôle. Il est transmis à la Cour des comptes
+par le secrétaire général, accompagné des délibérations de la commission relatives au budget, à ses modifications et au
+compte financier, et de tous les autres documents demandés par les ministres ou par la Cour dans les quatre mois qui suivent
+la clôture de l'exercice."
+
+"Art. R. 310-12-6. - I. - L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources
+de la commission de contrôle. Les recettes sont recouvrées par l'agent comptable soit spontanément, soit en exécution des
+instructions du secrétaire général. A l'exception de la contribution mentionnée à l'article L. 310-12-4, dont le recouvrement
+relève de la procédure de l'état exécutoire, l'agent comptable adresse aux débiteurs les factures correspondantes et reçoit
+leurs règlements. Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.
+
+II. - Lorsque les créances de la commission de contrôle, autres que la contribution mentionnée à l'article L. 310-12-4, n'ont
+pu être recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet
+d'états rendus exécutoires par le secrétaire général. Les états exécutoires peuvent être notifiés aux débiteurs par lettre
+recommandée avec accusé de réception. Leur recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
+
+III. - L'agent comptable procède aux poursuites. Celles-ci peuvent, à tout moment, être suspendues sur ordre écrit du
+secrétaire général si la créance est l'objet d'un litige. Le secrétaire général suspend également les poursuites si, en
+accord avec l'agent comptable, il estime que la créance est irrécouvrable ou que l'octroi d'un délai par l'agent comptable
+est conforme à l'intérêt de la commission de contrôle.
+
+IV. - Le secrétaire général peut décider, après l'avis conforme de l'agent comptable :
+
+1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances de la commission de contrôle, sauf pour la
+contribution mentionnée à l'article L. 310-12-4 ;
+
+2° Sur demande justifiée des débiteurs, d'accorder la remise totale ou partielle des majorations de retard ou des pénalités
+appliquées à la contribution mentionnée à l'article L. 310-12-4 ;
+
+3° Une admission en non-valeur des créances de la commission de contrôle, en cas d'irrecouvrabilité avérée ou d'insolvabilité
+des débiteurs.
+
+La commission de contrôle fixe le montant au-delà duquel l'une des remises mentionnées au 1° ou 2° est soumise à son
+approbation.
+
+Lorsque la remise gracieuse totale ou partielle concerne une dette de l'agent comptable, l'avis conforme prévu par l'article
+8 du décret n° 64-1022 du 29 septembre 1964 relatif à la constatation et à l'apurement des débets des comptables publics et
+assimilés est rendu par la commission de contrôle."
+
+"Art. R. 310-12-7. - I. - Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se
+rattachent. Les dépenses de la commission de contrôle sont réglées par l'agent comptable sur l'ordre donné par le secrétaire
+général ou après avoir été acceptées par ce dernier. Les ordres de dépenses sont appuyés de pièces justificatives
+nécessaires, et notamment des factures, mémoires, marchés, baux ou conventions. L'acceptation de la dépense revêt la forme
+soit d'une mention datée et signée apposée sur le mémoire, la facture ou toute autre pièce en tenant lieu, soit d'un
+certificat séparé d'exécution de service, l'une ou l'autre précisant que le règlement peut être valablement opéré pour la
+somme indiquée.
+
+II. - L'agent comptable peut payer sans ordonnancement préalable, ou avant service fait, certaines catégories de dépenses
+dans les conditions prévues par le règlement comptable et financier.
+
+III. - La liste des pièces justificatives de recettes et de dépenses est préparée par l'agent comptable et proposée par le
+secrétaire général à l'agrément du ministre chargé du budget. En cas de perte, destruction ou vol des justifications remises
+à l'agent comptable, le ministre chargé du budget peut autoriser ce dernier à pourvoir à leur remplacement. Les pièces
+justificatives sont conservées dans les archives de l'agent comptable pendant dix ans au moins à partir de la date de clôture
+de l'exercice auquel elles se rapportent.
+
+IV. - L'agent comptable suspend le paiement des dépenses lorsqu'il constate, à l'occasion de l'exercice de ses contrôles, des
+irrégularités ou que les certifications délivrées par le secrétaire général sont inexactes. Il en informe le secrétaire
+général.
+
+Lorsque l'agent comptable a suspendu le paiement des dépenses, le secrétaire général peut, par écrit et sous sa
+responsabilité, requérir l'agent comptable de payer. L'agent comptable défère à la réquisition et rend compte au ministre
+chargé du budget qui transmet l'ordre de réquisition à la Cour des comptes.
+
+Par dérogation aux dispositions du deuxième alinéa, l'agent comptable doit refuser de déférer à l'ordre de réquisition
+lorsque la suspension du paiement est motivée par :
+
+1° L'absence de justification du service fait ;
+
+2° Le caractère non libératoire du règlement ;
+
+3° Le manque de fonds disponibles.
+
+Dans les cas de refus de la réquisition, l'agent comptable rend immédiatement compte au ministre chargé du budget."
+
+"Art. R. 310-12-8. - Des régies de recettes et de dépenses peuvent être créées auprès de la commission de contrôle par
+décision du secrétaire général sur avis conforme de l'agent comptable dans les conditions fixées par le décret n° 92-681 du
+20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics et celles fixées par le
+règlement comptable et financier."
+
+"Art. R. 310-12-9. - La commission de contrôle dépose ses fonds au Trésor. Elle peut également ouvrir des comptes auprès d'un
+établissement du secteur bancaire mentionné au titre Ier du livre V du code monétaire et financier. Des comptes bancaires à
+l'étranger peuvent être ouverts sur autorisation de la commission. Les fonds de la commission peuvent donner lieu à
+rémunération et faire l'objet de placements selon les conditions générales définies par elle."
+
+"Art. R. 310-12-10. - Les comptes de l'agent comptable de la commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance sont jugés directement par la Cour des comptes. Le contrôle de la gestion de l'agent comptable est
+également assuré par le receveur général des finances."
+
+"Art. R. 310-12-11. - La commission de contrôle est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier 1991
+relative à la transparence et à la régularité des procédures de marchés et soumettant la passation de certains contrats à des
+règles de publicité et de mise en concurrence".
+
+"Sous-section 3
+
+"Personnel
+
+"Art. R. 310-12-12. - Les fonctionnaires mis à la disposition de la commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance en application de l'article L. 310-12-1 du code des assurances sont placés dans l'une des
+positions prévues à l'article 32 de la loi n° 84-16 du 11 janvier 1984, sans que l'effectif placé en position de mise à
+disposition ne puisse dépasser 15 % de l'effectif global de la commission. La durée de mise à disposition d'un agent auprès
+de la commission ne peut dépasser trois ans.
+
+Des militaires et magistrats peuvent être mis à la disposition de la commission dans les mêmes conditions, selon les
+modalités prévues par leurs statuts respectifs.
+
+Les agents contractuels de droit public recrutés par la commission peuvent être employés pour une durée déterminée ou
+indéterminée.
+
+La commission peut mettre à disposition des agents contractuels de droit public et des salariés de droit privé auprès d'un
+autre employeur public, d'un organisme communautaire ou international, ou se voir mettre à disposition du personnel par un
+autre employeur public. Ces mises à disposition font l'objet d'une convention conclue entre la commission et l'autre
+employeur."
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de la mutualité (nouveau) L510-1
+	  - Code des assurances R310-12-2 à R310-12-10
 
 	**Liens**:
 
@@ -13401,7 +13729,7 @@ En matière disciplinaire, elle ne peut délibérer que si quatre, au moins, de 
 
 	**Créé par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 
 #### Section 1 : Modalités de contrôle
@@ -13434,6 +13762,65 @@ nécessaires.
 	**Créé par**:
 
 	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+
+
+###### Article R510-2-1
+
+En application des dispositions de l'article L. 510-6 du présent code, de l'article L. 310-19-1 du code des assurances ou de
+l'article L. 951-6-1 du code de la sécurité sociale, tout organisme soumis au contrôle de la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance doit faire connaître à cette commission le nom des commissaires
+aux comptes qu'il se propose de désigner.
+
+Lorsqu'il informe la commission de contrôle de son intention de désigner comme commissaires aux comptes une société de
+commissaires aux comptes constituée et inscrite selon les modalités prévues à l'article L. 225-228 du code de commerce, la
+mutuelle ou l'union précise le nom du commissaire aux comptes associé, actionnaire ou dirigeant, responsable de la mission au
+nom de cette entreprise. Il informe la commission de contrôle de toute modification ultérieure de cette situation.
+
+La commission de contrôle dispose d'un délai de deux mois pour faire connaître à la mutuelle ou l'union son avis sur la
+proposition de désignation du commissaire aux comptes. En l'absence de réponse dans le délai imparti, l'avis de la commission
+est réputé favorable.
+
+Si la commission de contrôle l'estime nécessaire, elle peut demander des informations complémentaires par lettre recommandée
+avec demande d'avis de réception adressée soit à la mutuelle ou l'union concernée, soit au commissaire aux comptes proposé.
+Dans ce dernier cas, la commission en informe la mutuelle ou l'union concernée et fixe dans sa demande d'informations
+complémentaires un délai de réponse, lequel ne peut être inférieur à un mois. Le délai prévu à l'alinéa précédent est alors
+suspendu jusqu'à la réception des informations complémentaires.
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut également prendre en compte
+dans son appréciation les informations relatives au commissaire aux comptes proposé ou, le cas échéant, à la personne
+responsable de la mission, qui lui sont transmises par l'une des autorités avec lesquelles elle procède à un échange
+d'information en application de l'article L. 631-1 du code monétaire et financier.
+
+L'avis de la commission de contrôle, s'il est défavorable ou assorti de réserves, ne peut être pris qu'après que le
+commissaire aux comptes proposé a été invité à faire connaître ses observations. Il est notifié par lettre recommandée avec
+demande d'avis de réception à la mutuelle ou l'union concernée et au commissaire aux comptes proposé. Une copie de cette
+notification est adressée à la compagnie régionale dont est membre le commissaire aux comptes.
+
+Les dirigeants de la mutuelle ou l'union communiquent l'avis de la commission de contrôle à l'organe compétent pour désigner
+les commissaires aux comptes.
+
+L'avis défavorable ou assorti de réserves est motivé. Il peut notamment être fondé sur le fait que le commissaire aux comptes
+proposé ne présente pas toutes les garanties d'expérience, de compétence ou d'indépendance nécessaires à l'exercice de ses
+fonctions compte tenu de la personne responsable de la mission ou de la nature et des caractéristiques de l'activité de la
+mutuelle ou l'union concernée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-6
+	  - Code de commerce. - art. L225-228 (M)
+	  - Code monétaire et financier - art. L631-1 (M)
+	  - Code de la sécurité sociale. - art. L951-6-1 (M)
+	  - Code des assurances - art. L310-19-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 
 #### Section 2 : Mesures de redressement et sauvegarde
@@ -13726,27 +14113,32 @@ paiement des valeurs de rachat ou le versement d'avances sur les bulletins d'adh
 
 ###### Article R510-11
 
-Lorsque la commission estime qu'il peut y avoir lieu de faire application des sanctions prévues à l'article L. 510-11, elle
-porte à la connaissance de la mutuelle, de l'union ou de la fédération concernée, par lettre recommandée avec demande d'avis
-de réception adressée au représentant légal de l'organisme, les faits qui lui sont reprochés ; elle lui fait savoir qu'il
-peut prendre connaissance et copie des pièces du dossier ; elle l'invite à faire parvenir ses observations écrites dans un
-délai qui ne peut être inférieur à huit jours.
+Lorsque la commission de contrôle saisie par son secrétaire général sur le fondement d'un rapport de contrôle réalisé par ses
+services, décide de l'ouverture d'une procédure de sanction dans le cadre de l'article L. 510-11 du présent code, des
+articles L. 310-18 et L. 310-18-1 du code des assurances ou de l'article L. 951-10 du code de la sécurité sociale, la
+notification des griefs est adressée, par lettre recommandée avec demande d'avis de réception, remise en main propre contre
+récépissé ou exploit d'huissier, à la personne mise en cause, accompagnée du rapport d'enquête.
 
-Copie de la lettre de notification est adressée au commissaire du Gouvernement.
+La personne mise en cause transmet ses observations écrites au président de la commission dans un délai de quinze jours. La
+notification des griefs mentionne ce délai et précise que la personne mise en cause peut prendre connaissance et copie des
+autres pièces du dossier auprès de la commission et se faire assister ou représenter par tout conseil de son choix.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de la mutualité (nouveau) L510-11
+	  - Code de la sécurité sociale. - art. L951-10 (M)
+	  - Code des assurances - art. L310-18 (M)
+	  - Code des assurances - art. L310-18-1 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 	**Cité par**:
 
@@ -13756,22 +14148,23 @@ Copie de la lettre de notification est adressée au commissaire du Gouvernement.
 
 ###### Article R510-12
 
-En matière disciplinaire, le représentant légal de la mutuelle, de l'union ou de la fédération est convoqué, par lettre
-recommandée avec demande d'avis de réception, pour être entendu par la commission :
-
-cette lettre doit lui parvenir huit jours au moins avant la date de la réunion de la commission.
-
-Il peut se faire assister ou représenter par toute personne de son choix.
+La commission de contrôle convoque la personne mise en cause par lettre recommandée avec demande d'avis de réception, remise
+en main propre contre récépissé ou exploit d'huissier, dans un délai qui ne peut être inférieur à huit jours à compter de
+l'expiration du délai mentionné à l'article R. 510-12.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R510-12
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 	**Cité par**:
 
@@ -13781,15 +14174,33 @@ Il peut se faire assister ou représenter par toute personne de son choix.
 
 ###### Article R510-13
 
-En matière disciplinaire, lors de l'audition, le rapporteur, choisi parmi l'un des agents mentionnés au troisième alinéa de
-l'article L. 951-4 du code de la sécurité sociale, présente l'affaire.
+I. - L'audience est publique à la demande de l'une des personnes mises en cause. Toutefois, le président peut interdire au
+public l'accès de la salle pendant tout ou partie de la séance pour préserver l'ordre public ou lorsque la publicité est
+susceptible de porter atteinte au secret des affaires ou tout autre secret protégé par la loi.
 
-Le président peut faire entendre toute personne dont il estime l'audition utile.
+Le président assure la police de la séance.
 
-Le secrétaire général et le commissaire du Gouvernement peuvent présenter des observations.
+II. - Lors de la séance, un membre des services de la commission de contrôle, désigné par le secrétaire général, présente
+l'affaire. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de la commission
+participant à la séance peuvent présenter des observations. La personne mise en cause et, le cas échéant, son conseil
+présentent sa défense. Le président dirige les débats. Il peut faire entendre toute personne dont il estime l'audition utile.
+Dans tous les cas, la personne mise en cause et, le cas échéant, son conseil doit pouvoir prendre la parole en dernier.
+Lorsque la commission s'estime insuffisamment éclairée, elle demande au secrétariat général de poursuivre ses diligences.
 
-Le représentant de la mutuelle, de l'union ou de la fédération et, le cas échéant, son conseil doivent pouvoir prendre la
-parole en dernier.
+III. - La commission de contrôle statue en la seule présence de ses membres et d'un membre des services faisant office de
+secrétaire de séance. Les commissaires du Gouvernement, le secrétaire général et les autres membres des services de la
+commission de contrôle n'assistent pas aux délibérés.
+
+IV. - Il est établi un procès-verbal de la séance par le secrétaire de séance. Le procès-verbal est signé par le président
+puis transmis aux membres de la commission et aux commissaires du Gouvernement.
+
+V. - La décision, signée par le président, est notifiée à la personne concernée par lettre recommandée avec demande d'avis de
+réception, remise en main propre contre récépissé ou exploit d'huissier. Elle est communiquée aux commissaires du
+Gouvernement.
+
+VI. - Le cas échéant, la commission peut décider de mettre les frais de procédure à la charge de la personne à l'encontre de
+laquelle une sanction a été prononcée. La rémunération des huissiers de justice intervenant au titre du présent décret est
+tarifée comme prévu par les articles R. 181 à R. 184 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -13797,13 +14208,13 @@ parole en dernier.
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L951-4 (M)
+	  - Code de procédure pénale R181 à R184
 
 	**Cité par**:
 
@@ -13813,8 +14224,9 @@ parole en dernier.
 
 ###### Article R510-14
 
-En matière disciplinaire, la décision est prise en la seule présence du président, des membres de la commission, du
-secrétaire général et du commissaire du Gouvernement. La décision est signée du président.
+Lorsque la notification est remise par huissier de justice, celui-ci doit faire toutes diligences pour parvenir à la
+délivrance de l'acte à la personne même du destinataire et lui en remettre copie. L'huissier procède ainsi qu'il est spécifié
+aux articles 555 à 563 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -13822,81 +14234,59 @@ secrétaire général et du commissaire du Gouvernement. La décision est signé
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code de procédure pénale 555 à 563
 
 
 ###### Article R510-15
 
-La décision de la commission de contrôle en matière disciplinaire est notifiée à la mutuelle, à l'union ou à la fédération
-concernée par lettre recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-
-
-###### Article R510-16
-
-Lorsque la commission de contrôle décide, en application de l'article L. 510-11, d'engager vis-à-vis d'une mutuelle la
-procédure de transfert d'office du portefeuille de bulletins d'adhésion ou de contrats collectifs, cette décision est portée
-à la connaissance de l'ensemble des organismes assureurs mentionnés au premier alinéa de l'article L. 212-11 par un avis
-publié au Journal officiel. Cet avis fait courir un délai de quinze jours pendant lequel les organismes qui accepteraient de
-prendre en charge le portefeuille en cause doivent se faire connaître à la commission de contrôle.
-
-Lorsque la décision porte sur le transfert d'office du portefeuille de bulletins d'adhésion ou de contrats collectifs d'une
-union, cette décision est d'abord portée à la connaissance des organismes mutualistes qui en sont membres ainsi que de ceux
-qui ont conclu avec elle une convention régie par les dispositions de l'article R. 211-21. Il est fait postérieurement
-application de la procédure prévue à l'alinéa précédent.
-
-L'organisme désigné par la commission de contrôle pour prendre en charge le portefeuille de bulletins d'adhésion ou de
-contrats collectifs transférés est avisé de cette désignation par lettre recommandée avec demande d'avis de réception.
-
-La décision qui prononce le transfert en fixe les modalités et la date de prise d'effet.
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance est dispensée du ministère d'avocat
+devant la juridiction administrative, en demande, en défense ou encore en intervention. Les recours et les mémoires,
+lorsqu'ils ne sont pas présentés par le ministère d'un avocat, sont signés par le président de ladite commission en
+application des dispositions du dix-septième alinéa de l'article L. 510-1-1 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L510-11, L212-11, R211-21
+	  - Code de la mutualité (nouveau) L510-1-1
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A510-1 (Ab)
-	  - Code de la mutualité - art. A510-2 (Ab)
+	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
 
 
 #### Section 4 : Notification de l'exercice d'activités en libre prestation de services
 
-###### Article R510-17
+###### Article R510-16
 
-I. - Toute mutuelle ou union dont les activités sont régies par le livre II projetant d'exercer des activités en libre
-prestation de services, conformément aux dispositions du troisième alinéa de l'article L. 510-3, notifie son projet à la
-commission de contrôle, accompagné des documents dont la liste est fixée par arrêté du ministre chargé de la mutualité.
+I. - Toute mutuelle ou union dont les activités sont régies par le livre II projetant d'ouvrir une succursale ou d'exercer
+des activités en libre prestation de services, conformément aux dispositions du troisième alinéa de l'article L. 510-3,
+notifie son projet à la commission de contrôle, accompagné des documents dont la liste est fixée par arrêté du ministre
+chargé de la mutualité.
 
 Si la commission estime que les conditions mentionnées à ce même alinéa sont réunies, elle communique aux autorités
 compétentes de l'Etat membre de prestation de services, dans le délai d'un mois suivant la notification mentionnée au premier
 alinéa du présent paragraphe, un dossier dont la composition est fixée par arrêté du ministre chargé de la mutualité et avise
-la mutuelle ou l'union de cette communication. La mutuelle ou l'union peut commencer son activité en libre prestation de
-services dès qu'elle en a été avisée.
+la mutuelle ou l'union de cette communication. La mutuelle ou l'union peut commencer son activité en liberté d'établissement
+ou en libre prestation de services dès qu'elle en a été avisée.
 
-II. - Tout projet de modification de la nature ou des conditions d'exercice des activités en libre prestation de services
-autorisées conformément aux dispositions du troisième alinéa de l'article L. 510-3 est notifié à la commission de contrôle.
+Le délai de communication des informations aux autorités de l'Etat membre court à compter de la réception, par la commission
+de contrôle, d'un dossier complet. Il est de trois mois pour l'établissement d'une succursale et de un mois pour un exercice
+en libre prestation de services.
+
+II. - Tout projet de modification de la nature ou des conditions d'exercice des activités en liberté d'établissement ou en
+libre prestation de services autorisées conformément aux dispositions du troisième alinéa de l'article L. 510-3 est notifié à
+la commission de contrôle.
 
 Si la commission estime que les conditions mentionnées à ce même alinéa sont toujours remplies, elle communique aux autorités
 compétentes de l'Etat membre de prestations de services, dans le délai d'un mois suivant la notification mentionnée à
@@ -13904,9 +14294,9 @@ l'alinéa précédent, un dossier dont la composition est fixée par arrêté du
 mutuelle ou l'union concernée de cette communication. La modification envisagée peut intervenir dès réception de cet avis par
 la mutuelle ou l'union.
 
-III. - Lorsque la commission de contrôle refuse de communiquer aux autorités compétentes de l'Etat membre de la libre
-prestation de services les informations visées au deuxième alinéa du I et du II du présent article, elle en avise la mutuelle
-ou l'union concernée et lui fait connaître, dans le délai d'un mois mentionné à ce même alinéa, les raisons de ce refus.
+III. - Lorsque la commission de contrôle refuse de communiquer aux autorités compétentes de l'Etat membre concerné les
+informations visées au deuxième alinéa du I et du II du présent article, elle en avise la mutuelle ou l'union concernée et
+lui fait connaître, dans les délais mentionnés au troisième alinéa du I et au deuxième alinéa du II, les raisons de ce refus.
 
 **Liens relatifs à cet article**
 
@@ -13914,21 +14304,22 @@ ou l'union concernée et lui fait connaître, dans le délai d'un mois mentionn�
 
 	  - Code de la mutualité (nouveau) L510-3
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la mutualité (nouveau) R510-16
+	  - Code de la mutualité (nouveau) R510-17
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
-
-	  - Décret n°2002-1457 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A510-1 (Ab)
+	  - Code de la mutualité - art. A510-2 (Ab)
 
 
 ### Chapitre II : Déconcentration du contrôle.

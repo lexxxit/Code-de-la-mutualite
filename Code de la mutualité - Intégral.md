@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2002-03-12
+Version Consolidée au 2002-03-16
 
 # Partie législative
 
@@ -7901,6 +7901,161 @@ la date de la publication de la décision du retrait d'agrément, la portion de 
 	  - Code de la mutualité - art. R211-26 (M)
 
 
+#### Chapitre II : Fonctionnement.
+
+##### Section 6 : Transfert de portefeuille.
+
+###### Article R212-60
+
+Le transfert, prévu à l'article L. 212-11, de tout ou partie d'un portefeuille de bulletins d'adhésion ou de contrats
+collectifs est soumis à l'approbation du ministre chargé de la mutualité.
+
+Toutefois, lorsque la mutuelle ou l'union cédante pratique exclusivement des opérations relevant de la branche 2 prévue par
+l'article R. 211-2, le transfert est soumis à l'approbation du préfet de la région dans laquelle est situé le siège de cette
+mutuelle ou union.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-354 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-354 du 14 mars 2002 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-11 (M)
+	  - Code de la mutualité - art. R211-2 (V)
+
+
+###### Article R212-61
+
+Les actifs transférés avec des garanties liées aux bulletins d'adhésion ou aux contrats collectifs relevant du b du 1° du I
+de l'article L. 111-1 par une mutuelle ou une union sont affectés à une section comptable distincte du bilan de la mutuelle
+ou de l'union cessionnaire des bulletins d'adhésion ou contrats collectifs.
+
+Pour le calcul de la participation aux excédents afférents à ces actifs prévue à l'article L. 212-5, il n'est pas tenu compte
+de l'importance respective des fonds propres et des engagements pris envers les membres participants, les bénéficiaires et
+les ayants droit figurant au bilan de la mutuelle ou de l'union.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-354 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1 (Ab)
+	  - Code de la mutualité - art. L212-5 (V)
+
+
+###### Article R212-62
+
+Lorsqu'en application du 7° de l'article L. 510-11, la commission de contrôle instituée par l'article L. 510-1 décide le
+transfert d'office d'un portefeuille de bulletins d'adhésion ou de contrats collectifs conclus sur le territoire d'un ou
+plusieurs Etats parties à l'accord sur l'Espace économique européen, elle en avise les autorités compétentes de ces
+différents Etats.
+
+Lorsque l'entreprise d'assurance cessionnaire a son siège social dans un Etat partie à l'accord sur l'Espace économique
+européen, la commission de contrôle s'assure auprès des autorités compétentes de cet Etat que l'entreprise possède, compte
+tenu du transfert, la marge de solvabilité nécessaire.
+
+La décision de transfert et le nom de l'entreprise cessionnaire font l'objet d'une publication au Journal officiel à la
+diligence de la commission de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-354 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-11 (M)
+
+
+###### Article R212-63
+
+Les transferts de portefeuille mentionnés à l'article L. 212-11 relatifs à des opérations régies par l'article R. 211-21 sont
+effectués par la mutuelle ou l'union substituée aux organismes cédants conformément aux dispositions du même article, qui
+agit pour le compte des organismes auxquels elle s'est substituée. L'avis et l'arrêté de transfert de portefeuille mentionnés
+à l'article L. 212-11 comportent en annexe la liste des opérations et des organismes concernés par le transfert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-354 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-11 (M)
+	  - Code de la mutualité - art. R211-21 (M)
+	  - Code de la mutualité L212-11, R211-21, annexe
+
+
+###### Article R212-64
+
+Le ministre chargé de la mutualité peut s'opposer, dans les conditions prévues à l'article L. 212-13, à la fusion ou à la
+scission d'une mutuelle ou union ne comportant pas de transfert de portefeuille d'opérations.
+
+Toutefois, lorsque la mutuelle ou l'union pratique exclusivement des opérations de la branche 2 prévue par l'article R.
+211-2, la décision d'opposition relève de la compétence du préfet de la région dans laquelle est situé le siège de la
+mutuelle ou de l'union.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-354 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-354 du 14 mars 2002 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-13 (V)
+	  - Code de la mutualité - art. R211-2 (V)
+
+
 ### Titre II : Opération des mutuelles et des unions.
 
 #### Chapitre II : Dispositions relatives à certaines opérations de retraite.
@@ -12546,63 +12701,6 @@ cotisations ou sur prestations ou des prélèvements sur l'épargne constituée.
 	**Modifié par**:
 
 	  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-
-#### Chapitre VI : Transfert ou cession des contrats afférents à l'ensemble ou à certains des risques couverts par une caisse autonome, cessation d'activité, retrait d'approbation
-
-###### Article R326-2
-
-La procédure de retrait d'approbation comporte une mise en demeure au groupement gestionnaire de la caisse autonome de
-présenter ses observations par écrit dans le délai de un mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-	**Cité par**:
-
-	  - Décret n°92-989 du 14 septembre 1992 - art. 2 (V)
-	  - Code de la mutualité - art. R321-3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2002-354 du 14 mars 2002 - art. 2 () JORF 16 mars 2002
-
-
-###### Article R326-3
-
-Lorsqu'un groupement mutualiste gestionnaire d'une caisse autonome transfère ses engagements à un autre organisme, dans les
-cas prévus à l'article R. 326-1, ou en cas de retrait d'approbation, la décision d'approbation ou de retrait d'approbation
-peut prescrire le réajustement des engagements en vue d'en adapter le montant à celui que l'actif transféré permet de couvrir
-dans les conditions des tarifs propres de l'organisme absorbant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-	**Modifié par**:
-
-	  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2002-354 du 14 mars 2002 - art. 2 () JORF 16 mars 2002
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R321-3 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R326-1 (Ab)
 
 
 ## Livre IV : Action sociale

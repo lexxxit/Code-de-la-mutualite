@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -15657,6 +15657,417 @@ la fin de l'année au plus tard, directement à l'organisme qui a consenti l'ava
 
 
 # Partie réglementaire - Arrêtés
+
+## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.
+
+### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.
+
+#### Section 6 : Dispositions financières et comptables
+
+###### Article A114-1
+
+Les opérations effectuées par les mutuelles et unions mentionnées au 1° du I de l'article L. 111-1 du présent code et
+soumises au contrôle de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance en vertu de
+l'article L. 510-1 sont réparties entre les catégories d'opérations suivantes :
+
+- 1 Opérations de capitalisation à cotisation unique (ou versements libres) ;
+
+- 2 Opérations de capitalisation à cotisation périodique ;
+
+- 3 Opérations individuelles d'assurance temporaire décès (y compris groupes ouverts) ;
+
+- 4 Autres opérations individuelles d'assurance vie à cotisation unique (ou versements libres) (y compris groupes ouverts) ;
+
+- 5 Autres opérations individuelles d'assurance vie à cotisation périodique (y compris groupes ouverts) ;
+
+- 6 Opérations collectives d'assurance en cas de décès ;
+
+- 7 Opérations collectives d'assurance en cas de vie ;
+
+- 8 Opérations d'assurance vie ou de capitalisation en unités de compte à cotisation unique (ou versements libres) ;
+
+- 9 Opérations d'assurance vie ou de capitalisation en unités de compte à cotisation périodique ;
+
+- 10 Opérations collectives relevant de l'article L. 222-1 du code de la mutualité ;
+
+- 11 Plans d'épargne retraite populaire relevant de l'article 108 de la loi n° 2003-275 du 21 août 2003 ;
+
+- 12 Opérations de nuptialité-natalité ;
+
+- 19 Acceptations en réassurance (vie) ;
+
+- 20  Dommages corporels (opérations individuelles) (y compris garanties accessoires aux opérations d'assurance vie
+individuelles) ;
+
+- 21  Dommages corporels (opérations collectives) (y compris garanties accessoires aux opérations d'assurance vie
+collectives) ;
+
+- 29  Protection juridique ;
+
+- 30  Assistance ;
+
+- 31  Pertes pécuniaires diverses ;
+
+- 38  Caution ;
+
+- 39  Acceptations en réassurance (non-vie).
+
+Les mutuelles et unions qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par
+exercice et par catégorie les éléments suivants de leurs opérations brutes de cessions et de leurs opérations cédées :
+cotisations, prestations, commissions, provisions techniques. Ces mêmes éléments doivent être ventilés, dans la comptabilité,
+pour chaque catégorie :
+
+- par état de situation du risque ou de l'engagement ;
+
+- entre les opérations du siège social et les opérations de chacun des organismes affiliés établis à l'étranger.
+
+Toutefois, les mutuelles et unions qui acceptent des opérations mentionnées au 1° du I de l'article L. 111-1 en réassurance
+et qui ne pratiquent pas directement ces mêmes opérations peuvent ne pas procéder à la ventilation des cotisations,
+prestations, commissions et provisions techniques par état de situation du risque ou de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L111-1, L510-1, L222-1
+	  - Loi n°2003-275 2003-08-21 art. 108
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A114-2
+
+I. - Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions soumises au contrôle de la
+commission de contrôle des assurances, des mutuelles et des institutions de prévoyance en application de l'article L. 510-1
+remettent chaque année à cette dernière leurs comptes annuels dans les trente jours qui suivent leur approbation par
+l'assemblée générale. Elles joignent à cet envoi le rapport de gestion du conseil d'administration ainsi que les rapports des
+commissaires aux comptes et, pour celles qui y sont astreintes, le bilan social.
+
+II. - Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions régies par le livre II du
+présent code et n'ayant pas conclu de convention de substitution pour l'intégralité de leurs opérations pratiquées en vertu
+de l'article L. 211-5 remettent chaque année à la commission de contrôle précitée :
+
+1° Dans les cinq mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 114-4 ;
+
+2° Avant le 31 mars suivant la clôture de l'exercice, les états provisoires définis à l'article A. 114-6 et l'état C 6 bis
+relatif au test d'exigibilité défini à l'article A. 114-8.
+
+3° Dans le mois suivant la fin de chaque trimestre, les états relatifs aux opérations réalisées au cours du trimestre définis
+à l'article A. 114-7.
+
+III. - Les mutuelles et unions non soumises aux obligations déclaratives prévues au II joignent aux documents mentionnés au I
+les renseignements généraux énumérés aux a, b, c et d de l'annexe à l'article A. 114-4.
+
+IV. - Les mutuelles et unions ayant souscrit une convention de substitution en vertu de l'article L. 211-5 pour l'intégralité
+de leurs opérations, et dont les comptes annuels sont établis par l'organisme qui s'est substitué à elles, ne sont pas
+astreintes à l'obligation de transmission des documents mentionnés aux I et III du présent article. Ces documents sont
+toutefois communiqués dans les mêmes délais par l'organisme qui s'est substitué à elles.
+
+V. - Les mutuelles et unions mentionnées à l'article L. 510-2 du présent code remettent les documents mentionnés au I et au
+II ou III à l'autorité administrative qui exerce le contrôle au niveau régional, laquelle communique ces documents à la
+commission de contrôle précitée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Cité par**:
+
+	  - Arrêté du 18 avril 2005 - art. 2 (V)
+	  - Arrêté du 21 décembre 2009 - art. 7 (V)
+	  - Code de la mutualité - art. A114-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L510-1, L211-5, A114-4, A114-6, A114-8, A114-7, L510-2
+
+
+###### Article A114-3
+
+L'organisme habilité à recevoir les informations et documents énoncés à l'article A. 114-2 détermine le nombre d'exemplaires
+et les supports matériels utilisés par les mutuelles et unions pour la fourniture des documents mentionnés à cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) A114-2
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article A114-4
+
+Le compte rendu détaillé annuel mentionné au 1° du II de l'article A. 114-2 comprend : 
+
+1° Les renseignements généraux énumérés à l'annexe au présent article ; 
+
+2° Les comptes constitués du compte de résultat, du bilan, y compris le tableau des engagements reçus et donnés, et de
+l'annexe, tels qu'ils ont été arrêtés par le conseil d'administration pour être soumis à l'assemblée ; 
+
+3° Les états d'analyse des comptes énumérés à l'article A. 114-5. 
+
+Le compte rendu détaillé annuel est certifié par le président du conseil d'administration de la mutuelle ou de l'union sous
+la formule suivante : " Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de l'application des
+sanctions prévues à l'article L. 510-12 du code de la mutualité, conforme aux écritures de la mutuelle ou de l'union et aux
+dispositions prévues par l'article L. 114-46 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A114-2 (M)
+	  - Code de la mutualité - art. A114-9 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. A114-5 (V)
+	  - Code de la mutualité - art. Annexe à l'article A114-4 (V)
+	  - Code de la mutualité - art. L114-46 (V)
+	  - Code de la mutualité - art. L510-12 (V)
+
+
+###### Article A114-5
+
+Les états d'analyse des comptes mentionnés au 3° de l'article A. 114-4 sont les suivants :
+
+- C 1 Résultats techniques par catégories d'opérations ;
+
+- C 2 Engagements et résultats techniques par pays ;
+
+- C 3 Acceptations et cessions en réassurance, affaires directes prises et opérations données en substitution ;
+
+- C 4 Cotisations par catégories de contrats et garanties ;
+
+- C 5 Représentation des engagements réglementés ;
+
+- C 6 Marge de solvabilité ;
+
+- C 6 bis Test d'exigibilité ;
+
+- C 7 Provisionnement des rentes en service ;
+
+- C 8 Description du plan de réassurance ;
+
+- C 9 Dispersion des réassureurs et simulations d'événements ;
+
+- C 10 Cotisations et résultats par année de survenance des prestations ;
+
+- C 11 Prestations par année de survenance ;
+
+- C 12 Prestations et résultats par année de souscription ;
+
+- C 13 Part des réassureurs dans les prestations ;
+
+- C 20 Mouvements des bulletins d'adhésion aux règlements ou des contrats des capitaux et rentes ;
+
+- C 21 Etat détaillé des provisions et engagements techniques ;
+
+- C 30 Cotisations, prestations et commissions des opérations non-vie dans l'Espace économique européen ;
+
+- C 31 Cotisations des opérations vie dans l'Espace économique européen (hors la France).
+
+Ces états sont établis annuellement d'après les comptes définis au 2° de l'article A. 114-4 et dans la forme fixée en annexe
+au présent article.
+
+Les mutuelles et unions qui acceptent des opérations mentionnées au 1° du I de l'article L. 111-1 en réassurance et qui ne
+les pratiquent pas directement n'établissent que les états C 1, C 2, C 3, C 4, C 10, C 11, C 12, C 13 et C 21.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) A114-4, L111-1, A114-5
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A114-4 (Ab)
+	  - Code de la mutualité - art. A114-8 (Ab)
+	  - Code de la mutualité - art. Annexe à l'article A114-4 (Ab)
+	  - Code de la mutualité - art. Annexe à l'article D114-11 (V)
+	  - Code de la sécurité sociale. - art. Annexe à l'art. D931-37 (V)
+	  - Code des assurances - art. Annexe D344-5 (MMN)
+
+
+###### Article A114-6
+
+Les états provisoires mentionnés au 2° du II de l'article A. 114-2 sont constitués de l'état C 8, par type de risques
+souscrits en affaires directes, selon le modèle et la liste de risques définis à l'annexe de l'article A. 114-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Arrêté du 21 décembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) A114-2, A114-5
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A114-7
+
+Les états trimestriels mentionnés au 3° du II de l'article A. 114-2 sont les suivants :
+
+- T 1 Flux trimestriels relatifs aux opérations en France ;
+
+- T 2 Encours trimestriel des placements ;
+
+- T 3 Simulations actif-passif, pour les mutuelles ou unions mentionnées à l'article R. 212-30.
+
+Ces états sont établis dans la forme fixée en annexe au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) A114-2, R212-30, A114-7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A114-2 (M)
+
+
+###### Article A114-8
+
+Le test d'exigibilité mentionné à l'article R. 212-27-1 vise à quantifier l'impact d'une détérioration marquée des marchés
+financiers sur la capacité de la mutuelle ou de l'union à faire face à ses engagements vis-à-vis des membres participants,
+bénéficiaires et ayants droit. Il est pratiqué à partir d'hypothèses financières standardisées. Ces hypothèses consistent,
+par rapport à leur moyenne respective constatée sur les trois dernières années :
+
+- en une baisse de l'indice boursier de référence de 30 % ;
+
+- en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
+
+- en une baisse de 20 % du prix des transactions immobilières.
+
+Le test consiste à comparer l'ensemble des décaissements et des encaissements prévisibles de la mutuelle ou de l'union au
+cours des cinq exercices qui suivent le dernier arrêté comptable. Quatre simulations sont successivement réalisées. Les trois
+premières prennent en compte séparément chacune des trois hypothèses mentionnées aux alinéas précédents. La quatrième résulte
+de la combinaison de l'ensemble des hypothèses énumérées. Pour l'établissement de ce test, la mutuelle ou l'union tient
+compte des encaissements et des décaissements constatés au cours des exercices précédents. Les prévisions d'encaissement sont
+calculées après prise en compte des disponibilités, des revenus financiers, des dépôts à court terme et des prêts et titres
+du marché monétaire et du marché obligataire énumérés à l'article R. 212-31 venant à échéance à moins de cinq ans et les
+autres actifs en proportion de leur part dans le portefeuille résiduel de la mutuelle ou de l'union. Les prévisions de
+décaissement sont calculées à partir des engagements comptabilisés. Les engagements pour prestations à payer sont recalculés
+sur la base de prestations majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux
+annuel moyen des rachats constatés au cours des années passées.
+
+Les mutuelles et unions transmettent les résultats du test chaque année à la commission de contrôle des assurances, des
+mutuelles et des institutions de prévoyance avant le 31 mars, dans la forme de l'état C 6 bis défini dans l'annexe à
+l'article A. 114-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-27-1, R212-31, A114-5
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Cité par**:
+
+	  - Arrêté du 21 décembre 2009 - art. 7 (V)
+
+
+###### Article A114-9
+
+Les mutuelles et unions qui pratiquent directement des opérations mentionnées au 1° du I de l'article L. 111-1 et doivent
+établir le compte rendu détaillé annuel prévu à l'article A. 114-4 joignent à celui-ci les états statistiques relatifs à la
+protection sociale complémentaire suivants :
+
+- E 1 Statistiques relatives aux différentes catégories d'opérations ;
+
+- E 2 Cotisations et prestations ;
+
+- E 3 Frais de santé et indemnités journalières versés au cours de l'exercice.
+
+Ces états sont produits selon les modalités prévues au V de l'article A. 114-2 et à l'article A. 114-3 du présent code.
+
+Ces états sont établis annuellement dans la forme fixée en annexe au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L111-1, A114-4, A114-3, A114-2, A114-9
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2002-03-08
+Version Consolidée au 2002-03-12
 
 # Partie législative
 
@@ -7899,6 +7899,516 @@ la date de la publication de la décision du retrait d'agrément, la portion de 
 
 	  - Code de la mutualité - art. L221-1 (Ab)
 	  - Code de la mutualité - art. R211-26 (M)
+
+
+### Titre II : Opération des mutuelles et des unions.
+
+#### Chapitre II : Dispositions relatives à certaines opérations de retraite.
+
+##### Section 1 : Contenu du règlement.
+
+###### Article R222-1
+
+Les opérations collectives prévues à l'article L. 222-1 sont autorisées à la condition qu'elles comportent une prestation
+déterminée dans les conditions fixées par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L222-1 (V)
+
+
+###### Article R222-2
+
+Les opérations collectives prévues à l'article L. 222-1 sont réalisées dans le cadre d'adhésions à un règlement dans les
+conditions fixées au 2° du III de l'article L. 221-2 ou à l'article L. 221-3 pour les opérations collectives à adhésion
+obligatoire et au 1° du III de l'article L. 221-2 pour les opérations collectives à adhésion facultative. Ce règlement doit
+indiquer les modalités de fonctionnement du régime, y compris dans les cas de conversion prévus aux articles R. 222-19 et R.
+222-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L221-2 (V)
+	  - Code de la mutualité - art. L221-3 (V)
+	  - Code de la mutualité - art. L222-1 (V)
+	  - Code de la mutualité - art. R222-19 (V)
+
+
+###### Article R222-3
+
+Le règlement d'opérations collectives prévues à l'article L. 222-1 doit définir le mode de détermination des cotisations
+annuelles. Il doit contenir, en outre, en vue de la détermination du nombre des unités de rente attribué à chaque cotisant,
+les indications relatives aux valeurs d'acquisition. Le bulletin d'adhésion au règlement comporte les mêmes indications pour
+chacun des membres participants et fixe l'âge d'entrée en jouissance de la retraite pour chacun des bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L222-1 (V)
+
+
+###### Article R222-4
+
+Le règlement peut prévoir la possibilité d'une attribution exceptionnelle d'unités de rente sans contrepartie de cotisation,
+pour des actions de solidarité et dans la limite du fonds d'action sociale visé à l'article R. 222-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R222-9 (V)
+
+
+###### Article R222-5
+
+Le nombre de membres participants à un règlement ne peut être inférieur à 1 000. Cet effectif doit être réuni dans un délai
+de trois ans à partir de l'entrée en vigueur dudit règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Code des assurances - art. R144-18 (V)
+
+
+###### Article R222-6
+
+En cas de cessation de paiement des cotisations, le règlement peut prévoir la déchéance des droits acquis si le membre
+participant ne justifie pas du versement d'au moins dix années de cotisations. 
+
+Le règlement peut également prévoir une réduction du nombre d'unités de rente inscrites au compte d'un membre participant en
+application de l'article R. 222-10 : 
+
+a) Lorsque celui-ci a payé les cotisations afférentes à la durée minimale prévue par le règlement en application des
+dispositions du premier alinéa mais n'a pas effectué de versements réguliers jusqu'à l'âge de l'entrée en jouissance, cette
+réduction ne peut avoir pour effet de réduire la prestation à un montant inférieur au produit du nombre d'unités de rente
+inscrites avant réduction par la moyenne des valeurs de service de l'unité de rente fixées pour les années au cours
+desquelles il a effectué ses versements ; 
+
+b) Lorsque, à l'âge de l'entrée en jouissance, le membre participant ne peut faire état d'un nombre minimal d'années fixé par
+le règlement depuis son adhésion ; 
+
+c) Lorsque le membre participant demande une anticipation de la date de l'entrée en jouissance ; 
+
+d) Lorsque le membre participant use de la faculté d'obtenir une réversion prévue à titre facultatif par le règlement. 
+
+Le règlement peut prévoir une majoration du nombre des unités de rente attribuées pour les versements effectués au-delà d'une
+durée minimale de cotisation. 
+
+Le règlement peut également prévoir une majoration du nombre d'unités de rente inscrites au compte du membre participant en
+application de l'article R. 222-10 lorsque celui-ci ajourne la date de l'entrée en jouissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-342 du 21 avril 2004 - art. 26 (Ab)
+	  - Code des assurances - art. R144-18 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R222-10 (V)
+
+
+##### Section 2 : Dispositions techniques et comptables.
+
+###### Article R222-7
+
+Les tables de mortalité servant au calcul de la provision mathématique théorique mentionnée à l'article R. 222-16 et les
+charges de gestion prévisionnelles à prendre en compte pour ce calcul, ainsi que pour l'établissement des inventaires, sont
+déterminées dans les conditions et limites définies par arrêté du ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R222-16 (V)
+
+
+###### Article R222-8
+
+Les opérations prévues à l'article L. 222-1 comportent la constitution d'une provision technique spéciale, à laquelle sont
+affectées les cotisations versées, et sur laquelle sont réglées les prestations servies et imputées les charges de gestion.
+Elle est représentée à l'actif dans les conditions et limites fixées au chapitre II du titre Ier du présent livre. 
+
+Est affectée à ladite provision la totalité des produits générés par la gestion financière des opérations mentionnées à
+l'article L. 222-1. 
+
+Les valeurs mobilières figurant à l'actif du bilan en représentation de la provision technique spéciale sont évaluées
+conformément aux règles fixées au chapitre II du titre Ier du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-331 du 11 mars 2002 - art. 2 (V)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 31 (Ab)
+	  - Code de la mutualité - art. R212-16 (V)
+	  - Code des assurances - art. R334-13 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L222-1 (V)
+
+
+###### Article R222-9
+
+Si les statuts le prévoient, la mutuelle ou l'union peut prélever une cotisation additionnelle limitée à 2 % de la cotisation
+principale pour alimenter un fonds d'action sociale. Ce fonds doit être isolé en comptabilité et être représenté par des
+éléments d'actifs particuliers. Les produits financiers de ces actifs sont affectés au fonds. Dans la limite du fonds des
+prestations exceptionnelles peuvent être servies et des attributions d'unités de rente peuvent être accordées selon les
+conditions prévues à l'article R. 222-4 ; dans ce cas la charge comptable est égale à la provision mathématique théorique
+correspondante calculée conformément à l'article R. 222-16.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-4, R222-16
+	  - Code de la mutualité - art. R222-16 (V)
+	  - Code de la mutualité - art. R222-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-10
+
+Il est ouvert, pour chacun des membres participants cotisants ou bénéficiaires, un compte individuel où sont portés les
+cotisations versées et le nombre d'unités de rentes correspondantes, ventilés par année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R222-6 (V)
+
+
+###### Article R222-11
+
+Le nombre d'unités de rente, éventuellement ajusté comme il est dit à l'article R. 222-6, qui est inscrit chaque année au
+compte individuel de chacun des membres participants cotisants et bénéficiaires, est égal au quotient de la cotisation, nette
+de prélèvements et de taxes, par la valeur d'acquisition de l'unité de rente stipulée au règlement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-6
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-12
+
+Pour les opérations collectives prévues à l'article L. 222-1, il doit être tenu une comptabilité spéciale et établi, en fin
+d'exercice, un compte spécial des résultats. Un arrêté du ministre chargé de la mutualité fixe les modalités d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-1
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-13
+
+Le montant de la prestation est égal, pour chaque bénéficiaire, au produit du nombre d'unités de rente inscrites à son compte
+par la valeur de service de l'unité déterminée par le règlement auquel il a adhéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-14
+
+Les valeurs d'acquisition des unités de rente et leur valeur de service commune sont fixées chaque année par la mutuelle ou
+l'union, dans les conditions prévues par le règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-15
+
+Dans le cas d'une rente sans réversion payable à soixante-cinq ans, le quotient de la valeur de service par la valeur
+d'acquisition doit être au moins égal à 0,05.
+
+Dans les autres cas, il est procédé à une équivalence actuarielle dont les conditions sont déterminées par arrêté du ministre
+chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-16
+
+Chaque année, la mutuelle ou l'union calcule le montant de la provision mathématique théorique qui serait nécessaire pour
+assurer le service des rentes viagères immédiates et différées sur la base de la valeur de service à la date de l'inventaire.
+Ce calcul est effectué à partir des règles techniques, et notamment du taux d'actualisation, fixés par arrêté du ministre
+chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-331 du 11 mars 2002 - art. 2 (V)
+	  - Décret n°2002-331 du 11 mars 2002 - art. 5 (V)
+	  - Décret n°2002-331 du 11 mars 2002 - art. 6 (V)
+	  - Code de la mutualité - art. R212-16 (VT)
+	  - Code de la mutualité - art. R222-7 (V)
+	  - Code de la mutualité - art. R222-9 (V)
+	  - Code des assurances - art. R334-13 (V)
+
+
+###### Article R222-17
+
+Pour chaque règlement, le montant de la provision technique spéciale est au moins égal à celui de la provision mathématique
+théorique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-18
+
+La valeur de service de l'unité de rente doit être déterminée chaque année de telle manière que, après le service des
+prestations dues au titre de l'année, le rapport de la provision technique spéciale à la provision mathématique théorique ne
+devienne pas inférieur à 1 et que, le cas échéant, l'excédent par rapport à 1 ne diminue pas de plus d'un dixième.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-331 du 11 mars 2002 - art. 4 (V)
+
+
+##### Section 3 : Conversion du règlement.
+
+###### Article R222-19
+
+Lorsque, dans le cadre d'un règlement et lors de deux inventaires successifs, le rapport de la provision technique spéciale à
+la provision mathématique théorique est inférieur à 1 ou que le quotient de la valeur de service par la valeur d'acquisition
+de l'unité de rente est inférieur à la limite prévue au premier alinéa de l'article R. 222-15, il est procédé à la conversion
+du règlement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-15
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R222-2 (V)
+
+
+###### Article R222-20
+
+Lorsque le nombre de membres participants cotisants à un règlement est ou devient inférieur à 1 000 après l'expiration du
+délai prévu à l'article R. 222-5, il est procédé à la conversion du règlement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-5
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-21
+
+La conversion du règlement entraîne, dans un délai d'un an, la transformation des opérations concernées en opérations de
+rentes viagères couvertes, intégralement et à tout moment, par des provisions mathématiques. La part des provisions revenant
+à chaque membre participant dans la conversion des opérations considérées détermine la prestation que comporte l'opération
+d'assurance de substitution. Cette répartition est effectuée sur des bases techniques définies par arrêté du ministre chargé
+de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+
+
+###### Article R222-22
+
+En cas de la conversion d'un ou de plusieurs règlements dans les conditions visées aux articles R. 222-19 et R. 222-20,
+l'actif est réparti entre les bénéficiaires du ou des règlements considérés dans la limite du total de l'actif constitué pour
+chacun des règlements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-19, R222-20
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
 
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.

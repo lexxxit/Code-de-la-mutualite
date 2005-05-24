@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-03-18
+Version Consolidée au 2005-05-25
 
 # Partie législative
 
@@ -20754,6 +20754,16118 @@ rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 
 # Annexes
+
+## Annexe à l'article A114-4 
+
+
+
+###### Article Annexe à l'article A114-4
+
+Les renseignements généraux du compte rendu détaillé annuel sont les suivants : 
+
+a) La raison sociale de la mutuelle ou de l'union, son adresse, la date de sa constitution et un exemplaire à jour des
+statuts lorsque ceux-ci ont été modifiés ; 
+
+b) Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ; 
+
+c) Les nom, date et lieu de naissance, nationalité, domicile, grade et fonction des personnels de direction en fonction à la
+date d'établissement du compte rendu détaillé annuel ; 
+
+d) Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants ; 
+
+e) La liste des branches pratiquées en France et, pour chaque branche, la date de l'agrément administratif dans les termes de
+l'article L. 211-7 et l'année de début d'exercice des opérations relevant de chaque branche ; 
+
+f) La liste des pays où la mutuelle ou l'union exerce son activité, d'une part en régime d'établissement et, d'autre part en
+libre prestation de service et, pour chaque pays et chaque régime, des branches qu'elle y pratique, avec, pour chaque
+branche, la date de l'acte administratif ayant autorisé les opérations, lorsque l'exercice de l'activité d'assurance est
+soumis à une telle formalité, ainsi que l'année de début d'exercice des opérations relevant de chaque branche ; 
+
+g) Un tableau indiquant, par pays d'établissement, l'effectif moyen annualisé du personnel salarié en distinguant les
+personnels affectés à la commercialisation des contrats des autres personnels et, au sein de chacun de ces deux ensembles,
+les catégories suivantes : personnels de direction, cadres, non-cadres. Ce tableau est complété par l'indication de
+l'effectif moyen annualisé des mandataires de la mutuelle ou de l'union auxquels elle a recours pour la commercialisation ou
+la gestion des contrats conformément à l'article L. 114-31 du présent code. 
+
+h) La liste des règlements dont la commercialisation a commencé au cours de l'exercice. Chaque règlement est identifié par
+son nom commercial et l'indication de la catégorie ou sous-catégorie, définie à l'état C 4 figurant à l'annexe à l'article A.
+114-5, à laquelle il appartient. Les différentes versions d'un règlement commercialisé sous une même dénomination sont à
+considérer comme des règlements distincts. 
+
+i) La liste des tables mentionnées au b de l'article A. 212-10 et établies durant l'année.
+
+A l'appui de cette liste, la mutuelle ou l'union conserve à la disposition des commissaires-contrôleurs un dossier relatif à
+chacune des prestations en cours. Ce dossier comprend :
+
+- un spécimen du règlement mutualiste ;
+
+- un spécimen du contrat collectif ou du bulletin d'adhésion ;
+
+- un spécimen de la note d'information. 
+
+En assurance vie et capitalisation, le dossier comprend, en outre, une fiche technique explicitant les garanties accordées,
+le tarif appliqué (avec justification de sa suffisance), les modalités de fixation à toute époque de la valeur de rachat et
+de la valeur de réduction-si le contrat le comporte-, la méthode de calcul de la charge annuelle de participation aux
+bénéfices ainsi que le mode de répartition de cette participation entre les assurés (quotité et délai), et le calcul des
+provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A114-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. A114-5 (Ab)
+	  - Code de la mutualité - art. A212-10 (V)
+	  - Code de la mutualité - art. L114-31
+	  - Code de la mutualité - art. L211-7
+
+
+## Annexes à l'article A114-5
+
+###### Article Annexe C1 à l'article A114-5
+
+**ETAT C1 **
+
+**Etats d'analyse des comptes**
+
+Dans cette annexe, le terme mutuelle s'applique aux mutuelles et aux unions de mutuelles.
+
+A défaut de mention spécifique, le terme provisions recouvre les provisions techniques et les engagements techniques sur
+opérations données en substitution et le terme affaires directes recouvre les opérations directes et les opérations prises en
+substitution.
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
+
+**ETAT C 1 : RÉSULTATS TECHNIQUES PAR CATÉGORIES D'OPÉRATIONS**
+
+Les mutuelles agréées pour pratiquer des opérations visées au b du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 1 Vie-capitalisation ; si elles pratiquent des opérations
+visées au a du 1
+  <sup>o</sup> du I de l'article L. 111-1, elles établissent en outre un état C 1 Dommages corporels. Les autres mutuelles
+agréées pour pratiquer des opérations visées au 1
+  <sup>o</sup> du I de ce même article établissent un état C 1 Non-vie.
+
+L'état C 1 répartit d'abord les résultats techniques par pays d'établissement. Les opérations souscrites en France sont
+ensuite détaillées selon leur modalité d'exploitation : affaires directes françaises ; opérations réalisées en libre
+prestation de services ; acceptations. Enfin, les affaires directes françaises sont ventilées par catégories ou regroupements
+de catégories de règlements ou de contrats définis à l'article A. 214-1. Pour chaque catégorie, la mutuelle porte oui ou non
+en haut de la colonne selon que les opérations décrites dans la colonne sont ou non données en substitution.
+
+Lorsqu'un règlement ou un contrat regroupe des opérations différentes, il est d'abord scindé en deux ensembles selon que les
+opérations sont ou non données en substitution, puis chaque ensemble est rattaché en totalité à une catégorie principale, dès
+lors que celle-ci peut être déterminée sans ambiguïté. Lorsque aucune catégorie ne peut être qualifiée de principale, les
+garanties sont ventilées en autant de sous-ensembles qu'il existerait de règlements ou de contrats séparés au regard des
+pratiques constatées sur le marché ; chacun de ces sous-ensembles de garanties est rattaché à sa catégorie principale. Par
+exception, les garanties de dommages corporels sont toujours dissociées des garanties en cas de vie ou de décès.
+
+Le modèle des états C 1 Vie-capitalisation, C 1 Non-vie et C 1 Dommages corporels est fixé ci-après. Le contenu des lignes
+est précisé par référence aux comptes et sous-comptes du plan comptable relatifs aux opérations directes, hors opérations en
+unités de compte ; les mutuelles effectuent les transpositions nécessaires pour présenter leurs opérations prises en
+substitution, leurs opérations en unités de compte et leurs acceptations. Les sous-comptes rattachés aux comptes 6004, 6024,
+6104, 6124, 62004, 62124, sont identifiés par la post-position pb ou it selon qu'ils retracent les participations aux
+excédents ou les intérêts techniques.
+
+Lorsque la mutuelle prend des opérations en substitution, les états C 1 Vie, C 1 Non-vie et C 1 Dommages Corporels sont
+complétés par deux états annexes qui en sont l'éclatement :
+
+- annexe A : état de modèle C 1 pour les opérations autres que prises en substitution ;
+
+- annexe B : état de modèle C 1 pour les opérations prises en substitution.
+
+**ETAT C 1 VIE-CAPITALISATION**
+
+L'état C 1 Vie-capitalisation comporte les colonnes suivantes :
+
+Total général ;
+
+Sous-total des opérations non données en substitution ;
+
+Sous-total des opérations données en substitution ;
+
+Opérations de capitalisation en euros ou devises à cotisation unique ou versements libres (catégorie 1) ;
+
+Opérations de capitalisation en euros ou devises à cotisations périodiques (catégorie 2) ;
+
+Opérations individuelles (y compris groupes ouverts) d'assurance temporaire décès en euros ou devises (catégorie 3) ;
+
+Autres opérations individuelles (y compris groupes ouverts d'assurance vie) en euros ou devises à cotisation unique
+(catégorie 4) ;
+
+Autres opérations individuelles (y compris groupes ouverts d'assurance vie) en euros ou en devises à cotisations périodiques
+(catégorie 5) ;
+
+Opérations collectives en cas de décès en euros ou devises (catégorie 6) ;
+
+Opérations collectives en cas de vie en euros ou devises (catégorie 7) ;
+
+Opérations d'assurance vie ou de capitalisation en unités de compte à cotisation unique ou à versements libres (catégorie
+8) ;
+
+Opération d'assurance vie ou de capitalisation en unités de compte à cotisations périodiques (catégorie 9) ;
+
+Opérations collectives relevant de l'article L. 222-1 (catégorie 10) ;
+
+Plans d'épargne retraite populaires relevant de l'article 108 de la loi n
+  <sup>o</sup> 2003-275 du 21 août 2003 (catégorie 11) ;
+
+Opération de nuptialité ou de natalité (catégorie 12) ;
+
+Total des affaires directes en France (catégories 1 à 12) ;
+
+Opérations en libre prestation de services par un établissement en France ;
+
+Acceptations par un établissement en France ;
+
+Opérations des succursales établies dans un État de l'Union européenne (hors la France) ;
+
+Opérations des succursales établies hors de l'Union européenne.
+
+L'état C 1 Vie-capitalisation comporte les lignes suivantes :
+
+(L. 1) Cotisations et accessoires émis (comptes 7000 et 7001) ;
+
+(L. 2) Annulations (compte 7002) ;
+
+(L. 3) Cotisations à émettre nettes de cotisations à annuler, à la clôture de l'exercice (comptes 4000 moins 4010 à la
+clôture) ;
+
+(L. 4) Cotisations à émettre nettes de cotisations à annuler, à l'ouverture de l'exercice (comptes 4000 moins 4010 à
+l'ouverture) ;
+
+(L. 5) Sous-total : Cotisations nettes (lignes L. 1 - L. 2 + L. 3 - L. 4) ;
+
+(L. 10) Prestations et capitaux payés (compte 6000) ;
+
+(L. 11) Versements périodiques de rentes (compte 6001) ;
+
+(L. 12) Rachats (compte 6002) ;
+
+(L. 13) Frais de gestion et de règlement des prestations (comptes 6005 et 6008) ;
+
+(L. 14) Provisions pour prestations à payer à la clôture de l'exercice (compte 320 à la clôture) ;
+
+(L. 15) Provisions pour prestations à payer à l'ouverture de l'exercice (compte 320 à l'ouverture) ;
+
+(L. 16) Intérêts techniques inclus dans l'exercice dans les prestations payées ou provisionnées (comptes 6004it et 6104it) ;
+
+(L. 17) Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées (comptes
+6004pb, 6104pb, 63093 et 63094) ;
+
+(L. 18) Sous-total : charge des prestations (lignes L. 10 + L. 11 + L. 12 + L. 13 + L. 14-L. 15-L. 16-L. 17) ;
+
+(L. 20) Provisions d'assurance vie à la clôture de l'exercice (comptes 300 à la clôture) ;
+
+(L. 21) Provisions d'assurance vie à l'ouverture de l'exercice (comptes 300 à l'ouverture) ;
+
+(L. 22) Intérêts techniques incorporés dans l'exercice aux provisions d'assurance vie (compte 62004 it) ;
+
+(L. 23) Ajustement sur opérations à capital variable (comptes 766 moins 666) ;
+
+(L. 24) Participations aux excédents incorporées dans l'exercice aux provisions d'assurance vie (compte 62004pb et 63095) ;
+
+(L. 25) Autres provisions techniques à la clôture de l'exercice (comptes 3600, 3700 et 377 à la clôture) ;
+
+(L. 26) Autres provisions techniques à l'ouverture de l'exercice (comptes 3600, 3700 et 377 à l'ouverture) ;
+
+(L. 27) Sous-total : Charge de provisions (L. 20-L. 21-L. 22-L. 23-L. 24 + L. 25-L. 26) ;
+
+(L. 28) Virement de provisions
+
+(L. 30) Participation aux excédents (comptes 6303 à 6306) ;
+
+(L. 40) Frais d'acquisition (compte 6400) ;
+
+(L. 41) Frais d'administration et autres charges techniques nets (comptes 6402 et 644 moins 720, 740 et 7451, quote-part
+vie) ;
+
+(L. 42) Subventions d'exploitation reçues (compte 730) ;
+
+(L. 43) Produits des placements nets de charges (comptes 76, sauf 766, moins 7939 et 66, sauf 666) ;
+
+(L. 44) Intérêts techniques nets de cessions et d'opérations données en substitution (comptes 6300 à 6302 moins sous-comptes
+correspondants du compte 6390) ;
+
+(L. 45) Sous-total : produits financiers nets (L. 43-L. 44) ;
+
+(L. 50) Cotisations cédées et données en substitution (compte 7090) ;
+
+(L. 51) Part des réassureurs et des garants en substitution dans les prestations payées (compte 6090 sauf sous-compte
+correspondant au 6004) ;
+
+(L. 52) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
+participation aux excédents, à la clôture de l'exercice (comptes 390, 392, 3960 et 3970 à la clôture) ;
+
+(L. 53) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
+participation aux excédents, à l'ouverture de l'exercice (comptes 390, 392, 3960 et 3970 à l'ouverture) ;
+
+(L. 54) Part des réassureurs et des garants en substitution dans les participations aux excédents incorporées dans l'exercice
+aux prestations payées ou provisions techniques (sous-comptes des comptes 6090, 6190, 6290 correspondants aux comptes 6004,
+6104, 62004, ainsi que sous-comptes du compte 6390 correspondants au compte 6309) ;
+
+(L. 55) Part des réassureurs et des garants en substitution dans les participations aux excédents (sous-comptes du compte
+6390 correspondants aux comptes 6303 à 6306) ;
+
+(L. 56) Commissions reçues des réassureurs et des garants en substitution (compte 6490) ;
+
+(L. 57) Sous-total : charge de la réassurance et de la garantie en substitution (L. 50-L. 51 - L. 52 + L. 53 + L. 54-L. 55-L.
+56) ;
+
+(L. 60) Résultat technique (L. 5 - L. 18-L. 27-L. 30 - L. 40-L. 41 + L. 42 + L. 45-L. 57).
+
+**L'ÉTAT C 1 VIE-CAPITALISATION EST COMPLÉTÉ PAR QUATRE LIGNES HORS COMPTE**
+
+(L. 70) Provisions pour participation aux excédents et ristournes à la clôture de l'exercice (compte 34 à la clôture) ;
+
+(L. 71) Provisions pour participation aux excédents et ristournes à l'ouverture de l'exercice (compte 34 à l'ouverture) ;
+
+(L. 72) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
+ristournes à la clôture de l'exercice (compte 394 à la clôture) ;
+
+(L. 73) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
+ristournes à l'ouverture de l'exercice (compte 394 à l'ouverture).
+
+**ETAT C 1 NON VIE**
+
+L'état C 1 non-vie comporte les colonnes suivantes :
+
+Total général ;
+
+Sous-total des opérations non données en substitution ;
+
+Sous-total des opérations données en substitution ;
+
+Total des dommages corporels, opérations individuelles (catégorie 20) ;
+
+Dommages corporels, opérations individuelles non données en substitution (catégorie 201) ;
+
+Dommages corporels, opérations individuelles données en substitution (catégorie 202) ;
+
+Total des dommages corporels, opérations collectives (catégorie 21) ;
+
+Dommages corporels, opérations collectives non données en substitution (catégorie 211) ;
+
+Dommages corporels, opérations collectives données en substitution (catégorie 212) ;
+
+Protection juridique (catégorie 29) ;
+
+Assistance (catégorie 30) ;
+
+Pertes pécuniaires diverses (catégorie 31) ;
+
+Sous-total (catégories 20 à 31) ;
+
+Caution (catégorie 38) ;
+
+Total des affaires directes en France (catégories 20 à 38) ;
+
+Opérations en libre prestation de service par un établissement en France ;
+
+Acceptations par un établissement en France (catégorie 39) ;
+
+Opérations des succursales établies dans un Etat de l'Union européenne (hors la France) ;
+
+Opérations des succursales établies hors de l'Union européenne.
+
+L'état C 1 Non-vie comporte les lignes suivantes :
+
+(L. 1) Cotisations, participation légale au titre de la CMU et accessoires émis (comptes 7020 et 7021) ;
+
+(L. 2) Annulations et charge de ristournes (comptes 7022 et 7023 moins 63297) ;
+
+(L. 3) Cotisations à émettre nettes de cotisations à annuler, à la clôture de l'exercice (comptes 4000 moins 4010 à la
+clôture) ;
+
+(L. 4) Cotisations à émettre nettes de cotisations à annuler, à l'ouverture de l'exercice (comptes 4000 moins 4010 à
+l'ouverture) ;
+
+(L. 5) Sous-total : Cotisations nettes (lignes L. 1 - L. 2 + L. 3 - L. 4) ;
+
+(L. 6) Provisions pour cotisations non acquises à la clôture (compte 312 à la clôture) ;
+
+(L. 7) Provisions pour cotisations non acquises à l'ouverture (compte 312 à l'ouverture) ;
+
+(L. 8) Sous-total : cotisations de l'exercice (L. 5 - L. 6 + L 7) ;
+
+(L. 10) Prestations et prestations légales au titre de la CMU payées (comptes 6020 et 6021) ;
+
+(L. 11) Versements périodiques de rentes (compte 6022) ;
+
+(L. 12) Recours encaissés (compte 6026) ;
+
+(L. 13) Frais de gestion et de règlement des prestations (comptes 6025 et 6028) ;
+
+(L. 14) Provisions pour prestations à payer à la clôture de l'exercice (compte 332 à la clôture) ;
+
+(L. 15) Provisions pour prestations à payer à l'ouverture de l'exercice (compte 332 à l'ouverture) ;
+
+(L. 16) Prévision de recours à encaisser à la clôture de l'exercice (compte 336 à la clôture) ;
+
+(L. 17) Prévision de recours à encaisser à l'ouverture de l'exercice (compte 336 à l'ouverture) ;
+
+(L. 18) Autres provisions techniques à la clôture de l'exercice (comptes 3622, 37202, 37212, 37222, 3723 à la clôture) ;
+
+(L. 19) Autres provisions techniques à l'ouverture de l'exercice (comptes 3622, 37202, 37212, 37222, 3723 à l'ouverture) ;
+
+(L. 20) Participations aux excédents incorporées dans l'exercice aux prestations payées ou aux provisions techniques (comptes
+6024, 6124, 62124 et 6329 sauf 63297) ;
+
+(L. 21) Sous-total : charge des prestations (L. 10 + L. 11-L. 12 + L. 13 + L. 14-L. 15-L. 16 + L. 17 + L. 18-L. 19-L. 20) ;
+
+(L. 30) Participation aux excédents (comptes 6323, 6324 et 6326) ;
+
+(L. 40) Frais d'acquisition (compte 6420) ;
+
+(L. 41) Frais d'administration et autres charges techniques nets (comptes 6422 et 645 moins 722, 742, 7450 et 7451, quote-
+part non-vie) ;
+
+(L. 42) Subventions d'exploitation reçues (compte 732) ;
+
+(L. 43) Produits des placements alloués (compte 7920) ;
+
+(L. 44) Intérêts techniques nets de cessions et des opérations données en substitution (comptes 6320 et 6321 moins sous-
+comptes correspondants du compte 6392) ;
+
+(L. 45) Sous-total : produits financiers nets (L. 43-L. 44) ;
+
+(L. 50) Cotisations cédées et données en substitution (compte 7092 moins sous-compte du compte 6392 correspondant au compte
+63297) ;
+
+(L. 51) Part des réassureurs et des garants en substitution dans les prestations payées (compte 6092 sauf sous-compte
+correspondant au 6024) ;
+
+(L. 52) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
+participation aux excédents, à la clôture de l'exercice (comptes 391, 393, 3962 et 3972 à la clôture) ;
+
+(L. 53) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
+participation aux excédents, à l'ouverture de l'exercice (comptes 391, 393, 3962 et 3972 à l'ouverture) ;
+
+(L. 54) Part des réassureurs et des garants en substitution dans les participations aux excédents incorporées dans l'exercice
+aux prestations payées ou provisions techniques (sous-comptes des comptes 6092, 6192, 62912 et 62913 correspondants aux
+comptes 6024, 6124 et 62124, ainsi que sous-compte du compte 6392 correspondant au compte 6329 sauf sous-compte 63297) ;
+
+(L. 55) Part des réassureurs et des garants en substitution dans les participations aux excédents (sous-comptes du compte
+6392 correspondants aux comptes 6323, 6324 et 6326) ;
+
+(L. 56) Commissions reçues des réassureurs et des garants en substitution (compte 6492) ;
+
+(L. 57) Sous-total : charge de la réassurance et de la garantie en substitution (L. 50 - L. 51 - L. 52 + L. 53 + L. 54 - L.
+55 - L. 56) ;
+
+(L. 60) Résultat technique (L. 8 - L. 21 - L. 30 - L. 40 - L. 41 + L. 42 + L. 45 - L. 57).
+
+L'état C 1 non-vie est complété par quatre lignes hors compte :
+
+(L. 70) Provisions pour participation aux excédents et ristournes à la clôture de l'exercice (compte 352 à la clôture) ;
+
+(L. 71) Provisions pour participations aux excédents et ristournes à l'ouverture de l'exercice (compte 352 à l'ouverture) ;
+
+(L. 72) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
+ristournes à la clôture de l'exercice (compte 395 à la clôture) ;
+
+(L. 73) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
+ristournes à l'ouverture de l'exercice (compte 395 à l'ouverture
+
+**ETAT C 1 DOMMAGES CORPORELS**
+
+L'état C 1 Dommages corporels comporte les colonnes suivantes :
+
+Total général ;
+
+Sous-total des opérations non données en substitution ;
+
+Sous-total des opérations données en substitution ;
+
+Total des dommages corporels, opérations individuelles (catégorie 20) ;
+
+Dommages corporels, opérations individuelles non données en substitution (catégorie 201) ;
+
+Dommages corporels, opérations individuelles données en substitution (catégorie 202) ;
+
+Total des dommages corporels, opérations collectives (catégorie 21) ;
+
+Dommages corporels, opérations collectives non données en substitution (catégorie 211) ;
+
+Dommages corporels, opérations collectives données en substitution (catégorie 212) ;
+
+Opérations en libre prestation de service par un établissement en France ;
+
+Acceptations par un établissement en France ;
+
+Opérations des succursales établies dans un Etat de l'Union européenne (hors la France) ;
+
+Opérations des succursales établies hors de l'Union européenne.
+
+Si la mutuelle est agréée pour pratiquer des opérations visées au a du 1
+  <sup>o</sup> du I de l'article L. 111-1, l'état C 1 Dommages corporels comporte les mêmes lignes que l'état C 1 Non-vie.
+
+Dans les autres cas, l'état C 1 dommages corporels comporte les mêmes lignes que l'état C 1 Vie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C2 à l'article A114-5
+
+**ETAT C2 : ENGAGEMENTS ET RESULTATS TECHNIQUES PAR PAYS**
+
+Les mutuelles décrivent leurs engagements et résultats techniques par pays d'établissement selon le modèle suivant :
+
+<table>
+  <thead>
+    <tr>
+      <td width="130">
+
+PAYS
+
+</td>
+      <td width="39">
+
+CODE PAYS (1)
+
+</td>
+      <td width="65">
+
+COTISATIONS (2)
+
+</td>
+      <td width="65">
+
+DONT COTISATIONS données en substitution
+
+</td>
+      <td width="65">
+
+PROVISIONS (3)
+
+</td>
+      <td width="52">
+
+DONT ENGAGEMENTS techniques
+
+</td>
+      <td width="39">
+
+RÉSULTAT technique (4)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Union européenne (5)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Allemagne
+
+</td>
+      <td>
+
+DE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Autriche
+
+</td>
+      <td>
+
+AT
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Belgique
+
+</td>
+      <td>
+
+BE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Chypre
+
+</td>
+      <td>
+
+CY
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Danemark
+
+</td>
+      <td>
+
+DK
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Espagne
+
+</td>
+      <td>
+
+ES
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Estonie
+
+</td>
+      <td>
+
+EE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Finlande
+
+</td>
+      <td>
+
+FI
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+France
+
+</td>
+      <td>
+
+FR
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+LPS depuis la France
+
+</td>
+      <td>
+
+FR
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Grèce
+
+</td>
+      <td>
+
+GR
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Hongrie
+
+</td>
+      <td>
+
+HU
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Irlande
+
+</td>
+      <td>
+
+IE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Italie
+
+</td>
+      <td>
+
+IT
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lettonie
+
+</td>
+      <td>
+
+LV
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lituanie
+
+</td>
+      <td>
+
+LT
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Luxembourg
+
+</td>
+      <td>
+
+LU
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Malte
+
+</td>
+      <td>
+
+MT
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Pays-Bas
+
+</td>
+      <td>
+
+NL
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Pologne
+
+</td>
+      <td>
+
+PL
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Portugal
+
+</td>
+      <td>
+
+PT
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+République tchèque
+
+</td>
+      <td>
+
+CZ
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Royaume-Uni
+
+</td>
+      <td>
+
+GB
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Slovaquie
+
+</td>
+      <td>
+
+SK
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Slovénie
+
+</td>
+      <td>
+
+SI
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Suède
+
+</td>
+      <td>
+
+SE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total Union européenne
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Espace économique européen hors Union européenne
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Islande
+
+</td>
+      <td>
+
+IS
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Liechtenstein
+
+</td>
+      <td>
+
+LI
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Norvège
+
+</td>
+      <td>
+
+NO
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total EEE hors UE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Hors Espace économique européen...
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Divers
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total hors EEE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total général
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(1) Code à 2 lettres de la norme internationale ISO 3166-1.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(2) Cotisations nettes au sens de la ligne L. 5 de l'état C 1, brutes de réassurance et y compris opérations données en
+substitution.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(3) Provisions techniques brutes de réassurance à la clôture de l'exercice et engagements techniques sur opérations données
+en substitution.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(4) Au sens de la ligne L. 60 de l'état C 1.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(5) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+Les chiffres relatifs aux pays non membres de l'Union européenne dans lesquelles les cotisations sont inférieures à 1 % des
+cotisations en France et les provisions et engagements techniques sont inférieurs à 1 % des provisions et engagements
+techniques en France peuvent être regroupés en une seule ligne intitulée "divers".
+
+Si la mutuelle opère dans plus de dix pays non membres de l'Union européenne en réalisant dans chacun d'eux un volume
+d'activité supérieur aux seuils visés à l'alinéa précédent, seuls sont détaillés les chiffres relatifs aux dix pays de plus
+forte activité en termes de cotisations d'abord, de provisions et d'engagements techniques ensuite. Les autres pays sont
+regroupés à la ligne intitulée "divers ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C3 à l'article A114-5
+
+**ÉTAT C3 Acceptations et cessions en réassurance, affaires directes prises et opérations données en substitution**
+
+Les mutuelles décrivent, selon le modèle fixé ci-après, leurs opérations de réassurance acceptées (tableau A) et cédées
+(tableau B), ainsi que leurs opérations prises en substitution (tableau C) et données en substitution (tableau D), en les
+ventilant d'après l'Etat de l'établissement qui a signé le traité ou la convention de substitution (France ou étranger) et en
+fonction du lien existant entre les cocontractants (mutuelles ou institutions de prévoyance ou entreprises d'assurance du
+groupe au sens de l'article L. 212-7 ou non).
+
+Tableau A : Acceptations (France et
+étranger)                                                                                       
+
+<table>
+  <thead>
+    <tr>
+      <td width="104">
+
+ACCEPTATIONS   PAR UN ÉTABLISSEMENT
+
+</td>
+      <td colspan="2" width="169">
+
+FRANÇAIS
+
+</td>
+      <td colspan="2" width="160">
+
+ÉTRANGER
+
+</td>
+      <td width="80">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="104">
+
+En   provenance de :
+
+</td>
+      <td width="89">
+
+Organismes   du groupe
+
+</td>
+      <td width="80">
+
+Autres   organismes
+
+</td>
+      <td width="80">
+
+Organismes   du groupe
+
+</td>
+      <td width="80">
+
+Autres organismes
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Cotisations   acceptées
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Provisions   techniques sur acceptations
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Solde   technique (1)
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Intérêts   sur dépôts espèces
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="513" colspan="6">
+
+(1) Le solde   technique est le montant des cotisations diminué des prestations (y compris   variation des provisions
+techniques) et des frais d'acquisition.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau B : Cessions et rétrocessions (France et
+étranger)                                                                              
+
+<table>
+  <thead>
+    <tr>
+      <td width="104">
+
+CESSIONS   PAR UN ÉTABLISSEMENT
+
+</td>
+      <td colspan="2" width="169">
+
+FRANÇAIS
+
+</td>
+      <td width="160" colspan="2">
+
+ÉTRANGER
+
+</td>
+      <td width="80">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="104">
+
+A   des :
+
+</td>
+      <td width="89">
+
+Organismes   du groupe
+
+</td>
+      <td width="80">
+
+Autres   organismes
+
+</td>
+      <td width="80">
+
+Organismes   du groupe
+
+</td>
+      <td width="80">
+
+Autres organismes
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Cotisations   cédées
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Provisions   techniques cédées
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Charge   de réassurance (2)
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Intérêts   sur dépôts espèces
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6" width="513">
+
+(2) Charge de   réassurance au sens de la ligne L. 57 de l'état C 1.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau C : Opérations prises en
+substitution                                                                                        
+
+<table>
+  <tbody>
+    <tr>
+      <td width="104">
+
+OPÉRATIONS   en provenance de :
+
+</td>
+      <td width="89">
+
+ORGANISMES   du groupe
+
+</td>
+      <td width="80">
+
+AUTRES   organismes
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Cotisations
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Provisions   techniques
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Solde   technique (1)
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Produits   financiers nets
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="273" colspan="3">
+
+(1) Le solde   technique est le montant des cotisations diminué des prestations (y compris   variation des provisions
+techniques) et des frais d'acquisition.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau D : Opérations données en
+substitution                                                                                             
+
+<table>
+  <thead>
+    <tr>
+      <td width="104">
+
+OPÉRATIONS   données à des :
+
+</td>
+      <td width="89">
+
+ORGANISMES   du groupe
+
+</td>
+      <td width="80">
+
+AUTRES   organismes
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="104">
+
+Cotisations
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Engagements   techniques
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Solde   technique (1)
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+Produits   financiers alloués
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="80">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="273">
+
+(1) Le solde   technique est le montant des cotisations diminué des prestations (y compris   variation des engagements
+techniques) et des frais d'acquisition.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C4 à l'article A114-5
+
+**ÉTAT C4 : COTISATIONS PAR CATÉGORIES DE CONTRATS ET GARANTIES**
+
+Les mutuelles ventilent les cotisations nettes par catégories, sous-catégories ou regroupements de catégories d'opérations,
+subdivisés par garanties en dommages corporels, selon le modèle fixé ci-après.
+
+Les mutuelles agréées pour pratiquer les opérations visées au b du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 4 Vie-capitalisation-mixte et les autres mutuelles visées au
+1
+  <sup>o</sup> du I de l'article L. 111-1 un état C 4 Non-Vie.
+
+Etat C 4 Vie-capitalisation mixte
+
+L'état C 4 Vie-capitalisation mixte comporte les lignes suivantes :
+
+I. - Total des affaires directes en France (catégories 01 à 21)
+
+01 Opérations de capitalisation à prime unique ou versements libres
+
+02 Opérations de capitalisation à cotisations périodiques
+
+03 Opérations individuelles (y compris groupes ouverts) d'assurance temporaire décès 
+
+031 Temporaires décès à prime unique ou versements libres 
+
+032 Temporaires décès à cotisations périodiques 
+
+04 Autres opérations individuelles (y compris groupes ouverts) d'assurance vie à prime unique ou versements libres 
+
+041 Rentes à prime unique ou versements libres 
+
+042 Autres opérations à prime unique ou versements libres 05 Autres opérations individuelles (y compris groupes ouverts)
+d'assurance vie à cotisations périodiques 
+
+051 Rentes à cotisations périodiques 
+
+052 Autres opérations à cotisations périodiques 
+
+06 Opérations collectives en cas de décès 
+
+061 Opérations collectives en cas de décès visés à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989 
+
+062 Autres opérations collectives en cas de décès 
+
+07 Opérations collectives en cas de vie 
+
+071 Opérations collectives de rentes 
+
+072 Autres opérations collectives 
+
+08 Opérations d'assurance vie ou de capitalisation en unités de compte à prime unique ou versements libres
+
+081 Opérations de capitalisation en unités de compte à prime unique ou versements libres
+
+082 Temporaires décès en unités de compte à prime unique ou versements libres
+
+083 Rentes individuelles en unités de compte à prime unique ou versements libres
+
+084 Autres opérations individuelles en unités de compte à prime unique ou versements libres
+
+085 Opérations collectives en cas de décès en unités de compte à prime unique ou versements libres visés à l'article 2 de la
+loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+086 Autres opérations collectives en cas de décès en unités de compte à prime unique ou versements libres
+
+087 Opérations collectives de rentes en unités de compte à prime unique ou versements libres
+
+088 Autres opérations collectives d'assurance en unités de compte à prime unique ou versements libres
+
+09 Opérations d'assurance vie ou de capitalisation en unités de compte à cotisations périodiques
+
+091 Opérations de capitalisation en unités de compte à cotisations périodiques
+
+092 Temporaires décès en unités de compte à cotisations périodiques
+
+093 Rentes individuelles en unités de compte à cotisations périodiques
+
+094 Autres opérations individuelles en unités de compte à cotisations périodiques
+
+095 Opérations collectives en cas de décès en unités de compte à cotisations périodiques
+
+096 Autres opérations collectives en cas de décès en unités de compte à cotisations périodiques
+
+097 Opérations collectives de rentes en unités à cotisations périodiques
+
+098 Autres opérations collectives d'assurance en unités de compte à cotisations périodiques
+
+10 Opérations collectives relevant de l'article L. 222-1
+
+11 Plans d'épargne retraite populaires relevant de l'article 108 de la loi n
+  <sup>o</sup> 2003-275 du 21 août 2003 
+
+111 Opérations non données en substitution
+
+1111 Plans consistant en l'acquisition d'une rente viagère différée, en cotisations uniques et à versements libres 
+
+11111 Plans prévoyant une provision technique de diversification 
+
+11112 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
+affectée à l'acquisition de la provision mathématique 
+
+11113 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
+affectée à l'acquisition de la provision mathématique 
+
+1112 Plans consistant en l'acquisition d'une rente viagère différée, en cotisations périodiques 
+
+11121 Plans prévoyant une provision technique de diversification 
+
+11122 Plan ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement affectée
+à l'acquisition de la provision mathématique 
+
+11123 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
+affectée à l'acquisition de la provision mathématique 
+
+1113 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations uniques et à versements libres 
+
+11131 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion choisie par l'adhérent 
+
+11132 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion fixée par le plan 
+
+11133 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
+affectée à l'acquisition de la provision mathématique 11134 Plans ne prévoyant pas de provision technique de diversification
+et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 
+
+11135 Plans en unités de compte
+
+1114 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations périodiques 
+
+11141 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion choisie par l'adhérent 
+
+11142 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion fixée par le plan 
+
+11143 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
+affectée à l'acquisition de la provision mathématique 11144 Plans ne prévoyant pas de provision technique de diversification
+et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 11145 Plans en unités
+de compte
+
+1115 Plans régis par l'article L. 222-1
+
+112 Opérations données en substitution
+
+1121 Plans consistant en l'acquisition d'une rente viagère différée, en cotisations uniques et à versements libres 
+
+11211 Plans prévoyant une provision technique de diversification 
+
+11212 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
+affectée à l'acquisition de la provision mathématique 11213 Plans ne prévoyant pas de provision technique de diversification
+et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 1122 Plans consistant
+en l'acquisition d'une rente viagère différée, en cotisations périodiques 
+
+11221 Plans prévoyant une provision technique de diversification 
+
+11222 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
+affectée à l'acquisition de la provision mathématique 
+
+11223 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
+affectée à l'acquisition de la provision mathématique 
+
+1123 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations uniques et à versements libres 
+
+11231 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion choisie par l'adhérent 
+
+11232 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion fixée par le plan 
+
+11233 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
+affectée à l'acquisition de la provision mathématique 
+
+11234 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
+affectée à l'acquisition de la provision mathématique [ 
+
+11235 Plans en unités de compte
+
+1124 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations périodiques 
+
+11241 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion choisie par l'adhérent 
+
+11242 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
+de la provision mathématique selon une proportion fixée par le plan
+
+11243 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
+affectée à l'acquisition de la provision mathématique 11244 Plans ne prévoyant pas de provision technique de diversification
+et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 
+
+11245 Plans en unités de compte
+
+1125 Plans régis par l'article L. 222-1
+
+12 Opérations de Nuptialité-Natalité
+
+121 Nuptialité
+
+122 Natalité
+
+20 Opérations individuelles (y compris groupes ouverts) de dommages corporels (y compris garanties accessoires ou
+complémentaires aux opérations individuelles d'assurance en cas de vie ou de décès).
+
+201 Autres garanties frais de soins
+
+2011 Opérations non données en substitution
+
+2012 Opérations données en substitution
+
+202 Autres garanties
+
+2021 Opérations non données en substitution
+
+2022 Opérations données en substitution
+
+203 Garanties frais de soins relevant de la couverture maladie universelle définie par la loi n
+  <sup>o</sup> 99-641 du 27 juillet 1999
+
+2031 Opérations non données en substitution
+
+2032 Opérations données en substitution
+
+21 Opérations collectives de dommages corporels (y compris garanties accessoires ou complémentaires aux opérations
+collectives d'assurance en cas de vie ou de décès)
+
+211 Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2111 Opérations non données en substitution
+
+2112 Opérations données en substitution
+
+212 Autres garanties délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2121 Opérations non données en substitution
+
+2122 Opérations données en substitution
+
+213 Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2131 Opérations non données en substitution
+
+2132 Opérations données en substitution
+
+214 Autres garanties non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2141 Opérations non données en substitution
+
+2142 Opérations données en substitution
+
+II. - Total des opérations en libre prestation de services par un établissement en France
+
+III. - Total des acceptations en réassurance par un établissement en France
+
+IV. - Total des opérations des succursales établies dans l'Union européenne (hors la France)
+
+a) Affaires directes souscrites par les succursales établies dans l'Union européenne (hors la France)
+
+b) Opérations effectuées en libre prestation de service par les succursales établies dans l'Union européenne (hors la France)
+
+c) Acceptations en réassurance par les succursales établies dans l'Union européenne (hors la France)
+
+V. - Total des opérations des succursales établies hors de l'Union européenne
+
+a) Affaires directes souscrites par les succursales établies hors de l'Union européenne
+
+b) Opérations effectuées en libre prestation de service par les succursales établies hors de l'Union européenne
+
+c) Acceptations en réassurance par les succursales établies hors de l'Union européenne
+
+Total général (rubriques I à V)
+
+**ÉTAT C 4 NON-VIE**
+
+L'état C 4 Non-vie comporte trois colonnes :
+
+Colonne A : cotisations émises au titre d'opérations autres que les opérations pluriannuelles à prime unique ou non révisable
+et les affaires assimilées en application de l'article A. 114-12 ;
+
+Colonne B : cotisations émises au titre des opérations pluriannuelles à prime unique ou non révisable et d'affaires
+assimilées en application de l'article A. 114-12 ;
+
+Colonne C : totaux partiels par catégorie d'opérations et total général.
+
+L'état C 4 Non-vie comporte les lignes suivantes :
+
+I. - Total des affaires directes en France (catégories 20 à 38)
+
+20 Opérations individuelles (y compris groupes ouverts) de dommages corporels (y compris garanties accessoires ou
+complémentaires aux opérations individuelles d'assurance en cas de vie ou de décès)
+
+201 Autres garanties frais de soins
+
+2011 Opérations non données en substitution
+
+2012 Opérations données en substitution
+
+202 Autres garanties
+
+2021 Opérations non données en substitution
+
+2022 Opérations données en substitution
+
+203 Garanties frais de soins relevant de la couverture maladie universelle définie par la loi n
+  <sup>o</sup> 99-641 du 27 juillet 1999
+
+2031 Opérations non données en substitution
+
+2032 Opérations données en substitution
+
+21 Opérations collectives de dommages corporels (y compris garanties accessoires ou complémentaires aux opérations
+collectives d'assurance en cas de vie ou de décès)
+
+211 Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2111 Opérations non données en substitution
+
+2112 Opérations données en substitution
+
+212 Autres garanties délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2121 Opérations non données en substitution
+
+2122 Opérations données en substitution
+
+213 Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2131 Opérations non données en substitution
+
+2132 Opérations données en substitution
+
+214 Autres garanties non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989
+
+2141 Opérations non données en substitution
+
+2142 Opérations données en substitution
+
+29 Opérations de protection juridique
+
+30 Opérations d'assistance
+
+31 Opérations de pertes pécuniaires diverses
+
+38 Opérations de caution
+
+II. - Total des opérations en libre prestation de services par un établissement en France
+
+III. - Total des acceptations en réassurance par un établissement en France
+
+IV. - Total des opérations des succursales établies dans l'Union européenne (hors la France)
+
+a) Affaires directes souscrites par les succursales établies dans l'Union européenne (hors la France)
+
+b) Opérations effectuées en libre prestation de service par les succursales établies dans l'Union européenne (hors la France)
+
+c) Acceptations en réassurance par les succursales établies dans l'Union européenne (hors la France)
+
+V. - Total des opérations des succursales établies hors de l'Union européenne
+
+a) Affaires directes souscrites par les succursales établies hors de l'Union européenne
+
+b) Opérations effectuées en libre prestation de service par les succursales établies hors de l'Union européenne
+
+c) Acceptations en réassurance par les succursales établies hors de l'Union européenne
+
+Total général (rubriques I à V)
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C5 à l'article A114-5
+
+**ÉTAT C5 REPRÉSENTATION DES ENGAGEMENTS RÉGLEMENTÉS**
+
+Les mutuelles établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements
+réglementés
+
+<table>
+  <thead>
+    <tr>
+      <td rowspan="3" width="143">
+
+</td>
+      <td width="312" colspan="4">
+
+PROVISIONS TECHNIQUES
+
+</td>
+      <td rowspan="3">
+
+AUTRES engagements réglementés
+
+</td>
+      <td rowspan="3">
+
+TOTAL
+
+</td>
+    </tr>
+    <tr>
+      <td width="312" colspan="3">
+
+Union européenne
+
+</td>
+      <td rowspan="2">
+
+Hors Union européenne
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+PERP et L. 222-1
+
+</td>
+      <td width="52">
+
+Autres affaires directes
+
+</td>
+      <td width="52">
+
+Acceptations
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Engagements techniques sur opérations données en substitution
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions d'assurance vie
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions pour cotisations non acquises
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions pour risques en cours
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions pour prestations à payer
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions mathématiques (non-vie)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions pour participation aux excédents et ristournes
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions pour égalisation
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Provisions pour risque d'exigibilité des engagements techniques
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Autres provisions techniques
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réserve de capitalisation (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Engagements au titre des opérations relevant de la branche 25 de l'article R. 211-2 (2)
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Dettes privilégiées
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Dépôts de garantie des adhérents et participants, des intermédiaires et des tiers
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réserves d'amortissement des emprunts et réserves pour cautionnements
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total des passifs réglementés (A)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Parts des garants dans les engagements techniques donnés en substitution
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Avances sur contrats mentionnées à l'article R. 212-36
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cotisations mentionnées à l'article R. 212-36
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Valeurs mentionnées à l'article R. 212-37
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnés à l'article R. 212-59
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cotisations mentionnées aux articles R. 212-38
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnés à l'article R. 212-58
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Avances aux transporteurs mentionnées à l'article R. 212-39
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Créances nettes sur les cédants mentionnées à l'article R. 212-40
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Actifs mentionnés à l'article R. 212-41
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Recours admis
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Divers (3)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Créances mentionnées à l'article R. 212-42
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Valeurs déposées en cautionnement
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total des actifs admissibles divers B
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Base de la dispersion visée à l'article R. 212-32 (A - B)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Valeurs couvrant les engagements dans le cadre de la branche 25 de l'article R. 211-2 (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Autres placements mentionnés du 1
+          <sup>o</sup> au 17
+          <sup>o</sup> de l'article R. 212-31 (4)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Dépôts mentionnés au 18
+          <sup>o</sup> de l'article R. 212-31
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Intérêts courus des placements mentionnés à l'article R. 212-31
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Créances garanties sur les réassureurs mentionnées à l'article R. 212-35
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total des placements et actifs assimilés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(1) La réserve de capitalisation est inscrite dans la colonne "autres engagements réglementés" à l'exception des montants
+relatifs aux PERP.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(2) Les placements correspondants ne figurent au présent état que s'ils appartiennent à la mutuelle.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(3) Le détail de la rubrique "divers" est à annexer au présent état.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(4) Sont notamment incluses parmi ces placements les valeurs remises par les mutuelles garanties en substitution.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C6 bis à l'article A114-5
+
+**ÉTAT C6 bis TEST D'EXIGIBILITÉ**
+
+Les mutuelles agréées pour pratiquer les opérations visées au 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent annuellement, selon le modèle fixé ci-après, un état donnant les
+résultats du test d'exigibilité mentionné aux articles R. 212-27-1 et A. 114-8.
+
+Lorsque, du fait des conditions légales, il ne peut y avoir de compensation financière entre les actifs représentatifs de
+différents portefeuilles de règlements ou contrats, les tableaux sont établis par la mutuelle pour chaque portefeuille de
+règlements ou contrats et l'état résulte de l'agrégation des tableaux relatifs à chaque portefeuille.
+
+Les engagements des règlements ou contrats en unités de compte, les engagements sur opérations données en substitution et les
+actifs correspondants ne sont pas pris en compte. Les transformations de garanties en euros en garanties en unités de compte
+sont assimilées à des prestations échues.
+
+Le montant des prestations tient compte du minimum de revalorisation résultant de la participation aux bénéfices
+contractuelle et réglementaire.
+
+Dans le tableau D sont aussi donnés les résultats d'un scénario de référence dans lequel il n'y a pas de détérioration des
+marchés financiers.
+
+**Etape 1.**
+ - Simulation du montant des cessions futures 
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+      </td><td valign="middle" align="center">
+      </td><td align="center" valign="middle">
+      </td><td valign="middle" align="center">
+      </td><td valign="middle" align="center">
+      </td><td valign="middle" align="center">
+      </td><td align="center" valign="middle">
+      </td><td valign="middle" align="center">
+    </td></tr>
+    <tr>
+      <th align="center" valign="middle">EXERCICES</th>
+      <th align="center" valign="middle">RÉALISÉ N</th>
+      <th valign="middle" align="center">N + 1</th>
+      <th align="center" valign="middle">N + 2</th>
+      <th valign="middle" align="center">N + 3</th>
+      <th align="center" valign="middle">N + 4</th>
+      <th valign="middle" align="center">N + 5</th>
+      <th valign="middle" align="center">TOTAL N + 1
+
+à N + 5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tableau A : décaissements</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Vie :</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Prestations (hors rachats) et frais payés</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Rachats exceptionnels (majorés) (1)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Total prestations Vie</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont intérêts techniques</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont participation aux bénéfices</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Non-vie :</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Total prestations non-vie (majorées) (1)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Autres décaissements (2)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Total (i)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="8">(1) Pour le réalisé N, on ne met que les rachats constatés et les prestations non-vie constatées.</td>
+    </tr>
+    <tr>
+      <td colspan="8">(2) Inclus notamment les frais d'administration des contrats.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+      </td><td align="center" valign="middle">
+      </td><td align="center" valign="middle">
+      </td><td align="center" valign="middle">
+      </td><td valign="middle" align="center">
+      </td><td align="center" valign="middle">
+      </td><td valign="middle" align="center">
+      </td><td align="center" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="center" valign="middle">EXERCICES</td>
+      <td>RÉALISÉ N</td>
+      <td>N + 1</td>
+      <td>N + 2</td>
+      <td>N + 3</td>
+      <td>N + 4</td>
+      <td>N + 5</td>
+      <td>TOTAL N + 1
+
+à N + 5</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tableau B : Encaissements (1)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Revenus nets des placements</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont sur placements échus dans les cinq ans</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Placements échus</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont ceux relevant de R. 212-25 
+
+(titres monétaires et obligataires)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont ceux relevant de R. 212-53
+
+(dépôts, prêts)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Part des réassureurs dans 
+
+les prestations (majorées) (2)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Autres actifs techniques admis en représentation</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Total (ii)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Solde encaissements/décaissements (iii) = (ii) - (i)</td>
+      <td align="center">xxx</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="8">(1) Hors produit des cessions d'actif.</td>
+    </tr>
+    <tr>
+      <td colspan="8">(2) Pour le réalisé N, on ne met que les rachats constatés et les prestations non-vie constatées.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Etape 2.**
+ - Résultat des cessions 
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+      </td><td valign="middle" align="center">
+      </td><td valign="middle" align="center">
+      </td><td valign="middle" align="center">
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>VALEUR NETTE
+
+COMPTABLE</td>
+      <td>VALEUR DE
+
+RÉALISATION</td>
+      <td>PLUS OU 
+
+MOINS-VALUE LATENTE</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tableau C : Placements au 31/12/N (1)</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Produits de taux</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont disponibilités</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont placements échus dans les cinq ans</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>- dont placements échus au-delà de cinq ans</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Actions et actifs assimilés</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Actifs immobiliers</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Total</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Dont :</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Total R. 212-25</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Total R. 212-53</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="4">(1) Pour le classement des actifs, on se réfère à l'état T 3.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+      </td><td align="center" valign="middle">
+      </td><td align="center" valign="middle">
+      </td><td valign="middle" align="center">
+      </td><td align="center" valign="middle">
+      </td><td align="center" valign="middle">
+    </td></tr>
+    <tr>
+      <td width="182">
+      </td><td>SCÉNARIO
+
+de référence</td>
+      <td>SCÉNARIO 
+
+TAUX
+
+(+ 200 PB)</td>
+      <td>SCÉNARIO 
+
+ACTIONS 
+
+(indice - 30 %)</td>
+      <td>SCÉNARIO
+
+immobilier 
+
+(prix - 20 %)</td>
+      <td>SCÉNARIO
+
+global</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tableau D : Cessions</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Disponibilités au 31/12/N</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Cumul des soldes (1)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Ajustement de revenus nets de PB (2)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Montant des cessions à effectuer (3)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Valeur de réalisation dégradée des placements (4)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Pourcentage des placements à céder (5)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Plus ou moins-value latente sur placements (6)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Résultat des cessions (7)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Rappel : PRE au 31/12/N</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="6">
+
+(1) Ligne (iii) colonne Total, négatif si décaissements supérieurs aux encaissements.
+
+(2) Résultant de la détérioration du marché.
+
+(3) Si la somme des trois lignes précédentes est négative, l'opposé de cette somme ; sinon zéro.
+
+(4) Hors disponibilités et actifs échus dans les cinq ans.
+
+(5) Rapport du montant des cessions à effectuer à la valeur de réalisation dégradée des placements.
+
+(6) Hors disponibilités et actifs échus dans les cinq ans.
+
+(7) Produit des placements à céder par la plus-ou moins-value latente.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C6 à l'article A114-5
+
+**ÉTAT C6 : MARGE DE SOLVABILITÉ**
+
+Les mutuelles établissent, selon le modèle fixé ci-après, un état rapprochant la marge de solvabilité constituée de
+l'exigence minimale de marge.
+
+Les mutuelles agréées pour pratiquer les opérations visées au a et/ou au c et/ou au d et/ou au e du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 6 Non-vie selon le modèle ci-dessous (A). Les mutuelles
+agréées pour pratiquer les opérations visées au b du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 6 Vie-capitalisation selon le modèle ci-dessous (B). Les
+mutuelles agréées pour pratiquer simultanément les opérations visées au a et b dudit article établissent un état C 6 Non-vie
+et un état C 6 Vie-capitalisation.
+
+Les opérations que la mutuelle donne en substitution sont exclues du calcul de l'exigence minimale de marge et du fonds de
+garantie.
+
+**ÉTAT C6 NON-VIE**
+
+**I. - EXIGENCE MINIMALE DE MARGE DE SOLVABILITÉ (art. R. 212-12)**
+
+A. - Calcul par rapport aux cotisations
+
+Cotisations, hors taxes, émises et acceptées au cours du dernier exercice, nettes d'annulations.
+
+Base des cotisations, chiffre le plus élevé :
+
+Se répartissant en :
+
+Tranche inférieure à 10 000 000 d'euros × 0,18.
+
+Tranche supérieure à 10 000 000 d'euros × 0,16.
+
+Total (a1).
+
+(b) = Charge des prestations pour le dernier exercice (nette de cessions)/Charge des prestations pour le dernier exercice
+(brute de cessions).
+
+(c) Montant de (b) s'il est supérieur à 0,50, sinon 0,50.
+
+Premier résultat = [(a1) × (c)].
+
+B. - Calcul par rapport aux prestations
+
+Période de référence : les trois derniers exercices : 
+
+1. Prestations payées (affaires directes et acceptations) pendant la période de référence, nettes de recours.
+
+2. Provision pour prestations à payer (affaires directes et acceptations) constituée à la fin de la période de référence.
+
+A déduire :
+
+3. Provision pour prestations à payer (affaires directes et acceptations) constituée au début de la période de référence.
+
+4. Charge de prestations pour la période de référence : (1) + (2) - (3).
+
+5. Moyenne annuelle : 1/3 de (4)
+
+Se répartissant en :
+
+Tranche inférieure à 7 000 000 d'euros × 0,26
+
+Tranche supérieure à 7 000 000 d'euros × 0,23
+
+Total (a2)
+
+Second résultat = [(a2) × (c)].
+
+Etat récapitulatif
+
+Premier résultat
+
+Second résultat
+
+Montant de la charge à constituer (résultat le plus élevé)
+
+**II. - ÉLÉMENTS CONSTITUTIFS DE LA MARGE DE SOLVABILITÉ (R. 212-11)**
+
+Les éléments sous B peuvent être admis sur demande et justification par la mutuelle.
+
+A. - 1 Fonds d'établissement constitué.
+
+2. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement.
+
+3. Emprunts pour fonds de développement : au-delà de la moitié de la durée de l'emprunt, plafonné au montant de l'emprunt
+diminué progressivement chaque année d'un montant constant égal au double du montant total de l'emprunt divisé par le nombre
+d'années de sa durée.
+
+4. Réserves ne correspondant pas à des engagements, y compris réserve de capitalisation.
+
+5. Excédents reportés (après affectation des résultats).
+
+6. Titres ou emprunts subordonnés : 
+
+- à durée indéterminée, dans la limite de la moitié du total (A + B) ou, si ce montant est plus faible, de la moitié de
+l'exigence minimale de marge ;
+
+- à durée déterminée, dans la limite du quart du total (A + B) ou, si ce montant est plus faible, du quart de l'exigence
+minimale de marge.
+
+7. Réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de la cotisation versée par la
+mutuelle et non utilisée par le système fédéral de garantie ou le fonds de garantie.
+
+A déduire :
+
+8. Éléments incorporels figurant au bilan.
+
+Sous-total : marge bilan.
+
+9. Moitié du rappel possible de cotisations variables au titre de l'exercice, dans la limite de la moitié du total (A + B)
+ou, si ce montant est plus faible, de la moitié de l'exigence minimale de marge.
+
+10. Plus-values résultant de sous-estimation d'éléments d'actif dans la mesure où les valeurs de marché sont publiées dans
+l'annexe
+
+Total A (1 à 10).
+
+B-11. Plus-values résultant de la surestimation d'éléments de passif, dans la mesure où de telles plus-values n'ont pas un
+caractère exceptionnel.
+
+Total B (11).
+
+Total des éléments constitutifs (A + B).
+
+**ÉTAT C6 VIE-CAPITALISATION**
+
+**I. - EXIGENCE MINIMALE DE LA MARGE DE SOLVABILITÉ (art. R. 212-16)**
+
+TITRE 1er : VIE-DÉCÈS, NUPTIALITÉ, NATALITÉ (BRANCHES 20 et 21, SAUF COMPLÉMENTAIRES)
+
+Premier résultat
+
+(a) Provisions mathématiques brutes de cessions et rétrocessions en réassurance (affaires directes et acceptations) :
+
+(b Rapport de rétention :
+
+Rapport entre le montant des provisions mathématiques nettes de cessions et rétrocessions en réassurance et le montant des
+provisions mathématiques brutes des cessions et rétrocessions en réassurance
+
+(c) Montant de (b) s'il est supérieur ou égal à 0,85, sinon 0,85
+
+Premier résultat = [(a) × (c) × 0,04]
+
+Second résultat
+
+Pour les organismes n'ayant qu'un faible volume d'affaires dans ces branches, il est possible de retenir un chiffre global en
+l'affectant en totalité à la rubrique (a1).
+
+(a) Capitaux sous risques non négatifs bruts de réassurance
+
+(a1) Toutes assurances, sauf temporaires décès de durée inférieure ou égale à 5 ans
+
+(a2) Temporaires décès de durée supérieure à 3 ans et inférieure ou égale à 5 ans
+
+(a3) Temporaires décès de durée inférieure ou égale à 3 ans
+
+(b) Rapport de rétention :
+
+Rapport entre le montant des capitaux sous risques nets de cessions et rétrocessions en réassurance et le montant des
+capitaux sous risques bruts de cessions et rétrocessions en réassurance
+
+(c) Montant de (b) s'il est supérieur ou égal à 0,50, sinon 0,50
+
+(d) = (a1) × (c) × 0,003
+
+(e) = (a2) × (c) × 0,0015
+
+(f) = (a3) × (c) × 0,001
+
+Second résultat = [(d) + (e) + (f)]
+
+TITRE II : Assurances complémentaires à des contrats correspondant à des opérations classées aux branches 20, 21 ET 22
+
+Cotisations, hors taxes, émises et acceptées au cours du dernier exercice, nettes d'annulations
+
+Se répartissant en :
+
+Tranche inférieure à 10 000 000 d'euros 0,18
+
+Tranche supérieure à 10 000 000 d'euros 0,16
+
+(a) Total
+
+(b) Charge de prestations du dernier exercice (nette de cessions)/Charge de prestations du dernier exercice (brute de
+cessions)
+
+(c) Montant de (b) s'il est supérieur à 0,50, sinon 0,50
+
+Résultat = [(a) (c)]
+
+TITRE III : Capitalisation (branche 24, sauf opérations exprimées en unités de compte)
+
+(a) Provisions mathématiques
+
+(b) Rapport de rétention :
+
+Rapport entre le montant des provisions mathématiques nettes des cessions et rétrocessions en réassurance et le montant des
+provisions mathématiques brutes des cessions et rétrocessions en réassurance
+
+(c) Montant de (b) s'il est supérieur ou égal à 0,85, sinon 0,85
+
+Résultat =[(a) (c) 0,04]
+
+TITRE IV : Assurances liées à des fonds d'investissement (branche 22) sauf complémentaires - opérations de capitalisation
+exprimées en unités de compte (branche 24) - gestion de fonds collectifs (branche 25)
+
+Premier résultat
+
+(a) Provisions mathématiques brutes de cessions et rétrocessions en réassurance :
+
+Affaires directes et acceptations
+
+(a1) Avec risque de placement
+
+(a2) Sans risque de placement lorsque le contrat collectif ou le bulletin d'adhésion a une durée supérieure à 5 ans et que
+les frais de gestion sont fixés pour plus de 5 ans
+
+(a3) Sans risque de placement et lorsque le montant destiné à couvrir les frais de gestion n'est pas fixé pour une période
+supérieure à cinq ans
+
+(b) Rapport de rétention :
+
+Rapport entre le montant des provisions mathématiques nettes des cessions et rétrocessions en réassurance et le montant des
+provisions mathématiques brutes des cessions et rétrocessions en réassurance
+
+(c) Montant de (b) s'il est supérieur ou égal à 0,85, sinon 0,85.
+
+(d) Dépenses de gestion nettes relatives aux opérations visées au (a3)
+
+(e) = (a1) (c) 0,04
+
+(f) = (a2) (c) 0,01
+
+(g) = (d) 0,25
+
+Premier résultat = [(e) + (f) + (g)]
+
+Second résultat
+
+(a) Capitaux sous risques non négatifs bruts de réassurance
+
+(b) Rapport de rétention :
+
+Rapport entre le montant des capitaux sous risques nets des cessions et rétrocessions en réassurance et le montant des
+capitaux sous risques bruts des cessions et rétrocessions en réassurance
+
+(c) Montant de (b) s'il est supérieur ou égal à 0,50, sinon 0,50
+
+Second résultat = [(a) × (c) × 0,003]
+
+TITRE V : Opérations à caractère collectif définies aux articles L. 222-1 et suivants
+
+<ul>
+  <li>a) Provision mathématique théorique (art. R.222-16) après cessions en réassurance;</li>
+  <li>b) b) 85% de la provision mathématique théorique (art. R.212-16) avant cessions en réassurance.</li>
+  <li>c) Résultat=0,04×max [(a), (b)].</li>
+  <li>d) État récapitulatif</li>
+</ul>
+
+TITRE V : Résultat
+
+Total des résultats (a)
+
+Fonds de garantie R. 212-17
+
+1/3 de (a)
+
+(b) 50 % du tiers de (a) = 1/6 de (a)
+
+(c) Minimum absolu du fonds de garantie
+
+Minimum à couvrir en éléments A de marge de solvabilité :
+
+Montant le plus élevé de (b) et de (c)
+
+Marge de solvabilité
+
+Marge à constituer : montant le plus élevé de (a) et (c)
+
+**II. - ÉLÉMENTS CONSTITUTIFS DE LA MARGE DE SOLVABILITÉ (R. 212-15)**
+
+Les éléments sous B peuvent être admis sur demande et justification par la mutuelle.
+
+A. - 1. Fonds d'établissement constitué ;
+
+2. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ;
+
+3. Emprunts pour fonds de développement : au-delà de la moitié de la durée de l'emprunt, plafonné au montant de l'emprunt
+diminué progressivement chaque année d'un montant constant égal au double du montant total de l'emprunt divisé par le nombre
+d'années de sa durée ;
+
+4. Réserves ne correspondant pas à des engagements, y compris réserve de capitalisation ;
+
+5. Excédents reportés (après affectation des résultats).
+
+6. Titres ou emprunts subordonnés :
+
+- à durée indéterminée, dans la limite de la moitié du total (A + B) ou, si ce montant est plus faible, de la moitié de
+l'exigence minimale de marge ;
+
+- à durée déterminée, dans la limite du quart du total (A + B) ou, si ce montant est plus faible, du quart de l'exigence
+minimale de marge ;
+
+7. Réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de la cotisation versée par la
+mutuelle et non utilisée par le système fédéral de garantie ou le fonds de garantie.
+
+A déduire :
+
+8. Éléments incorporels figurant au bilan.
+
+Sous-total : marge bilan.
+
+9. Plus-values résultant de sous-estimation d'éléments d'actif dans la mesure où les valeurs de marché sont publiées dans
+l'annexe ;
+
+Total A (1 à 9).
+
+B. - 10. Part des bénéfices futurs de la mutuelle (joindre le détail du calcul), 
+
+a) Bénéfice annuel estimé ;
+
+b) Durée résiduelle moyenne (inférieure ou égale à 10 ans) ;
+
+Total (10) = [a b 0,5].
+
+11. Plus-values résultant de la surestimation d'éléments de passif autres que les provisions mathématiques, dans la mesure où
+de telles plus-values n'ont pas un caractère exceptionnel ;
+
+Total B (10 à 11).
+
+Total des éléments constitutifs (A + B).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C7 à l'article A114-5
+
+**ÉTAT C7 : PROVISIONNEMENT DES RENTES EN SERVICE**
+
+Les mutuelles qui, au titre des affaires directes, à l'exclusion des opérations données en substitution, servent des
+prestations périodiques conditionnées par la survie du bénéficiaire établissent, selon le modèle fixé ci-après, un état
+retraçant la liquidation de leurs provisions.
+
+**Tableau A.** - Prestations servies au titre d'un contrat de rente ou d'une garantie décès (accidentel ou non) à un
+bénéficiaire non victime d'un préjudice corporel personnel
+
+<table>
+  <tbody>
+    <tr>
+      <td align="left">
+
+1. Provisions mathématiques à l'ouverture de l'exercice (1)
+
+</td>
+      <td valign="top" align="center" colspan="2" width="150" rowspan="9">
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+2. Capitaux entrés au cours de l'exercice 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+3. Autres ressources (2) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+4. Produits financiers (3) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+5. Prestations payées
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+6. Capitaux sortis au cours de l'exercice
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+7. Provisions mathématiques à la clôture de l'exercice (1)
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+8. Charges de gestion (4)
+
+</td>
+    </tr>
+    <tr>
+      <td> Solde (= 1 + 2 + 3 + 4 - 5 - 6 - 7 - 8)</td>
+    </tr>
+    <tr>
+      <td> (1) Provisions mathématiques vie et non-vie
+
+(2) Notamment participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées et ajustement
+des contrats en unités de compte.
+
+(3) Aux taux prévus pour la constitution des provisions mathématiques.
+
+(4) Egales aux chargements prévus pour la constitution des provisions mathématiques.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les provisions et les règlements incluent les éventuelles majorations légales. La part de ces majorations à la charge de
+l'Etat au titre de l'exercice est portée en "autres ressources" .
+
+**Tableau A'**. - Prestations servies au titre d'un contrat de rente ou d'une garantie décès (accidentel ou non) à un
+bénéficiaire non victime d'un préjudice corporel personnel
+
+<table>
+  <thead>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+PROVISIONS (1)
+
+</td>
+      <td>
+
+AGE moyen atteint (2)
+
+</td>
+      <td>
+
+RENTES annuelles (3)
+
+</td>
+      <td>
+
+DURÉE moyenne résiduelle (4)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Rentes temporaires
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Rentes viagères
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+
+(1) Provisions mathématiques à la clôture de l'exercice.
+
+(2) Age atteint par les rentiers pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
+
+(3) Rentes annuelles au niveau atteint à la clôture de l'exercice.
+
+(4) Durée résiduelle limite en année des prestations pondérées par les rentes annuelles au niveau atteint à la clôture de
+l'exercice.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau B**. - Prestations servies à un bénéficiaire victime d'une invalidité permanente. - Paiements et provisions par
+année de constitution de la rente
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE CONSTITUTION de la rente
+
+</td>
+      <td width="39">
+
+N - 5 et ant.
+
+</td>
+      <td width="39">
+
+(N - 4)
+
+</td>
+      <td width="39">
+
+(N - 3)
+
+</td>
+      <td width="39">
+
+(N - 2)
+
+</td>
+      <td width="39">
+
+(N - 1)
+
+</td>
+      <td width="39">
+
+(N)
+
+</td>
+      <td width="39">
+
+Total
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+
+1. Provisions mathématiques à l'ouverture (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+xxx
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+2. Provisions mathématiques à l'ouverture (1) et (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+3. Capitaux entrés au cours de l'exercice (3)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+4. Autres ressources (4)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+5. Produits financiers (5)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+6. Prestations payées
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+7. Capitaux sortis au cours de l'exercice
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+8. Provisions mathématiques à la clôture (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+9. Charges de gestion (6)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Solde = 2 + 3 + 4 + 5 - 6 - 7 - 8
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+(1) Uniquement provisions mathématiques (non-vie) en cas d'invalidité permanente.
+
+(2) Provisions recalculées au taux d'actualisation de l'exercice.
+
+(3) Pour les exercices antérieurs à N, uniquement par révision de rente.
+
+(4) Notamment participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées.
+
+(5) Aux taux prévus pour la constitution des provisions mathématiques.
+
+(6) Égales aux chargements prévus pour la constitution des provisions mathématiques.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau B'.** - Prestations servies à un bénéficiaire victime d'une invalidité permanente
+
+Le tableau ci-après ne concerne pas les prestations issues de contrats d'assurance de groupe souscrits par un établissement
+de crédit, ayant pour objet la garantie du remboursement d'un emprunt.
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+</td>
+      <td align="center">
+
+PROVISIONS (1)
+
+</td>
+      <td align="left">
+
+AGE MOYEN À
+
+l'entrée (2)
+
+</td>
+      <td align="center">
+
+RENTES ANNUELLES (3)
+
+</td>
+      <td align="center">
+
+DURÉE MOYENNE courue (4)
+
+</td>
+      <td align="center">
+
+AGE MOYEN LIMITE
+
+de garantie (5)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle" align="center">
+
+Rentes
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+(1) Provisions à la clôture de l'exercice.
+
+(2) Age à l'entrée en invalidité pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
+
+(3) Rentes annuelles au niveau atteint à la clôture de l'exercice.
+
+(4) Durée en années courues depuis l'entrée en invalidité des prestations pondérée par les rentes annuelles au niveau atteint
+à la clôture de l'exercice.
+
+(5) Age au terme de la garantie pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Pour les prestations issues de contrats d'assurance de groupe souscrits par un établissement de crédit, ayant pour objet la
+garantie du remboursement d'un emprunt, les dispositions suivantes s'appliquent :
+
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+PROVISIONS (1)
+
+</td>
+      <td align="center">
+
+AGE MOYEN ATTEINT (2)
+
+</td>
+      <td align="center">
+
+RENTES ANNUELLES (3)
+
+</td>
+      <td align="center">
+
+DURÉE MOYENNE résiduelle (4)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Rentes
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+
+(1) Provisions à la clôture de l'exercice.
+
+(2) Age atteint pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
+
+(3) Rentes annuelles au niveau atteint à la clôture de l'exercice.
+
+(4) Durée en années restant à courir des emprunts pondérée par les rentes annuelles au niveau atteint à la clôture de
+l'exercice.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau C**. - Prestations servies à un bénéficiaire victime d'une incapacité temporaire
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+PROVISIONS pour IJ (1)
+
+</td>
+      <td align="center" valign="middle">
+
+PROVISIONS pour rentes en attente (2)
+
+</td>
+      <td align="center" valign="middle">
+
+AGE MOYEN à l'entrée (3)
+
+</td>
+      <td valign="middle" align="center">
+
+RENTES MENSUELLES (4)
+
+</td>
+      <td align="center" valign="middle">
+
+MOYENNE COURUE (5)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+
+Rentes
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+(1) Provisions et engagements techniques des indemnités journalières à la clôture de l'exercice.
+
+(2) Provision de passage d'incapacité temporaire en invalidité permanente.
+
+(3) Age à l'arrêt de travail pondéré par les rentes mensuelles au niveau atteint à la clôture de l'exercice.
+
+(4) Rentes mensuelles à la clôture de l'exercice.
+
+(5) Durée en mois courus depuis l'arrêt de travail pondérée par les rentes mensuelles au niveau atteint à la clôture de
+l'exercice.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C8 à l'article A114-5
+
+**ÉTAT C 8 : DESCRIPTION DU PLAN DE RÉASSURANCE**
+
+Les mutuelles agréées pour pratiquer les opérations visées au 1
+  <sup>o</sup> du I de l'article L. 111-1, établissent, selon le modèle fixé ci-après, un état décrivant leur plan de
+réassurance en vigueur à la date à laquelle ce document d'analyse est adressé à la commission de contrôle pour chacun des
+types de risques qu'elles souscrivent en affaires directes et qui figurent dans la liste suivante :
+
+- dommages corporels, incapacité, invalidité ;
+
+- dommages corporels, frais de soins ;
+
+- dommages corporels, dépendance ;
+
+- dommages corporels, autres dommages ;
+
+- crédit caution ;
+
+- assurance non-vie : pertes pécuniaires, assistance, protection juridique ;
+
+- assurance vie : décès toutes causes ;
+
+- garanties plancher des contrats en unités de compte ;
+
+- assurance vie et capitalisation : autre risque.
+
+Les opérations que la mutuelle donne en substitution sont exclues de ces documents.
+
+**Tableau A.** - Couverture proportionnelle
+
+<table>
+  <thead>
+    <tr>
+      <td width="143">
+
+COUVERTURE proportionnelle (1)
+
+</td>
+      <td width="78">
+
+TAUX DE cession (2) (A)
+
+</td>
+      <td width="78">
+
+ASSIETTE de prime (3) (B)
+
+</td>
+      <td width="78">
+
+LIMITE PAR évènement (4) (C)
+
+</td>
+      <td width="78">
+
+COMMISSION de réassurance (5) (D)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau B.** - Couverture non proportionnelle par risque
+
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+
+COUVERTURE non proportionnelle par risque (6)
+
+</td>
+      <td width="65">
+
+TAUX de placement (7) (A)
+
+</td>
+      <td width="65">
+
+FRANCHISE annuelle (8) (B)
+
+</td>
+      <td width="65">
+
+PRIORITÉ (C)
+
+</td>
+      <td width="65">
+
+PORTÉE (9) (D)
+
+</td>
+      <td width="65">
+
+PRIME de réassurance (5) (E)
+
+</td>
+      <td width="65">
+
+Nombre de reconstitutions (10) (F)
+
+</td>
+      <td>Prime de reconstitution 
+
+(11) (G) 
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 1 (12)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 3
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 4
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 5
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 6
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 7
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 8
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 9
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 10 (13)
+
+</td>
+      <td>
+
+(14)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau C** - Couverture non proportionnelle par événement
+
+<table>
+  <thead>
+    <tr>
+      <td width="65">
+
+COUVERTURE non proportionnelle par évènement (15)
+
+</td>
+      <td width="65">
+
+TAUX de placement (7) (A)
+
+</td>
+      <td width="65">
+
+FRANCHISE annuelle (8) (B)
+
+</td>
+      <td width="65">
+
+PRIORITÉ (C)
+
+</td>
+      <td width="65">
+
+PORTÉE (9) (D)
+
+</td>
+      <td width="65">
+
+PRIME de réassurance (E)
+
+</td>
+      <td width="65">
+
+NOMBRE de reconstitutions (10) (F)
+
+</td>
+      <td>PRIME
+
+de reconstitution 
+
+(11) (G)  
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Tranche n
+          <sup>o</sup> 1 (12)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 2</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 3</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 4</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 5</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 6</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 7</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 8</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td> Tranche n
+        <sup>o</sup> 9</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Tranche n
+          <sup>o</sup> 10
+
+(13) 
+
+</td>
+      <td align="center"> (14)</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau D** - Synthèse des couvertures
+
+<table>
+  <thead>
+    <tr>
+      <td width="91">
+
+SYNTHÈSE (16)
+
+</td>
+      <td width="91">
+
+PROPORTIONNELLE avant ou après non proportionnelle (17) (A)
+
+</td>
+      <td width="91">
+
+CONSERVATION maximale hors dépassement de couverture (18) (B)
+
+</td>
+      <td width="91">
+
+SEUIL de dépassement (19) (C)
+
+</td>
+      <td width="91">
+
+PRESTATION maximale possible du cédant (20) (D)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Couverture par risque
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Couverture par événement
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau E** - Couverture en excédent de perte annuelle
+
+<table>
+  <thead>
+    <tr>
+      <td width="91">
+
+COUVERTURE EN EXCÉDENT de perte annuelle (21)
+
+</td>
+      <td width="91">
+
+TAUX DE PLACEMENT (7) (A)
+
+</td>
+      <td width="91">
+
+PRIORITÉ (B)
+
+</td>
+      <td width="91">
+
+PORTÉE (9) (C)
+
+</td>
+      <td width="91">
+
+PRIME de réassurance (5) (D)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+(1) Si aucune couverture proportionnelle n'est souscrite pour le type de risque concerné, ce tableau n'est pas renseigné.
+
+(2) Ce taux doit être exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 33,18
+%).
+
+(3) Assiette de cotisations estimée à laquelle le taux de cession renseigné dans la colonne A s'applique.
+
+(4) Si aucune limite par événement n'est prévue, cette colonne n'est pas renseignée.
+
+(5) Montant estimé pour l'année en cours.
+
+(6) Si aucune couverture non proportionnelle par risque n'est souscrite pour le type de risque concerné, le tableau n'est pas
+renseigné.
+
+(7) Il s'agit du taux de placement du programme de réassurance à la date à laquelle cet état est adressé à la commission de
+contrôle, exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 98,33 %). Un taux
+de placement égal à 100 % signifie donc que la couverture effective de la mutuelle correspond exactement à la couverture
+caractérisée par les éléments indiqués dans les colonnes B à G (franchise annuelle, priorité, portée, nombre de
+reconstitutions).
+
+(8) Il s'agit du montant cumulé sur l'année (appelé également franchise annuelle aggregate) de prestations concernées à
+partir duquel la couverture est susceptible de jouer. Si aucune franchise n'est prévue, cette cellule n'est pas renseignée.
+
+(9) Il s'agit du montant de la garantie de réassurance jouant au-delà de la priorité. Si la portée est illimitée, inscrire
+par convention "- 1" .
+
+(10) Il s'agit du nombre de reconstitutions prévues contractuellement, que celles-ci soient gratuites ou non. Si ce nombre
+est illimité, inscrire par convention "- 1".
+
+(11) Il s'agit du montant de la prime à payer pour la première reconstitution.
+
+(12) Les tranches sont classées de la plus basse à la plus élevée. La tranche n
+  <sup>o</sup> 1 correspond donc à la plus basse tranche du plan de réassurance.
+
+(13) La tranche n
+  <sup>o</sup> 10 figurant dans le tableau correspond à l'agrégation de toutes les tranches du plan de réassurance au-delà de
+la tranche n
+  <sup>o</sup> 9.
+
+(14) Si l'ensemble des tranches au-delà de la tranche n
+  <sup>o</sup> 9 n'est pas entièrement placé, ne pas renseigner cette cellule du tableau.
+
+(15) Si aucune couverture non proportionnelle par événement n'est souscrite pour le type de risque concerné, ce tableau n'est
+pas renseigné.
+
+(16) Il s'agit de la synthèse des couvertures renseignées dans les tableaux précédents A, B et C.
+
+(17) Inscrire par convention "1" si la couverture proportionnelle intervient avant la couverture non proportionnelle, et
+inscrire "2" sinon.
+
+(18) La conservation maximale hors dépassement de couverture est la rétention par sinistre ou par événement nette maximale
+possible compte non tenu des dépassements de couverture non proportionnelle. Si cette conservation maximale est illimitée,
+inscrire par convention "- 1".
+
+(19) Le seuil de dépassement de couverture non proportionnelle est le montant du sinistre au-delà duquel la couverture non
+proportionnelle propre au type de risque ne joue plus. Si aucun dépassement n'est possible, inscrire par convention "- 1".
+
+(20) La prestation maximale possible correspond au montant de la garantie (afférente au type de risque concerné) la plus
+importante prévue dans un contrat d'assurance souscrit par la mutuelle ou, si ce n'est pas pertinent, au plus fort sinistre
+maximal possible afférent à un contrat d'assurance, en net de réassurances facultatives.
+
+(21) Par couverture en excédent de perte annuelle, on entend les protections de type stop loss. Si aucune couverture en
+excédent de perte annuelle n'est souscrite pour le type de risque concerné, ce tableau n'est pas renseigné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C9 à l'article A114-5
+
+**ÉTAT C 9 DISPERSION DES RÉASSUREURS ET SIMULATIONS D'ÉVÉNEMENTS**
+
+Les mutuelles agréées pour pratiquer les opérations visées au 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état décrivant, à la date de clôture
+du dernier exercice inventorié, la dispersion de leurs cessionnaires et rétrocessionnaires et retraçant le niveau de
+protection conféré par leurs protections en réassurances si survenaient des événements défavorables.
+
+Les opérations que la mutuelle donne en substitution sont exclues de ces documents.
+
+**Tableau A** : Répartition par réassureur des provisions techniques cédées
+
+<table>
+  <thead>
+    <tr>
+      <td width="130">
+
+DISPERSION DES CESSIONS (1)
+
+</td>
+      <td width="39">
+
+NOM (2) (A)
+
+</td>
+      <td colspan="2" align="center" valign="middle">
+
+PROVISIONS TECHNIQUES CÉDÉES OU RÉTROCÉDÉES
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+montant notifié au réassureur (B)
+
+</td>
+      <td>
+
+montant non notifié au réassureur (3) (C)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 1
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 3
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 4
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 5
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 6
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 7
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 8
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 9
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 10
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Autres réassureurs
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+DISPERSION des cessions
+
+</td>
+      <td width="52">
+
+SOLDE des comptes courants (4) (D)
+
+</td>
+      <td width="78">
+
+DÉPÔTS ESPÈCES (E)
+
+</td>
+      <td width="78">
+
+MONTANT des autres garanties apportées (5) (F)
+
+</td>
+      <td width="130">
+
+PROVISIONS techniques cédées non garanties/Capitaux propres nets d'incorporels (6) (G)
+
+</td>
+      <td width="65">
+
+MONTANT des créances de plus d'un an (7) (H)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Réassureur 1
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 3
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 4
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 5
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 6
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 7
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 8
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 9
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réassureur 10
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Autres réassureurs
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+(1) Les réassureurs de la mutuelle sont à classer par ordre d'importance des provisions techniques cédées ou rétrocédées (y
+compris la part non notifiée de ces provisions). Le réassureur n
+  <sup>o</sup> 1 correspond au réassureur le plus important. Les montants demandés dans ce tableau sont ceux à la date de
+clôture du dernier exercice inventorié et retracés dans le bilan.
+
+(2) Il s'agit de la dénomination usuelle du réassureur.
+
+(3) Il s'agit des montants de provisions techniques à charge des réassureurs figurant au bilan mais qui n'ont pas été
+communiqués à ces derniers.
+
+(4) Il s'agit du montant des soldes des comptes courants à la date de clôture du dernier exercice inventorié (signe - s'ils
+sont en faveur du réassureur).
+
+(5) Il s'agit du montant des garanties apportées conformément à l'article R. 212-35 (nantissement et garantie à première
+demande).
+
+(6) Ce ratio doit être exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 33,18
+%). Le calcul à effectuer est le suivant : (G) = (B + C + D - E - F)/(capitaux propres après affectation - actifs
+incorporels), ou zéro si le résultat est négatif.
+
+(7) Il s'agit des créances au titre des comptes courants. L'ancienneté de ces créances est à mesurer par la durée qui sépare
+la date d'exigibilité de la créance de la date de clôture du dernier exercice inventorié.
+
+**Tableau B** : SIMULATIONS D'ÉVÉNEMENTS
+
+Les mutuelles agréées pour pratiquer les opérations visées au b) du 1
+  <sup>o</sup> du I de l'article  L. 111-1 doivent renseigner les lignes numérotées 1 à 4 du tableau suivant. Les autres
+mutuelles doivent renseigner la ligne 1.
+
+<table>
+  <thead>
+    <tr>
+      <td width="260">
+
+SIMULATION SUR L'ENSEMBLE
+
+des risques souscrits
+
+</td>
+      <td width="195" colspan="2">
+
+CHARGE DE SINISTRE (1)
+
+</td>
+    </tr>
+    <tr>
+      <td width="260">
+
+</td>
+      <td width="104">
+
+Brute (A)
+
+</td>
+      <td width="91">
+
+Nette (B)
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Pire événement survenu pour la société (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Evénement majeur "accidents technologiques" (3)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Evénement majeur "épidémie" (4)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Evénement majeur "garanties plancher" (5)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+(1) Il s'agit de la charge de prestations réévaluée correspondant à la survenance dans l'exercice en cours des événements
+définis dans ce tableau, compte tenu du portefeuille actuel de risques de la mutuelle. La charge nette doit tenir compte des
+couvertures actuelles en réassurance.
+
+(2) Evénement qu'a connu la mutuelle dans le passé et qui conduirait, s'il survenait dans l'exercice en cours, à la charge de
+prestations brute de réassurance la plus importante, compte tenu de l'actuel portefeuille de risques de la mutuelle. La
+charge nette doit tenir compte des couvertures actuelles en réassurance.
+
+(3) Il s'agit d'un scénario défavorable de type "accidents technologiques" utilisé par la mutuelle pour établir et analyser
+son programme de réassurance.
+
+(4) Il s'agit d'un scénario défavorable de type "épidémie" utilisé par la mutuelle pour établir et analyser son programme de
+réassurance.
+
+(5) Il s'agit d'un scénario défini par la combinaison d'hypothèses financières standardisées. Ces hypothèses consistent, par
+rapport à leur moyenne respective constatée sur les trois dernières années, en une baisse de l'indice boursier de référence
+de 30 %, en une baisse de deux points des taux d'intérêt de l'obligation de référence et en une baisse de 20 % du prix des
+transactions immobilières. 
+
+La charge de prestations à renseigner correspond ici à la valeur actuelle probable, calculée au 1
+  <sup>er</sup> janvier de l'exercice en cours, des prestations (nettes des prélèvements effectués au titre de ces garanties)
+associées aux garanties plancher jusqu'à leur extinction sous les hypothèses financières précédentes. Le taux d'actualisation
+à retenir est égal au minimum entre 3,5 % et 60 % du TME.
+
+Entre la table de mortalité TD 88-90 et la table TV 88-90 doit être retenue celle donnant la valeur actuelle probable des
+prestations la plus élevée. Pour le calcul de la charge nette sont prises en compte les cotisations cédées et les prestations
+cédées, en valeur actuelle probable, et sont appliquées les conditions des traités en vigueur, notamment celles concernant la
+durée de la garantie, sans tenir compte des renouvellements éventuels de ces traités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C10 à l'article A114-5
+
+**ÉTAT C10 : COTISATIONS ET RÉSULTATS PAR ANNÉE DE SURVENANCE DES PRESTATIONS**
+
+Les mutuelles pratiquant des opérations visées au a, c, d ou e du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations et de
+leurs résultats, par année de survenance des prestations, pour chacune des catégories, sous-catégories ou totalisations
+d'opérations suivantes, les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en
+application de l'article A. 114-1 étant exclues.
+
+a) Affaires directes souscrites en France :
+
+- dommages corporels : opérations individuelles (y compris groupes ouverts) - ensemble (y compris garanties contre les
+dommages corporels complémentaires à des garanties en cas de vie ou de décès) (catégorie 20) ;
+
+- dommages corporels : opérations individuelles non données en substitution (y compris groupes ouverts) - ensemble (y compris
+garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2011,
+2021 et 2031) ;
+
+- dommages corporels : opérations individuelles non données en substitution (y compris groupes ouverts) - autres dommages
+corporels (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès)
+(sous-catégories 2011 et 2021) ;
+
+- dommages corporels : opérations individuelles non données en substitution (y compris groupes ouverts) - frais de soins
+relevant de la couverture maladie universelle définie par la loi n
+  <sup>o</sup> 99-641 du 27 juillet 1999 (y compris garanties contre les dommages corporels complémentaires à des garanties
+en cas de vie ou de décès) (sous-catégorie 2031) ;
+
+- dommages corporels : opérations individuelles données en substitution (y compris groupes ouverts) - ensemble (y compris
+garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2012,
+2022 et 2032) ;
+
+- dommages corporels : opérations individuelles données en substitution (y compris groupes ouverts) - autres dommages
+corporels (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès)
+(sous-catégories 2012 et 2022) ;
+
+- dommages corporels : opérations individuelles données en substitution (y compris groupes ouverts) - frais de soins relevant
+de la couverture maladie universelle définie par la loi n
+  <sup>o</sup> 99-641 du 27 juillet 1999 (y compris garanties contre les dommages corporels complémentaires à des garanties
+en cas de vie ou de décès) (sous-catégorie 2032) ;
+
+- dommages corporels : opérations collectives, ensemble (y compris garanties contre les dommages corporels complémentaires à
+des garanties en cas de vie ou de décès) (catégorie 21) ;
+
+- dommages corporels : opérations collectives non données en substitution, ensemble (y compris garanties contre les dommages
+corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2111, 2121, 2131 et 2141) ;
+
+- dommages corporels : opérations collectives non données en substitution visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989 (y compris garanties contre les dommages corporels complémentaires à des garanties
+en cas de vie ou de décès) (sous-catégories 2111 et 2121) ;
+
+- dommages corporels : opérations collectives non données en substitution, autres (y compris garanties contre les dommages
+corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2131 et 2141) ;
+
+- dommages corporels : opérations collectives données en substitution, ensemble (y compris garanties contre les dommages
+corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2112, 2122, 2132 et 2142) ;
+
+- dommages corporels : opérations collectives données en substitution visées à l'article 2 de la loi n
+  <sup>o</sup> 89-1009 du 31 décembre 1989 (y compris garanties contre les dommages corporels complémentaires à des garanties
+en cas de vie ou de décès) (sous-catégories 2112 et 2122) ;
+
+- dommages corporels : opérations collectives données en substitution, autres (y compris garanties contre les dommages
+corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2132 et 2142) ;
+
+- protection juridique (catégorie 29) ;
+
+- assistance (catégorie 30) ;
+
+- pertes pécuniaires diverses (catégorie 31) ;
+
+- total des affaires directes souscrites en France (catégories 20 à 31).
+
+b) Autres opérations :
+
+- total des opérations des catégories 20 à 31 souscrites en LPS depuis la France ;
+
+- total des acceptations en France couvrant les catégories 20 à 31 ;
+
+- total Union européenne hors France, opérations directes et acceptées des catégories 20 à 31 ;
+
+- total hors Union européenne : opérations directes et acceptées des catégories 20 à 31.
+
+**Tableau A** : Cotisations acquises
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE RATTACHEMENT
+
+</td>
+      <td width="52">
+
+N - 5 ET ANT.
+
+</td>
+      <td width="52">
+
+(N - 4)
+
+</td>
+      <td width="52">
+
+(N - 3)
+
+</td>
+      <td width="52">
+
+(N - 2)
+
+</td>
+      <td width="52">
+
+(N - 1)
+
+</td>
+      <td width="52">
+
+EX.INV.
+
+</td>
+      <td width="52">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Cumul des émissions, nettes d'annulations, au cours des exercices antérieurs
+
+</td>
+      <td>
+
+xxxxx
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+xxxxx
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Emissions, nettes d'annulations, au cours de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Emissions, nettes d'annulations, restant à effectuer à la fin de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Fraction des cotisations non courue à la fin de l'année de rattachement antérieure (1)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+xxxxx
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Fraction des cotisations non courue à la fin de l'année de rattachement
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+xxxxx
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Total : Cotisations acquises (2)
+
+</td>
+      <td>
+
+xxxxx
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+xxxxx
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Rappel : Emissions, nettes d'annulations, restant à effectuer à la fin de l'exercice précédent
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+xxxxx
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td colspan="8">
+
+(1) Montant égal au montant inscrit ligne 5 de la colonne précédente.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+(2) 1 + 2 + 3 + 4 - 5.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau B** : Nombre de risques
+
+<table>
+  <thead>
+    <tr>
+      <td width="221">
+      </td><td width="78">
+
+CONTRATS
+
+</td>
+      <td width="78">
+
+PARTICIPANTS
+
+</td>
+      <td width="78">
+
+PERSONNES protégées
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Nombre à l'ouverture de l'exercice
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Nombre à la clôture de l'exercice
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+**Tableau C** : Coût moyen et rapport p/c par année de survenance des prestations
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+
+ANNÉE DE SURVENANCE
+
+</td>
+      <td width="28">
+
+N - 5
+
+</td>
+      <td width="28">
+
+N - 4
+
+</td>
+      <td width="28">
+
+N - 3
+
+</td>
+      <td width="28">
+
+N - 2
+
+</td>
+      <td width="28">
+
+N - 1
+
+</td>
+      <td width="71">
+
+EX.INV.
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Cumul des paiements (1) y compris capitaux constitués, nets de recours, au cours des exercices antérieurs (frais de
+gestion inclus) (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Paiements (1) y compris capitaux constitués, nets de recours, au cours de l'exercice inventorié (frais de gestion inclus)
+(2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Provisions pour prestations à payer, nettes de prévisions de recours, à la fin de l'exercice inventorié (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Charge nette de recours (2) (3)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Nombre de sinistres ou d'événements
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Coût moyen net de recours (4)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+7. Cotisations acquises à l'année
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+8. Rapport p/c (charge nette/cotisations acquises) en %, 4/7 en %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="7">
+
+(1) Capitaux de rentes constituées dans l'exercice inclus.
+
+(2) Frais de gestion inclus.
+
+(3) 1 + 2 + 3
+
+(4) Par dérogation aux dispositions du 1
+          <sup>er</sup> alinéa de la présente annexe, les montants portés à cette ligne sont portés en euros.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C11 à l'article A114-5
+
+**ÉTAT C11 : PRESTATIONS PAR ANNÉE DE SURVENANCE**
+
+Les mutuelles pratiquant les opérations visées au a, c, d ou e du 1 de I de l'article L. 111-1 établissent, selon le modèle
+fixé ci-après, un état de leurs prestations, par année de survenance, pour chacune des catégories, sous-catégories ou
+totalisations d'opérations suivantes, les opérations données en substitution, les opérations pluriannuelles à cotisation
+unique ou non révisable et les opérations assimilées en application de l'article A. 114-1 étant exclues.
+
+a) Affaires directes souscrites en France ;
+
+- dommages corporels : opérations individuelles non données en substitution - ensemble (sous-catégories 2011, 2021 et 2031) ;
+
+- dommages corporels : opérations individuelles non données en substitution, garantie frais de soins (sous-catégories 2011 et
+2031) ;
+
+- dommages corporels : opérations individuelles non données en substitution, autres garanties (sous-catégorie 2021) ;
+
+- dommages corporels : opérations collectives non données en substitution, ensemble (sous-catégories 2111, 2121, 2131 et
+2141) ;
+
+- dommages corporels : opérations collectives non données en substitution, garanties frais de soins (sous-catégories 2111 et
+2131) ;
+
+- dommages corporels : opérations collectives non données en substitution, autres garanties (sous-catégories 2121 et 2141) ;
+
+- protection juridique (catégorie 29) ;
+
+- assistance (catégorie 30) ;
+
+- pertes pécuniaires diverses (catégorie 31) ;
+
+- total des affaires directes souscrites en France (catégories 20 à 31) ;
+
+b) Autres opérations ;
+
+- total des opérations des catégories 20 à 31, souscrites en LPS depuis la France ;
+
+- total des acceptations en France couvrant les catégories 20 à 31 ;
+
+- total Union européenne hors la France : opérations directes et acceptées des catégories 20 à 31 ;
+
+- total hors Union européenne ; opérations directes et acceptées des catégories 20 à 31.
+
+**Tableau A** : Nombre de prestations payées ou à payer
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+
+ANNÉE de survenance
+
+</td>
+      <td width="71">
+
+N - 5 et antérieurs
+
+</td>
+      <td width="28">
+
+N - 4
+
+</td>
+      <td width="28">
+
+N - 3
+
+</td>
+      <td width="28">
+
+N - 2
+
+</td>
+      <td width="28">
+
+N - 1
+
+</td>
+      <td width="28">
+
+EX. inv.
+
+</td>
+      <td width="71">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Terminés à l'ouverture de l'exercice inventorié (1)
+
+</td>
+      <td>
+
+X
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+      <td>
+
+X
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Réouverts dans l'exercice
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Terminés dans l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Restant à payer à la clôture de l'exercice inventorié (2)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+5. Total 1 - 2 + 3 + 4
+
+</td>
+      <td>
+
+X
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Dont déclaré dans l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="8">
+
+(1) 1 - 2 + 3 de l'année précédente.
+
+(2) Cette ligne doit comprendre l'estimation du nombre de prestations mais non déclarées.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau B** : Prestations, paiements et provisions
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE de survenance
+
+</td>
+      <td valign="middle" align="center">
+
+N - 5 et antérieurs
+
+</td>
+      <td align="center" valign="middle">
+
+N - 4
+
+</td>
+      <td valign="middle" align="center">
+
+N - 3
+
+</td>
+      <td align="center" valign="middle">
+
+N - 2
+
+</td>
+      <td align="center" valign="middle">
+
+N - 1
+
+</td>
+      <td align="center" valign="middle">
+
+EX. inv.
+
+</td>
+      <td valign="middle" align="center">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Paiements de prestations dans l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Capitaux de rente constitués dans l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Provisions pour prestations à payer à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+5. Total (1 - 2 + 3 + 4)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+6. Provisions pour prestations à payer à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+7. Paiements de prestations et capitaux de rentes constitués cumulés des exercices antérieurs à l'exercice inventorié
+
+</td>
+      <td>
+
+X
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+      <td>
+
+X
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau C** : Recours
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+
+ANNÉE de survenance
+
+</td>
+      <td valign="middle" align="center">
+
+N - 5 et antérieurs
+
+</td>
+      <td align="center" valign="middle">
+
+N - 4
+
+</td>
+      <td valign="middle" align="center">
+
+N - 3
+
+</td>
+      <td align="center" valign="middle">
+
+N - 2
+
+</td>
+      <td valign="middle" align="center">
+
+N - 1
+
+</td>
+      <td align="center" valign="middle">
+
+EX. inv.
+
+</td>
+      <td valign="middle" align="center">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Recours encaissés dans l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Prévisions de recours restant à encaisser à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Total
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Prévisions de recours restant à encaisser à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+5. Recours encaissés cumulés des exercices antérieurs à l'exercice inventorié
+
+</td>
+      <td>
+
+X
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+      <td>
+
+X
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau D** : Frais de gestion des prestations et des recours
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE de survenance
+
+</td>
+      <td valign="middle" align="center">
+
+N - 5 et antérieures
+
+</td>
+      <td valign="middle" align="center">
+
+N - 4
+
+</td>
+      <td align="center" valign="middle">
+
+N - 3
+
+</td>
+      <td align="center" valign="middle">
+
+N - 2
+
+</td>
+      <td align="center" valign="middle">
+
+N - 1
+
+</td>
+      <td align="center" valign="middle">
+
+EX. inv.
+
+</td>
+      <td valign="middle" align="center">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Frais de gestion payés dans l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Total
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+5. Frais de gestion payés cumulés des exercices antérieures à l'exercice inventorié
+
+</td>
+      <td>
+
+X
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+X
+
+</td>
+      <td>
+
+X
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C12 à l'article A114-5
+
+**ÉTAT C12 : PRESTATIONS ET RÉSULTATS PAR ANNÉE DE SOUSCRIPTION**
+
+Les mutuelles pratiquant des opérations visées au a, c, d ou e du 1 du I de l'article L. 111-1 établissent, selon le modèle
+fixé ci-après, un état de leurs cotisations et de leurs résultats, par année de souscription des contrats, pour chacune des
+six totalisations d'opérations ci-après.
+
+a) Affaires directes souscrites en France :
+
+- opérations de la catégorie 38 ;
+
+- opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31, y compris opérations assimilées en
+application du dernier alinéa de l'article A. 114-1 :
+
+- total des affaires directes en France
+
+- total des affaires directes en France non données en substitution
+
+- total des affaires directes en France données en substitution
+
+b) Autres opérations :
+
+- total des opérations en LPS, acceptées et à l'étranger.
+
+**Tableau A.** - Prestations, paiements et provisions, par année de souscription (1).
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE SOUSCRIPTION
+
+</td>
+      <td align="center" valign="middle">
+
+N - 5 et ant.
+
+</td>
+      <td width="38">
+
+(N - 4)
+
+</td>
+      <td width="38">
+
+(N - 3)
+
+</td>
+      <td width="38">
+
+(N - 2)
+
+</td>
+      <td width="38">
+
+(N - 1)
+
+</td>
+      <td width="38">
+
+EX. inv.
+
+</td>
+      <td width="42">
+
+TOTAL
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Paiements de prestations dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Frais de gestion payés dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Recours encaissés dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Provisions pour prestations à payer à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Prévision de recours restant encaisser à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+7. Autres provisions techniques à la clôture de l'exercice inventorié (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+8. Sous-total (lignes 1 + 2 - 3 + 4 + 5 - 6 + 7)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+9. Provisions pour prestations à payer à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+12. Autres provisions techniques à l'ouverture de l'exercice inventorié (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+13. Augmentation des cotisations acquises (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+14. Participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+15. Sous-total (lignes 9 + 10 - 11 + 12 + 13 + 14)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+(1) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours,
+provisions pour risques croissants.
+
+(2) Nettes de frais d'acquisition.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau B** : Rapport p/c par année de souscription
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE SURVENANCE
+
+</td>
+      <td width="99">
+
+N - 5 et antérieurs
+
+</td>
+      <td width="38">
+
+N - 4
+
+</td>
+      <td width="38">
+
+N - 3
+
+</td>
+      <td width="38">
+
+N - 2
+
+</td>
+      <td width="38">
+
+N - 1
+
+</td>
+      <td width="38">
+
+EX. INV.
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Paiements, nets de recours, au cours de l'exercice inventorié (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Charge nette de recours
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Cumul des participations aux excédents incorporés dans l'exercice aux prestations payées ou provisionnées
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Cotisations acquises à l'année (3)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+7. Coûts net/cotisations en % (4)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">(1) Frais de gestion inclus. 
+
+(2) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours,
+provisions pour risques croissants et provisions pour sinistres à payer, nettes de prévisions de recours.
+
+(3) Cumul des cotisations, nettes d'annulations, émises au titre de l'année de souscription considérée, augmenté de
+l'estimation des cotisations à émettre, nette des cotisations à annuler.
+
+(4) Ligne 4 - ligne 5/ligne 6.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C13 à l'article A114-5
+
+**ÉTAT C13 : PART DES RÉASSUREURS DANS LES PRESTATIONS**
+
+Les mutuelles pratiquant des opérations visées au a, c, d ou e du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état retraçant la part des
+cessionnaires et rétrocessionnaires dans les prestations.
+
+**Tableau A** : Prestations au titre d'opérations relevant des catégories 20 à 31 (affaires directes en France)
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE SURVENANCE
+
+</td>
+      <td width="99">
+
+N - 5 et antérieurs
+
+</td>
+      <td width="28">
+
+N - 4
+
+</td>
+      <td width="28">
+
+N - 3
+
+</td>
+      <td width="28">
+
+N - 2
+
+</td>
+      <td width="28">
+
+N - 1
+
+</td>
+      <td width="56">
+
+EX. INV.
+
+</td>
+      <td width="56">
+
+Total
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Paiements dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Capitaux de rente constitués dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Provisions pour prestations à payer à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Parcipation aux excédents incorporée dans l'exercice dans les prestations payées ou provisionnées
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Total 1 + 2 + 3 + 4
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+</td>
+      <td>
+      </td><td>
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+6. Provisions pour prestations à payer à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+**Tableau B** : Prestations au titre d'opérations pluriannuelles à cotisation unique ou non révisable relevant des catégories
+20 à 31 y compris opérations assimilées et au titre des opérations relevant de la catégorie 38 (affaires directes en France)
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE SURVENANCE
+
+</td>
+      <td width="99">
+
+N - 5 et antérieurs
+
+</td>
+      <td width="28">
+
+N - 4
+
+</td>
+      <td width="28">
+
+N - 3
+
+</td>
+      <td width="28">
+
+N - 2
+
+</td>
+      <td width="28">
+
+N - 1
+
+</td>
+      <td width="56">
+
+EX. INV.
+
+</td>
+      <td width="56">
+
+Total
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Paiements dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Provisions techniques à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Total 1 + 2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Provisions techniques à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+      </td><td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Augmentation des cotisations acquises et autres ressources (3)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Total 4 + 5
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+(3) Les autres ressources sont la contribution des cessionnaires et des rétrocessionnaires dans les participations aux
+excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau C** : Prestations au titre d'opération relevant des catégories 20 à 31 (LPS, acceptations et opérations à
+l'étranger)
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE SURVENANCE
+
+</td>
+      <td width="99">
+
+N - 5 et antérieurs
+
+</td>
+      <td width="28">
+
+N - 4
+
+</td>
+      <td width="28">
+
+N - 3
+
+</td>
+      <td width="28">
+
+N - 2
+
+</td>
+      <td width="28">
+
+N - 1
+
+</td>
+      <td width="56">
+
+EX. INV.
+
+</td>
+      <td width="56">
+
+Total
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Paiements dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Capitaux de rente constitués dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Provisions pour prestations à payer à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Participation aux excédents incorporés dans l'exercice dans les prestations payées ou provisionnées
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Total 1 + 2 + 3 + 4
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Provisions pour prestations à payer à l'ouverture de l'exercice invontorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tableau D** : Prestations au titre d'opérations pluriannuelles à cotisation unique ou non révisable relevant des catégories
+20 à 31 y compris opérations assimilées et au titre des opérations relevant de la catégorie 38 (LPS, acceptations et
+opérations à l'étranger)
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ANNÉE DE SURVENANCE
+
+</td>
+      <td width="99">
+
+N - 5 et antérieurs
+
+</td>
+      <td width="28">
+
+N - 4
+
+</td>
+      <td width="28">
+
+N - 3
+
+</td>
+      <td width="28">
+
+N - 2
+
+</td>
+      <td width="28">
+
+N - 1
+
+</td>
+      <td width="56">
+
+EX. INV.
+
+</td>
+      <td width="56">
+
+Total
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1. Paiements dans l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Provisions techniques à la clôture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Total 1 + 2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Provisions techniques à l'ouverture de l'exercice inventorié
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Augmentation des cotisations acquises et autres ressources (3)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Total 4 + 5
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+(3) Les "autres ressources" sont la contribution des cessionnaires et des rétrocessionnaires dans les participations aux
+excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C20 à l'article A114-5
+
+**ÉTAT C20 : MOUVEMENTS DES BULLETINS D'ADHÉSION AUX RÈGLEMENTS OU DES CONTRATS DES CAPITAUX ET RENTES**
+
+Les mutuelles agréées pour pratiquer des opérations visées au b du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état retraçant les mouvements des
+bulletins d'adhésion aux règlements, des contrats, des capitaux et des rentes au cours de l'exercice inventorié.
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center" colspan="2">
+
+MOUVEMENTS
+
+</td>
+      <td width="117">
+
+CATÉGORIE
+
+ou sous-catégorie
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">
+
+En cours à l'ouverture de l'exercice
+
+</td>
+      <td>
+
+Nombre (1)
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+<font size="1">
+            **Entrées**
+          </font>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Souscriptions
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Remplacements ou transformations
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Revalorisations (3)
+
+</td>
+      <td>
+
+Nombre (4)
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+**Total des entrées sauf revalorisations pour le total nombre**
+
+</td>
+      <td>
+
+**Nombre**
+
+</td>
+      <td>
+
+**
+        **
+
+**
+      **</td>
+    </tr>
+    <tr>
+      <td>
+
+**
+        **
+
+**
+      **</td>
+      <td>
+
+**Montant**
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+**
+            <font size="1">Sorties</font>
+          **
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Sans effet
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Remplacements ou transformations
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Echéances
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Sinistres (5)
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Extinctions
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Rachats
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Réductions
+
+</td>
+      <td>
+
+Nombre (4)
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Résiliations
+
+</td>
+      <td>
+
+Nombre
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+**Total des sorties 
+
+sauf réductions pour le total nombre**
+
+</td>
+      <td>
+
+**Nombre**
+
+</td>
+      <td>
+
+**
+        **
+
+**
+      **</td>
+    </tr>
+    <tr>
+      <td>
+
+**Montant**
+
+</td>
+      <td>
+
+**
+        **
+
+**
+      **</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+**En cours à la clôture de l'exercice**
+
+</td>
+      <td>
+
+**Nombre**
+
+</td>
+      <td>
+
+**
+        **
+
+**
+      **</td>
+    </tr>
+    <tr>
+      <td>
+
+**Montant**
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+(1) Nombre de bulletins d'adhésion aux règlements et de contrats.
+
+(2) Capitaux ou rentes annuelles.
+
+(3) Revalorisations au cours de l'exercice : indexations, incorporations de participations aux excédents.
+
+(4) Les nombres figurant sur cette ligne ne s'additionnent pas dans le total.
+
+(5) Pour les opérations relevant de la branche 24 (capitalisation), cette rubrique enregistre les remboursements par tirage
+au sort.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Cet état comporte en colonnes les catégories et sous catégories suivantes d'opérations directes en France :
+
+Opérations de capitaux en euros ou en devises
+
+Opérations de capitalisation à cotisation unique ou versements libres (catégorie 01).
+
+Opérations de capitalisation à cotisations périodiques (catégorie 02).
+
+Opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) : temporaires décès
+(catégorie 03).
+
+Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique
+ou versements libres (sous-catégorie 042).
+
+Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations
+périodiques (sous-catégorie 052).
+
+Opérations collectives en cas de décès (catégorie 06).
+
+Autres opérations collectives en cas de vie (sous-catégorie 072).
+
+Opérations de nuptialité-natalité (catégorie 12).
+
+Opérations de capitaux en unités de compte
+
+Opérations de capitalisation à cotisation unique ou versements libres (sous-catégorie 081).
+
+Opérations de capitalisation à cotisations périodiques (sous-catégorie 091).
+
+Opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) : temporaires décès (sous-
+catégories 082 et 092).
+
+Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique
+ou versements libres (sous-catégorie 084).
+
+Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations
+périodiques (sous-catégorie 94).
+
+Opérations collectives en cas de décès (sous-catégories 085, 086, 095 et 096).
+
+Autres opérations collectives en cas de vie (sous-catégories 088 et 098).
+
+Opérations de rentes en euros ou en devises
+
+Rentes individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) différées en cours de
+constitution (partie des sous-catégories 041 et 051) (1).
+
+Rentes individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) en service (partie des sous-
+catégories 041 et 051) (1).
+
+Rentes collectives en cas de vie différées en cours de constitution (partie de la sous-catégorie 071) (2).
+
+Rentes collectives en cas de vie en service (partie de la sous-catégorie 071) (2).
+
+Opérations de rentes en unités de compte
+
+Rentes différées en cours de constitution (partie des sous-catégories 083, 087, 093, et 097) (3).
+
+Rentes en service (partie des sous-catégories 083, 087, 093, et 097) (3).
+
+Les opérations en unités de compte sont converties en euros à la contre-valeur de l'unité de compte à la date d'inventaire et
+regroupées toutes unités de compte confondues. La mutuelle détient le détail de chaque catégorie ou sous-catégorie par unité
+de compte.
+
+(1) L'addition des éléments relatifs aux rentes individuelles différées en cours de constitution et aux rentes individuelles
+en service est égale au total des éléments relatifs aux sous-catégories 041 et 051.
+
+(2) L'addition des éléments relatifs aux rentes collectives différées en cours de constitution et aux rentes collectives en
+service est égale au total des éléments relatifs à la sous-catégorie 071.
+
+(3) L'addition des éléments relatifs aux rentes différées en cours de constitution et aux rentes en service est égale au
+total des éléments relatifs aux sous-catégories 083, 087, 093 et 097.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe C21 à l'article A114-5
+
+**ÉTAT C21 : ÉTAT DÉTAILLÉ DES PROVISIONS ET ENGAGEMENTS TECHNIQUES**
+
+Les mutuelles pratiquant des opérations visées au b du 1
+  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état détaillé de leurs provisions
+techniques.
+
+L'état est constitué de deux ensembles de lignes :
+
+**A.** - Le premier ensemble de lignes est ordonné en quatre-vingt-sept rubriques correspondant aux catégories, sous-
+catégories ou regroupements d'opérations définies à l'état C 4 :
+
+I. - Opérations directes en France : catégories ou sous-catégories 01, 02, 031, 032, 041, 042, 051, 052, 061, 062, 071, 072,
+081, 082, 083, 084, 085, 086, 087, 088, 091, 092, 093, 094, 095, 096, 097, 098, 10, 11111, 11112, 11113, 11121, 11122, 11123,
+11131, 11132, 11133, 11134, 11135, 11141, 11142, 11143, 11144, 11145, 1115, 11211, 11212, 11213, 11221, 11222, 11223, 11231,
+11232, 11233, 11234, 11235, 11241, 11242, 11243, 11244, 11245, 1125, 121, 122, 2011, 2012, 2021, 2022, 2031, 2032, 2111,
+2112, 2121, 2122, 2131, 2132, 2141, puis 2142 ;
+
+II. - Opérations en libre prestation de services par un établissement en France ;
+
+III. - Acceptations en réassurance par un établissement en France ;
+
+IV. - Opérations des succursales établies dans l'Union européenne (hors la France), détaillées par rubriques a, b, puis c ;
+
+V. - Opérations des succursales établies hors de l'Union européenne, détaillées par rubriques a, b, puis c.
+
+Ce premier ensemble comporte une ligne par règlement ou contrat type en cours. Chaque règlement ou contrat type est identifié
+par sa dénomination ; les différentes versions d'un contrat type proposé sous une même dénomination sont à considérer comme
+des règlements ou des contrats distincts. Chaque rubrique est totalisée. Les provisions techniques relatives aux garanties en
+euros ou en devises des opérations en unités de compte sont indiquées sur une ligne distincte rattachée au règlement ou au
+contrat.
+
+Sous réserve de respecter la décomposition par régime de participation aux excédents, les mutuelles peuvent regrouper au sein
+de chaque rubrique les règlements ou contrats types dont les provisions techniques représentent moins de 0,5 % du total des
+provisions techniques afférentes aux opérations directes en France ;
+
+**B.** - Le deuxième ensemble de lignes retrace les provisions et engagements techniques communs à plusieurs règlements ou
+contrats types :
+
+- d'abord, celles des provisions pour participation aux excédents qui ne sont pas propres à un règlement ou contrat type ;
+
+- ensuite, les autres provisions techniques, notamment provisions pour aléas financiers, provisions de gestion, provision
+pour risque d'exigibilité des engagements techniques.
+
+L'état est complété par un total général.
+
+L'état comporte les colonnes suivantes :
+
+- dénomination du règlement ou du contrat type ;
+
+- nombre de bulletins d'adhésion aux règlements et de contrats en cours à la clôture de l'exercice ;
+
+- taux d'intérêt garanti ;
+
+- capitaux ou rentes garantis donnés en substitution ;
+
+- capitaux ou rentes garantis non donnés en substitution ;
+
+- cotisations émises données en substitution dans l'exercice, nettes d'annulations ;
+
+- cotisations émises non données en substitution dans l'exercice, nettes d'annulations ;
+
+- provisions mathématiques à la clôture de l'exercice, hors engagements donnés en substitution ;
+
+- provisions pour participations aux excédents à la clôture de l'exercice, hors engagements donnés en substitution ;
+
+- autres provisions techniques spécifiques au règlement ou au contrat à la clôture de l'exercice, hors engagements donnés en
+substitution ;
+
+- engagements techniques sur opérations données en substitution ;
+
+- capitaux ou rentes cédés ;
+
+- capitaux ou rentes donnés ;
+
+- cotisations cédées ;
+
+- cotisations données ;
+
+- provisions mathématiques cédées à la clôture de l'exercice ;
+
+- part des garants dans les provisions mathématiques à la clôture de l'exercice ;
+
+- provisions pour participation aux excédents cédées à la clôture de l'exercice ;
+
+- part des garants dans les provisions pour participation aux excédents à la clôture de l'exercice ;
+
+- autres provisions techniques spécifiques au règlement ou au contrat cédées à la clôture de l'exercice ;
+
+- part des garants dans les autres provisions techniques spécifiques au règlement ou au contrat à la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 avril 2005 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+## Annexes à l'article A114-7
+
+###### Article Annexe T1 à l'article A114-7
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
+
+**État T1 : Flux trimestriels relatifs aux opérations en France**
+
+Les mutuelles et les unions établissent trimestriellement, selon le modèle fixé ci-après, un état relatif à leurs opérations
+réalisées en France au cours du trimestre écoulé.
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle">
+
+**Quatre trimestres précédents**
+
+</td>
+      <td valign="middle">
+
+**Trimestre T-7**
+
+</td>
+      <td valign="middle">
+
+**Trimestre T-6**
+
+</td>
+      <td valign="middle">
+
+**Trimestre T-5**
+
+</td>
+      <td valign="middle">
+
+**Trimestre T-4**
+
+</td>
+      <td valign="middle">
+
+**Cum**ul
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Nombre de contrats souscrits
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Nombre de prestations ouvertes (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cotisations émises nettes d'annulations (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Prestations payées (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Frais d'acquisition et d'administration (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Produits des placements (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+**Quatre derniers trimestres**
+
+</td>
+      <td>
+
+**Trimestre T-3**
+
+</td>
+      <td>
+
+**Trimestre T-2**
+
+</td>
+      <td>
+
+**Trimestre T-1**
+
+</td>
+      <td>
+
+**Trimestre courant**
+
+</td>
+      <td>
+
+**Cumul**
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Nombre de contrats souscrits
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Nombre de prestations ouverts (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cotisations émises nettes d'annulations (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Prestations payées (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Frais d'acquisition et d'administration (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Produits des placements (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+(1) En vie et capitalisation, prestations, sorties par tirage, échéances et rachats totaux.
+
+(2) Montants extraits du grand livre au dernier jour ouvrable de chaque trimestre civil avant toute opération d'inventaire.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe T2 à l'article A114-7
+
+**ETAT T2 : Encours trimestriel des placements**
+
+1. Opérations autres que les PERP et les opérations collectives définies aux articles L. 222-1 et suivants :
+
+<table>
+  <thead>
+    <tr>
+      <td width="221" rowspan="3">
+
+DÉSIGNATION
+
+</td>
+      <td width="234" colspan="6">
+
+ENCOURS
+
+</td>
+    </tr>
+    <tr>
+      <td width="117" colspan="3">
+
+A la fin du trimestre inventorié
+
+</td>
+      <td width="117" colspan="3">
+
+A la fin du trimestre précédent
+
+</td>
+    </tr>
+    <tr>
+      <td width="39">
+
+Valeur brute
+
+</td>
+      <td width="39">
+
+Valeur nette
+
+</td>
+      <td width="39">
+
+Valeur de réalisation
+
+</td>
+      <td width="39">
+
+Valeur brute
+
+</td>
+      <td width="39">
+
+Valeur nette
+
+</td>
+      <td width="39">
+
+Valeur de réalisation
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+A. - Placements mentionnés à l'article R. 212-31
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+I. - Placements non représentatifs de contrats en unités de compte
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+1. Obligations et autres valeurs émises ou garanties par l'un des États membres de l'OCDE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Obligations, parts de fonds communs de créance et titres participatifs négociés sur un marché reconnu, autres que celles
+ou ceux visés au 1
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Titres de créances négociables admissibles d'un an au plus
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Bons à moyen terme négociables admissibles
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+5. Actions de Sicav et parts de FCP d'obligations et de titres de créances négociables
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total placements obligataires
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Dont titres mis en pension et titres empruntés ou achetés à réméré
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+6. Actions et titres assimilés cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+7. Titres non cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+8. Parts de FCP à risques (dont FCP dans l'innovation) et fonds communs de proximité
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+9. OPCVM contractuels, OPCVM à procédure allégée, FCP à risques allégés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+10. OPCVM à règles allégées, à l'exception des OPCVM de fonds alternatifs
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+11. OPCVM de fonds alternatifs
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+12. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social dans l'OCDE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+13. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social hors de l'OCDE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+14. Actions de SICAV et parts de FCP diversifiés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des actions et titres assimilés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+15. Droits réels immobiliers
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+16. Parts de sociétés immobilières ou foncières non cotées (y compris les avances en compte courant)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des placements immobiliers
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+17. Prêts obtenus ou garantis par les États membres de l'OCDE ou assimilés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+18. Prêts hypothécaires
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+19. Avances sur polices
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+20. Prêts de titres garantis par des espèces
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+21. Autres prêts de titres garantis
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+22. Autres prêts
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des prêts
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+II. - Placements représentatifs de contrats en unités de compte
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+23. Fonds en dépôt
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+24. Placements immobiliers représentatifs de contrats en unités de compte
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+25. Autres placements représentatifs de contrats en unités de compte
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total A
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+B. - Autres placements
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+26. Valeurs mobilières
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Dont titres mis en pension et titres empruntés ou achetés à réméré
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+27. Immeubles et parts de sociétés immobilières non cotées
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+28. Prêts de titres non garantis
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+29. Autres prêts
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+30. Fonds en dépôt
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total B
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+C. - Instruments financiers à terme
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+31. Instruments financiers à terme liés à des produits de taux
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+32. Instruments financiers à terme liés à des actions et actifs assimilés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+33. Autres instruments financiers à terme
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total C
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total A + B + C
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Dont titres mis en pension et titres empruntés ou achetés à réméré
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Engagements reçus (1)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Engagements donnés (1)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="7">
+
+1. Hors instruments financiers à terme et hors nantissements.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+2. PERP et opérations collectives définies aux articles L. 222-1 et suivants :
+
+<table>
+  <thead>
+    <tr>
+      <td width="221" rowspan="3">
+
+DÉSIGNATION
+
+</td>
+      <td colspan="6" width="234">
+
+ENCOURS
+
+</td>
+    </tr>
+    <tr>
+      <td width="117" colspan="3">
+
+A la fin du trimestre inventorié
+
+</td>
+      <td colspan="3" width="117">
+
+A la fin du trimestre précédent
+
+</td>
+    </tr>
+    <tr>
+      <td width="39">
+
+Valeur brute
+
+</td>
+      <td width="39">
+
+Valeur nette
+
+</td>
+      <td width="39">
+
+Valeur de réalisation
+
+</td>
+      <td width="39">
+
+Valeur brute
+
+</td>
+      <td width="39">
+
+Valeur nette
+
+</td>
+      <td width="39">
+
+Valeur de réalisation
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+A. - Placements mentionnés à l'article R. 212-31 non représentatifs de contrats en unités de compte
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+1. Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'OCDE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+2. Obligations, parts de fonds communs de créance et titres participatifs négociés sur un marché reconnu, autres que celles
+ou ceux visés au 1
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+3. Titres de créances négociables admissibles d'un an au plus
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+4. Bons à moyen terme négociables admissibles
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+5. Actions de Sicav et parts de FCP d'obligations et de titres de créances négociables
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total placements obligataires
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Dont titres mis en pension et titres empruntés ou achetés à réméré
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+6. Actions et titres assimilés cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+7. Titres non cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+8. Parts de FCP à risques (dont FCP dans l'innovation) et fonds communs de proximité
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+9. OPCVM contractuels, OPCVM à procédure allégée, FCP à risques allégés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+10. OPCVM à règles allégées, à l'exception des OPCVM de fonds alternatifs
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+11. OPCVM de fonds alternatifs
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+12. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social dans l'OCDE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+13. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social hors de l'OCDE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+14. Actions de SICAV et parts de FCP diversifiés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des actions et titres assimilés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+15. Droits réels immobiliers
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+16. Parts de sociétés immobilières ou foncières non cotées (y compris les avances en compte courant)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des placements immobiliers
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+17. Prêts obtenus ou garantis par les Etats membres de l'OCDE ou assimilés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+18. Prêts hypothécaires
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+19. Avances sur polices
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+20. Prêts de titres garantis par des espèces
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+21. Autres prêts de titres garantis
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+22. Autres prêts
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total des prêts
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total A
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+B. - Autres placements
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+23. Valeurs mobilières
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Dont titres mis en pension et titres empruntés ou achetés à réméré
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+24. Immeubles et parts de sociétés immobilières non cotées
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+25. Prêts de titres non garantis
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+26. Autres prêts
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+27. Fonds en dépôt
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total B
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+C. - Instruments financiers à terme
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+28. Instruments financiers à terme liés à des produits de taux
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+29. Instruments financiers à terme liés à des actions et actifs assimilés
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+30. Autres instruments financiers à terme
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total C
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Total A + B + C
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Dont titres mis en pension et titres empruntés ou achetés à réméré
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Engagements reçus (1)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+Engagements donnés (1)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="7">
+
+1. Hors instruments financiers à terme et hors nantissements.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe T3 à l'article A114-7
+
+**ÉTAT T 3 : SIMULATIONS ACTIF-PASSIF**
+
+Les mutuelles et les unions établissent trimestriellement, selon le modèle fixe ci-après, un état retraçant l'incidence sur
+la valeur de réalisation de leurs placements ainsi que sur leurs provisions mathématiques, des hypothèses figurant ci-
+dessous.
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+
+PRODUITS DE TAUX
+
+</td>
+      <td align="center" valign="middle">
+
+E(TEC 10)
+
+</td>
+      <td align="center" valign="middle">
+
+E(TEC 10)
+
+</td>
+      <td valign="middle" align="center">
+
+E(TEC 10)
+
+</td>
+      <td align="center" valign="middle">
+
+E(TEC 10) (1)
+
+</td>
+      <td align="center" valign="middle">
+
+TEC 10
+
+</td>
+      <td align="center" valign="middle">
+
+E(TEC 10)
+
+</td>
+      <td align="center" valign="middle">
+
+E(TEC 10)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+- 300 pb
+
+</td>
+      <td align="center" valign="middle">
+
+- 200 pb
+
+</td>
+      <td align="center" valign="middle">
+
+- 100 pb
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
++ 200 pb
+
+</td>
+      <td align="center" valign="middle">
+
++ 400 pb
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Cotés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Non cotés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Instruments à terme liés (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+(1) E (TEC 10) est le nombre entier de centaines de points de base immédiatement inférieur à la valeur actuelle du TEC 10.
+
+(2) Les instruments à terme sont évalués à leurs coûts de remplacement déduits de chacune des valeurs de réalisation simulées
+sur les actifs sous-jacents.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+
+ACTIONS ET ACTIFS ASSIMILÉS
+
+</td>
+      <td valign="middle" align="center">
+
+- 40 %
+
+</td>
+      <td align="center" valign="middle">
+
+- 30 %
+
+</td>
+      <td valign="middle" align="center">
+
+- 20 %
+
+</td>
+      <td align="center" valign="middle">
+
+- 10 %
+
+</td>
+      <td align="center" valign="middle">
+
+VALEUR de réalisation
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Cotés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Non cotés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Instruments à terme liés (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+(1) Les instruments à terme sont évalués à leurs coûts de remplacement déduits de chacune des valeurs de réalisation simulées
+sur les actifs sous-jacents.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ACTIFS IMMOBILIERS
+
+</td>
+      <td align="center" valign="middle">
+
+- 40 %
+
+</td>
+      <td valign="middle" align="center">
+
+- 30 %
+
+</td>
+      <td align="center" valign="middle">
+
+- 20 %
+
+</td>
+      <td valign="middle" align="center">
+
+- 10 %
+
+</td>
+      <td align="center" valign="middle">
+
+VALEUR de réalisation
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Cotés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Non cotés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+ENGAGEMENTS d'assurance vie en euros, engagements viagers d'assurance non vie et PPE
+
+</td>
+      <td width="52">
+
+E(TEC 10)
+
+</td>
+      <td width="52">
+
+E(TEC 10)
+
+</td>
+      <td width="52">
+
+E(TEC 10)
+
+</td>
+      <td width="52">
+
+E(TEC 10)
+
+</td>
+      <td width="39">
+
+TEC 10
+
+</td>
+      <td width="52">
+
+E(TEC 10)
+
+</td>
+      <td width="52">
+
+E(TEC 10)
+
+</td>
+    </tr>
+    <tr>
+      <td width="104">
+
+</td>
+      <td width="52">
+
+- 330 pb
+
+</td>
+      <td width="52">
+
+- 230 pb
+
+</td>
+      <td width="52">
+
+- 130 pb
+
+</td>
+      <td width="52">
+
+- 30 pb
+
+</td>
+      <td width="39">
+
+- 30 pb
+
+</td>
+      <td width="52">
+
++ 170 pb
+
+</td>
+      <td width="52">
+
++370 pb
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Provisions pour participation aux excédents (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Engagements en euros liés à des contrats rachetables (2)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Autres engagements en francs
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8">
+
+(1) La provision pour participation aux excédents est évaluée à sa dernière valeur comptable connue.
+
+(2) Les provisions mathématiques sont évaluées avec application, au titre des charges de gestion, d'un abattement de 30
+points de base à chacun des taux retenus.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle" align="center">
+
+ENGAGEMENTS EN UNITÉS DE COMPTE
+
+</td>
+      <td align="center" valign="middle">
+
+- 40 %
+
+</td>
+      <td valign="middle" align="center">
+
+- 30 %
+
+</td>
+      <td align="center" valign="middle">
+
+- 20 %
+
+</td>
+      <td valign="middle" align="center">
+
+- 10 %
+
+</td>
+      <td valign="middle" align="center">
+
+Valeur de réalisation
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+Actif représentatif
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Engagements sans risque de placement
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Résultat probable lié aux engagements avec risque de placement
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td align="center" valign="middle">
+
+AUTRES PROVISIONS TECHNIQUES
+
+</td>
+      <td align="center" valign="middle">
+
+N      
+
+</td>
+      <td valign="middle" align="center">
+
+N + 1              
+
+</td>
+      <td align="center" valign="middle">
+
+N+ 2         
+
+</td>
+      <td align="center" valign="middle">
+
+N+ 3       
+
+</td>
+      <td valign="middle" align="center">
+
+N+ 4      
+
+</td>
+      <td valign="middle" align="center">
+
+N+5 et  ultérieurs        
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle" align="center">
+
+Provisions pour cotisations non acquises
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+Provision pour risques en cours
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+Provisions pour prestations à payer
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+Provisions pour risques croissants
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+Total
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td valign="middle" align="center">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+      <td align="center" valign="middle">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td valign="middle">
+
+PREMIÈRES CONTREPARTIES (1)
+
+</td>
+      <td valign="middle" colspan="2">
+
+VALEUR COMPTABLE
+
+</td>
+      <td colspan="2" valign="middle">
+
+VALEUR DE RÉALISATION
+
+</td>
+    </tr>
+    <tr>
+      <td width="195">
+
+</td>
+      <td width="65">
+
+Produits de taux
+
+</td>
+      <td width="65">
+
+Autres
+
+</td>
+      <td width="65">
+
+Produits de taux
+
+</td>
+      <td width="65">
+
+Autres
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+1
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+
+(1) Pour ces évaluations, une contrepartie est soit une société isolée, soit plusieurs sociétés appartenant au même groupe.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+## Annexes à l'article A114-9
+
+###### Article Annexe E1 à l'article A114-9
+
+**État E 1 : risques et engagements**
+
+Effectifs au 31 décembre
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <thead>
+            <tr>
+              <td width="377" colspan="3">
+
+OPÉRATIONS DIRECTES EN FRANCE
+
+</td>
+              <td width="78">
+
+TOTAL
+
+</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Collectives à adhésion obligatoire
+
+</td>
+              <td>
+
+Collectives à adhésion facultative
+
+</td>
+              <td>
+
+Individuelles
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Frais de santé
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+01
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+02
+
+</td>
+              <td>
+
+nombre de personnes protégées (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+03
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Incapacité temporaire - indemnités journalières
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+04
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+05
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Rentes d'invalidité
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+06
+
+</td>
+              <td>
+
+nombre de rentes en cours de service
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+07
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+08
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Chômage
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+09
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+10
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Indemnité et prime de fin de carrière
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+11
+
+</td>
+              <td>
+
+nombre de bénéficiaires servis
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+12
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+13
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Retraite supplémentaire (2)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+14
+
+</td>
+              <td>
+
+nombre de rentes en cours de service
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+15
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+16
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Autres contrats d'épargne
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+17
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+18
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Dépendance
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+19
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+20
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Décès et invalidité totale et définitive
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Capital décès et invalidité totale et définitive
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+21
+
+</td>
+              <td>
+
+nombre de capitaux versés
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+22
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+23
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Rente de conjoint survivant
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+24
+
+</td>
+              <td>
+
+nombre de rentes en cours de service
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+25
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+26
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Rente d'éducation ou d'orphelin
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+27
+
+</td>
+              <td>
+
+nombre de rentes en cours de service
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+28
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+29
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Autres risques et engagements
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+30
+
+</td>
+              <td>
+
+nombre de cotisants (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+31
+
+</td>
+              <td>
+
+nombre d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Totaux avec double compte (3)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+41
+
+</td>
+              <td>
+
+nombre total de cotisants
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+42
+
+</td>
+              <td>
+
+nombre total d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Totaux sans double compte (3)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+51
+
+</td>
+              <td>
+
+nombre total de cotisants
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+52
+
+</td>
+              <td>
+
+nombre total d'organismes adhérents
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(1) Cotisants : membres participants visés à l'article  L. 114-1 du code de la mutualité (y compris ceux des mutuelles
+substituées). Les personnes protégées comprennent les membres participants et leurs ayant droits (y compris ceux des
+mutuelles substituées).
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(2) Epargne retraite facultative à sortie en rente viagère (soit souscrite à titre individuel (PERP, Préfon...) soit
+souscrite dans le cadre d'un plan d'épargne collectif salarial (PERCO)).
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(3) Le total avec double compte correspond à un nombre de contrats tandis que le total sans double compte correspond à un
+nombre de personnes. Ainsi, une personne cotisant pour deux types de contrat (par exemple pour les frais de santé et pour la
+retraite supplémentaire) sera comptée deux fois dans le total avec double compte alors qu'elle ne sera comptée qu'une fois
+dans le total sans double compte.
+
+</td>
+            </tr>
+          </tbody>
+        </table>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+###### Article Annexe E2 à l'article A114-9
+
+**Etat E 2 - Cotisations et prestations**
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <thead>
+            <tr>
+              <td colspan="2" width="156">
+
+MONTANTS EN MILLIERS D'EUROS
+
+</td>
+              <td colspan="6" width="256">
+
+OPÉRATIONS DIRECTES EN FRANCE
+
+</td>
+              <td width="85" colspan="2">
+
+TOTAUX
+
+</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="2">
+
+</td>
+              <td colspan="2">
+
+Collectives à adhésion obligatoire
+
+</td>
+              <td colspan="2">
+
+Collectives à adhésion facultative
+
+</td>
+              <td colspan="2">
+
+Individuelles
+
+</td>
+              <td colspan="2">
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="2">
+
+</td>
+              <td>
+
+Cotisations
+
+</td>
+              <td>
+
+Prestations
+
+</td>
+              <td>
+
+Cotisations
+
+</td>
+              <td>
+
+Prestations
+
+</td>
+              <td>
+
+Cotisations
+
+</td>
+              <td>
+
+Prestations
+
+</td>
+              <td>
+
+Cotisations
+
+</td>
+              <td>
+
+Prestations
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+01
+
+</td>
+              <td>
+
+Frais de santé (1)(2)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+02
+
+</td>
+              <td>
+
+Dont autres prestations liées à la santé (3)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Incapacité - invalidité (1)(2)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+03
+
+</td>
+              <td>
+
+- Indemnités journalières
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+04
+
+</td>
+              <td>
+
+- Rentes d'invalidité
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+05
+
+</td>
+              <td>
+
+Chômage (1)(2)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+06
+
+</td>
+              <td>
+
+Indemnité et prime de fin de carrière
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+07
+
+</td>
+              <td>
+
+Retraite supplémentaire
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+08
+
+</td>
+              <td>
+
+Autres contrats d'épargne
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+09
+
+</td>
+              <td>
+
+Dépendance
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Décès
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+10
+
+</td>
+              <td>
+
+Capitaux
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+11
+
+</td>
+              <td>
+
+Rente de conjoint survivant
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+12
+
+</td>
+              <td>
+
+Rente d'éducation ou d'orphelin
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+13
+
+</td>
+              <td>
+
+Autres risques et engagements
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+20
+
+</td>
+              <td>
+
+Total
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="10">
+
+(1) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du tableau C de l'état C10.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="10">
+
+(2) Prestations au sens de la ligne "4. Charges nettes de recours" du tableau C de l'état C10.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="10">
+
+(3) Total autres prestations en espèces : selon ligne 40 de l'état E 3.
+
+</td>
+            </tr>
+          </tbody>
+        </table>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+###### Article Annexe E3 à l'article A114-9
+
+**Etat E 3 - Frais de santé et IJ**
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <thead>
+            <tr>
+              <td width="104">
+
+MONTANTS en milliers d'euros
+
+</td>
+              <td colspan="2" width="247">
+
+OPÉRATIONS DIRECTES EN FRANCE
+
+</td>
+              <td width="104">
+
+TOTAL
+
+</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Collectives à adhésion obligatoire
+
+</td>
+              <td>
+
+Collectives à adhésion facultative
+
+</td>
+              <td>
+
+Individuelles
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+01
+
+</td>
+              <td>
+
+Hôpitaux publics et PSPH et hôpitaux privés (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+02
+
+</td>
+              <td>
+
+Hôpitaux publics et PSPH (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+03
+
+</td>
+              <td>
+
+dont longs séjours (hébergement, ...)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+04
+
+</td>
+              <td>
+
+Hôpitaux privés (1)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+05
+
+</td>
+              <td>
+
+dont frais de séjour
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+06
+
+</td>
+              <td>
+
+dont honoraires et prescriptions
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+07
+
+</td>
+              <td>
+
+dont suppléments
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+08
+
+</td>
+              <td>
+
+Sous-total hôpitaux (L. 01 ou L. 02 + L. 04)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+09
+
+</td>
+              <td>
+
+Sections médicalisées publiques et privées (2)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+10
+
+</td>
+              <td>
+
+Sections médicalisées publiques (2)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+11
+
+</td>
+              <td>
+
+Sections médicalisées privées (2)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+12
+
+</td>
+              <td>
+
+Sous-total sections médicalisées (L. 09 ou L. 10 + L. 11)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+13
+
+</td>
+              <td>
+
+Sous-total hôpitaux et sections médicalisées (L. 08 + L. 12)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Cabinets libéraux
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+14
+
+</td>
+              <td>
+
+a. médecins (3)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+15
+
+</td>
+              <td>
+
+dont dépassements
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+16
+
+</td>
+              <td>
+
+b. auxiliaires (4)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+17
+
+</td>
+              <td>
+
+c. dentistes
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+18
+
+</td>
+              <td>
+
+dont honoraires
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+19
+
+</td>
+              <td>
+
+dont dépassements d'honoraires
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+20
+
+</td>
+              <td>
+
+dont prothèses
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+21
+
+</td>
+              <td>
+
+Dispensaire
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+22
+
+</td>
+              <td>
+
+Laboratoires d'analyse (5)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+23
+
+</td>
+              <td>
+
+Etablissements thermaux
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+24
+
+</td>
+              <td>
+
+dont hébergement
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+25
+
+</td>
+              <td>
+
+Sous-total soins ambulatoires (L. 14 + L. 16 + L. 17 + L. 21 à L. 23)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+26
+
+</td>
+              <td>
+
+Transports des malades (ambulances, taxis, VSL, ...) (6)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+27
+
+</td>
+              <td>
+
+Total prestations de soins (L. 13 + L. 25 + L. 26)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+28
+
+</td>
+              <td>
+
+Officines pharmaceutiques
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+29
+
+</td>
+              <td>
+
+Distributeurs d'autres biens médicaux
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+30
+
+</td>
+              <td>
+
+a. Optique
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+31
+
+</td>
+              <td>
+
+b. Prothèses (sauf dentaires), orthèses, VHP (7)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+32
+
+</td>
+              <td>
+
+c. Petit matériel et pansements
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+33
+
+</td>
+              <td>
+
+Total biens médicaux (L. 28 + L. 29)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Autres prestations liées à la santé (8)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+34
+
+</td>
+              <td>
+
+Allocations maternité (allocations naissance...)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+35
+
+</td>
+              <td>
+
+Prestations vieillesse
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+36
+
+</td>
+              <td>
+
+Prestations invalidité (allocations handicapés)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+37
+
+</td>
+              <td>
+
+Allocations funéraires
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+38
+
+</td>
+              <td>
+
+Aides à la famille
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+39
+
+</td>
+              <td>
+
+Autres
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+40
+
+</td>
+              <td>
+
+Total autres prestations en espèces (L. 34 à L. 39)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+41
+
+</td>
+              <td>
+
+Total des prestations versées (L. 27 + L. 33 + L. 40)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+</td>
+              <td>
+
+Indemnités journalières maladie
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+42
+
+</td>
+              <td>
+
+IJ moins de 3 mois
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+43
+
+</td>
+              <td>
+
+dont IJ moins de 15 jours
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+44
+
+</td>
+              <td>
+
+IJ 3 mois ou plus
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td>
+
+45
+
+</td>
+              <td>
+
+Total des IJ versées (L. 42 + L. 44)
+
+</td>
+              <td>
+
+</td>
+              <td>
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(1) PSPH = participant au service public hospitalier.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+La ligne 1 est à remplir si la mutuelle n'a pas le détail public/privé, sinon elle remplit les lignes 2 et 3. Les frais
+d'hospitalisation incluent le ticket modérateur des journées et des actes (hôpitaux publics et hôpitaux privés participant au
+service public hospitalier), les frais de séjour (établissements hospitaliers privés, non compris ceux participant au service
+public), les honoraires et prescriptions (établissements hospitaliers privés, non compris ceux participant au service
+public), le forfait journalier, le supplément pour chambre particulière, les accompagnants, les autres indemnités
+compensatrices.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(2) Sections médicalisées = sections mises en place dans les établissements d'hébergement pour personnes âgées (EHPA) ou
+établissements d'hébergement pour personnes âgées dépendantes (EHPAD).
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(3) Honoraires médicaux : dont actes en C, V, K, KE, KFA-KFB, P, SF (sage-femmes), SK, KC, Z, y compris les frais de
+déplacement.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(4) Actes d'auxiliaires médicaux : dont actes en AM, AIS, y compris les frais de déplacements.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(5) Analyses médicales : dont actes en B, BM, KB, PB, TB.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(6) VSL = Véhicule sanitaire léger.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(7) VHP : véhicule pour handicapé physique.
+
+</td>
+            </tr>
+            <tr>
+              <td colspan="4">
+
+(8) Prestations liées à la santé non comptabilisées dans les rubriques précédentes, non prises en charge par la sécurité
+sociale (par exemple, ostéopathie, forfait maternité...)
+
+</td>
+            </tr>
+          </tbody>
+        </table>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## Annexes à l'article A211-3
 

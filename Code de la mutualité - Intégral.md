@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-05-25
+Version Consolidée au 2005-07-19
 
 # Partie législative
 
@@ -1999,17 +1999,15 @@ obligation de discrétion.
 
 Les mutuelles et unions ainsi que les fédérations peuvent recevoir des dons et legs mobiliers et immobiliers.
 
-L'acceptation de ces libéralités est soumise à l'autorisation de l'autorité administrative.
-
-Les conditions d'acceptation sont prévues par décret en Conseil d'Etat.
-
-La décision d'autorisation pourra exiger l'aliénation de tout ou partie des éléments compris dans la libéralité.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-804 du 18 juillet 2005 - art. 14 () JORF 19 juillet 2005
 
 
 ###### Article L114-44

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-07-19
+Version Consolidée au 2005-07-28
 
 # Partie législative
 
@@ -4906,6 +4906,41 @@ l'article L. 112-1.
 	  - Code de la mutualité - art. L112-1 (V)
 
 
+###### Article L221-10-1
+
+Pour les adhésions à tacite reconduction relatives à des opérations individuelles à caractère non professionnel, la date
+limite d'exercice par le membre participant du droit à dénonciation de l'adhésion au règlement doit être rappelée avec chaque
+avis d'échéance annuelle de cotisation. Lorsque cet avis lui est adressé moins de quinze jours avant cette date, ou lorsqu'il
+lui est adressé après cette date, le membre participant est informé avec cet avis qu'il dispose d'un délai de vingt jours
+suivant la date d'envoi de l'avis pour dénoncer la reconduction. Dans ce cas, le délai de dénonciation court à partir de la
+date figurant sur le cachet de la poste.
+
+Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, le membre participant
+peut, par lettre recommandée, mettre un terme à l'adhésion au règlement, sans pénalités, à tout moment à compter de la date
+de reconduction. La résiliation prend effet le lendemain de la date figurant sur le cachet de la poste.
+
+Le membre participant est tenu au paiement de la partie de cotisation correspondant à la période pendant laquelle le risque a
+couru, période calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, doit être remboursée au membre
+participant, dans un délai de trente jours à compter de la date d'effet de la résiliation, la partie de cotisation
+correspondant à la période pendant laquelle le risque n'a pas couru, période calculée à compter de ladite date d'effet. A
+défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Loi n°2005-67 du 28 janvier 2005 - art. 3 () JORF 1er février 2005 en vigueur le 28 juillet 2005
+
+	**Cité par**:
+
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 61 (V)
+	  - Code de la mutualité - art. L223-27 (V)
+
+
 ###### Article L221-11
 
 Toutes actions dérivant des opérations régies par le présent titre sont prescrites par deux ans à compter de l'événement qui
@@ -5973,8 +6008,8 @@ objet la garantie de remboursement d'un emprunt.
 
 ###### Article L223-27
 
-Les dispositions des articles L. 221-7, L. 221-8, L. 221-10, L. 221-14 et L. 221-15 ne s'appliquent pas aux opérations de
-capitalisation et aux opérations dépendant de la durée de la vie humaine.
+Les dispositions des articles L. 221-7, L. 221-8, L. 221-10, L. 221-10-1, L. 221-14 et L. 221-15 ne s'appliquent pas aux
+opérations de capitalisation et aux opérations dépendant de la durée de la vie humaine.
 
 Les dispositions de l'article L. 221-17 ne s'appliquent pas aux opérations dépendant de la durée de la vie humaine.
 
@@ -5984,9 +6019,14 @@ Les dispositions de l'article L. 221-17 ne s'appliquent pas aux opérations dép
 
 	  - Ordonnance 2001-350 2001-04-19
 
+	**Modifié par**:
+
+	  - Loi n°2005-67 du 28 janvier 2005 - art. 3 () JORF 1er février 2005 en vigueur le 28 juillet 2005
+
 	**Cite**:
 
 	  - Code de la mutualité - art. L221-10 (V)
+	  - Code de la mutualité - art. L221-10-1 (V)
 	  - Code de la mutualité - art. L221-14 (V)
 	  - Code de la mutualité - art. L221-15 (V)
 	  - Code de la mutualité - art. L221-17 (V)

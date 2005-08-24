@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-07-28
+Version Consolidée au 2005-08-25
 
 # Partie législative
 
@@ -17926,7 +17926,7 @@ du titre Ier du livre II du code de la mutualité.
 ###### Article A510-3
 
 Les mutuelles et unions effectuent la vérification d'identité prévue par l'article 12 de la loi n° 90-614 du 12 juillet 1990
-et par l'article 3 du décret n° 91-160 du 13 février 1991 avant la conclusion de toute opération relevant du b du 1° du I de
+et par l'article R. 563-1 du code monétaire et financier avant la conclusion de toute opération relevant du b du 1° du I de
 l'article L. 111-1 dès lors que celle-ci donne lieu à la constitution d'une provision mathématique.
 
 Les dispositions du précédent alinéa ne sont pas applicables lorsque l'opération donne lieu au versement d'un montant de
@@ -17935,26 +17935,26 @@ nom du membre participant ou de la personne morale souscriptrice du contrat coll
 lui-même tenu à l'obligation d'identification.
 
 Lorsqu'une mutuelle ou une union fait partie d'un groupe au sens de l'article L. 212-7, elle peut, après information de
-l'organisme sur lequel pèse l'obligation de consolidation, désigner, pour l'application des articles 2 et 5 du décret n°
-91-160 du 13 février 1991, la ou les personnes spécialement habilitées à cet effet par un autre organisme du même ensemble.
+l'organisme sur lequel pèse l'obligation de consolidation, désigner, pour l'application des articles R. 562-1 et R. 562-2 du
+code monétaire et financier, la ou les personnes spécialement habilitées à cet effet par un autre organisme du même ensemble.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2005-01-10 art. 1 I JORF 19 janvier 2005
 
 	**Cite**:
 
 	  - Code de la mutualité (nouveau) L111-1, L212-7
 	  - Loi n°90-614 1990-07-12 art. 12
-	  - Décret n°91-160 du 13 février 1991 - art. 2 (Ab)
-	  - Décret n°91-160 du 13 février 1991 - art. 3 (M)
-	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
+	  - Code monétaire et financier - art. R562-1 (M)
+	  - Code monétaire et financier - art. R562-2 (M)
+	  - Code monétaire et financier - art. R563-1 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005 - art. 2 (V) JORF 25 août 2005
 
 
 #### Section 2 : Contrôle déconcentré.

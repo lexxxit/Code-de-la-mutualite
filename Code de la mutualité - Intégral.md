@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2005-09-09
 
 # Partie législative
 
@@ -1873,10 +1873,10 @@ qu'à toute personne interposée.
 
 Les mutuelles et unions régies par le livre II ou, lorsqu'elles dépassent un volume d'activité fixé par décret, celles régies
 par le livre III, ainsi que les fédérations, sont tenues de nommer au moins un commissaire aux comptes et un suppléant
-choisis sur la liste mentionnée à l'article L. 225-219 du code de commerce. Le président convoque les commissaires aux
-comptes à toute assemblée générale.
+choisis sur la liste mentionnée à l'article L. 822-1 du code de commerce. Le président convoque les commissaires aux comptes
+à toute assemblée générale.
 
-Les dispositions des articles L. 225-218 à L. 225-242 du code de commerce sont applicables aux commissaires aux comptes
+Les dispositions des articles L. 822-9 à L. 822-18 du code de commerce sont applicables aux commissaires aux comptes
 contrôlant les mutuelles, unions et fédérations sous réserve des dispositions du présent code.
 
 Les honoraires des commissaires aux comptes sont à la charge de la mutuelle, de l'union ou de la fédération. Le montant des
@@ -1896,10 +1896,14 @@ confiées par l'organisme à la demande d'une autorité publique.
 
 	  - Ordonnance 2001-350 2001-04-19
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce L225-219, L225-218 à L225-242
-	  - Code de commerce. - art. L225-219 (Ab)
+	  - Code de commerce L822-1, L822-9 à L822-18
+	  - Code de commerce. - art. L822-1 (V)
 
 	**Cité par**:
 
@@ -1943,8 +1947,8 @@ du code de commerce, il informe en même temps la commission de contrôle.
 
 ###### Article L114-41
 
-Un tiers des membres de la mutuelle peut exercer les droits prévus aux articles L. 225-230, L. 225-31, L. 225-232, L. 225-233
-du code de commerce.
+Un tiers des membres de la mutuelle peut exercer les droits prévus aux articles L. 823-6, L. 225-31, L. 225-232, L. 823-7 du
+code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -1952,12 +1956,16 @@ du code de commerce.
 
 	  - Ordonnance 2001-350 2001-04-19
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-230 (M)
 	  - Code de commerce. - art. L225-232 (M)
-	  - Code de commerce. - art. L225-233 (M)
 	  - Code de commerce. - art. L225-31 (M)
+	  - Code de commerce. - art. L823-6 (V)
+	  - Code de commerce. - art. L823-7 (V)
 
 
 ###### Article L114-42
@@ -3084,7 +3092,7 @@ II. - Les mutuelles et unions appartenant à un groupe au sens du 3° du I ci-de
 consolidés dans les conditions définies par un règlement du comité de la réglementation comptable.
 
 Ces comptes sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L.
-225-235 du code de commerce.
+823-9 du code de commerce.
 
 III. - Lorsque deux ou plusieurs mutuelles ou unions appartiennent à un groupe, l'une de ces entités établit et publie des
 comptes combinés. Un décret détermine celle de ces entités sur laquelle pèse cette obligation. Les comptes combinés sont
@@ -3092,7 +3100,7 @@ constitués par agrégation de l'ensemble des comptes des entités concernées, 
 dans des conditions définies par un règlement du comité de la réglementation comptable.
 
 Les comptes mentionnés au présent article sont certifiés par les commissaires aux comptes dans les conditions prévues au
-deuxième alinéa de l'article L. 225-235 du code de commerce.
+deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -3130,10 +3138,9 @@ deuxième alinéa de l'article L. 225-235 du code de commerce.
 	  - Code monétaire et financier - art. L612-44 (V)
 	  - Code monétaire et financier - art. R561-28 (VD)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L225-235 (M)
-	  - Code rural L727-2
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 
 ###### Article L212-7-1
@@ -7610,7 +7617,7 @@ comptes supplémentaire.
 
 Lorsqu'elle a connaissance d'une infraction aux dispositions du présent article ainsi que de celles de l'article L. 114-39,
 commises par un commissaire aux comptes, la commission de contrôle peut demander au tribunal compétent de relever ce
-commissaire aux comptes de ses fonctions selon les modalités définies à l'article L. 225-233 du code de commerce.
+commissaire aux comptes de ses fonctions selon les modalités définies à l'article L. 823-7 du code de commerce.
 
 La commission peut également dénoncer cette infraction à l'autorité disciplinaire compétente et communiquer, à cette fin, les
 informations qu'elle estime nécessaires.
@@ -7623,11 +7630,11 @@ informations qu'elle estime nécessaires.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1201 2004-11-12 art. 15 2° JORF 16 novembre 2004
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-233 (M)
+	  - Code de commerce. - art. L823-7 (V)
 	  - Code de la mutualité - art. L114-39 (V)
 	  - Code de la mutualité - art. L212-7 (M)
 	  - Code de la mutualité - art. L212-7-9 (V)
@@ -14881,9 +14888,10 @@ assurances, des mutuelles et des institutions de prévoyance doit faire connaît
 aux comptes qu'il se propose de désigner.
 
 Lorsqu'il informe la commission de contrôle de son intention de désigner comme commissaires aux comptes une société de
-commissaires aux comptes constituée et inscrite selon les modalités prévues à l'article L. 225-228 du code de commerce, la
-mutuelle ou l'union précise le nom du commissaire aux comptes associé, actionnaire ou dirigeant, responsable de la mission au
-nom de cette entreprise. Il informe la commission de contrôle de toute modification ultérieure de cette situation.
+commissaires aux comptes constituée et inscrite selon les modalités prévues aux articles L. 823-1, L. 823-2 et L. 823-15 du
+code de commerce, la mutuelle ou l'union précise le nom du commissaire aux comptes associé, actionnaire ou dirigeant,
+responsable de la mission au nom de cette entreprise. Il informe la commission de contrôle de toute modification ultérieure
+de cette situation.
 
 La commission de contrôle dispose d'un délai de deux mois pour faire connaître à la mutuelle ou l'union son avis sur la
 proposition de désignation du commissaire aux comptes. En l'absence de réponse dans le délai imparti, l'avis de la commission
@@ -14915,21 +14923,23 @@ mutuelle ou l'union concernée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-6
-	  - Code de commerce. - art. L225-228 (M)
-	  - Code monétaire et financier - art. L631-1 (M)
-	  - Code de la sécurité sociale. - art. L951-6-1 (M)
-	  - Code des assurances - art. L310-19-1 (M)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-693 du 15 juillet 2004 - art. 3 () JORF 16 juillet 2004
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L823-1 (V)
+	  - Code de commerce. - art. L823-15 (V)
+	  - Code de commerce. - art. L823-2 (V)
+	  - Code de la mutualité (nouveau) L510-6
+	  - Code monétaire et financier - art. L631-1 (M)
+	  - Code de la sécurité sociale. - art. L951-6-1 (M)
+	  - Code des assurances - art. L310-19-1 (M)
 
 
 #### Section 2 : Mesures de sauvegarde et d'assainissement

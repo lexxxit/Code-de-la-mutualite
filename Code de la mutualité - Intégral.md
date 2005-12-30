@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2005-12-16
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -7754,7 +7754,12 @@ Ce décret est pris après avis du directoire du fonds de garantie.
 
 Le contrôle de l'Etat sur les mutuelles, unions et fédérations régies par le présent code est exercé, dans l'intérêt de leurs
 membres et de leurs ayants droit, par l'Autorité de contrôle des assurances et des mutuelles instituée à l'article L. 310-12
-du code des assurances.
+du code des assurances. 
+
+Les organismes soumis au contrôle de l'autorité en vertu du présent article sont assujettis à la contribution pour frais de
+contrôle mentionnée à l'article L. 310-12-4 du code des assurances. Par dérogation aux dispositions dudit article, l'assiette
+et les modalités de recouvrement de cette contribution sont fixées selon les modalités définies à l'article L. 951-1 du code
+de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -7841,11 +7846,12 @@ du code des assurances.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 118 () JORF 31 décembre 2005
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-12 (M)
+	  - Code des assurances - art. L310-12 (V)
+	  - Code des assurances - art. L310-12-4 (V)
 
 
 ###### Article L510-1-1

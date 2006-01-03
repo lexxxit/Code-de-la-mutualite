@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-04
 
 # Partie législative
 
@@ -18616,144 +18616,6 @@ net de leurs placements à un montant au moins égal à celui des intérêts don
 	  - Code de la mutualité (nouveau) L111-1
 
 
-##### Section 6 : Création de succursales dans un Etat partie à l'accord sur l'Espace économique européen
-
-###### Article A212-21
-
-Les documents visés au premier alinéa de l'article L. 212-8 sont les suivants :
-
-a) La dénomination et l'adresse du siège social de la mutuelle ou de l'union ;
-
-b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'établir une succursale ;
-
-c) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b peuvent demander des informations en vue de
-l'exercice de leurs compétences ;
-
-d) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées aux a et f (1, 3, 4, 5) de
-l'article A. 211-1 ainsi que, pour les cinq premiers exercices comptables d'activité, les comptes de résultat prévisionnels,
-les prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la trésorerie ;
-
-e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnée au f (2 et 10)
-de l'article A. 211-1 ;
-
-f) Dans le cas où la mutuelle ou l'union se proposerait de couvrir les risques définis à la branche 17 de l'article R. 211-2,
-l'option choisie parmi celles énoncées à l'article L. 224-7 ;
-
-g) Le nom et les pouvoirs du mandataire général.
-
-Ces documents doivent être adressés en double exemplaire, accompagnés de la traduction certifiée conforme dans la langue
-officielle de l'Etat membre de la succursale des informations mentionnées aux a, c à g du présent article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-8, A211-1, R211-2, L224-7
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
-###### Article A212-22
-
-La notification prévue au deuxième alinéa de l'article L. 212-8 est accompagnée des informations mentionnées aux a, c, d, f,
-g de l'article A. 212-21, dans leur traduction certifiée conforme dans la langue de l'Etat de la succursale, ainsi que d'une
-attestation de la commission de contrôle mentionnée à l'article L. 510-1 certifiant que la mutuelle ou l'union dispose de la
-marge de solvabilité conformément aux dispositions du 3° de l'article L. 212-1.
-
-La date de réception de la notification par les autorités compétentes de l'Etat sur le territoire duquel la mutuelle ou
-l'union se propose d'ouvrir la succursale est communiquée à ces organismes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-8, A212-21, L510-1, L212-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
-###### Article A212-23
-
-La succursale peut commencer ses activités dès réception par la mutuelle ou l'union d'une communication de l'autorité
-administrative mentionnée à l'article R. 211-7 lui indiquant les conditions dans lesquelles les autorités de l'Etat de la
-succursale entendent que ces activités soient exercées sur leur territoire.
-
-En tout état de cause, la succursale peut commencer ses activités à l'expiration d'un délai de deux mois à compter de la
-réception par ces dernières autorités de la notification mentionnée à l'article A. 212-22.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R211-7, A212-22
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
-###### Article A212-24
-
-Tout projet de modification visé à l'article L. 212-10 est communiqué par la mutuelle ou l'union simultanément aux autorités
-compétentes de l'Etat membre de la succursale et à l'autorité administrative mentionnée à l'article R. 211-7. La
-communication au ministre de la mutualité ou au préfet de région est accompagnée des documents mentionnés à l'article A.
-212-21 affectés par le projet de modification.
-
-Lorsque, en application de l'article L. 212-10, l'autorité administrative mentionnée à l'article R. 211-7 notifie un tel
-projet de modification aux autorités compétentes de l'Etat membre de la succursale, il accompagne la notification d'un
-dossier comportant ceux des documents mentionnés à l'article A. 212-21 qui font l'objet d'une modification.
-
-La modification de la nature ou des conditions d'exercice des activités de la succursale ne peut intervenir avant
-l'expiration d'un délai d'un mois à compter de la notification par la mutuelle ou l'union à l'autorité mentionnée à l'article
-R. 211-7 et aux autorités compétentes de l'Etat membre de la succursale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-12-22 art. 3 II JORF 4 janvier 2006
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-10, R211-7, A212-21
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
 ##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.
 
 ###### Article A213-1
@@ -19431,40 +19293,62 @@ Toutefois, l'Autorité peut également requérir une expertise selon les modalit
 
 ###### Article A510-1
 
-I. - Les documents visés au premier alinéa du I de l'article R. 510-17 sont les suivants :
+I. - 1° En application du premier alinéa du I de l'article R. 510-16, toute mutuelle ou union projetant d'ouvrir une
+succursale ou d'exercer des activités en libre prestation de services doit fournir, en double exemplaire, à l'Autorité de
+contrôle des assurances et des mutuelles les documents et informations suivants :
 
 a) La dénomination et l'adresse du siège de la mutuelle ou de l'union ;
 
-b) Le nom de l'Etat membre sur le territoire duquel celle-ci envisage d'opérer en libre prestation de services ;
+b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation
+de services ;
 
-c) La liste des branches que la mutuelle ou l'union est habilitée à pratiquer ;
+c) Un programme relatif à l'activité envisagée comportant les pièces mentionnées au a et au point 1 du f de l'article A.
+211-1 ;
 
-d) Un document précisant la nature des risques ou engagements que celle-ci se propose de garantir en libre prestation de
-services ;
+d) Dans le cas où la mutuelle ou l'union se proposerait de couvrir les risques définis à la branche 17 mentionnée à l'article
+R. 211-2, l'option choisie parmi celles énoncées à l'article L. 224-7 ;
 
-e) Dans le cas où la mutuelle ou l'union se proposerait de couvrir des risques relevant de la branche 17 mentionnée à
-l'article R. 211-2, l'option choisie parmi celles énoncées à l'article L. 224-7 ;
+e) Un dossier décrivant les moyens mis en oeuvre par la mutuelle ou l'union pour les opérations qu'elle envisage de réaliser
+et ses prévisions d'activités, sauf si cette mutuelle ou union est soumise aux dispositions des d et e du 2°.
 
-f) Un dossier décrivant les moyens mis en oeuvre par la mutuelle ou l'union pour les opérations qu'elle envisage de réaliser
-en libre prestation de services et ses prévisions d'activités.
+2° Les dossiers concernant des demandes d'activité sous le régime de la liberté d'établissement comportent en outre :
 
-Les documents cités en a, b, c, d, e et f sont accompagnés de leur traduction certifiée conforme dans la langue officielle de
-l'Etat membre de la libre prestation de services.
+a) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b du 1° peuvent demander des informations en
+vue de l'exercice de leurs compétences ;
 
-II. - La notification prévue au premier alinéa du II de l'article R. 510-17 comporte celles des informations visées aux a, b,
-c, d, e et f du I du présent article qui sont affectées par le projet de modification de la nature ou des conditions
-d'exercice des activités de libre prestation de services dans l'Etat membre concerné, accompagnées de leur traduction
-certifiée conforme dans la langue officielle de l'Etat membre de libre prestation de services.
+b) Le nom et les pouvoirs du mandataire général ;
+
+c) Les informations concernant le mandataire général mentionnées à l'article A. 211-2 ;
+
+d) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées aux 3, 4 et 5 du f de
+l'article A. 211-1 ainsi que, pour les cinq premiers exercices comptables d'activité, les comptes de résultat prévisionnels,
+les prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la trésorerie ;
+
+e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnées aux 2 et 10 du
+f de l'article A. 211-1.
+
+II. - Le dossier communiqué par l'Autorité de contrôle des assurances et des mutuelles, en application du deuxième alinéa du
+I de l'article R. 510-16, aux autorités de l'Etat membre sur le territoire duquel la mutuelle ou l'union envisage d'opérer en
+liberté d'établissement ou en libre prestation de services comprend :
+
+1° Une attestation de l'Autorité de contrôle des assurances et des mutuelles certifiant que l'entreprise dispose de la marge
+de solvabilité conformément aux dispositions de la section 2 du chapitre II du titre Ier du livre II du présent code ;
+
+2° Les éléments mentionnés aux a, c et d du 1° du I ainsi que, s'agissant de l'ouverture d'une succursale, les éléments
+mentionnés aux a, b, d et e du 2° du I.
+
+III. - Les documents mentionnés au I sont accompagnés de leur traduction certifiée conforme dans la langue officielle de
+l'Etat membre sur le territoire duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation de services.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2005-01-10 art. 1 I JORF 19 janvier 2005
+	  - Arrêté 2005-12-22 art. 3 I JORF 4 janvier 2006
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R510-17, R211-2, L224-7
+	  - Code de la mutualité (nouveau) R510-16, A211-1, R211-2, L224-7, A211-2
 
 	**Liens**:
 
@@ -19473,28 +19357,40 @@ certifiée conforme dans la langue officielle de l'Etat membre de libre prestati
 
 ###### Article A510-2
 
-I. - Le dossier visé au deuxième alinéa du I de l'article R. 510-17 est composé des éléments mentionnés aux a, c, d et e de
-l'article A. 510-1 dans leur traduction certifiée conforme dans la langue de l'Etat membre de libre prestation de services,
-ainsi que d'une attestation de la commission de contrôle mentionnée à l'article L. 510-1 certifiant que la mutuelle ou
-l'union dispose de la marge de solvabilité conformément aux dispositions de la section 2 du chapitre II du titre Ier du livre
-II du code de la mutualité.
+I. - La mutuelle ou l'union peut commencer ses activités, en liberté d'établissement :
 
-II. - Le dossier visé au deuxième alinéa du II de l'article R. 510-17 est composé des éléments mentionnés au I du présent
-article, comportant les modifications envisagées par la mutuelle ou l'union relatives à la nature ou aux conditions
-d'exercice des activités en libre prestation de services dans leur traduction certifiée conforme dans la langue officielle de
-l'Etat membre de libre prestation de services ainsi que d'une attestation de la commission de contrôle certifiant que la
-mutuelle ou l'union dispose toujours de la marge de solvabilité conformément aux dispositions de la section 2 du chapitre II
-du titre Ier du livre II du code de la mutualité.
+1° A l'expiration d'un délai de deux mois à compter de la réception des éléments mentionnés au II de l'article A. 510-1 par
+les autorités de l'Etat sur le territoire duquel elle entend exercer ses activités, la date de réception de ces éléments
+étant auparavant communiquée à la mutuelle ou l'union par l'Autorité de contrôle des assurances et des mutuelles ;
+
+2° Dès réception d'une communication de l'Autorité de contrôle des assurances et des mutuelles lui indiquant les conditions
+dans lesquelles ces mêmes autorités entendent que ces activités soient exercées sur leur territoire.
+
+La mutuelle ou l'union peut commencer ses activités, en liberté de prestation de services, dès qu'elle a été avisée de la
+communication mentionnée au deuxième alinéa du I de l'article R. 510-16.
+
+II. - 1° Lorsqu'en application du premier alinéa du II de l'article R. 510-16, une mutuelle ou union notifie à l'Autorité de
+contrôle des assurances et des mutuelles son intention de modifier la nature ou les conditions d'exercice de ses activités en
+liberté d'établissement ou en libre prestation de services, cette notification est accompagnée des documents mentionnés au I
+de l'article A. 510-1 qui sont affectés par le projet de modification.
+
+2° Le dossier mentionné au second alinéa du II de l'article R. 510-16 comporte ceux des documents mentionnés au II de
+l'article A. 510-1 qui font l'objet d'une modification ainsi qu'une attestation de l'Autorité de contrôle des assurances et
+des mutuelles certifiant que la mutuelle ou union dispose toujours de la marge de solvabilité conformément aux dispositions
+de la section 2 du chapitre II du titre Ier du livre II du présent code.
+
+3° L'ensemble de ces documents sont accompagnés de leur traduction certifiée conforme dans la langue officielle de l'Etat
+membre de libre prestation de services.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2005-01-10 art. 1 I JORF 19 janvier 2005
+	  - Arrêté 2005-12-22 art. 3 I JORF 4 janvier 2006
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R510-17, A510-1, L510-1
+	  - Code de la mutualité (nouveau) A510-1, R510-16
 
 	**Liens**:
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-06-01
+Version Consolidée au 2006-06-14
 
 # Partie législative
 
@@ -22611,60 +22611,6 @@ Ces contestations sont portées devant le tribunal d'instance du lieu de proclam
 	**Liens**:
 
 	  - SPEC_APPLI: Code de la mutualité - art. R125-3 (M)
-
-
-### Titre II : Incitation à l'action mutualiste
-
-#### Chapitre III : Subventions
-
-###### Article R523-1
-
-Le ministre chargé de la mutualité et le ministre chargé des finances déterminent le programme d'expériences et de
-réalisations mutualistes pouvant donner lieu à subventions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-	**Modifié par**:
-
-	  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V) JORF 14 juin 2006
-
-	**Cité par**:
-
-	  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
-
-
-###### Article R523-2
-
-L'Etat peut accorder aux mutuelles constituées entre les fonctionnaires, agents et employés de l'Etat et des établissements
-publics nationaux des subventions destinées notamment à développer leur action sociale et, dans les conditions fixées par
-arrêté du ministre chargé de la mutualité et du ministre chargé des finances, à participer à la couverture des risques
-sociaux assurée par ces mutuelles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
-	**Modifié par**:
-
-	  - Décret n°2001-1106 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V) JORF 14 juin 2006
-
-	**Cité par**:
-
-	  - Décret n°2006-689 du 13 juin 2006 - art. 1 (V)
 
 
 ### Titre IV : Dispositions pénales

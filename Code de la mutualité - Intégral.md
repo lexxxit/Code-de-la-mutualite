@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-06-17
+Version Consolidée au 2006-06-29
 
 # Partie législative
 
@@ -10942,6 +10942,10 @@ présent article, à la condition que la durée du bulletin d'adhésion ou du co
 que le montant destiné à couvrir les frais de gestion prévus dans le bulletin d'adhésion ou le contrat collectif soit fixé
 pour une période supérieure à cinq années ;
 
+- lorsque la mutuelle n'assume pas un risque de placement, et pour les contrats mentionnés à l'article L. 222-2 qui prévoient
+que les frais de gestion ne sont pas fixés pour une période supérieure à cinq ans, à un montant équivalant à 25 % des
+dépenses de gestion nettes relatives à ces opérations pour le dernier exercice ;
+
 - lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque le montant destiné à couvrir des frais de
 gestion n'est pas fixé pour une période supérieure à cinq ans, à un nombre représentant 25 % des dépenses de gestion nettes
 relatives à ces opérations pour le dernier exercice ;
@@ -10961,7 +10965,7 @@ R. 222-8, dans la limite de la provision mathématique théorique mentionnée à
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R211-2, R212-26, R222-8, R222-16
+	  - Code de la mutualité (nouveau) R211-2, R212-26, L222-2, R222-8, R222-16
 
 	**Liens**:
 
@@ -10969,7 +10973,7 @@ R. 222-8, dans la limite de la provision mathématique théorique mentionnée à
 
 	**Modifié par**:
 
-	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
+	  - Décret n°2006-740 2006-06-27 art. 4 3° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -11725,8 +11729,9 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 
 Rapportée à la base de dispersion constituée par la différence entre le montant total des engagements réglementés mentionnés
 à l'article R. 212-21, toutes monnaies confondues, et le montant total des actifs mentionnés aux articles R. 212-36 à R.
-212-42, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après ne peut excéder,
-sauf dérogation accordée cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1 :
+212-42, toutes monnaies confondues, la valeur au bilan de chacune des catégories d'actif énumérées ci-après admis en
+représentation des engagements réglementés ne peut excéder, sauf dérogation accordée cas par cas par l'Autorité de contrôle
+mentionnée à l'article L. 510-1 :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° de l'article R. 212-31 et des prêts mentionnés au troisième
 alinéa du I de l'article R. 212-45, dont 5 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères
@@ -11742,10 +11747,6 @@ au 1° du présent article ;
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-21, R212-36 à R212-42, L510-1, R212-31, R212-45
-
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
@@ -11756,15 +11757,20 @@ au 1° du présent article ;
 	  - Code de la mutualité - art. R212-33 (M)
 	  - Code de la mutualité - art. R212-50 (V)
 
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-21, R212-36 à R212-42, L510-1, R212-31, R212-45
+
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-740 2006-06-27 art. 4 1° JORF 29 juin 2006
 
 
 ###### Article R212-33
 
-Rapportée au montant défini à l'article R. 212-32, la valeur admise en représentation des actifs mentionnés ci-après ne peut
-excéder, sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1 :
+Rapportée au montant défini à l'article R. 212-32, la valeur admise en représentation des actifs mentionnés ci-après admis en
+représentation des engagements réglementés ne peut excéder, sauf dérogation accordée au cas par cas par l'Autorité de
+contrôle mentionnée à l'article L. 510-1 :
 
 1° 5 % pour l'ensemble des valeurs émises et des prêts obtenus par un même organisme, à l'exception :
 
@@ -11809,7 +11815,7 @@ de ses engagements réglementés plus de 50 % des actions émises par une même 
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-740 2006-06-27 art. 4 1° JORF 29 juin 2006
 
 
 ###### Article R212-34
@@ -14489,6 +14495,577 @@ chacun des règlements.
 	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
 
 
+#### Chapitre II bis : Retraite professionnelle supplémentaire.
+
+###### Article R222-23
+
+I. - Le présent chapitre s'applique aux opérations mentionnées à l'article L. 222-3.
+
+II. - Rapportée à la base de dispersion définie à l'article R. 212-32 et appliquée à la comptabilité mentionnée à l'article
+L. 222-6, l'ensemble des valeurs émises, prêts obtenus ou garantis et dépôts placés auprès des organismes d'un même groupe et
+admis en représentation des engagements réglementés ne peut dépasser 10 % de ladite base de dispersion.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-3, R212-32, L222-6
+
+	**Codifié par**:
+
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-24
+
+Par dérogation aux dispositions de l'article R. 212-29, les mutuelles et leurs unions peuvent, à concurrence de 30 % de leurs
+engagements relatifs à chaque comptabilité mentionnée à l'article L. 222-6, ne pas couvrir ceux-ci par des actifs congruents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-29, L222-6
+
+	**Codifié par**:
+
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-25
+
+Les provisions techniques correspondant aux opérations de la mutuelle ou de l'union au titre des contrats relevant de
+l'article L. 222-3 sont celles mentionnées aux 1°, 2°, 3°, 4°, 6° et 7° de l'article R. 212-26.
+
+Sont inscrits dans le compte mentionné au b de l'article R. 222-35 les actifs du contrat et les provisions techniques
+mentionnées aux 1°, 2°, 3°, 6° et 7° de l'article R. 212-26.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-3, R212-26, R222-35
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-26
+
+L'opération mentionnée à l'article L. 222-10 obéit aux règles fixées à l'article R. 332-63 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-10
+	  - Code des assurances - art. R332-63
+
+	**Codifié par**:
+
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-27
+
+Les tarifs pratiqués par les mutuelles et leurs unions sont établis d'après des tables de mortalité et des taux définis par
+arrêté du ministre de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-28
+
+I. - Pour l'application de l'article L. 222-4, la valeur de transfert d'un membre participant d'un contrat d'origine ne
+relevant pas de l'article L. 222-1 au contrat d'accueil ne peut être inférieure à la cotisation unique qui à la date de
+calcul dudit transfert conduirait par hypothèse à disposer dans le contrat d'origine des mêmes droits individuels que ceux du
+membre participant demandant le transfert.
+
+Pour l'application de la règle mentionnée à l'alinéa précédent, la cotisation unique mentionnée au même alinéa est calculée
+en retenant les taux d'intérêt techniques et les tables utilisées lors de l'établissement du ou des tarifs pratiqués vis-à-
+vis du membre participant demandant le transfert, et il n'est pas tenu compte des éventuels prélèvements sur cotisations
+prévus au contrat.
+
+II. - Pour les contrats ne relevant pas du troisième alinéa de l'article L. 222-3, le comité de surveillance mentionné au
+troisième alinéa de l'article L. 222-4 est composé à parts égales de représentants des salariés et des employeurs.
+
+Nul ne peut être membre du comité de surveillance s'il a fait l'objet de l'une des condamnations ou mesures mentionnées aux
+1° à 5° de l'article L. 114-21.
+
+Le comité de surveillance élit son président par un scrutin à bulletin secret.
+
+Le comité de surveillance est composé d'au moins une personne représentant les adhérents ayant déjà procédé à la liquidation
+de leurs droits, et d'au moins une personne représentant les adhérents dont l'adhésion n'est plus obligatoire, mais n'ayant
+pas transféré leurs droits, sous réserve que le nombre de personnes ainsi représentées appartenant à chacune de ces
+catégories soit supérieur à un seuil précisé par arrêté du ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-4, L222-1, L222-3, L114-21
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-29
+
+Pour l'application de l'article L. 222-4, le règlement intérieur du comité détermine les possibilités pour ses membres de
+donner pouvoir, les conditions et les délais de convocation du comité ainsi que les conditions dans lesquelles ce comité
+délibère. Il prévoit en particulier que chacun de ses membres détient un droit de vote et qu'en cas d'égalité des suffrages
+le président du comité a voix prépondérante.
+
+Le comité est réuni au moins une fois par an, sur convocation de son président ou d'au moins la moitié de ses membres.
+L'ordre du jour de la réunion est fixé par l'auteur de la convocation. Il est tenu un procès-verbal et un registre de
+présence des réunions du comité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-4
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-30
+
+Le comité de surveillance :
+
+1° Emet un avis sur le rapport prévu au dernier alinéa de l'article L. 222-8, lors de son établissement et à chaque
+modification de celui-ci ;
+
+2° Peut entendre le ou les commissaires aux comptes mentionnés à l'article L. 222-8 sur les comptes mentionnés au deuxième
+alinéa de cet article. Ils sont sur cette question déliés à son égard de l'obligation du secret professionnel.
+
+Lorsque le comité de surveillance institué au niveau d'un contrat souhaite entendre le commissaire aux comptes en application
+de l'article L. 222-3, les informations communiquées sont celles relatives à la comptabilité auxiliaire d'affectation dans
+laquelle sont enregistrées les opérations de ce contrat, et portent sur les comptes annuels issus de cette comptabilité même
+si celle-ci regroupe plusieurs contrats de retraite professionnelle supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-8, L222-3
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-31
+
+Le rapport mentionné au dernier alinéa de l'article L. 222-8 peut être intégré dans le rapport mentionné à l'article R.
+211-28.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-8, R211-28
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-32
+
+Les provisions techniques correspondant aux opérations mentionnées à l'article L. 222-3 sont calculées chaque année par un
+actuaire et certifiées soit par le ou les commissaires aux comptes de la mutuelle ou l'union dans le cadre d'une mission
+distincte de la mission générale de commissariat aux comptes exercée dans cette mutuelle ou union, soit par un autre
+actuaire, indépendant de la mutuelle ou union et agréé à cet effet par l'une des associations d'actuaires reconnues par
+l'autorité instituée à l'article L. 510-1. L'actuaire ou le ou les commissaires aux comptes vérifie que les provisions sont,
+dans le respect des dispositions du présent code applicables à celles-ci, constituées de façon suffisamment prudente, en
+tenant compte le cas échéant d'une marge adéquate pour les écarts défavorables, et que les méthodes et les bases de calcul
+des provisions techniques restent en général constantes d'un exercice à l'autre. Une modification de ces méthodes peut
+toutefois être justifiée, dans le respect du présent code, par un changement des données juridiques, démographiques ou
+économiques sur lesquelles se fondent ces hypothèses.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-3, L510-1
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-33
+
+Toute mutuelle ou union projetant de fournir des services d'institutions de retraite professionnelle sur le territoire d'un
+autre Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen, conformément aux dispositions de
+l'article L. 222-11, notifie son projet à l'autorité de contrôle instituée à l'article L. 510-1 dans les conditions fixées à
+l'article R. 310-17-1 du code des assurances.
+
+Lorsque l'autorité de contrôle instituée à l'article L. 510-1 exerce la faculté mentionnée au troisième alinéa de l'article
+L. 222-6, elle en informe l'autorité compétente de l'Etat dans lequel la mutuelle ou l'union fournit des services
+d'institution de retraite professionnelle dans les conditions fixées à l'article R. 310-17-2 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-11, L510-1, L222-6
+	  - Code des assurances R310-17-1, R310-17-2
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-34
+
+Les modalités techniques de mise en oeuvre du présent chapitre sont précisées par arrêté du ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+#### Chapitre II ter : Dispositions relatives aux comptabilités auxiliaires d'affectation.
+
+###### Article R222-35
+
+Le présent chapitre s'applique aux contrats pour lesquels il est tenu une comptabilité auxiliaire d'affectation ne relevant
+pas de l'article L. 222-1 ou de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. Il est
+établi, pour chaque comptabilité auxiliaire :
+
+a) Un compte de résultat d'affectation ;
+
+b) Un compte de bilan d'affectation, où sont inscrits les actifs du ou des contrats et ses provisions techniques ;
+
+c) Une annexe comportant un inventaire des actifs du ou des contrats et un état récapitulatif des opérations mentionnées aux
+articles R. 222-37 et R. 222-38 ;
+
+d) Un tableau des engagements reçus et donnés.
+
+Ces documents sont établis et arrêtés par la mutuelle ou l'union à chaque fin d'exercice dans les mêmes conditions que ses
+comptes individuels.
+
+Lorsque le contrat prévoit l'acquisition de droits individuels relatifs à des engagements exprimés en unités de compte, ces
+droits font l'objet d'un enregistrement comptable distinct de celui mentionné au présent article, comme il est dit à
+l'article R. 212-37.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-1, annexe, R222-37, R222-38, R212-37
+	  - Loi n°2003-775 2003-08-21 art. 108
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-36
+
+Les dispositions des articles R. 212-32 et R. 212-33 et du I de l'article R. 212-55 s'appliquent séparément à chaque
+portefeuille de titres et de placements qui fait l'objet d'un enregistrement comptable distinct.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R212-55
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-37
+
+Lorsque les engagements de la mutuelle ou l'union au titre d'une comptabilité auxiliaire ne sont plus représentés de manière
+au moins équivalente par les actifs de ce contrat, la mutuelle ou l'union parfait cette représentation en procédant à
+l'affectation aux engagements relatifs à cette comptabilité auxiliaire d'actifs représentatifs de ses réserves ou de ses
+provisions autres que ceux représentatifs de ses engagements réglementés. Ces actifs sont obligatoirement choisis dans les
+catégories de placements mentionnés à l'article R. 222-38.
+
+Ce changement d'affectation d'actifs emporte affectation à la comptabilité auxiliaire du produit des droits attachés à ces
+actifs, y compris les produits correspondant aux éventuels crédits d'impôts attachés à la détention de ces mêmes actifs. Les
+actifs ainsi affectés à la comptabilité auxiliaire sont inscrits au bilan mentionné à l'article R. 222-35 pour leur valeur de
+réalisation déterminée conformément aux dispositions des articles R. 212-54 et R. 212-54-1. La différence entre cette valeur
+et la valeur comptable antérieure est le cas échéant constatée dans le compte de résultat de la mutuelle ou l'union.
+
+Lorsque le niveau de la représentation de ses engagements au titre du ou des contrats le permet, la mutuelle ou l'union peut
+réaffecter en représentation de réserves ou de provisions autres que celles relatives à ce ou ces contrats, des actifs
+représentatifs des engagements du contrat choisis dans les catégories d'actifs définies au premier alinéa. Les actifs ainsi
+réaffectés sont inscrits au bilan pour leur valeur de réalisation déterminée conformément aux dispositions des articles R.
+212-54 et R. 212-54-1. La différence entre cette valeur et la valeur comptable antérieure inscrite dans le compte de bilan
+d'affectation est le cas échéant constatée dans le compte de résultat mentionné à l'article R. 222-35. La valeur de
+réalisation cumulée des actifs ainsi réaffectés, à la date de cette réaffectation, ne peut excéder la valeur de réalisation
+des actifs affectés au ou aux contrats au titre du premier alinéa à la date de cette affectation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-38, R222-35, R212-54, R212-54-1
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-38
+
+Les placements détenus par la mutuelle ou l'union en représentation d'engagements autres que ceux relatifs aux contrats
+mentionnés à l'article R. 222-35 ne peuvent changer d'affectation pour être affectés à ces derniers qu'à condition de relever
+de l'une des catégories de placements définies aux 1° à 7°, 9° et 18° de l'article R. 212-31. Les mêmes dispositions
+s'appliquent aux placements d'un contrat qui changent d'affectation et sont affectés en représentation d'autres engagements
+de la mutuelle ou l'union, y compris ceux relatifs à d'autres contrats mentionnés à l'article R. 222-35 ou à l'article L.
+222-3.
+
+L'enregistrement comptable des opérations mentionnées au premier alinéa est identique à celui qui résulte d'une opération de
+cession d'actifs pour le portefeuille de placements d'origine et d'une opération concomitante d'acquisition d'actifs pour le
+portefeuille de placements d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-35, R212-31, L222-3
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-39
+
+Les actifs de chaque contrat sont conservés par un dépositaire unique. Ce dépositaire ouvre au nom de la mutuelle ou l'union,
+pour les opérations financières liées à la gestion financière du contrat, un compte espèce et un compte de titres propres à
+chaque contrat ainsi que tout compte nécessaire à la tenue des positions sur les marchés d'instruments financiers à terme.
+
+Le dépositaire assure la conservation des actifs des contrats qui font l'objet d'un enregistrement comptable distinct tel que
+prévu à l'article R. 222-35, dépouille les ordres de la mutuelle ou l'union concernant les opérations sur les titres et
+placements de ce ou ces contrats, y compris ceux relatifs aux changements d'affectation de titres mentionnés aux articles R.
+222-37 et R. 222-38 et exerce les droits de souscription et d'attribution attachés aux titres et aux valeurs de ce ou de ces
+contrats.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-35, R222-37, R222-38
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-40
+
+La participation aux excédents techniques et financiers est calculée séparément pour chaque portefeuille de titres et de
+placements qui fait l'objet d'un enregistrement comptable distinct, dans des conditions fixées par arrêté du ministre chargé
+de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-41
+
+Le produit des droits attachés aux actifs détenus en représentation des engagements de la mutuelle ou l'union relatifs à un
+contrat est intégralement pris en compte, y compris les produits correspondant aux éventuels crédits d'impôts attachés à la
+détention de ces mêmes actifs, dans la limite de leur récupération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R222-42
+
+Dans le cadre des opérations relatives à une comptabilité auxiliaire, la mutuelle ou l'union ne peut conclure des contrats
+constituant des instruments financiers à terme au sens de l'article L. 211-1 du code monétaire et financier que dans les cas
+et les conditions prévus aux articles R. 212-70 à R. 212-83 du même code et à condition que ces contrats aient pour seul
+objet la gestion financière de ces mêmes opérations, à l'exclusion de toute autre opération de la mutuelle ou de l'union.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier L211-1, R212-70 à R212-83
+
+
+###### Article R222-43
+
+La mutuelle ou l'union peut conclure des traités de réassurance portant sur les engagements qu'elle a contractés au titre
+d'un contrat mentionné à l'article R. 222-35, et à condition que ces opérations porte exclusivement sur tout ou partie de la
+différence entre le montant des prestations effectivement versées au titre de ce contrat et celui des prestations
+correspondant aux provisions mathématiques avant cession et que l'ensemble de ces opérations portent sur un engagement total
+inférieur à 10 % desdites provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) R222-35
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
 #### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.
 
 ##### Section 1 : Dispositions générales
@@ -16832,7 +17409,9 @@ libre prestation de services.
 
 II. - Tout projet de modification de la nature ou des conditions d'exercice des activités en liberté d'établissement ou en
 libre prestation de services autorisées conformément aux dispositions du troisième alinéa de l'article L. 510-3 est notifié à
-l'Autorité de contrôle.
+l'Autorité de contrôle. Lorsque la mutuelle ou l'union opère en régime de liberté d'établissement, elle communique également
+son projet de modification, de manière simultanée, aux autorités compétentes de l'Etat membre sur le territoire duquel est
+située sa succursale.
 
 Si l'Autorité estime que les conditions mentionnées à ce même alinéa sont toujours remplies, elle communique aux autorités
 compétentes de l'Etat membre de prestations de services, dans le délai d'un mois suivant la notification mentionnée à
@@ -16860,7 +17439,7 @@ lui fait connaître, dans les délais mentionnés au troisième alinéa du I et 
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-740 2006-06-27 art. 4 4° JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -19606,6 +20185,61 @@ la fixation de la nouvelle valeur de service de l'unité de rente.
 	**Modifié par**:
 
 	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+
+#### Chapitre II bis : Opérations de retraite professionnelle supplémentaire.
+
+###### Article A222-3
+
+I. - Le seuil mentionné au troisième alinéa de l'article L. 222-4 est de 5 000 adhérents.
+
+II. - Le seuil mentionné au dernier alinéa de l'article R. 222-28 s'élève, pour chaque catégorie, à 100 adhérents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 2 JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-4, R222-28
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+
+
+###### Article A222-4
+
+I. - En application de l'article L. 222-8, sont remis sur demande aux adhérents d'un contrat mentionné à l'article L. 222-3,
+dans un délai qui ne peut excéder trois mois :
+
+- les modalités d'exercice du transfert ;
+
+- le montant dû en cas d'exercice de la faculté de rachat lorsque survient l'un des événements visés au deuxième alinéa de
+l'article L. 223-22 du code de la mutualité, apprécié à la date de la demande ;
+
+- le niveau que les prestations de retraite doivent atteindre, le cas échéant.
+
+II. - Les participants reçoivent chaque année des informations succinctes sur la situation de la mutuelle ou de l'union.
+
+III. - Lorsque le salarié fait liquider ses droits à la retraite, la mutuelle ou l'union lui adresse, dans un délai de trois
+mois à compter de la date de la demande, une information sur ses droits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2006-06-27 art. 2 JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L222-8, L222-3, L223-22
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 
 #### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-11-09
+Version Consolidée au 2006-12-13
 
 # Partie législative
 
@@ -10819,11 +10819,11 @@ II. - La marge de solvabilité peut également être constituée par :
 1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés.
 
 Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du
-ministre chargé de la mutualité. La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de la marge de
-solvabilité prévue au présent article. Toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou
-emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
-peut, conformément aux dispositions de l'article L. 510-11, donner lieu à application de sanctions par l'Autorité de contrôle
-mentionnée à l'article L. 510-1 ;
+ministre chargé de la mutualité. La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % du montant le plus
+faible de l'exigence de marge de solvabilité ou de la marge de solvabilité. Toutefois, la prise en compte de ceux de ces
+fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout
+remboursement effectué irrégulièrement peut, conformément aux dispositions de l'article L. 510-11, donner lieu à application
+de sanctions par l'Autorité de contrôle mentionnée à l'article L. 510-1 ;
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
 mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie.
@@ -10875,7 +10875,7 @@ du III.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-1577 2006-12-11 art. 1 1° JORF 13 décembre 2006
 
 
 ###### Article R212-16
@@ -10997,8 +10997,7 @@ l'Autorité de contrôle communique le nouveau montant en euros calculé en fonc
 multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ce
 montant n'est pas révisé.
 
-Le fonds est constitué par les éléments mentionnés à l'article R. 212-15, à l'exception de ceux mentionnés au 2° et au 6° (a)
-dudit article.
+Le fonds est constitué par les éléments mentionnés aux 1, 2 et 3 du I, au 1 du II et au 1 du III de l'article R. 212-15.
 
 Le deuxième alinéa du présent article n'est pas applicable aux mutuelles qui :
 
@@ -11030,7 +11029,7 @@ annuellement.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-1577 2006-12-11 art. 1 2° JORF 13 décembre 2006
 
 	**Cité par**:
 
@@ -11636,16 +11635,26 @@ des Etats membres de l'OCDE ;
 9° Actions, parts et droits émis par des sociétés commerciales et obligations, titres participatifs et titres subordonnés
 émis par les sociétés d'assurances mutuelles, les mutuelles, unions et fédérations régies par le présent code et les
 institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale, ayant leur siège social sur le
-territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 5°, 6°, 7°, 8°, 11°, 12° et
+territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 5°, 6°, 7°, 8°, 10° bis, 12° et
 14° ;
 
-10° Parts des fonds communs de placement régis par les sous-sections 7 et 9 de la section 1 du chapitre IV du titre Ier du
-livre II du code monétaire et financier ;
+10° Parts des fonds communs de placement à risques de l'article L. 214-36 du code monétaire et financier, parts des fonds
+communs de placement dans l'innovation de l'article L. 214-41 du même code et parts des fonds d'investissement de proximité
+de l'article L. 214-41-1 du même code ;
 
-11° Actions des sociétés d'investissement à capital variable ;
+10° bis Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement des articles L.
+214-37 et L. 214-38 du code monétaire et financier, actions ou parts d'organisme de placement collectif en valeurs mobilières
+relevant de l'article L. 214-35-2 du code monétaire et financier, actions ou parts d'organismes de placement collectif en
+valeurs mobilières relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août
+2003 ;
+
+10° ter Parts ou actions d'organismes de placement collectif en levier mentionnés au R. 214-29 ou d'organismes de placement
+collectif en valeurs mobilières à règles d'investissement allégées à effet de levier mentionnés au R. 214-32 ;
+
+11° Parts ou actions d'organismes de placement collectifs en valeur mobilières de fonds alternatifs mentionnés au R. 214-36 ;
 
 12° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
-mentionnées aux 5°, 10° et 11°, dans les conditions fixées par l'article R. 212-46.
+mentionnées aux 5°, 10°, 10° bis, 10° ter et 11°, dans les conditions fixées par l'article R. 212-46.
 
 Les marchés reconnus mentionnée aux 2°, 3°, 4° et 6° du présent article sont les marchés réglementés des Etats membres de la
 Communauté européenne ou des Etats parties à l'accord sur l'Espace économique européen ou les marchés de pays tiers membres
@@ -11698,14 +11707,17 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 
 	  - Code de la mutualité (nouveau) R212-28, R212-29, R212-35 à R212-42, R212-21, R212-47, R212-46, R212-48, R212-44, R212-45, R212-49, R212-70, R212-81, R212-71, R212-52
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
+	  - Code monétaire et financier - art. L214-35 (M)
+	  - Code monétaire et financier - art. L214-35-2 (M)
+	  - Code monétaire et financier - art. L214-36 (M)
+	  - Code monétaire et financier - art. L214-37 (M)
+	  - Code monétaire et financier - art. L214-38 (M)
+	  - Code monétaire et financier - art. L214-41 (M)
+	  - Code monétaire et financier - art. L214-41-1 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 2 () JORF 26 mars 2004
 
 	**Cité par**:
 
@@ -11725,6 +11737,10 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 	  - Code de la mutualité - art. R212-78 (V)
 	  - Code de la mutualité - art. R212-81 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2006-1577 2006-12-11 art. 1 3° JORF 13 décembre 2006
+
 
 ###### Article R212-32
 
@@ -11735,9 +11751,9 @@ représentation des engagements réglementés ne peut excéder, sauf dérogation
 mentionnée à l'article L. 510-1 :
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° de l'article R. 212-31 et des prêts mentionnés au troisième
-alinéa du I de l'article R. 212-45, dont 5 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères
-d'assurance mentionnées au 8° de l'article R. 212-31, par les actions et parts mentionnées aux 9°, 10° et 11° de l'article R.
-212-31 et par les prêts mentionnés ci-dessus ;
+alinéa du I de l'article R. 212-45, dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères
+d'assurance et de réassurance mentionnées au 8° de l'article R. 212-31 et par les actions et parts mentionnées aux 9°, 10°,
+10° bis, 10 ter et 11° du même article et par les prêts mentionnés ci-dessus ;
 
 2° 40 % pour les actifs immobiliers mentionnés aux 13° et 14° de l'article R. 212-31 ;
 
@@ -11764,7 +11780,7 @@ au 1° du présent article ;
 
 	**Modifié par**:
 
-	  - Décret n°2006-740 2006-06-27 art. 4 1° JORF 29 juin 2006
+	  - Décret n°2006-1577 2006-12-11 art. 1 4° JORF 13 décembre 2006
 
 
 ###### Article R212-33
@@ -11773,14 +11789,10 @@ Rapportée au montant défini à l'article R. 212-32, la valeur admise en repré
 représentation des engagements réglementés ne peut excéder, sauf dérogation accordée au cas par cas par l'Autorité de
 contrôle mentionnée à l'article L. 510-1 :
 
-1° 5 % pour l'ensemble des valeurs émises et des prêts obtenus par un même organisme, à l'exception :
-
-a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'OCDE ainsi que des titres émis par la
-caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative
-au remboursement de la dette sociale ;
-
-b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 5° de
-l'article R. 212-31.
+1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès de cet
+organisme, à l'exception des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'OCDE ainsi que des
+titres émis par la caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24
+janvier 1996 relative au remboursement de la dette sociale.
 
 Le ratio de droit commun de 5 % peut atteindre 10 % pour les titres d'un même émetteur, à condition que la valeur des titres
 de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 % n'excède pas 40 % du montant défini à
@@ -11793,8 +11805,8 @@ organismes ;
 
 2° 10 % pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
 
-3° 0,5 % pour les valeurs mentionnées aux 9°, 10° et 11° de l'article R. 212-31 et les prêts mentionnés au troisième alinéa
-du I de l'article R. 212-45, respectivement émises ou obtenus par une même société ou un même organisme.
+3° 1 % pour les valeurs mentionnées aux 9°, 10°, 10° bis et 10° ter de l'article R. 212-31 et les prêts mentionnés au
+troisième alinéa du I de l'article R. 212-45, respectivement émises ou obtenus par une même société ou un même organisme.
 
 Pour l'application des dispositions du 7° de l'article R. 212-31, une mutuelle ou union ne peut affecter à la représentation
 de ses engagements réglementés plus de 50 % des actions émises par une même société.
@@ -11816,7 +11828,7 @@ de ses engagements réglementés plus de 50 % des actions émises par une même 
 
 	**Modifié par**:
 
-	  - Décret n°2006-740 2006-06-27 art. 4 1° JORF 29 juin 2006
+	  - Décret n°2006-1577 2006-12-11 art. 1 5° JORF 13 décembre 2006
 
 
 ###### Article R212-34
@@ -12184,13 +12196,13 @@ répondant aux conditions fixées par l'article R. 212-50.
 
 ###### Article R212-46
 
-En application des dispositions des 5° et 12° de l'article R. 212-31, les mutuelles et unions sont autorisées à détenir les
-actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement régis par les sous-
-sections 1 à 6 de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et financier ; elles sont également
-autorisées à détenir les actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement
-régis par les réglementations des autres Etats parties à l'accord sur l'Espace économique européen, pour autant que ces
-règles soient conformes à la directive communautaire 85/611/CEE du 20 décembre 1985 relative aux organismes de placement
-collectif en valeurs mobilières.
+En application des dispositions des 5° et 12° de l'article R. 212-31, sont admissibles en représentation des engagements
+réglementés les parts ou actions d'organismes de placement collectif en valeurs mobilières relevant des sous-sections 1 à 8
+de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et financier (partie réglementaire) ; sont
+également admissibles les parts ou actions des organismes de placement collectif en valeurs mobilières régis par les
+réglementations des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique
+européen, pour autant que ces règles soient conformes à la directive communautaire n° 85/611/CEE du 20 décembre 1985 modifiée
+relative aux organismes de placement collectif en valeurs mobilières.
 
 **Liens relatifs à cet article**
 
@@ -12202,9 +12214,9 @@ collectif en valeurs mobilières.
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002 et rectificatif JORF 21 septembre 2002
+	  - Décret n°2006-1577 2006-12-11 art. 1 6° JORF 13 décembre 2006
 
 	**Cité par**:
 
@@ -12420,8 +12432,7 @@ amortissements et majorée des produits mentionnés aux troisième et quatrième
 correspondants évaluée conformément à l'article R. 212-54, ne font pas l'objet d'une provision.
 
 Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
-paiement des intérêts, soit pour le remboursement du principal, une provision pour dépréciation doit être constituée à
-l'inventaire.
+paiement des intérêts, soit pour le remboursement du principal, une dépréciation doit être constatée à l'inventaire.
 
 II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix, avec garantie de
 remboursement au pair et émises ou garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1° du A de
@@ -12435,12 +12446,12 @@ prix de référence à la date d'acquisition et ce même indice à la date d'ém
 A chaque arrêté comptable, le gain ou la perte lié à l'indexation depuis le dernier arrêté comptable ou depuis l'achat, s'il
 est plus récent, est enregistré en produits ou en charges.
 
-Sans préjudice des dispositions du I, les obligations indexées sur le niveau général des prix donnent lieu à la constitution
-d'une provision pour dépréciation si une situation de déflation durable est envisagée. Pour la détermination du montant de
-cette provision, la valeur de réalisation de ces obligations, qui ne peut être inférieure à leur nominal, est la valeur la
-plus faible entre, d'une part, leur valeur de marché et, d'autre part, leur valeur calculée sur la base des prévisions
-d'évolution de l'indice des prix de référence publiées par un organisme figurant sur la liste fixée par arrêté du ministre
-chargé de l'économie en application de l'article R. 332-19 du code des assurances.
+Sans préjudice des dispositions du I, les obligations indexées sur le niveau général des prix donnent lieu à la constatation
+d'une dépréciation si une situation de déflation durable est envisagée. Pour la détermination du montant de cette provision,
+la valeur de réalisation de ces obligations, qui ne peut être inférieure à leur nominal, est la valeur la plus faible entre,
+d'une part, leur valeur de marché et, d'autre part, leur valeur calculée sur la base des prévisions d'évolution de l'indice
+des prix de référence publiées par un organisme figurant sur la liste fixée par arrêté du ministre chargé de l'économie en
+application de l'article R. 332-19 du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -12454,10 +12465,6 @@ chargé de l'économie en application de l'article R. 332-19 du code des assuran
 
 	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
-	**Modifié par**:
-
-	  - Décret n°2004-262 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
-
 	**Cité par**:
 
 	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
@@ -12468,6 +12475,10 @@ chargé de l'économie en application de l'article R. 332-19 du code des assuran
 	  - Code de la mutualité - art. R212-55 (V)
 	  - Code de la mutualité - art. R510-3-1 (VT)
 	  - Code de la mutualité - art. R510-3-4 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2006-1577 2006-12-11 art. 1 7° JORF 13 décembre 2006
 
 
 ###### Article R212-53
@@ -12493,12 +12504,12 @@ c) Les prêts sont évalués d'après les actes qui en font foi ;
 d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre chargé de la
 mutualité.
 
-Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation, lesquelles
-ne peuvent être constatées que lorsqu'il y a lieu de considérer que la dépréciation a un caractère durable. Toutefois, les
-mutuelles et unions qui, au bilan du dernier exercice clos un an avant la publication du plan comptable, constataient les
-dépréciations, même lorsque celles-ci n'avaient pas un caractère durable, peuvent continuer à faire application de cette
-méthode jusqu'au dernier exercice clos un an avant le 1er janvier 2007 ; elles peuvent y renoncer à tout moment, en le
-notifiant préalablement à l'Autorité de contrôle mentionnée à l'article L. 510-1, cette renonciation étant alors définitive.
+Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les dépréciations, lesquelles ne peuvent être
+constatées que lorsqu'il y a lieu de considérer qu'elles ont un caractère durable. Toutefois, les mutuelles et unions qui, au
+bilan du dernier exercice clos un an avant la publication du plan comptable, constataient les dépréciations, même lorsque
+celles-ci n'avaient pas un caractère durable, peuvent continuer à faire application de cette méthode jusqu'au dernier
+exercice clos un an avant le 1er janvier 2007 ; elles peuvent y renoncer à tout moment, en le notifiant préalablement à
+l'Autorité de contrôle mentionnée à l'article L. 510-1, cette renonciation étant alors définitive.
 
 **Liens relatifs à cet article**
 
@@ -12522,7 +12533,7 @@ notifiant préalablement à l'Autorité de contrôle mentionnée à l'article L.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2006-1577 2006-12-11 art. 1 8° JORF 13 décembre 2006
 
 
 ###### Article R212-54
@@ -13416,6 +13427,69 @@ obligation pour la mutuelle ou union.
 	**Créé par**:
 
 	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+##### Section 8 : Comptes et états statistiques.
+
+###### Article R212-90
+
+I. - La quote-part mentionnée à l'article L. 212-6 est un pourcentage de la valeur de l'ensemble des placements appartenant à
+la mutuelle ou l'union et de ceux des autres actifs affectables à la représentation des engagements réglementés, évalués
+conformément aux dispositions de l'article R. 212-54. Ce pourcentage est au moins égal au résultat obtenu en divisant par
+cette valeur la somme des montants suivants :
+
+a) Actifs correspondant aux opérations relevant de l'article L. 222-1, évalués comme il est dit à l'article R. 212-54 ;
+
+b) Placements affectés à la représentation des opérations en unités de compte dans lesquels la somme assurée est déterminée
+par rapport à une valeur de référence et évalués comme il est dit au dernier alinéa de l'article R. 212-37 ;
+
+c) Actifs transférés avec un portefeuille de bulletins d'adhésion à un règlement ou de contrats, évalués comme il est dit à
+l'article R. 212-54 ;
+
+d) Montant des provisions techniques brutes de réassurance constituées au titre des opérations pratiquées par la mutuelle ou
+l'union pour les branches 20 à 22 et 24 à 26 de l'article R. 211-2 autres que celles qui sont mentionnées aux a et b et
+diminué du montant des actifs mentionnés au c, évalués comme il est dit aux articles R. 212-52 et R. 212-53 ;
+
+e) Un pourcentage, défini au II du présent article, de la différence entre la valeur, d'une part, évaluée comme il est dit à
+l'article R. 212-54, d'autre part, évaluée comme il est dit aux articles R. 212-52 et R. 212-53, de l'ensemble des placements
+appartenant à la mutuelle ou l'union et de ceux des autres actifs affectables à la représentation des engagements réglementés
+autres que ceux mentionnés aux a, b et c ci-dessus.
+
+II. - Le pourcentage mentionné au e du I du présent article est égal à 85 % du quotient A/B, avec :
+
+A : montant moyen des provisions techniques brutes de réassurance constituées au titre de l'ensemble des opérations
+pratiquées par la mutuelle ou l'union autres que celles qui sont mentionnées aux a et b du I du présent article ou qui sont
+relatives à des opérations collectives en cas de décès ou, pour les mutuelles ou unions agréées pour pratiquer simultanément
+les opérations visées au a et au b du 1° de l'article L. 111-1, à des opérations relevant des branches 1 ou 2 de l'article R.
+211-2, et diminué du montant moyen des actifs mentionnés en c du I du présent article, évalués comme il est dit aux articles
+R. 212-52 et R. 212-53 ;
+
+B : montant moyen de l'ensemble des placements appartenant à la mutuelle ou l'union et de ceux des autres actifs affectables
+à la représentation des engagements réglementés, autres que ceux qui sont mentionnés aux a, b et c du I ci-dessus, évalués
+comme il est dit aux articles R. 212-52 et R. 212-53.
+
+Les montants moyens mentionnés à l'alinéa précédent sont obtenus en divisant par deux la somme des montants inscrits dans les
+comptes à l'ouverture et à la clôture de l'exercice.
+
+III. - Les placements, actifs et provisions mentionnés au présent article ne comprennent pas ceux qui sont constitués par la
+mutuelle ou l'union dans le cadre des opérations effectuées par ses succursales situées à l'étranger.
+
+IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne peut excéder celle qui résulte de leur
+évaluation conformément aux dispositions de l'article R. 212-54.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L212-6, R212-54, L222-1, R212-37, R211-2, R212-52, R212-53, L111-1
+
+	**Créé par**:
+
+	  - Décret n°2006-1577 du 11 décembre 2006 - art. 2 () JORF 13 décembre 2006
 
 	**Abrogé par**:
 

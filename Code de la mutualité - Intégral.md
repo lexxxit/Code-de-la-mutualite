@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -5816,13 +5816,12 @@ l'adhérent avant ou après la date de mise en service de la rente viagère, ain
 
 Les droits individuels en cours de constitution relatifs aux contrats mentionnés à l'article L. 222-3 sont transférables vers
 un autre contrat mentionné à l'article L. 222-3, ainsi que, dans des conditions et des limites fixées par décret, vers un
-plan d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
-Ces droits sont également transférables vers un contrat offrant les prestations mentionnées à l'article L. 222-3, mais
-n'ayant pas été souscrit dans le cadre de l'agrément administratif mentionné au premier alinéa de cet article. La notice
-d'information précise les modalités d'exercice de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats
-revêt un caractère obligatoire déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 de la sécurité
-sociale, les droits individuels relatifs à ces contrats ne sont transférables que lorsque le participant n'est plus tenu d'y
-adhérer.
+plan d'épargne retraite populaire défini à l'article L. 144-2 du code des assurances. Ces droits sont également transférables
+vers un contrat offrant les prestations mentionnées à l'article L. 222-3, mais n'ayant pas été souscrit dans le cadre de
+l'agrément administratif mentionné au premier alinéa de cet article. La notice d'information précise les modalités d'exercice
+de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats revêt un caractère obligatoire déterminé dans
+le cadre d'une des procédures mentionnées à l'article L. 911-1 de la sécurité sociale, les droits individuels relatifs à ces
+contrats ne sont transférables que lorsque le participant n'est plus tenu d'y adhérer.
 
 Il est institué pour chaque contrat mentionné au deuxième alinéa de l'article L. 222-3, ne relevant pas du b du 1 du I de
 l'article 163 quatervicies du code général des impôts et dont le nombre des membres participants est supérieur à un seuil
@@ -5836,24 +5835,23 @@ conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pé
 commissaires aux comptes mentionnés à l'article L. 222-8 sur les comptes mentionnés à cet article. Ils sont sur cette
 question déliés à son égard de l'obligation du secret professionnel.
 
-Les deuxième et troisième alinéas ne s'appliquent ni aux contrats relevant du troisième alinéa de l'article L. 222-3, ni aux
-contrats à prestations définies bénéficiant du régime prévu au 2° et au 2° 0 bis de l'article 83 du code général des impôts,
-ni à ceux entrant dans le champ d'application de l'article L. 137-11 du code de la sécurité sociale. Ils ne s'appliquent pas
-non plus aux contrats ayant pour seul objet la prestation d'indemnités de départ en retraite mentionnées à l'article L.
-122-14-13 du code du travail.
+Les deuxième et troisième alinéas ne s'appliquent ni aux contrats à prestations définies bénéficiant du régime prévu au 2° et
+au 2° 0 bis de l'article 83 du code général des impôts, ni à ceux entrant dans le champ d'application de l'article L. 137-11
+du code de la sécurité sociale. Ils ne s'appliquent pas non plus aux contrats ayant pour seul objet la prestation
+d'indemnités de départ en retraite mentionnées à l'article L. 122-14-13 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 163 quatervicies, 83
-	  - Loi n°2003-775 2003-08-21 art. 108
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
 	  - Code du travail - art. L122-14-13 (M)
 	  - Code de la sécurité sociale. - art. L137-11 (M)
 	  - Code de la sécurité sociale. - art. L351-1 (M)
 	  - Code des assurances - art. L143-8 (V)
+	  - Code des assurances - art. L144-2 (V)
 	  - Code de la mutualité - art. L222-3 (V)
 	  - Code de la mutualité - art. L222-8 (V)
 
@@ -5861,9 +5859,10 @@ non plus aux contrats ayant pour seul objet la prestation d'indemnités de dépa
 
 	  - Ordonnance 2001-350 2001-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 64 (V) JORF 31 décembre 2006
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006
 
 
 ###### Article L222-5

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-11
 
 # Partie législative
 
@@ -19718,8 +19718,10 @@ son taux actuariel de rendement, sa valeur actuelle au jour de la vente ou de la
 Pour les obligations visées au II de l'article R. 212-52, la valeur actuelle ainsi calculée est multipliée par le rapport
 entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition.
 
-Lorsque le prix de vente est supérieur à la valeur actuelle, l'excédent est versé à la réserve de capitalisation. Lorsqu'il
-lui est inférieur, la différence est prélevée sur la réserve de capitalisation, dans la limite du montant de celle ci.
+Lorsque le prix de vente est supérieur à la valeur actuelle, diminuée, le cas échéant, de la dépréciation mentionnée au
+dernier alinéa du I de l'article R. 212-52, l'excédent est versé à la réserve de capitalisation ; lorsqu'il est inférieur à
+la valeur actuelle, diminuée, le cas échéant, de la dépréciation mentionnée au dernier alinéa du I du même article, la
+différence est prélevée sur la réserve de capitalisation, dans la limite du montant de celle-ci.
 
 IV. - Les mutuelles ou unions, dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 750
 000 Euros à la date de l'inventaire, peuvent ne pas appliquer les dispositions du II et du III (2e et 3e alinéas) du présent
@@ -19732,7 +19734,7 @@ exercée, l'option prévue au présent paragraphe ne peut être remise en cause.
 
 	**Modifié par**:
 
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+	  - Arrêté 2006-12-21 art. 1 JORF 11 janvier 2007
 
 	**Cite**:
 

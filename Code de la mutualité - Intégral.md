@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-02-06
+Version Consolidée au 2007-02-21
 
 # Partie législative
 
@@ -7010,6 +7010,57 @@ protection juridique et de la cotisation correspondante.
 	  - Ordonnance 2001-350 2001-04-19
 
 
+###### Article L224-2-1
+
+Est considéré comme sinistre, au sens du présent chapitre, le refus qui est opposé à une réclamation dont le membre
+participant est l'auteur ou le destinataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Loi n°2007-210 du 19 février 2007 - art. 6
+
+
+###### Article L224-2-2
+
+Les consultations ou les actes de procédure réalisés avant la déclaration du sinistre ne peuvent justifier la déchéance de la
+garantie. Toute clause contraire est réputée non écrite.
+
+Cependant, ces consultations et ces actes ne sont pas pris en charge par la mutuelle ou l'union, sauf si le membre
+participant peut justifier d'une urgence à les avoir demandés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Loi n°2007-210 2007-02-19 art. 6 1° JORF 21 février 2007
+
+
+###### Article L224-2-3
+
+Le membre participant doit être assisté ou représenté par un avocat lorsque la mutuelle, l'union ou lui-même est informé de
+ce que la partie adverse est défendue dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Loi n°2007-210 2007-02-19 art. 6 1° JORF 21 février 2007
+
+
 ###### Article L224-3
 
 Tout contrat d'assurance de protection juridique stipule explicitement que, lorsqu'il est fait appel à un avocat ou à toute
@@ -7022,11 +7073,17 @@ qualifiée pour l'assister, chaque fois que survient un conflit d'intérêt entr
 Aucune clause du contrat ne doit porter atteinte, dans les limites de la garantie, au libre choix ouvert au membre
 participant par les deux alinéas précédents.
 
+La mutuelle ou l'union ne peut proposer le nom d'un avocat au membre participant sans demande écrite de sa part.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2007-210 du 19 février 2007 - art. 6
 
 	**Cite**:
 
@@ -7084,6 +7141,22 @@ recourir à la procédure mentionnée à l'article L. 224-4.
 	  - Code de la mutualité - art. L224-4 (V)
 
 
+###### Article L224-5-1
+
+Les honoraires de l'avocat sont déterminés entre ce dernier et son client, sans pouvoir faire l'objet d'un accord avec la
+mutuelle ou l'union.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Loi n°2007-210 2007-02-19 art. 6 3° JORF 21 février 2007
+
+
 ###### Article L224-6
 
 Les personnes qui ont à connaître des informations données par le membre participant pour les besoins de sa cause, dans le
@@ -7129,6 +7202,23 @@ l'assurance au titre du contrat, à un avocat ou à une personne qualifiée de s
 
 	  - Code de la mutualité - art. A510-1 (Ab)
 	  - Code de la mutualité - art. R211-19 (VD)
+
+
+###### Article L224-7-1
+
+Le contrat d'assurance de protection juridique stipule que toute somme obtenue en remboursement des frais et des honoraires
+exposés pour le règlement du litige bénéficie par priorité au membre participant pour les dépenses restées à sa charge et,
+subsidiairement, à la mutuelle ou à l'union, dans la limite des sommes qu'elle a engagées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
+
+	**Créé par**:
+
+	  - Loi n°2007-210 du 19 février 2007 - art. 6
 
 
 ##### Section 2 : Principe indemnitaire.

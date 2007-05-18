@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-05-05
+Version Consolidée au 2007-05-19
 
 # Partie législative
 
@@ -20712,6 +20712,22 @@ Toutefois, l'Autorité peut également requérir une expertise selon les modalit
 	**Modifié par**:
 
 	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+
+###### Article A223-5
+
+La Fédération nationale de la mutualité française est habilitée à exercer les compétences d'organisme professionnel
+représentatif prévues aux deuxième et troisième alinéas de l'article L. 223-10-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2007-05-23 art. 1 JORF 19 mai 2007
+
+	**Cite**:
+
+	  - Code de la mutualité (nouveau) L223-10-1
 
 
 ###### Article A223-6

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-09-30
+Version Consolidée au 2007-12-19
 
 # Partie législative
 
@@ -6293,34 +6293,6 @@ en exécution d'une garantie en cas de vie souscrite sur la tête d'une des pers
 	  - Code de la mutualité - art. L223-6 (V)
 
 
-###### Article L223-5-1
-
-Lorsqu'une curatelle ou une tutelle a été ouverte à l'égard du stipulant, la souscription ou le rachat d'un contrat
-d'assurance sur la vie ainsi que la désignation ou la substitution du bénéficiaire ne peuvent être accomplis qu'avec
-l'autorisation du juge des tutelles ou du conseil de famille s'il a été constitué.
-
-Pour l'application du premier alinéa, lorsque le bénéficiaire du contrat d'assurance sur la vie est le curateur ou le tuteur,
-il est réputé être en opposition d'intérêts avec la personne protégée.
-
-L'acceptation du bénéfice d'un contrat d'assurance sur la vie conclu moins de deux ans avant la publicité du jugement
-d'ouverture de la curatelle ou de la tutelle du stipulant peut être annulée sur la seule preuve que l'incapacité était
-notoire ou connue du cocontractant à l'époque où les actes ont été passés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 30 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1775 du 17 décembre 2007 - art. 9
-
-
 ###### Article L223-6
 
 Par dérogation aux articles L. 223-4 et L. 223-5, le représentant légal d'un majeur en tutelle peut adhérer au nom de celui-
@@ -6354,6 +6326,37 @@ A défaut de cette autorisation et de ce consentement, la nullité de la garanti
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+
+###### Article L223-7-1
+
+Lorsqu'une tutelle a été ouverte à l'égard du stipulant, la souscription ou le rachat d'un contrat d'assurance sur la vie
+ainsi que la désignation ou la substitution du bénéficiaire ne peuvent être accomplis qu'avec l'autorisation du juge des
+tutelles ou du conseil de famille s'il a été constitué. Après l'ouverture d'une curatelle, ces mêmes actes ne peuvent être
+accomplis qu'avec l'assistance du curateur.
+
+Pour l'application du premier alinéa, lorsque le bénéficiaire du contrat d'assurance sur la vie est le curateur ou le tuteur,
+il est réputé être en opposition d'intérêts avec la personne protégée.
+
+L'acceptation du bénéfice d'un contrat d'assurance sur la vie conclu moins de deux ans avant la publicité du jugement
+d'ouverture de la curatelle ou de la tutelle du stipulant peut être annulée sur la seule preuve que l'incapacité était
+notoire ou connue du cocontractant à l'époque où les actes ont été passés.
+
+**Nota:**
+
+Loi 2007-1775 du 17 décembre 2007 art. 9 : Les dispositions du présent article s'appliquent aux contrats en cours à la date
+de publication de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 9
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code de la mutualité - art. L223-11 (V)
 
 
 ###### Article L223-8
@@ -6485,13 +6488,16 @@ cotisant a le droit de désigner un bénéficiaire ou de substituer un bénéfic
 substitution ne peut être opérée, à peine de nullité, qu'avec l'accord du membre participant, lorsque celui-ci n'est pas le
 cotisant. Cette désignation ou cette substitution peut être réalisée soit par la modification du bulletin d'adhésion, soit
 par voie d'avenant au contrat, soit en remplissant les formalités édictées par l'article 1690 du code civil, soit par
-endossement quand le contrat est à ordre, soit par voie testamentaire.
+endossement quand le contrat est à ordre, soit par voie testamentaire. 
+
+Lorsque la mutuelle ou l'union est informée du décès du membre participant, elle est tenue de rechercher le bénéficiaire et,
+si cette recherche aboutit, de l'aviser de la stipulation effectuée à son profit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 7
 
 	**Cite**:
 
@@ -6534,35 +6540,85 @@ bénéfice.
 	  - Code des assurances - art. A132-9-1 (V)
 
 
-###### Article L223-11
+###### Article L223-10-2
 
-La stipulation en vertu de laquelle le bénéfice de la garantie est attribué à un bénéficiaire déterminé devient irrévocable
-par l'acceptation expresse ou tacite du bénéficiaire.
+I. ― Les mutuelles et unions ayant pour objet la réalisation d'opérations d'assurance mentionnées au b du 1° du I de
+l'article L. 111-1 s'informent, dans les conditions prévues au II du présent article, du décès éventuel de l'assuré. 
 
-Tant que l'acceptation n'a pas eu lieu, le droit de révoquer cette stipulation n'appartient qu'au cotisant et ne peut, en
-conséquence, être exercé de son vivant par ses créanciers ni par ses représentants légaux.
-
-Ce droit de révocation ne peut être exercé, après la mort du cotisant, par ses héritiers qu'après l'exigibilité de la somme
-assurée et au plus tôt trois mois après que le bénéficiaire de la garantie a été mis en demeure, par acte extrajudiciaire,
-d'avoir à déclarer s'il accepte.
-
-L'attribution à titre gratuit du bénéfice d'une assurance sur la vie à une personne déterminée est présumée faite sous la
-condition de l'existence du bénéficiaire à l'époque de l'exigibilité du capital ou de la rente garantis, à moins que le
-contraire ne résulte des termes de la stipulation.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+II. ― Les organismes professionnels mentionnés à l'article L. 223-10-1 sont autorisés à consulter les données figurant au
+répertoire national d'identification des personnes physiques et relatives au décès des personnes qui y sont inscrites. Les
+mutuelles et unions mentionnées au I obtiennent de ces organismes professionnels communication de ces données en vue
+d'effectuer des traitements de données nominatives. Ces traitements ont pour objet la recherche des membres participants et
+bénéficiaires des contrats d'assurance sur la vie décédés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2015-362 du 30 mars 2015 (V)
+	  - Code de la mutualité - art. L223-10-3 (V)
+	  - Code général des impôts, CGI. - art. 1649 ter (VD)
+	  - Livre des procédures fiscales - art. L166 E (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1 (V)
+	  - Code de la mutualité - art. L223-10-1 (V)
+
+
+###### Article L223-11
+
+I. Sous réserve des dispositions du dernier alinéa de l'article L. 223-7-1, la stipulation en vertu de laquelle le bénéfice
+de la garantie est attribué à un bénéficiaire déterminé devient irrévocable par l'acceptation de celui-ci, effectuée dans les
+conditions prévues au II du présent article. Pendant la durée de l'opération d'assurance, après acceptation du bénéficiaire,
+le stipulant ne peut exercer sa faculté de rachat et la mutuelle ou l'union ne peut lui consentir d'avance sans l'accord du
+bénéficiaire. 
+
+Tant que l'acceptation n'a pas eu lieu, le droit de révoquer cette stipulation n'appartient qu'au stipulant et ne peut être
+exercé de son vivant ni par ses créanciers ni par ses représentants légaux. Lorsqu'une curatelle ou une tutelle a été ouverte
+à l'égard du stipulant, la révocation ne peut intervenir qu'avec l'autorisation du juge des tutelles ou du conseil de famille
+s'il a été constitué. 
+
+Ce droit de révocation ne peut être exercé, après la mort du cotisant, par ses héritiers qu'après l'exigibilité de la somme
+assurée et au plus tôt trois mois après que le bénéficiaire de la garantie a été mis en demeure, par acte extrajudiciaire,
+d'avoir à déclarer s'il accepte. 
+
+L'attribution à titre gratuit du bénéfice d'une assurance sur la vie à une personne déterminée est présumée faite sous la
+condition de l'existence du bénéficiaire à l'époque de l'exigibilité du capital ou de la rente garantis, à moins que le
+contraire ne résulte des termes de la stipulation. 
+
+II. Tant que le membre participant et le stipulant sont en vie, l'acceptation est faite par un avenant signé de la mutuelle
+ou de l'union, du stipulant et du bénéficiaire. Elle peut également être faite par un acte authentique ou sous seing privé,
+signé du stipulant et du bénéficiaire. Elle n'a alors d'effet à l'égard de la mutuelle ou de l'union que lorsqu'elle lui est
+notifiée par écrit. 
+
+Lorsque la désignation du bénéficiaire est faite à titre gratuit, l'acceptation ne peut intervenir que trente jours au moins
+à compter du moment où le stipulant est informé que le contrat d'assurance est conclu. 
+
+Après le décès du membre participant ou du stipulant, l'acceptation est libre.
+
+**Nota:**
+
+Loi 2007-1775 du 17 décembre 2007 art. 8 : Les dispositions du présent article s'appliquent aux contrats en cours n'ayant pas
+encore, à la date de publication de la présente loi, donné lieu à acceptation du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 8
 
 	**Cité par**:
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L223-7-1 (V)
 
 
 ###### Article L223-12
@@ -6824,40 +6880,31 @@ plan d'épargne retraite populaire " sont déclassés et ont dorénavant un cara
 
 Les assurances temporaires en cas de décès ainsi que les rentes viagères immédiates ou en cours de service ne peuvent
 comporter ni réduction ni rachat. Les assurances de capitaux de survie et de rente de survie, les assurances en cas de vie
-sans contre-assurance et les rentes viagères différées sans contre-assurance ne peuvent comporter de rachat.
+sans contre-assurance et les rentes viagères différées sans contre-assurance ne peuvent comporter de rachat. 
 
 Les contrats collectifs souscrits à l'occasion d'opérations collectives en cas de vie dont les prestations sont liées à la
 cessation d'activité professionnelle ne comportent pas de possibilité de rachat. Toutefois, ces contrats collectifs doivent
-prévoir une possibilité de rachat intervenant lorsque se produisent l'un ou plusieurs des événements suivants :
+prévoir une possibilité de rachat intervenant lorsque se produisent l'un ou plusieurs des événements suivants : 
 
 1° Expiration des droits du membre participant aux allocations de chômage prévues par le code du travail en cas de
-licenciement ;
+licenciement ; 
 
 2° Cessation d'activité non salariée du membre participant à la suite d'un jugement de liquidation judiciaire en application
-en application du titre IV du livre VI du code de commerce ;
+en application du titre IV du livre VI du code de commerce ; 
 
 3° Invalidité du membre participant correspondant au classement dans les deuxième ou troisième catégories prévues à l'article
-L. 341-4 du code de la sécurité sociale.
+L. 341-4 du code de la sécurité sociale. 
 
 Les contrats collectifs souscrits à l'occasion d'opérations collectives à adhésion obligatoire ou facultative en cas de vie
-dont les prestations sont liées à la cessation d'activité professionnelle doivent comporter une clause de transférabilité.
+dont les prestations sont liées à la cessation d'activité professionnelle doivent comporter une clause de transférabilité. 
 
-Pour les autres assurances sur la vie, la mutuelle ou l'union ne peut refuser la réduction ou le rachat lorsque 15 % des
-cotisations prévues au contrat ont été versées. Le droit à rachat ou à réduction est acquis lorsqu'au moins deux cotisations
-annuelles ont été payées.
+Pour les autres assurances sur la vie et pour les opérations de capitalisation, la mutuelle ou l'union ne peut refuser la
+réduction ou le rachat. 
 
-La mutuelle ou l'union peut d'office substituer le rachat à la réduction si la valeur de rachat du contrat est inférieure à
-un montant fixé par décret.
-
-Pour les opérations de capitalisation, la mutuelle ou l'union ne peut refuser le rachat lorsque 15 % des cotisations prévues
-au contrat ont été versées. En tout état de cause, le droit à rachat est acquis lorsqu'au moins deux cotisations annuelles
-ont été payées.
+La mutuelle ou l'union peut d'office substituer le rachat à la réduction si la valeur de rachat est inférieure à un montant
+fixé par décret.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -6870,30 +6917,49 @@ ont été payées.
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 2
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L341-4 (V)
 
 
+###### Article L223-22-1
+
+Après le décès du membre participant ou au terme prévu par le contrat ou le bulletin d'adhésion et à compter de la réception
+des pièces nécessaires au paiement, la mutuelle ou l'union verse, dans un délai qui ne peut excéder un mois, le capital ou la
+rente garantis au bénéficiaire de l'opération d'assurance sur la vie. Au-delà de ce délai, le capital non versé produit de
+plein droit intérêt au taux légal majoré de moitié durant deux mois puis, à l'expiration de ce délai de deux mois, au double
+du taux légal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L223-19-1 (VD)
+
+
 ###### Article L223-23
 
 Le bulletin d'adhésion ou le contrat collectif cesse d'avoir effet à l'égard du bénéficiaire qui a été condamné pour avoir
-volontairement donné la mort au membre participant.
+volontairement donné la mort au membre participant ou au souscripteur du contrat.
 
 Le montant de la provision mathématique doit être versé par la mutuelle ou l'union à l'adhérent ayant versé les cotisations
 au membre participant ou à ses ayants cause, à moins qu'ils ne soient condamnés comme auteurs ou complices de l'homicide
-volontaire du membre participant.
+volontaire du membre participant ou du souscripteur du contrat.
 
 Si le bénéficiaire a tenté de donner la mort à l'adhérent ayant versé ses cotisations, celui-ci a le droit de révoquer
 l'attribution du bénéfice de l'assurance, même si le bénéficiaire avait déjà accepté la stipulation faite à son profit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 8
 
 
 ###### Article L223-24

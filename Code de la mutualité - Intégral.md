@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2007-12-19
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -2571,26 +2571,6 @@ constituées dans les armées sont désignés et révoqués par l'autorité admi
 	**Cite**:
 
 	  - Code de la mutualité - art. L114-18 (V)
-
-
-###### Article L115-7
-
-Un décret en Conseil d'Etat établit des statuts types propres aux mutuelles constituées dans les armées et détermine les
-dispositions de ces statuts types qui ont un caractère obligatoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
 
 
 ###### Article L115-8

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-05-22
 
 # Partie législative
 
@@ -10333,70 +10333,118 @@ garantie étant alors restituée au souscripteur.
 
 ###### Article R211-28
 
-La mutuelle ou union est tenue de disposer en permanence d'un contrôle interne de la gestion de ses placements.
+La mutuelle ou union est tenue de mettre en place un dispositif permanent de contrôle interne. 
 
-Le conseil d'administration approuve au moins annuellement les lignes directrices de la politique de placement et se prononce
-notamment sur la qualité des actifs, les opérations sur instruments financiers à terme et le choix des intermédiaires
-financiers.
+Le conseil d'administration approuve, au moins annuellement, un rapport sur le contrôle interne, qui est transmis à
+l'Autorité de contrôle des assurances et des mutuelles. 
 
-Un rapport sur la politique de placement lui est soumis au moins annuellement. Il détaille dans ce cadre :
+1° La première partie de ce rapport détaille les conditions de préparation et d'organisation des travaux du conseil
+d'administration et, le cas échéant, les pouvoirs délégués aux dirigeants salariés dans le cadre du 7° de l'article L.
+114-4. 
 
-a) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui
-concerne l'évaluation de la qualité des actifs, le suivi des opérations sur instruments financiers à terme et l'appréciation
-des performances et des marges des intermédiaires financiers utilisés ;
+2° La seconde partie de ce rapport détaille : 
 
-b) Le dispositif interne de contrôle de la gestion des placements : répartition interne des responsabilités au sein du
-personnel, les personnes chargées d'effectuer les transactions ne pouvant être également chargées de leur suivi ; délégations
-de pouvoir ; diffusion de l'information ; procédures internes de contrôle ; audit interne ;
+a) Les objectifs, la méthodologie, la position et l'organisation générale du contrôle interne au sein de la mutuelle ou de
+l'union ; les mesures prises pour assurer l'indépendance et l'efficacité du contrôle interne et notamment la compétence et
+l'expérience des équipes chargées de le mettre en œuvre, ainsi que les suites données aux recommandations des personnes ou
+instances chargées du contrôle interne ; 
 
-c) La structure des différents portefeuilles de placements, par type et par catégories, ainsi que les résultats obtenus sur
-les placements correspondants.
+b) Les procédures permettant de vérifier que les activités de la mutuelle ou de l'union sont conduites selon les politiques
+et stratégies établies par les organes dirigeants et les procédures permettant de vérifier la conformité des opérations
+d'assurance aux dispositions législatives et réglementaires ; 
 
-Ce rapport peut être inclus dans le rapport de solvabilité mentionné à l'article L. 212-3.
+c) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui
+concerne l'évaluation de la qualité des actifs et de la gestion actif-passif, le suivi des opérations sur instruments
+financiers à terme et l'appréciation des performances et des marges des intermédiaires financiers utilisés ; 
+
+d) Le dispositif interne de contrôle de la gestion des placements, ce qui inclut la répartition interne des responsabilités
+au sein du personnel, les personnes chargées d'effectuer les transactions ne pouvant être également chargées de leur suivi,
+les délégations de pouvoir, la diffusion de l'information, les procédures internes de contrôle ou d'audit ; 
+
+e) Les procédures et dispositifs permettant d'identifier, d'évaluer, de gérer et de contrôler les risques liés aux
+engagements de la mutuelle ou de l'union et de détenir des capitaux suffisants pour ces risques, ainsi que les méthodes
+utilisées pour vérifier la conformité des pratiques en matière d'acceptation et de tarification du risque, de cession en
+réassurance et de provisionnement des engagements réglementés à la politique de la mutuelle ou de l'union dans ces domaines,
+définie dans le rapport mentionné à l'article L. 212-3 ; 
+
+f) Les mesures prises pour assurer le suivi de la gestion des sinistres, le suivi des filiales, la maîtrise des activités
+externalisées et des modes de commercialisation des produits de la mutuelle ou de l'union, et les risques qui pourraient en
+résulter ; 
+
+g) Les procédures d'élaboration et de vérification de l'information financière et comptable.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
+	  - Décret n°2008-468 du 19 mai 2008 - art. 5
 
 	**Cité par**:
 
 	  - Décret n°2008-468 du 19 mai 2008 - art. 9 (V)
 
+	**Cite**:
 
-###### Article R211-29
+	  - Code de la mutualité - art. L114-4
+	  - Code de la mutualité - art. L212-3
 
-Le rapport sur la politique de placement présente en détail les opérations mentionnées aux articles R. 212-70 à R. 212-73 et
-réalisées au cours de la période écoulée. Il fixe les limites aux risques de marché, de contrepartie et de liquidité encourus
-sur les opérations à venir.
+
+###### Article R211-28-1
+
+Les organismes chargés d'établir et de publier les comptes consolidés ou combinés d'un groupe au sens de l'article L. 212-7
+ou d'un conglomérat financier au sens de l'article L. 212-7-5 soumis à la surveillance complémentaire de l'Autorité de
+contrôle des assurances et des mutuelles fournissent en outre un rapport décrivant également le dispositif de contrôle
+interne du groupe ou du conglomérat financier. 
+
+Ce rapport contient notamment une description des éléments mentionnés à l'article R. 213-1, à l'article R. 213-6 et aux III
+et IV de l'article R. 213-11.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Créé par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
+	  - Décret n°2008-468 du 19 mai 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-7-5
+	  - Code de la mutualité - art. R213-1
+	  - Code de la mutualité - art. R213-11
+	  - Code de la mutualité - art. R213-6
+
+
+###### Article R211-29
+
+Le conseil d'administration fixe, au moins annuellement, les lignes directrices de la politique de placement. Il se prononce
+en particulier sur les modalités de choix des intermédiaires financiers, sur la gestion actif-passif, sur la qualité des
+actifs et sur les opérations sur instruments financiers à terme. 
+
+A cet effet, il s'appuie sur le rapport de solvabilité mentionné à l'article L. 212-3 qui, dans une partie distincte relative
+aux placements, présente les résultats obtenus pour chaque portefeuille et chaque catégorie de placements, détaille les
+opérations mentionnées aux articles R. 212-70 à R. 212-73 réalisées au cours de la période écoulée et fixe, pour ces
+opérations, les limites aux risques de marché, de contrepartie et de liquidité encourus sur les opérations à venir. 
+
+Le conseil d'administration peut modifier les limites mentionnées à l'alinéa précédent. Dans ce cas, il rend compte de ces
+modifications sans délai à l'Autorité de contrôle des assurances et des mutuelles et dans le prochain rapport de solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-468 du 19 mai 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-3
+	  - Code de la mutualité - art. R212-70
 
 
 ###### Article R211-30
 
 Lorsqu'elle se propose d'utiliser pour la première fois des instruments financiers à terme, la mutuelle ou union en informe
-préalablement l'Autorité de contrôle mentionnée à l'article L. 510-1, en lui transmettant le rapport sur la politique de
-placement mentionné à l'article R. 211-28 après son approbation par le conseil d'administration.
+préalablement l'Autorité de contrôle mentionnée à l'article L. 510-1.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -10404,7 +10452,11 @@ placement mentionné à l'article R. 211-28 après son approbation par le consei
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2008-468 du 19 mai 2008 - art. 7
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article R211-31
@@ -13357,24 +13409,30 @@ la mutuelle ou union.
 ###### Article R212-73
 
 Sauf dérogation expresse de l'Autorité de contrôle mentionnée à l'article L. 510-1, une mutuelle ou union ne peut utiliser
-d'instrument financier à terme que dans les cas prévus par les articles R. 212-70, R. 212-71 et R. 212-72.
+d'instrument financier à terme que dans les cas prévus par les articles R. 212-70, R. 212-71 et R. 212-72. 
 
 Toute opération financière à terme ne respectant plus les conditions fixées à ces articles doit être dénouée dans un délai de
-trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à l'article R. 211-28.
+trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à l'article L. 212-3.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2008-468 du 19 mai 2008 - art. 8
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-3
+	  - Code de la mutualité - art. L510-1
+	  - Code de la mutualité - art. R212-70
 
 
 ###### Article R212-74

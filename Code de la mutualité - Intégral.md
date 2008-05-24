@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-05-22
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -15746,29 +15746,34 @@ Ces commissions peuvent s'adjoindre des experts qui ont voix consultative.
 
 ###### Article R412-1
 
-Un comité régional de coordination de la mutualité est placé auprès du préfet de région.
+Un comité régional de coordination de la mutualité est placé auprès du préfet de région. 
 
-Le comité régional est élu pour six ans. Le collège électoral est composé des mutuelles, sections de mutuelles, unions et
-fédérations ayant leur siège dans la circonscription régionale et immatriculées, à la date de publication de l'arrêté fixant
-la date des élections, au registre national mentionné à l'article L. 411-1.
+Le comité régional est élu pour six ans. Le collège électoral est composé des mutuelles, unions et fédérations immatriculées,
+à la date de publication de l'arrêté fixant la date des élections, au registre national des mutuelles mentionné à l' article
+L. 411-1. 
 
 Le nombre des membres de ce comité est fixé par arrêté du préfet de région à raison de cinq sièges par tranche de 500 voix du
-corps électoral régional déterminé conformément aux dispositions de l'article R. 413-3 sans pouvoir être inférieur à 5 ni
+corps électoral régional déterminé conformément aux dispositions de l' article R. 413-3 sans pouvoir être inférieur à 5 ni
 supérieur à 30.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
 	**Cité par**:
 
 	  - Décret n°2001-1108 du 23 novembre 2001 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-486 du 22 mai 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-596 du 27 avril 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L411-1
+	  - Code de la mutualité - art. R413-3
 
 
 ###### Article R412-2
@@ -15862,24 +15867,26 @@ mutualité par un arrêté publié au Journal officiel trois mois au moins avant
 
 ###### Article R413-2
 
-Sont éligibles au comité régional de coordination de la mutualité les personnes qui, à la date de publication de l'arrêté
-fixant la date des élections, sont :
+Sont éligibles au comité régional de coordination de la mutualité les personnes qui, à la date de publication de l' arrêté
+fixant celle des élections, sont : 
 
-- membres des conseils d'administration des mutuelles, unions et fédérations ayant leur siège dans la région ;
+a) Membres du conseil d' administration des mutuelles, unions et fédérations ayant leur siège dans la région ; 
 
-- membres des conseils d'administration des mutuelles ayant une section dans la région ;
+b) Membres du conseil d' administration des mutuelles ayant, dans la région, une section au sens du troisième alinéa de l'
+article L. 115- 1 et du I de l' article L. 115- 4 ; 
 
-- ou membres élus des organes de gestion desdites sections.
+c) Ou membres élus des organes de gestion de ces sections.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Décret n°2008-486 du 22 mai 2008 - art. 2
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Code de la mutualité - art. L115-1
+	  - Code de la mutualité - art. L115-4
 
 	**Cité par**:
 
@@ -15890,26 +15897,21 @@ fixant la date des élections, sont :
 
 ###### Article R413-3
 
-Chaque mutuelle et section de mutuelles composant le collège électoral dispose d'au moins une voix et d'une voix
-supplémentaire par tranche de 2 000 membres participants.
+I.- Chaque mutuelle composant le collège électoral dispose : 
 
-L'effectif des mutuelles et sections de mutuelles à retenir est leur effectif régional mentionné au registre national à la
-date de publication de l'arrêté fixant la date des élections.
+a) D' une voix dans la région dans laquelle elle a son siège ; 
 
-Les mutuelles comportant des sections disposent, dans la région où elles ont leur siège, d'un nombre de voix déterminé en
-fonction de l'effectif des membres qui ne relèvent pas de sections.
+b) D' une voix par tranche de 2 000 membres participants ayant leur domicile dans chacune des régions. L' effectif des
+membres participants à retenir est celui mentionné, par région, sur le registre national des mutuelles à la date de
+publication de l' arrêté fixant celle des élections. 
 
-Les unions et fédérations disposent d'une voix.
+Les personnes qui sont membres participants, à la fois, d' une mutuelle créée en application de l' article L. 111- 3 et de la
+mutuelle fondatrice, sont comptabilisées en totalité pour la détermination des voix dont dispose cette dernière, et à hauteur
+de 50 % pour la détermination des voix dont dispose la mutuelle créée. 
+
+II.- Chaque union et chaque fédération dispose d' une voix dans la région dans laquelle elle a son siège.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 	**Cité par**:
 
@@ -15917,6 +15919,14 @@ Les unions et fédérations disposent d'une voix.
 	  - Code de la mutualité - art. A411-2 (V)
 	  - Code de la mutualité - art. R412-1 (Ab)
 	  - Code de la mutualité - art. R413-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-486 du 22 mai 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-3
 
 
 ###### Article R413-4
@@ -16082,6 +16092,25 @@ fonction.
 	**Créé par**:
 
 	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
+###### Article R413-10-1
+
+Sont appelés à siéger au comité régional de coordination de la mutualité, en tant que membres suppléants des membres
+titulaires, les candidats venant après le dernier élu sur la liste des membres de ce comité, dans la limite de cinq. 
+
+La liste des membres suppléants est constatée par un arrêté du préfet de région. Les suppléants sont appelés à siéger suivant
+l' ordre de cette liste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-486 du 22 mai 2008 - art. 2
 
 	**Abrogé par**:
 
@@ -16295,33 +16324,56 @@ expire lors du renouvellement du Conseil supérieur de la mutualité qui suit so
 	  - Décret n°2012-596 du 27 avril 2012 - art. 6
 
 
+###### Article R413-18-1
+
+Sont appelés à siéger au Conseil supérieur de la mutualité, en tant que membres suppléants de membres titulaires, les
+candidats venant après le dernier élu sur la liste des membres de ce conseil, dans la limite de dix. 
+
+La liste des membres suppléants est constatée par un arrêté du ministre chargé de la mutualité. Les suppléants sont appelés à
+siéger suivant l' ordre de cette liste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-486 du 22 mai 2008 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+
 ##### Section 3 : Contentieux des opérations électorales.
 
 ###### Article R413-19
 
 La régularité des opérations électorales destinées à la désignation des membres du Conseil supérieur de la mutualité et des
-membres des comités de coordination de la mutualité peut être contestée, dans le délai de quinze jours à dater de l'élection,
-devant le tribunal d'instance du lieu de proclamation des résultats.
+membres des comités de coordination de la mutualité peut être contestée, dans le délai de quinze jours à dater de l'
+élection, devant le tribunal d' instance du lieu de proclamation des résultats. 
 
-La contestation est formée par déclaration orale ou écrite faite, remise ou dressée au greffe du tribunal d'instance. Dans
-les dix jours du recours, le tribunal d'instance statue en dernier ressort, sans frais ni forme de procédure et sur simple
-avertissement donné trois jours à l'avance à toutes les parties intéressées.
+La contestation est formée par déclaration orale ou écrite faite, remise ou dressée au greffe du tribunal d' instance. Dans
+les dix jours du recours, le tribunal d' instance statue en dernier ressort, sans frais ni forme de procédure et sur simple
+avertissement donné trois jours à l' avance à toutes les parties intéressées. 
 
 La décision prise par ce tribunal est notifiée dans les trois jours par le greffe aux parties par lettre recommandée avec
-demande d'avis de réception.
+demande d' avis de réception. 
 
-Un pourvoi en cassation peut être formé dans les dix jours de la notification de la décision du tribunal d'instance. Les
-dispositions des articles 999 à 1008 du nouveau code de procédure civile sont applicables.
+Un pourvoi en cassation peut être formé dans les dix jours de la notification de la décision du tribunal d' instance. Les
+dispositions des articles 999 à 1008 du code de procédure civile sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 999
 
 
 #### Chapitre IV : Registre national des mutuelles.
@@ -16526,38 +16578,48 @@ commerce.
 ###### Article R414-6
 
 Après leur immatriculation au registre national des mutuelles, les organismes régis par le présent chapitre sont tenus de
-déposer auprès du préfet de la région dans laquelle est situé leur siège les éléments modificatifs suivants :
+déposer auprès du préfet de la région dans laquelle est situé leur siège les éléments modificatifs suivants : 
 
 1° Les actes, délibérations ou décisions modifiant la déclaration ou les pièces déposées lors de leur constitution dans le
-délai d'un mois à compter de la date de modification ;
+délai d' un mois à compter de la date de modification ; 
 
-2° Un exemplaire mis à jour des statuts dans le délai d'un mois à compter de toute approbation d'une modification des statuts
-par l'assemblée générale ;
+2° Un exemplaire mis à jour des statuts dans le délai d' un mois à compter de toute approbation d' une modification des
+statuts par l' assemblée générale ; 
 
-3° Le nombre de membres participants affiliés à l'organisme au 31 décembre de chaque année et, le cas échéant, leur
-répartition par sections au plus tard le 31 mars de l'année suivante ainsi que le nombre de membres bénéficiaires et, le cas
-échéant, leur répartition par sections au plus tard le 31 décembre de l'année suivante ;
+3° La répartition, par région, des membres participants affiliés à l' organisme au 31 décembre de chaque année en fonction de
+leur lieu de domicile dans chacune des régions ainsi que le nombre de membres bénéficiaires correspondant ; 
 
-4° Les documents comptables mentionnés aux j, k, l et m de l'article L. 114-9 dans le délai d'un mois à compter de leur
-présentation à l'assemblée générale ;
+4° Les documents comptables mentionnés aux j, k, l et m de l' article L. 114- 9 dans le délai d' un mois à compter de leur
+présentation à l' assemblée générale ; 
 
-5° La déclaration signée par le liquidateur et visée à l'article R. 414-4 ;
+5° La déclaration signée par le liquidateur et visée à l' article R. 414- 4 ; 
 
-6° Le numéro d'identité attribué par l'Institut national de la statistique et des études économiques conformément aux
-dispositions du décret n° 73-314 du 14 mars 1973 portant création d'un système national d'identification et d'un répertoire
-des entreprises et de leurs établissements.
+6° Le numéro d' identité attribué par l' Institut national de la statistique et des études économiques conformément aux
+dispositions du décret n° 73- 314 du 14 mars 1973 portant création d' un système national d' identification et d' un
+répertoire des entreprises et de leurs établissements. 
 
-Le préfet de région en informe, sans délai, le secrétaire général du Conseil supérieur de la mutualité.
+Le préfet de région en informe, sans délai, le secrétaire général du Conseil supérieur de la mutualité. 
+
+Pour la mise en œuvre du 3°, une mutuelle créée en application de l' article L. 111- 3 déclare le nombre de membres
+participants qui sont également membres de sa mutuelle fondatrice, ainsi que la répartition de ces membres participants par
+région.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Décret n°73-314 du 14 mars 1973
+	  - Code de la mutualité - art. L111-3
+	  - Code de la mutualité - art. L114-9
+	  - Code de la mutualité - art. R414-4
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Décret n°2008-486 du 22 mai 2008 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2012-596 du 27 avril 2012 - art. 9
 
 
 ###### Article R414-7
@@ -21232,31 +21294,31 @@ par arrêté du ministre chargé de la mutualité.
 
 ###### Article R125-3
 
-La régularité des opérations électorales destinées à la désignation des membres du conseil d'administration, des membres de
-l'Autorité de contrôle, des représentants des salariés au conseil d'administration et des délégués des sections locales de
-vote peut être contestée, dans le délai de quinze jours à dater de l'élection, devant le tribunal d'instance du siège social
-de la mutuelle.
+La régularité des opérations électorales destinées à la désignation des membres du conseil d' administration, des membres de
+l' Autorité de contrôle, des représentants des salariés au conseil d' administration et des délégués des sections locales de
+vote peut être contestée, dans le délai de quinze jours à dater de l' élection, devant le tribunal d' instance du siège
+social de la mutuelle. 
 
-La contestation est formée par déclaration orale ou écrite faite, remise ou adressée au greffe du tribunal d'instance.
+La contestation est formée par déclaration orale ou écrite faite, remise ou adressée au greffe du tribunal d' instance. 
 
-Dans les dix jours du recours, le tribunal d'instance statue en dernier ressort, sans frais ni forme de procédure et sur
-simple avertissement donné trois jours à l'avance à toutes les parties intéressées.
+Dans les dix jours du recours, le tribunal d' instance statue en dernier ressort, sans frais ni forme de procédure et sur
+simple avertissement donné trois jours à l' avance à toutes les parties intéressées. 
 
 La décision prise par ce tribunal est notifiée dans les trois jours par le greffe aux parties par lettre recommandée avec
-demande d'avis de réception.
+demande d' avis de réception. 
 
-Le pourvoi en cassation est formé dans les dix jours de la notification de la décision du tribunal d'instance. Les
-dispositions des articles 999 à 1008 du nouveau code de procédure civile sont applicables.
+Le pourvoi en cassation est formé dans les dix jours de la notification de la décision du tribunal d' instance. Les
+dispositions des articles 999 à 1008 du code de procédure civile sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°86-384 1986-03-13 JORF 14 mars 1986
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 999 (V)
 
 	**Cité par**:
 

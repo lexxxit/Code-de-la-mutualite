@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-06-15
+Version Consolidée au 2008-06-15 00:00:01 +0200
 
 # Partie législative
 
@@ -2792,7 +2792,7 @@ mutualité mettent leurs statuts en conformité avec les dispositions du présen
 	  - Code de la mutualité L116-1 à L116-3
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
 
 ### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
 
@@ -2874,19 +2874,22 @@ convention fait l'objet de la même procédure.
 ###### Article L211-4
 
 Sous réserve des dispositions de l'article L. 211-5, dans tous les cas où une mutuelle ou une union se réassure contre les
-risques qu'elle a couverts, elle reste seule responsable de ses engagements vis-à-vis des personnes garanties. 
+risques qu'elle a couverts ou les transfère à un véhicule de titrisation mentionné à l'article L. 310-1-2 du code des
+assurances, elle reste seule responsable de ses engagements vis-à-vis des personnes garanties. 
 
 Les statuts des mutuelles et unions déterminent les modalités suivant lesquelles une mutuelle ou une union peut se réassurer
-auprès d'entreprises non régies par le présent code. 
-
-La présence d'opérations relevant de la réassurance financière limitée est explicitement mentionnée dans l'intitulé des
-contrats régissant ce type d'opérations.
+auprès d'entreprises non régies par le présent code ou transférer des risques à un véhicule de titrisation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 19
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1-2
+	  - Code de la mutualité - art. L211-5
 
 
 ###### Article L211-5
@@ -7822,12 +7825,6 @@ au e du 1° du I de l'article L. 111-1.
 
 	  - Code de la mutualité - art. L111-1 (Ab)
 
-
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
-
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
-
-### Titre II : Opérations des mutuelles et des unions.
 
 ## Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.
 

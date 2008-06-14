@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-05-29
+Version Consolidée au 2008-06-15
 
 # Partie législative
 
@@ -140,6 +140,49 @@ elle, dès lors que les prestations délivrées dans ce cadre découlent directe
 	  - Code de la sécurité sociale. - art. L611-3 (M)
 	  - Code de la mutualité - art. L411-1 (Ab)
 	  - Code rural L723-2, L731-30 à L731-34, L741-23, L742-3
+
+
+###### Article L111-1-1
+
+I.-La réassurance est l'activité d'un organisme, autre qu'un véhicule de titrisation mentionné à l'article L. 310-1-2 du code
+des assurances, qui consiste à accepter des risques d'assurance cédés soit par les mutuelles ou unions régies par le livre II
+du présent code, soit par les institutions de prévoyance régies par les dispositions du titre III du livre IX du code de la
+sécurité sociale, soit par une entreprise d'assurance ou par une entreprise de réassurance. 
+
+La réassurance financière limitée (dite " réassurance finite ") est la réassurance en vertu de laquelle la perte maximale
+potentielle du réassureur, découlant d'un transfert significatif à la fois des risques liés à la souscription et des risques
+liés à l'échéance des paiements, excède, à concurrence d'un montant important mais limité, les primes dues par la cédante sur
+toute la durée du contrat. Cette réassurance présente en outre l'une au moins des deux caractéristiques suivantes : 
+
+1° Elle prend en compte explicitement la valeur temporelle de l'argent ; 
+
+2° Elle prévoit un partage contractuel qui vise à lisser dans le temps les répercussions économiques du transfert du risque
+réassuré en vue d'atteindre un niveau déterminé de transfert de risque. 
+
+II.-Outre les mutuelles mentionnées au 1° de l'article L. 111-1 et unions exerçant la même activité, sont autorisées à
+exercer en France l'activité de réassurance les mutuelles et unions ayant la réassurance pour activité exclusive, dont le
+siège social est situé en France et qui sont agréées dans les conditions définies à l'article L. 211-7-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2008-1154 du 7 novembre 2008 - art. 31 (V)
+	  - Arrêté du 3 novembre 2014 - art. 5 (V)
+	  - Code de la mutualité - art. L211-1 (V)
+	  - Code de la mutualité - art. L211-10 (MMN)
+	  - Code de la mutualité - art. L211-7-2 (VT)
+	  - Code de la mutualité - art. R510-16 (Ab)
+	  - Code des assurances - art. R354-8 (VD)
+	  - Code monétaire et financier - art. L517-2 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1
 
 
 ###### Article L111-2
@@ -2757,14 +2800,19 @@ mutualité mettent leurs statuts en conformité avec les dispositions du présen
 
 ###### Article L211-1
 
-Les mutuelles et les unions qui réalisent des opérations relevant du 1° du I de l'article L. 111-1 sont régies par les
-dispositions du présent livre.
+Les mutuelles et les unions qui réalisent des opérations relevant du 1° du I de l'article L. 111-1 ou de l'article L. 111-1-1
+sont régies par les dispositions du présent livre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L111-1-1
 
 	**Cité par**:
 
@@ -2826,16 +2874,19 @@ convention fait l'objet de la même procédure.
 ###### Article L211-4
 
 Sous réserve des dispositions de l'article L. 211-5, dans tous les cas où une mutuelle ou une union se réassure contre les
-risques qu'elle a couverts, elle reste seule responsable de ses engagements vis-à-vis des personnes garanties.
+risques qu'elle a couverts, elle reste seule responsable de ses engagements vis-à-vis des personnes garanties. 
 
 Les statuts des mutuelles et unions déterminent les modalités suivant lesquelles une mutuelle ou une union peut se réassurer
-auprès d'entreprises non régies par le présent code.
+auprès d'entreprises non régies par le présent code. 
+
+La présence d'opérations relevant de la réassurance financière limitée est explicitement mentionnée dans l'intitulé des
+contrats régissant ce type d'opérations.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
 
 
 ###### Article L211-5
@@ -2943,24 +2994,24 @@ obtenu un agrément délivré par l'autorité administrative compétente, après
 mentionné à l'article L. 411-1.
 
 L'agrément est accordé, sur demande de la mutuelle ou de l'union, pour les opérations d'une ou plusieurs branches ou sous-
-branches d'activité. La mutuelle ou l'union ne peut pratiquer que les opérations pour lesquelles elle est agréée.
+branches d'activité. La mutuelle ou l'union ne peut pratiquer que les opérations pour lesquelles elle est agréée. 
 
 Les dispositions du présent article s'appliquent en cas d'extension de l'activité de l'organisme ou de modification
-substantielle de ses conditions d'exercice.
+substantielle de ses conditions d'exercice. 
 
-Les opérations d'acceptation en réassurance ne sont pas soumises à l'agrément.
+Les opérations d'acceptation en réassurance ne sont pas soumises à l'agrément. 
 
-Avant l'octroi d'un agrément à une mutuelle ou union régie par le livre II du présent code qui est :
+Avant l'octroi d'un agrément à une mutuelle ou union régie par le livre II du présent code qui est : 
 
-a) Soit un organisme subordonné à un organisme assureur agréé dans un autre Etat membre ou partie à l'accord sur l'Espace
-économique européen ;
+a) Soit un organisme subordonné à un organisme assureur ou de réassurance agréé dans un autre Etat membre ou partie à
+l'accord sur l'Espace économique européen ; 
 
-b) Soit un organisme subordonné à l'organisme de référence d'un organisme assureur agréé dans un autre Etat membre ou partie
-à l'accord sur l'Espace économique européen ;
+b) Soit un organisme subordonné à l'organisme de référence d'un organisme assureur ou de réassurance agréé dans un autre Etat
+membre ou partie à l'accord sur l'Espace économique européen ; 
 
-c) Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle également un organisme assureur agréé dans
-un autre Etat membre ou partie à l'accord sur l'Espace économique européen, les autorités compétentes de l'autre Etat partie
-à l'accord sur l'Espace économique européen concerné sont consultées.
+c) Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle également un organisme assureur ou de
+réassurance agréé dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen, les autorités compétentes
+de l'autre Etat partie à l'accord sur l'Espace économique européen concerné sont consultées.
 
 **Liens relatifs à cet article**
 
@@ -3000,13 +3051,9 @@ un autre Etat membre ou partie à l'accord sur l'Espace économique européen, l
 	  - Code monétaire et financier - art. L612-20 (VT)
 	  - Code rural et de la pêche maritime - art. R752-39 (VD)
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Ordonnance 2004-1201 2004-11-12 art. 14 1° JORF 16 novembre 2004
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
 
 
 ###### Article L211-7-1
@@ -3039,16 +3086,79 @@ elle consulte l'autorité chargée de la surveillance des établissements de cr�
 	  - Code de la mutualité - art. R211-7-1 (VT)
 
 
+###### Article L211-7-2
+
+I.-Les mutuelles et unions mentionnées au II de l'article L. 111-1-1, qui ont pour activité exclusive la réassurance et dont
+le siège social est situé en France, ne peuvent commencer leurs opérations qu'après avoir obtenu un agrément délivré par
+l'autorité administrative compétente, après avis du Conseil supérieur de la mutualité. 
+
+Elles ne peuvent pratiquer que les opérations pour lesquelles elles sont agréées.
+
+L'agrément est accordé sur demande de la mutuelle ou de l'union pour la réassurance des opérations relevant soit du b du 1°
+du I, soit des a, c, d et e du 1° du I de l'article L. 111-1, soit pour la réassurance de l'ensemble de ces opérations. 
+
+II.-Avant l'octroi d'un agrément à une mutuelle ou union ayant pour activité exclusive la réassurance, qui est : 
+
+1° Soit un organisme subordonné à un organisme assureur ou de réassurance agréé dans un autre Etat membre de la Communauté
+européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
+
+2° Soit un organisme subordonné à l'organisme de référence d'un organisme assureur ou de réassurance agréé dans un autre Etat
+membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
+
+3° Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle également un organisme assureur ou de
+réassurance agréé dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen, 
+
+l'autorité administrative consulte les autorités compétentes de l'autre Etat membre de la Communauté européenne ou de l'autre
+Etat partie à l'accord sur l'Espace économique européen concerné.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 14 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 3 novembre 2014 - art. 5 (V)
+	  - Code de la mutualité - art. L211-8 (V)
+	  - Code de la mutualité - art. L211-9 (V)
+	  - Code de la mutualité - art. L212-14 (VD)
+	  - Code de la mutualité - art. L212-15-1 (VD)
+	  - Code de la mutualité - art. L411-1 (V)
+	  - Code de la mutualité - art. L510-3 (Ab)
+	  - Code de la mutualité - art. R211-11 (VT)
+	  - Code de la mutualité - art. R211-12 (VD)
+	  - Code de la mutualité - art. R211-28-2 (VT)
+	  - Code de la mutualité - art. R211-5-1 (VD)
+	  - Code de la mutualité - art. R212-20-1 (VT)
+	  - Code de la mutualité - art. R212-20-2 (VT)
+	  - Code de la mutualité - art. R212-59-2 (V)
+	  - Code de la mutualité - art. R510-4 (VT)
+	  - Code de la mutualité - art. R510-5 (VT)
+	  - Code de la mutualité - art. R510-7 (Ab)
+	  - Code de la mutualité - art. R510-9 (V)
+	  - Code monétaire et financier - art. L517-2 (V)
+	  - Code monétaire et financier - art. L612-43 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L111-1-1
+
+
 ###### Article L211-8
 
-Pour accorder l'agrément, l'autorité administrative s'assure que les éléments du programme d'activité établi selon les
-principes définis par arrêté du ministre chargé de la mutualité sont adaptés à la nature des activités que l'organisme se
-propose d'exercer.
+Pour accorder l'agrément prévu à l'article L. 211-7 ou L. 211-7-2, l'autorité administrative s'assure que les éléments du
+programme d'activité établi selon les principes définis par arrêté du ministre chargé de la mutualité sont adaptés à la
+nature des activités que l'organisme se propose d'exercer. 
 
 Elle s'assure également que les moyens administratifs, notamment d'encadrement, et les moyens techniques et financiers dont
-la mise en oeuvre est proposée sont compatibles avec le programme d'activité de la mutuelle ou de l'union.
+la mise en oeuvre est proposée sont compatibles avec le programme d'activité de la mutuelle ou de l'union. 
 
-Elle vérifie le respect des règles relatives à l'éligibilité des administrateurs édictées par le présent code.
+Elle vérifie le respect des règles relatives à l'éligibilité des administrateurs édictées par le présent code. 
 
 Elle vérifie l'honorabilité et la qualification ou l'expérience professionnelle des personnes chargées de la diriger. Elle
 prend en compte le niveau et les modalités de constitution de son fonds de garantie.
@@ -3068,14 +3178,6 @@ L'arrêté mentionné au premier alinéa fixe la liste des documents à produire
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
 	**Cité par**:
 
 	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 14 (V)
@@ -3094,22 +3196,32 @@ L'arrêté mentionné au premier alinéa fixe la liste des documents à produire
 	  - Code monétaire et financier - art. L517-2 (V)
 	  - Code monétaire et financier - art. L612-20 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L211-7-2
+	  - Code de la mutualité - art. L510-1
+
 
 ###### Article L211-9
 
-L'agrément prévu à l'article L. 211-7 peut être retiré par l'autorité administrative qui l'a délivré lorsque la mutuelle ou
-l'union :
+L'agrément prévu à l'article L. 211-7 et à l'article L. 211-7-2 peut être retiré par l'autorité administrative qui l'a
+délivré lorsque la mutuelle ou l'union : 
 
 a) Renonce expressément à l'agrément, n'en fait pas usage dans un délai d'un an ou a cessé d'exercer son activité pendant une
-période de six mois ;
+période de six mois ; 
 
 b) Ne satisfait plus aux conditions d'agrément définies à l'article L. 211-8.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
 
 	**Cité par**:
 
@@ -3119,6 +3231,12 @@ b) Ne satisfait plus aux conditions d'agrément définies à l'article L. 211-8.
 	  - Code de la mutualité - art. R211-14 (VD)
 	  - Code de la mutualité - art. R211-17 (VT)
 	  - Code de la mutualité - art. R414-3 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L211-7-2
+	  - Code de la mutualité - art. L211-8
 
 
 ###### Article L211-10
@@ -3331,37 +3449,33 @@ aux opérations mentionnées aux a, c, d et e du 1° du I de l'article L. 111-1.
 
 ###### Article L212-7
 
-I. - Constituent un groupe les mutuelles ou unions qui forment entre elles ou avec des institutions de prévoyance régies par
-le livre IX du code de la sécurité sociale ou l'article L. 727-2 du code rural ou avec des entreprises d'assurance relevant
-du code des assurances, un ensemble correspondant à l'un des cas suivants :
+I.-Constituent un groupe les mutuelles ou unions qui forment entre elles ou avec des institutions de prévoyance régies par le
+livre IX du code de la sécurité sociale ou l'article L. 727-2 du code rural ou avec des entreprises d'assurance relevant du
+code des assurances ou de réassurance, un ensemble correspondant à l'un des cas suivants : 
 
 1° Ces organismes ont soit une direction commune, soit des services communs assez étendus pour engendrer une politique
-commerciale, technique ou financière commune ;
+commerciale, technique ou financière commune ; 
 
-2° Ces organismes ont entre eux des liens de réassurance importants et durables ;
+2° Ces organismes ont entre eux des liens de réassurance importants et durables ; 
 
 3° Ces organismes détiennent directement ou indirectement une fraction du capital d'une ou plusieurs entreprises régies par
-le code des assurances leur permettant de participer à leur contrôle.
+le code des assurances leur permettant de participer à leur contrôle. 
 
-II. - Les mutuelles et unions appartenant à un groupe au sens du 3° du I ci-dessus établissent et publient des comptes
-consolidés dans les conditions définies par un règlement du comité de la réglementation comptable.
+II.-Les mutuelles et unions appartenant à un groupe au sens du 3° du I ci-dessus établissent et publient des comptes
+consolidés dans les conditions définies par un règlement du comité de la réglementation comptable. 
 
 Ces comptes sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L.
-823-9 du code de commerce.
+823-9 du code de commerce. 
 
-III. - Lorsque deux ou plusieurs mutuelles ou unions appartiennent à un groupe, l'une de ces entités établit et publie des
+III.-Lorsque deux ou plusieurs mutuelles ou unions appartiennent à un groupe, l'une de ces entités établit et publie des
 comptes combinés. Un décret détermine celle de ces entités sur laquelle pèse cette obligation. Les comptes combinés sont
 constitués par agrégation de l'ensemble des comptes des entités concernées, établis s'il y a lieu sur une base consolidée
-dans des conditions définies par un règlement du comité de la réglementation comptable.
+dans des conditions définies par un règlement du comité de la réglementation comptable. 
 
 Les comptes mentionnés au présent article sont certifiés par les commissaires aux comptes dans les conditions prévues au
 deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -3395,106 +3509,110 @@ deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de commerce - art. L823-9
+	  - Code rural - art. L727-2
 
 
 ###### Article L212-7-1
 
 Pour l'application des dispositions législatives et réglementaires relatives à la solvabilité des mutuelles et unions
 soumises au livre II, à la surveillance complémentaire instituée à l'article L. 212-7-2 et à la surveillance complémentaire
-des conglomérats financiers :
+des conglomérats financiers : 
 
-1° L'expression : "organisme de référence" désigne un organisme ayant une activité économique qui contrôle de manière
+1° L'expression : " organisme de référence " désigne un organisme ayant une activité économique qui contrôle de manière
 exclusive un autre organisme au sens du II de l'article L. 233-16 du code de commerce ou qui exerce une influence dominante
 sur un autre organisme ayant une activité économique à raison de l'existence de liens de solidarité importants et durables
-résultant d'engagements financiers ou de dirigeants ou de services communs. Ce second organisme est dénommé "organisme
-subordonné". Tout organisme subordonné d'un organisme subordonné est considéré comme subordonné à l'organisme de référence ;
+résultant d'engagements financiers ou de dirigeants ou de services communs. Ce second organisme est dénommé " organisme
+subordonné ". Tout organisme subordonné d'un organisme subordonné est considéré comme subordonné à l'organisme de
+référence ; 
 
-2° L'expression : "participation" désigne le fait de détenir, directement ou indirectement, au moins 20 % des droits de vote
-ou du capital d'une société, ou un ensemble de droits dans le capital d'une société, qui, en créant un lien durable avec
-celle-ci, est destiné à contribuer à l'activité de ladite société ;
+2° L'expression : " participation " désigne le fait de détenir, directement ou indirectement, au moins 20 % des droits de
+vote ou du capital d'une société, ou un ensemble de droits dans le capital d'une société, qui, en créant un lien durable avec
+celle-ci, est destiné à contribuer à l'activité de ladite société ; 
 
-3° L'expression : "organisme participant" désigne un organisme de référence au sens du 1° du présent article ou un organisme
-qui détient une participation dans un organisme ou un organisme lié à un autre organisme par des organes d'administration, de
-direction ou de surveillance composés en majorité des mêmes personnes ;
+3° L'expression : " organisme participant " désigne un organisme de référence au sens du 1° du présent article ou un
+organisme qui détient une participation dans un organisme ou un organisme lié à un autre organisme par des organes
+d'administration, de direction ou de surveillance composés en majorité des mêmes personnes ; 
 
-4° L'expression "organisme affilié" désigne un organisme qui est soit subordonné soit un autre organisme dans lequel une
-participation est détenue, soit un organisme lié à un autre organisme par une relation précisée au 7° du présent article ;
+4° L'expression " organisme affilié " désigne un organisme qui est soit subordonné soit un autre organisme dans lequel une
+participation est détenue, soit un organisme lié à un autre organisme par une relation précisée au 7° du présent article ; 
 
-5° L'expression : "organisme apparenté" désigne tout organisme affilié, participant ou affilié d'un organisme participant
-d'un organisme ;
+5° L'expression : " organisme apparenté " désigne tout organisme affilié, participant ou affilié d'un organisme participant
+d'un organisme ; 
 
-6° L'expression : "organisme assureur" désigne toute mutuelle ou union relevant du présent livre, institution de prévoyance
+6° L'expression : " organisme assureur " désigne toute mutuelle ou union relevant du présent livre, institution de prévoyance
 régie par le titre III du livre IX du code de la sécurité sociale ou par l'article L. 727-2 du code rural, ou entreprise
 d'assurance ou de réassurance régie par le code des assurances, ainsi que les entreprises d'assurance et de réassurance dont
-le siège est situé hors de France ;
+le siège est situé hors de France ; 
 
-7° L'expression "groupe financier" désigne un ensemble d'organismes composé d'un organisme de référence, de ses organismes
+7° L'expression " groupe financier " désigne un ensemble d'organismes composé d'un organisme de référence, de ses organismes
 subordonnés et des entités dans lesquelles l'organisme de référence ou ses organismes subordonnés détiennent des
 participations, ainsi que des entités liées de telle sorte que leurs organes d'administration, de direction ou de
 surveillance sont composés en majorité des mêmes personnes ou qu'elles sont placées sous une direction unique en vertu d'un
 contrat ou de clauses statutaires. Les établissements affiliés à un réseau et l'organe central au sens de l'article L. 511-31
 du code monétaire et financier sont considérés comme faisant partie d'un même groupe pour l'application du présent chapitre.
 Il en est de même pour les entités appartenant à des groupes coopératifs régis par les dispositions similaires dans la
-législation qui leur est applicable ;
+législation qui leur est applicable ; 
 
-8° L'expression "entité réglementée" désigne une mutuelle ou une union régie par le livre II du présent code, un
+8° L'expression " entité réglementée " désigne une mutuelle ou une union régie par le livre II du présent code, un
 établissement de crédit ou une entreprise d'investissement ayant son siège social dans un Etat membre ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen ;
+partie à l'accord sur l'Espace économique européen ; 
 
-9° L'expression "compagnie financière holding mixte" désigne un organisme de référence autre qu'une entité réglementée qui,
+9° L'expression " compagnie financière holding mixte " désigne un organisme de référence autre qu'une entité réglementée qui,
 avec ses organismes subordonnés, dont l'un au moins est une entité réglementée ayant son siège dans un Etat membre ou dans un
-autre Etat partie à l'accord sur l'Espace économique européen, constitue un conglomérat financier ;
+autre Etat partie à l'accord sur l'Espace économique européen, constitue un conglomérat financier ; 
 
-10° L'expression "secteur financier" désigne un secteur composé d'une ou plusieurs entités appartenant aux secteurs
-suivants :
+10° L'expression " secteur financier " désigne un secteur composé d'une ou plusieurs entités appartenant aux secteurs
+suivants : 
 
 a) Le secteur bancaire et des services d'investissement, qui comprend les établissements de crédit, les entreprises
 d'investissement, les établissements financiers ou les entreprises à caractère financier dont le siège social est situé dans
-un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
 
 b) Le secteur des assurances, qui comprend les entreprises d'assurance, les sociétés de groupe d'assurance, les mutuelles,
 les unions de mutuelles, les institutions de prévoyance, les unions d'institutions de prévoyance, les groupements paritaires
 de prévoyance ou les sociétés de réassurance dont le siège social est situé dans un Etat membre ou dans un autre Etat partie
-à l'accord sur l'Espace économique européen ;
+à l'accord sur l'Espace économique européen ; 
 
-Le secteur financier comprend également, le cas échéant, une ou plusieurs compagnies financières holding mixtes ;
+Le secteur financier comprend également, le cas échéant, une ou plusieurs compagnies financières holding mixtes ; 
 
-11° L'expression "autorité compétente" désigne toute autorité nationale d'un Etat membre ou d'un autre Etat partie à l'accord
-sur l'Espace économique européen dotée, par une disposition législative ou réglementaire, du pouvoir de surveiller,
-individuellement ou à l'échelle du groupe, l'une ou plusieurs des catégories d'entités réglementées suivantes :
+11° L'expression " autorité compétente " désigne toute autorité nationale d'un Etat membre ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen dotée, par une disposition législative ou réglementaire, du pouvoir de surveiller,
+individuellement ou à l'échelle du groupe, l'une ou plusieurs des catégories d'entités réglementées suivantes : 
 
-a) Les entreprises d'assurances ;
+a) Les entreprises d'assurances ; 
 
-b) Les mutuelles ;
+b) Les mutuelles ; 
 
-c) Les institutions de prévoyance ;
+c) Les institutions de prévoyance ; 
 
-d) Les établissements de crédit ;
+d) Les entreprises de réassurance ; 
 
-e) Les entreprises d'investissement ;
+e) Les établissements de crédit ; 
 
-12° L'expression "autorité compétente concernée" désigne :
+f) Les entreprises d'investissement ; 
+
+12° L'expression " autorité compétente concernée " désigne : 
 
 1° Toute autorité compétente des Etats responsable de la surveillance sectorielle consolidée ou combinée des entités
-réglementées appartenant à un conglomérat financier ;
+réglementées appartenant à un conglomérat financier ; 
 
-2° Le coordonnateur désigné conformément à l'article L. 212-7-9, s'il est différent des autorités mentionnées au point a ;
+2° Le coordonnateur désigné conformément à l'article L. 212-7-9, s'il est différent des autorités mentionnées au point a ; 
 
-3° Les autres autorités compétentes, lorsque les autorités mentionnées aux 1° et 2° le jugent opportun ;
+3° Les autres autorités compétentes, lorsque les autorités mentionnées aux 1° et 2° le jugent opportun ; 
 
-13° L'expression "règles sectorielles" désigne les règles concernant la surveillance prudentielle des entités réglementées et
-les règles concernant la surveillance complémentaire instituée à l'article L. 212-7-2.
+13° L'expression " règles sectorielles " désigne les règles concernant la surveillance prudentielle des entités réglementées
+et les règles concernant la surveillance complémentaire instituée à l'article L. 212-7-2.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
 
 	**Cité par**:
 
@@ -3519,6 +3637,14 @@ les règles concernant la surveillance complémentaire instituée à l'article L
 	  - Code monétaire et financier - art. R561-28 (VD)
 	  - Code monétaire et financier - art. R612-37 (VD)
 	  - Code monétaire et financier - art. R612-38 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16
+	  - Code rural - art. L727-2
+	  - Code monétaire et financier - art. L511-31
+	  - Code de la mutualité - art. L212-7-2
+	  - Code de la mutualité - art. L212-7-9
 
 
 ###### Article L212-7-2
@@ -4263,6 +4389,39 @@ convention, de l'accord ou de la décision unilatérale.
 	  - Code de la mutualité - art. L212-6 (V)
 
 
+###### Article L212-11-1
+
+Les mutuelles et unions ainsi que leurs succursales exerçant une activité de réassurance peuvent être autorisées, dans les
+conditions définies au présent article, à transférer tout ou partie de leur portefeuille de contrats ou de sinistres à payer
+à une ou plusieurs mutuelles ou unions régies par le présent code, à une ou plusieurs institutions de prévoyance régies par
+le code de la sécurité sociale ou l'article L. 727-2 du code rural et à une ou plusieurs entreprises de réassurance ou
+d'assurance ayant leur siège social en France, dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen ou à leurs succursales établies sur le territoire de l'Espace économique
+européen.
+
+L'autorité administrative n'approuve le transfert sollicité que si les autorités compétentes de l'Etat où le cessionnaire a
+son siège social attestent que celui-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire. 
+
+La mutuelle, l'union ou la succursale qui transfère son portefeuille en informe les organismes réassurés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 26 (V)
+	  - Code de la mutualité - art. L211-8-1 (VD)
+	  - Code de la mutualité - art. R212-60-1 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L727-2
+
+
 ###### Article L212-12
 
 Lorsque les opérations de fusion ou de scission comportent des transferts de portefeuille dans les conditions prévues à
@@ -4309,33 +4468,39 @@ même délai.
 ###### Article L212-14
 
 La dissolution volontaire comporte, pour la mutuelle ou pour l'union, l'engagement de ne plus réaliser, pour l'ensemble des
-agréments qui lui avaient été accordés, de nouvelles opérations.
+agréments qui lui avaient été accordés, de nouvelles opérations. 
 
-La mutuelle ou l'union en informe immédiatement l'Autorité de contrôle mentionnée à l'article L. 510-1.
+La mutuelle ou l'union en informe immédiatement l'Autorité de contrôle mentionnée à l'article L. 510-1. 
 
 Dans le mois de la décision constatant la caducité de l'agrément, elle soumet à l'Autorité un programme de liquidation
 précisant notamment les délais prévisibles et les conditions financières de la liquidation ainsi que les moyens en personnel
-et matériels mis en oeuvre pour la gestion des engagements résiduels.
+et matériels mis en oeuvre pour la gestion des engagements résiduels. 
 
 Lorsque la gestion des engagements résiduels est déléguée à un tiers, le projet de contrat de délégation et un dossier
 décrivant la qualité du délégataire et de ses dirigeants, son organisation, sa situation financière et les moyens mis en
 oeuvre sont communiqués à l'Autorité qui peut, dans les conditions mentionnées à l'article L. 510-7, réaliser tous contrôles
-sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements.
+sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements. 
+
+En cas de liquidation d'une mutuelle ou union de réassurance agréée dans les conditions prévues à l'article L. 211-7-2, les
+engagements résultant des contrats souscrits par l'intermédiaire d'une succursale ou en libre prestation de services sont
+exécutés de la même façon que les engagements résultant des autres contrats de réassurance de cet organisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
 
 	**Cité par**:
 
 	  - Décret n°2008-1154 du 7 novembre 2008 - art. 31 (V)
 	  - Code de la mutualité - art. L510-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-7-2
+	  - Code de la mutualité - art. L510-1
+	  - Code de la mutualité - art. L510-7
 
 
 ###### Article L212-15
@@ -7658,6 +7823,12 @@ au e du 1° du I de l'article L. 111-1.
 	  - Code de la mutualité - art. L111-1 (Ab)
 
 
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
+
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
+
+### Titre II : Opérations des mutuelles et des unions.
+
 ## Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.
 
 ### Titre Ier : Constitution et règles de fonctionnement des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.
@@ -7867,8 +8038,8 @@ Il débat des bonnes pratiques applicables aux activités et au fonctionnement d
 Il établit un rapport qui rend compte de son activité. Ce rapport est adressé au Président de la République, au Premier
 ministre et au Parlement. 
 
-Il est consulté préalablement aux décisions relatives à l'agrément des mutuelles et des unions prévu aux articles L. 211-7 et
-L. 211-8. 
+Il est consulté préalablement aux décisions relatives à l'agrément des mutuelles et des unions prévu aux articles L. 211-7,
+L. 211-7-2 et L. 211-8. 
 
 Il gère pour le compte de l'Etat le fonds national de solidarité et d'action mutualistes. 
 
@@ -7876,10 +8047,6 @@ Le secrétariat général du Conseil supérieur de la mutualité est chargé de 
 et fédérations dans lequel ces organismes sont répertoriés en fonction de leur activité.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -7911,6 +8078,15 @@ et fédérations dans lequel ces organismes sont répertoriés en fonction de le
 	  - Code de la mutualité - art. R414-7 (Ab)
 	  - Code de la mutualité - art. R421-4 (V)
 	  - Code de la mutualité - art. R421-7 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-7-2
+	  - Code de la mutualité - art. L211-8
 
 
 ###### Article L411-2
@@ -8663,39 +8839,50 @@ compétente pour prononcer les sanctions disciplinaires prévues à l'article L.
 L'Autorité de contrôle veille au respect, par les mutuelles, unions et fédérations ainsi que par toute entité appartenant à
 un conglomérat financier défini à l'article L. 212-7-5 dont la surveillance est coordonnée par l'Autorité de contrôle
 mentionnée à l'article L. 510-1 dans les conditions prévues à l'article L. 212-7-9, des dispositions législatives et
-réglementaires du présent code.
+réglementaires du présent code. 
 
-L'Autorité de contrôle s'assure notamment que les mutuelles et unions relevant du livre II remplissent les engagements
-qu'elles ont contractés à l'égard de leurs membres participants ainsi que des bénéficiaires de leurs opérations, et qu'elles
-présentent la marge de solvabilité prescrite. A cette fin, elle examine leur situation financière et leurs conditions
-d'exploitation. Elle vérifie que les mutuelles et unions disposent d'une bonne organisation administrative et comptable et de
-procédures de contrôle interne adéquates.
+Elle s'assure que les mutuelles et unions sont toujours en mesure de remplir les engagements qu'elles ont contractés à
+l'égard des participants ou bénéficiaires et ayants droit de ceux-ci ou organismes réassurés et qu'elles présentent la marge
+de solvabilité fixée par voie réglementaire. Elle s'assure également que les mutuelles et unions de réassurance sont en
+mesure de tenir à tout moment les engagements qu'elles ont contractés envers les organismes réassurés et présentent la marge
+de solvabilité fixée par voie réglementaire. Elle examine à ces fins la situation financière et les conditions d'exploitation
+des organismes soumis à son contrôle et veille en outre à ce que leurs modalités de constitution et le fonctionnement de
+leurs organes délibérants et organes dirigeants soient conformes aux dispositions qui les régissent.
 
 L'Autorité de contrôle s'assure en outre que les modalités de constitution et de fonctionnement des organismes soumis à son
-contrôle sont conformes aux dispositions qui les régissent.
+contrôle sont conformes aux dispositions qui les régissent. 
 
-Toute mutuelle ou union relevant du livre II, agréée conformément aux dispositions de l'article L. 211-7, qui projette
-d'ouvrir une succursale, ou d'exercer pour la première fois des activités en libre prestation de services sur le territoire
-d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou de modifier la
-nature ou les conditions d'exercice de ces activités, notifie son projet à l'Autorité de contrôle. Celle-ci s'assure que la
-mutuelle ou l'union dispose d'une structure administrative et d'une situation financière adéquates au regard de son projet.
-Si elle estime que ces conditions ne sont pas remplies, l'Autorité de contrôle ne communique pas à l'autorité de contrôle de
-cet autre Etat les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les conditions
-d'application du présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels l'Autorité doit se
-prononcer.
+Toute mutuelle ou union relevant du livre II, agréée conformément aux dispositions des articles L. 211-7 et L. 211-7-2, qui
+projette d'ouvrir une succursale, ou d'exercer pour la première fois des activités en libre prestation de services sur le
+territoire d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou de
+modifier la nature ou les conditions d'exercice de ces activités, notifie son projet à l'Autorité de contrôle. Celle-ci
+s'assure que la mutuelle ou l'union dispose d'une structure administrative et d'une situation financière adéquates au regard
+de son projet. Si elle estime que ces conditions ne sont pas remplies, l'Autorité de contrôle ne communique pas à l'autorité
+de contrôle de cet autre Etat les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe
+les conditions d'application du présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels
+l'Autorité doit se prononcer. 
 
 Avant un refus d'agrément, l'Autorité de contrôle est saisie pour avis par l'autorité administrative détentrice du pouvoir
 d'accorder l'agrément, dans les conditions mentionnées à l'article L. 211-8.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L211-7-2
+	  - Code de la mutualité - art. L211-8
+	  - Code de la mutualité - art. L212-7-5
+	  - Code de la mutualité - art. L212-7-9
+	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
@@ -8863,15 +9050,19 @@ d'étendre le contrôle sur place d'une mutuelle, d'une union ou d'une fédérat
 indirectement avec cette mutuelle, union ou fédération par une convention susceptible d'altérer son autonomie de
 fonctionnement ou de décision et concernant l'un quelconque de ses domaines d'activité et, notamment, à toute mutuelle ou
 union régie par le livre III, ainsi qu'à toute personne morale qui constitue avec l'organisme contrôlé un groupe au sens de
-l'article L. 212-7.
+l'article L. 212-7. 
 
 Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la situation financière réelle de la mutuelle
 ou de l'union contrôlée, le respect par cette mutuelle ou cette union des engagements qu'elle a contractés auprès des membres
-participants et bénéficiaires ou la capacité des personnes morales qui lui sont apparentées à participer à d'éventuelles
-mesures de redressement ou de sauvegarde de cette mutuelle ou union.
+participants et bénéficiaires et des organismes réassurés ou la capacité des personnes morales qui lui sont apparentées à
+participer à d'éventuelles mesures de redressement ou de sauvegarde de cette mutuelle ou union. 
+
+Les contrôles sur place peuvent également, dans le cadre de conventions internationales, être étendus aux succursales ou
+filiales de mutuelles ou d'unions pratiquant l'assurance ou la réassurance.
 
 L'Autorité de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
-complémentaire instituée à l'article L. 212-7-2 auprès de la mutuelle ou l'union et de ses organismes apparentés.
+complémentaire instituée à l'article L. 212-7-2 auprès de la mutuelle ou l'union d'assurance ou de réassurance et de ses
+organismes apparentés. 
 
 Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L. 212-7-2, l'Autorité souhaite vérifier des
 informations utiles à l'exercice de sa surveillance concernant une entreprise située dans un Etat membre de la Communauté
@@ -8879,23 +9070,29 @@ européenne ou dans un autre Etat partie à l'accord sur l'Espace économique eu
 de cet Etat qu'il soit procédé à cette vérification. Lorsque les autorités d'un Etat membre de la Communauté européenne ou
 d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitent, dans des cas déterminés, vérifier des
 informations utiles à l'exercice de leur surveillance concernant une mutuelle ou union apparentée à une entreprise
-d'assurance soumise à leur surveillance complémentaire, l'Autorité de contrôle doit répondre à leur demande soit en procédant
-elle-même à cette vérification, soit en permettant à des personnes désignées par ces autorités d'y procéder.
+d'assurance ou de réassurance soumise à leur surveillance complémentaire, l'Autorité de contrôle doit répondre à leur demande
+soit en procédant elle-même à cette vérification, soit en permettant à des personnes désignées par ces autorités d'y
+procéder.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L212-14 (V)
 	  - Code de la mutualité - art. R211-19 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-7
+	  - Code de la mutualité - art. L212-7-2
 
 
 ###### Article L510-8
@@ -9040,42 +9237,42 @@ union régie par le livre III.
 
 ###### Article L510-11
 
-Lorsqu'une mutuelle, une union ou une fédération a enfreint une disposition législative ou réglementaire dans le domaine
-relevant du contrôle de l'Autorité ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des
-engagements qu'elle a contractés envers les membres participants, ayants droit ou bénéficiaires, l'Autorité peut prononcer à
-son encontre, ou celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en fonction de la gravité
-du manquement :
+Lorsqu'une mutuelle, une union exerçant des activités d'assurance ou de réassurance ou une fédération a enfreint une
+disposition législative ou réglementaire dans le domaine relevant du contrôle de l'Autorité ou a des pratiques qui mettent en
+péril sa marge de solvabilité ou l'exécution des engagements qu'elle a contractés envers les membres participants, ayants
+droit ou bénéficiaires, l'Autorité peut prononcer à son encontre, ou celle de ses dirigeants, l'une ou plusieurs des
+sanctions disciplinaires suivantes en fonction de la gravité du manquement : 
 
-1° L'avertissement ;
+1° L'avertissement ; 
 
-2° Le blâme ;
+2° Le blâme ; 
 
-3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
+3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ; 
 
-4° La suspension temporaire d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ;
+4° La suspension temporaire d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
 
-5° La démission d'office d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ;
+5° La démission d'office d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
 
-6° Le retrait total ou partiel d'agrément ;
+6° Le retrait total ou partiel d'agrément ; 
 
 7° Le transfert d'office, après organisation d'un appel d'offres fructueux, de tout ou partie de portefeuille de contrats de
 la mutuelle ou de l'union.
 
 L'Autorité de contrôle peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la mutuelle, l'union ou
-la fédération pour prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa.
+la fédération pour prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa. 
 
 En outre, l'Autorité de contrôle peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire. Le
 montant de cette sanction doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % des cotisations
 perçues au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à 5 % en cas de
 nouvelle violation de la même obligation. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées
-comme des créances de l'Etat étrangères à l'impôt et au domaine.
+comme des créances de l'Etat étrangères à l'impôt et au domaine. 
 
 Pour les mutuelles et unions qui ont la qualité d'organisme de référence au sens de l'article L. 212-7-1, le montant maximum
 de la sanction pécuniaire est défini par référence aux cotisations de celle des mutuelles et unions incluses par intégration
 globale dans la consolidation dont le total des cotisations émises au cours du dernier exercice clos est le plus élevé.
 
 L'autorité de contrôle peut rendre publique sa décision dans les journaux, publications ou supports qu'elle désigne. Les
-frais sont supportés par la personne sanctionnée.
+frais sont supportés par la personne sanctionnée. 
 
 Dans tous les cas prévus au présent article, l'Autorité de contrôle statue après une procédure contradictoire. Elle informe
 obligatoirement les intéressés de leur droit à être entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se faire
@@ -9084,14 +9281,13 @@ suit la notification de la décision, former un recours de pleine juridiction de
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 2 () JORF 16 décembre 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -9115,6 +9311,10 @@ suit la notification de la décision, former un recours de pleine juridiction de
 	  - Code des assurances - art. R*310-18 (M)
 	  - Code des assurances - art. R*310-19 (V)
 	  - Code des assurances - art. R310-12 (Ab)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-7-1
 
 
 ###### Article L510-12

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-06-15 00:00:01 +0200
+Version Consolidée au 2008-06-19
 
 # Partie législative
 
@@ -5484,6 +5484,22 @@ mutuelle ou à l'union, en ce qui concerne le règlement de l'indemnité.
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+
+###### Article L221-12-1
+
+Par dérogation à l'article 2254 du code civil, les parties à une opération individuelle ou collective ne peuvent, même d'un
+commun accord, ni modifier la durée de la prescription, ni ajouter aux causes de suspension ou d'interruption de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 6
+
+	**Cite**:
+
+	  - Code civil - art. 2254
 
 
 ###### Article L221-13

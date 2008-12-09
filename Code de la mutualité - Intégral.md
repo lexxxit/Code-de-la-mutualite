@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-11-10
+Version Consolidée au 2008-12-10
 
 # Partie législative
 
@@ -1489,6 +1489,29 @@ et un état annuel annexé aux comptes et relatif aux plus-values latentes, vis�
 	  - Code de la mutualité - art. L114-26 (M)
 	  - Code de la mutualité - art. L212-6 (V)
 	  - Code de la mutualité - art. L212-7 (M)
+
+
+###### Article L114-17-1
+
+Par dérogation aux dispositions de l'article L. 823-19 du code de commerce, le comité spécialisé dont sont dotées les
+mutuelles régies par le livre II du présent code peut comprendre deux membres au plus qui ne font pas partie du conseil
+d'administration mais qui sont désignés par lui à raison de leurs compétences.
+
+**Nota:**
+
+Ordonnance n° 2008-1278 du 8 décembre 2008 article 21 : Les dispositions de l'article 17 de la présente ordonnance entrent en
+vigueur à l'expiration d'un délai de huit mois qui suit la clôture du premier exercice ouvert à compter du 1er janvier 2008
+au cours duquel un mandat au sein de l'organe d'administration ou de surveillance vient à échéance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1278  du 8 décembre 2008 - art. 17
+
+	**Cite**:
+
+	  - Code de commerce. - art. L823-19 (V)
 
 
 ###### Article L114-18
@@ -3470,6 +3493,35 @@ Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité
 	**Cite**:
 
 	  - Code de la mutualité - art. L510-1 (M)
+
+
+###### Article L212-3-1
+
+Outre les personnes et entités contrôlées au sens de l'article L. 233-16 du code de commerce, sont exemptées des obligations
+mentionnées à l'article L. 823-19 du même code les personnes et entités liées à un organisme de référence au sens du 1° de
+l'article L. 212-7-1 lorsque l'organisme de référence est lui-même soumis à ces obligations.
+
+**Nota:**
+
+Ordonnance n° 2008-1278 du 8 décembre 2008 article 21 : Les dispositions de l'article 17 de la présente ordonnance entrent en
+vigueur à l'expiration d'un délai de huit mois qui suit la clôture du premier exercice ouvert à compter du 1er janvier 2008
+au cours duquel un mandat au sein de l'organe d'administration ou de surveillance vient à échéance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1278  du 8 décembre 2008 - art. 17
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16
+	  - Code de commerce - art. L823-19
+	  - Code de la mutualité - art. L212-7-1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L511-46 (Ab)
 
 
 ###### Article L212-4
@@ -19159,9 +19211,9 @@ c) 50 salariés en équivalent temps plein.
 	  - Code de commerce. - art. L225-219 (Ab)
 
 
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
 
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
 
 #### Chapitre II : Fonctionnement
 
@@ -19487,14 +19539,6 @@ légale hebdomadaire du travail, en vigueur au 1er juillet précédant la date �
 
 	  - Décret n°2008-785 du 18 août 2008 - art. 1
 
-
-## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
-
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
-
-#### Chapitre II : Fonctionnement
-
-### Titre II : Opérations des mutuelles et des unions.
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.
 

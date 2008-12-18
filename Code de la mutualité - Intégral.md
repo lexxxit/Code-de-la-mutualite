@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-12-10
+Version Consolidée au 2008-12-19
 
 # Partie législative
 
@@ -6842,8 +6842,8 @@ En l'absence de désignation d'un bénéficiaire dans le bulletin d'adhésion ou
 cotisant a le droit de désigner un bénéficiaire ou de substituer un bénéficiaire à un autre. Cette désignation ou cette
 substitution ne peut être opérée, à peine de nullité, qu'avec l'accord du membre participant, lorsque celui-ci n'est pas le
 cotisant. Cette désignation ou cette substitution peut être réalisée soit par la modification du bulletin d'adhésion, soit
-par voie d'avenant au contrat, soit en remplissant les formalités édictées par l'article 1690 du code civil, soit par
-endossement quand le contrat est à ordre, soit par voie testamentaire. 
+par voie d'avenant au contrat, soit en remplissant les formalités édictées par l'article 1690 du code civil, soit par voie
+testamentaire. 
 
 Lorsque la mutuelle ou l'union est informée du décès du membre participant, elle est tenue de rechercher le bénéficiaire et,
 si cette recherche aboutit, de l'aviser de la stipulation effectuée à son profit.
@@ -6852,7 +6852,7 @@ si cette recherche aboutit, de l'aviser de la stipulation effectuée à son prof
 
 	**Modifié par**:
 
-	  - Loi n°2007-1775 du 17 décembre 2007 - art. 7
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 10
 
 	**Cite**:
 
@@ -7131,15 +7131,28 @@ cas, la mise à la disposition du porteur de la valeur de rachat que ladite gara
 	  - Ordonnance 2001-350 2001-04-19
 
 
+###### Article L223-19-1
+
+L'opération d'assurance comportant des valeurs de rachat précise les conditions dans lesquelles, en cas de décès, la
+revalorisation du capital garanti intervient à compter au plus tard du premier anniversaire du décès du membre participant
+jusqu'à la réception des pièces mentionnées à l'article L. 223-22-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L223-22-1 (V)
+
+
 ###### Article L223-20
 
-Les modalités de calcul de la valeur de rachat ou de la valeur de transfert pour les opérations relevant de l'article L.
-144-2 du code des assurances et, le cas échéant, de la valeur de réduction sont déterminées par un règlement général
-mentionné dans les règlements ou le contrat collectif et établi par la mutuelle ou l'union.
-
-Dès la signature du bulletin d'adhésion ou du contrat collectif, la mutuelle ou l'union informe l'adhérent que ce règlement
-général est tenu à sa disposition, sur sa demande. La mutuelle ou l'union doit communiquer à l'adhérent, sur la demande de
-celui-ci, le texte du règlement général.
+Le bulletin d'adhésion ou le contrat précise les modalités de calcul de la valeur de rachat ou de la valeur de transfert et,
+le cas échéant, de la valeur de réduction. Pour le calcul de la valeur de réduction, il ne peut être prévu d'imputer sur la
+provision mathématique du contrat une indemnité de réduction.
 
 Dans la limite de la valeur de rachat, la mutuelle ou l'union peut consentir des avances au membre participant.
 
@@ -7151,23 +7164,14 @@ légal.
 
 **Nota:**
 
-Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-20 du présent code, les mots "
-plan d'épargne retraite populaire " sont déclassés et ont dorénavant un caractère réglementaire.
+NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-20 du présent code, les
+mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2006-1770 2006-12-30 art. 65 III, IV JORF 31 décembre 2006 en vigueur le 9 novembre 2006
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 9 novembre 2006
-
-	**Cite**:
-
-	  - Code des assurances - art. L144-2 (V)
+	  - Loi n°2007-1775 du 17 décembre 2007 - art. 2
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-12-19
+Version Consolidée au 2008-12-31
 
 # Partie législative
 
@@ -12305,35 +12305,41 @@ Un arrêté du ministre chargé de la mutualité fixe, en tant que de besoin, le
 
 ###### Article R212-24
 
-I. - La provision pour risque d'exigibilité est constituée lorsque les placements mentionnés à l'article R. 212-53 se
+I. ― La provision pour risque d'exigibilité est constituée lorsque les placements mentionnés à l'article R. 212-53 se
 trouvent en situation de moins-value latente nette globale. Une moins-value latente nette globale des placements mentionnés à
 l'article R. 212-53 est constatée lorsque la valeur nette comptable de ces placements est supérieure à la valeur globale de
-ces mêmes placements évalués selon les règles prévues à l'article R. 212-54.
+ces mêmes placements évalués de la manière suivante : 
+
+a) Pour les valeurs mobilières cotées et les titres cotés mentionnés au a de l'article R. 212-54, la valeur retenue est le
+cours moyen calculé sur les trente derniers jours précédant le jour de l'inventaire ou, à défaut, le dernier cours coté avant
+cette date ; 
+
+b) Pour les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement mentionnés au
+c de l'article R. 212-54, la valeur retenue est la moyenne des prix de rachat publiés au cours des trente derniers jours
+précédant le jour de l'inventaire ou, à défaut, le dernier prix de rachat publié avant cette date ; 
+
+c) Pour les autres actifs, leur valeur est évaluée selon les règles prévues à l'article R. 212-54. 
 
 1° Lorsque la mutuelle ou l'union, avant dotation à la provision pour risque d'exigibilité, satisfait à la représentation de
 ses engagements réglementés et à la couverture de l'exigence minimale de marge de solvabilité, la dotation annuelle à la
 provision pour risque d'exigibilité au titre de l'exercice est égale au tiers du montant de la moins-value latente nette
 globale constatée sur les placements mentionnés à l'article R. 212-53, sans que cette dotation puisse conduire à ce que le
 montant total de la provision inscrite au bilan excède le montant de la moins-value latente nette globale constatée sur les
-placements mentionnés à l'article R.  212-53.
+placements mentionnés à l'article R. 212-53. 
 
 2° Dans les autres cas, la provision pour risque d'exigibilité inscrite au bilan au titre de l'exercice est égale à la moins-
-value latente nette globale constatée sur les placements mentionnés à l'article R. 212-53.
+value latente nette globale constatée sur les placements mentionnés à l'article R. 212-53. 
 
-Pour les calculs mentionnés aux alinéas précédents, les valeurs déterminées selon l'article R. 212-54 prennent en compte les
-moins-values latentes des opérations sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72 ayant
-comme sous-jacent les actifs mentionnés à l'article R. 212-53. Ces moins-values latentes sont prises en compte à hauteur de
-la partie excédant la valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en compte que
-si elles sont garanties dans les conditions prévues à l'article R. 212-81.
+Pour les calculs mentionnés aux alinéas précédents, les valeurs mentionnées aux a, b et c prennent en compte les moins-values
+latentes des opérations sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72 ayant comme sous-jacent
+les actifs mentionnés à l'article R. 212-53. Ces moins-values latentes sont prises en compte à hauteur de la partie excédant
+la valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en compte que si elles sont
+garanties dans les conditions prévues à l'article R. 212-81. 
 
-II. - La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais
+II.-La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais
 d'acquisitions reportés en application des dispositions de l'article R. 212-59.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-53, R212-54, R212-70 à R212-72, R212-81, R212-59, R212-26, R212-24, R212-27, R212-27-1
 
 	**Cité par**:
 
@@ -12344,9 +12350,50 @@ d'acquisitions reportés en application des dispositions de l'article R. 212-59.
 	  - Code de la mutualité - art. R212-27-2 (M)
 	  - Code des assurances - art. R335-6 (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2008-1437 du 22 décembre 2008 - art. 7
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R212-53
+	  - Code de la mutualité - art. R212-54
+	  - Code de la mutualité - art. R212-59
+	  - Code de la mutualité - art. R212-70
+	  - Code de la mutualité - art. R212-81
+
+
+###### Article R212-24-1
+
+Lorsque les conditions mentionnées au 1° du I de l'article R. 212-24 sont respectées, la charge constituée par la dotation à
+la provision pour risque d'exigibilité mentionnée à l'article R. 212-24 peut être étalée dans des conditions précisées par
+arrêté du ministre chargé de la mutualité. Le report de charge consécutif à cet étalement ne peut toutefois pas conduire à ce
+que la charge totale relative au provisionnement de la moins-value latente globale mentionnée à l'article R. 212-24 pour un
+exercice donné soit supportée sur plus de huit exercices consécutifs, à compter de l'exercice où cette moins-value latente
+globale a été constatée. 
+
+Lorsqu'une provision pour risque d'exigibilité est constituée dans une comptabilité auxiliaire d'affectation établie en vertu
+du présent code, le report de la charge est constaté dans les comptes de la mutuelle ou de l'union de mutuelles et n'affecte
+pas cette comptabilité auxiliaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1437 du 22 décembre 2008 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A212-24-1 (Ab)
+	  - Code de la mutualité - art. R510-3-1-2 (VT)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R212-24
 
 
 ###### Article R212-25
@@ -18303,25 +18350,24 @@ mesures et veille à leur exécution.
 
 ###### Article R510-3-1
 
-I.-Lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un risque
-d'insolvabilité, et au vu du programme de rétablissement mentionné au I de l'article R. 510-3 ou à défaut de communication de
-ce programme dans le délai d'un mois après la demande, l'Autorité de contrôle peut exiger d'une mutuelle ou union une marge
-de solvabilité renforcée, supérieure à l'exigence minimale de marge mentionnée, selon les cas, à l'article R. 212-12, à
-l'article R. 212-16 ou à l'article R. 212-19. Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur
-au double de l'exigence minimale de marge mentionnée aux articles R. 212-12 ou R. 212-16. 
+I. ― Au vu du programme de rétablissement mentionné au I de l'article R. 510-3 ou à défaut de communication de ce programme
+dans le délai d'un mois après la demande, l'Autorité de contrôle peut exiger d'une mutuelle ou union une marge de solvabilité
+renforcée, supérieure à l'exigence minimale de marge mentionnée, selon les cas, à l'article R. 212-12, à l'article R. 212-16
+ou à l'article R. 212-19. Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double de
+l'exigence minimale de marge mentionnée aux articles R. 212-12 ou R. 212-16. 
 
-II.-Après que lui a été communiqué le programme de rétablissement mentionné au I de l'article R. 510-3 ou à défaut de
-communication de ce programme dans le délai d'un mois après la demande, l'Autorité de contrôle peut limiter la réduction de
-marge de solvabilité prévue aux articles R. 212-12, R. 212-16 ou R. 212-19 lorsque : 
+II. ― L'Autorité de contrôle peut limiter la réduction de marge de solvabilité prévue aux articles R. 212-12, R. 212-16 ou R.
+212-19 lorsque : 
 
 1. Le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ; 
 
 2. Ou lorsque le programme de réassurance ne prévoit aucun transfert de risques ou un transfert insignifiant. 
 
-III.-Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité d'une mutuelle ou union d'assurance ou de
-réassurance ont connu une baisse d'au moins 33 % au cours du dernier exercice clos par rapport à la moyenne de ces éléments
-constitutifs de la marge constatée au cours des quatre exercices précédant le dernier exercice, et après que lui a été
-communiqué le programme de rétablissement mentionné au I de l'article R. 510-3, l'Autorité de contrôle peut : 
+III. ― Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité d'une mutuelle ou union d'assurance ou
+de réassurance ont connu une baisse d'au moins 33 % au cours du dernier exercice clos par rapport à la moyenne de ces
+éléments constitutifs de la marge constatée au cours des quatre exercices précédant le dernier exercice, ou lorsqu'elle
+estime que les résultats du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un risque de solvabilité,
+l'Autorité de contrôle peut : 
 
 1. Soit demander à la mutuelle ou l'union de déduire des éléments constitutifs de la marge de solvabilité tout ou partie du
 montant de la moins-value latente nette globale constatée sur les placements mentionnés à l'article R. 212-52 ; 
@@ -18335,17 +18381,34 @@ constatée sur les actifs mentionnés à l'article R. 212-53 et non provisionné
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 18
+	  - Décret n°2008-1437 du 22 décembre 2008 - art. 9
 
 	**Cite**:
 
 	  - Code de la mutualité - art. R212-12
 	  - Code de la mutualité - art. R212-16
-	  - Code de la mutualité - art. R212-19
-	  - Code de la mutualité - art. R212-27-1
+	  - Code de la mutualité - art. R212-27-1 (V)
 	  - Code de la mutualité - art. R212-52
 	  - Code de la mutualité - art. R212-53
 	  - Code de la mutualité - art. R510-3
+
+
+###### Article R510-3-1-2
+
+Lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un risque de
+solvabilité, l'Autorité de contrôle peut déduire des éléments constitutifs de la marge le report de charge constitué en vertu
+de l'article R. 212-24-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1437 du 22 décembre 2008 - art. 9
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R212-24-1
+	  - Code de la mutualité - art. R212-27-1
 
 
 ###### Article R510-3-2

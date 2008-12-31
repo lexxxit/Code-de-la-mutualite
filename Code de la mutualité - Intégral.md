@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2008-12-31
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -6936,15 +6936,15 @@ bénéficiaire.
 Tant que l'acceptation n'a pas eu lieu, le droit de révoquer cette stipulation n'appartient qu'au stipulant et ne peut être
 exercé de son vivant ni par ses créanciers ni par ses représentants légaux. Lorsqu'une curatelle ou une tutelle a été ouverte
 à l'égard du stipulant, la révocation ne peut intervenir qu'avec l'autorisation du juge des tutelles ou du conseil de famille
-s'il a été constitué. 
+s'il a été constitué.
 
 Ce droit de révocation ne peut être exercé, après la mort du cotisant, par ses héritiers qu'après l'exigibilité de la somme
 assurée et au plus tôt trois mois après que le bénéficiaire de la garantie a été mis en demeure, par acte extrajudiciaire,
-d'avoir à déclarer s'il accepte. 
+d'avoir à déclarer s'il accepte.
 
 L'attribution à titre gratuit du bénéfice d'une assurance sur la vie à une personne déterminée est présumée faite sous la
 condition de l'existence du bénéficiaire à l'époque de l'exigibilité du capital ou de la rente garantis, à moins que le
-contraire ne résulte des termes de la stipulation. 
+contraire ne résulte des termes de la stipulation.
 
 II. Tant que le membre participant et le stipulant sont en vie, l'acceptation est faite par un avenant signé de la mutuelle
 ou de l'union, du stipulant et du bénéficiaire. Elle peut également être faite par un acte authentique ou sous seing privé,
@@ -6956,24 +6956,19 @@ Lorsque la désignation du bénéficiaire est faite à titre gratuit, l'acceptat
 
 Après le décès du membre participant ou du stipulant, l'acceptation est libre.
 
-**Nota:**
-
-Loi 2007-1775 du 17 décembre 2007 art. 8 : Les dispositions du présent article s'appliquent aux contrats en cours n'ayant pas
-encore, à la date de publication de la présente loi, donné lieu à acceptation du bénéficiaire.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19
 
 	**Modifié par**:
 
-	  - Loi n°2007-1775 du 17 décembre 2007 - art. 8
+	  - Loi n°2007-308 du 5 mars 2007 - art. 30 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L223-7-1 (V)
 
 
 ###### Article L223-12
@@ -20980,19 +20975,32 @@ premier alinéa, après examen des données d'expérience relatives à la popula
 Si, lors de l'inventaire, le taux de rendement réel des actifs d'une mutuelle ou d'une union, diminué d'un cinquième, est
 inférieur au quotient du montant total des intérêts techniques et du minimum contractuellement garanti de participation aux
 excédents dans des conditions définies par arrêté des opérations de la mutuelle ou de l'union, par le montant moyen des
-provisions mathématiques constituées, une comparaison est effectuée entre les deux montants suivants :
+provisions mathématiques constituées, une comparaison est effectuée entre les deux montants suivants : 
 
-1° Les provisions mathématiques recalculées avec le taux de rendement réel de la mutuelle ou de l'union diminué du
-cinquième ;
+1° Les provisions mathématiques recalculées en actualisant les paiements futurs à un taux déterminé suivant l'une des trois
+méthodes suivantes : 
 
-2° Les provisions mathématiques à l'inventaire.
+a) Un taux unique égal à 60 % du taux moyen des emprunts de l'Etat français calculé sur base semestrielle ; 
+
+b) Un taux égal, pour chacune des échéances futures de paiement, à la moyenne pondérée, par le montant au bilan de chacune
+des catégories d'actifs auxquels ils se rapportent, des taux suivants :
+
+- pour les obligations non arrivées à terme à la date d'échéance considérée, le taux moyen visé au a ;
+
+- pour les autres actifs, coupons et amortissements d'obligation, 75 % du taux moyen visé au a si la date d'échéance
+considérée est inférieure à cinq ans, 60 % de ce taux moyen sinon ; 
+
+c) Sur demande de l'entreprise et après accord de l'Autorité de contrôle, un taux égal au taux de rendement futur prudemment
+estimé des actifs affectés à la représentation des engagements réglementés. 
+
+2° Les provisions mathématiques à l'inventaire. 
 
 Si le premier montant est supérieur au second, une dotation égale à leur différence est affectée à la provision pour aléas
 financiers mentionnée au 5° de l'article R. 212-26. Cette provision est reprise dans les comptes de la mutuelle ou de l'union
-à l'inventaire suivant.
+à l'inventaire suivant. 
 
 Les opérations en unité de compte ainsi que les opérations collectives relevant de l'article L. 222-1 ne sont pas concernées
-par ces dispositions.
+par ces dispositions. 
 
 Le taux de rendement réel des actifs est égal au rapport :
 
@@ -21006,15 +21014,16 @@ admis en représentation des provisions techniques, à l'exception des valeurs r
 
 	**Modifié par**:
 
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
+	  - Arrêté du 22 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-26, L222-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Code de la mutualité - art. L222-1
+	  - Code de la mutualité - art. R212-26
 
 
 ##### Section 5 : Réglementation des placements et autres éléments d'actifs.
@@ -41799,5 +41808,286 @@ antérieurs de fonds propres (déjà inclus dans la colonne précédente).
 	**Créé par**:
 
 	  - Arrêté du 6 février 2002 - art. 1
+
+
+## Annexe à l'article A212-14 
+
+
+
+###### Article Annexe à l'article A212-14
+
+Pour le calcul du b du 1° de l'article A. 212-14, le tableau suivant pourra être utilisé pour le calcul des taux de rendement
+par échéance :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+</th>
+      <th>
+
+</th>
+      <th>
+
+EXERCICE N
+
+</th>
+      <th>
+
+N +1
+
+</th>
+      <th>
+
+k = N + i
+
+pour i = 2, 3, 4 et 5
+
+</th>
+      <th>
+
+k = N + i pour i ¹ 5
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Obligations
+
+</td>
+      <td align="center">
+
+(A)
+
+</td>
+      <td align="center">
+
+A(N)
+
+</td>
+      <td align="center">
+
+A(N + 1)
+
+</td>
+      <td align="center">
+
+A(k)
+
+</td>
+      <td align="center">
+
+A(k)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Obligations amorties et arrivées à terme dans l'année
+
+</td>
+      <td align="center">
+
+(B)
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+A(N + 1) - A(N)
+
+</td>
+      <td align="center">
+
+B(k) = A(k) - A(k - 1)
+
+</td>
+      <td align="center">
+
+B(k) = A(k) - A(k - 1)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Coupons de l'année
+
+</td>
+      <td align="center">
+
+(C) = TME * (A)
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+A(N + 1) * TME
+
+</td>
+      <td align="center">
+
+C(k) = A(k) * TME
+
+</td>
+      <td align="center">
+
+C(k) = A(k) * TME
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Coupons et réinvestissements d'obligations capitalisés
+
+</td>
+      <td align="center">
+
+(D)
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+B(N + 1) * (1 + 75 % * TME)
+
+</td>
+      <td align="center">
+
+D(k) =
+
+(B(k) + C(k - 1) + D(k - 1) * 
+
+(1 + 75 % * TME)
+
+</td>
+      <td align="center">
+
+D(k) =
+
+(B(k) + C(k - 1) + D(k - 1) * 
+
+(1 + 60 % * TME)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Autres actifs
+
+</td>
+      <td align="center">
+
+(E)
+
+</td>
+      <td align="center">
+
+E(N)
+
+</td>
+      <td align="center">
+
+E(N) * (1 + 75 % * TME)
+
+</td>
+      <td align="center">
+
+E(k) = E(k - 1) *
+
+(1 + 75 % * TME)
+
+</td>
+      <td align="center">
+
+E(k) = E(k - 1) *
+
+(1 + 60 % * TME)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Total actif
+
+</td>
+      <td align="center">
+
+(F)=(A) + (C)
+
++ (D) + (E)
+
+</td>
+      <td align="center">
+
+F(N)
+
+</td>
+      <td align="center">
+
+F(N + 1)
+
+</td>
+      <td align="center">
+
+F(k)
+
+</td>
+      <td align="center">
+
+F(k)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rendement
+
+</td>
+      <td align="center">
+
+(G)
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+F(N + 1)/F(N) - 1
+
+</td>
+      <td align="center">
+
+F(k)/F(k - 1) - 1
+
+</td>
+      <td align="center">
+
+F(k)/F(k - 1) - 1 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 22 décembre 2008 - art. 2
 
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-24
 
 # Partie législative
 
@@ -2370,8 +2370,8 @@ prévues par les articles L. 228-1 à L. 228-97 du code de commerce.
 ###### Article L114-46
 
 Les plans comptables des mutuelles, des unions et des fédérations sont adoptés, après avis du conseil supérieur de la
-mutualité, par le comité de la réglementation comptable conformément aux dispositions de l'article 1er de la loi n° 98-261 du
-6 avril 1998 portant réforme de la réglementation comptable et adaptation du régime de la publicité foncière.
+mutualité, par l'Autorité des normes comptables conformément aux dispositions de l'article 1er de la loi n° 98-261 du 6 avril
+1998 portant réforme de la réglementation comptable et adaptation du régime de la publicité foncière. 
 
 Un arrêté détermine, selon la nature et l'importance de leurs opérations, les états statistiques que les organismes doivent
 produire, ainsi que la nature et la périodicité des informations qu'ils doivent transmettre à l'Autorité de contrôle
@@ -2381,16 +2381,12 @@ mentionnée à l'article L. 510-1.
 
 	**Cite**:
 
-	  - Loi n°98-261 du 6 avril 1998 - art. 1 (V)
-	  - Code de la mutualité - art. L510-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
+	  - Loi n°98-261 du 6 avril 1998 - art. 1
+	  - Code de la mutualité - art. L510-1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cité par**:
 
@@ -3609,7 +3605,7 @@ commerciale, technique ou financière commune ;
 le code des assurances leur permettant de participer à leur contrôle. 
 
 II.-Les mutuelles et unions appartenant à un groupe au sens du 3° du I ci-dessus établissent et publient des comptes
-consolidés dans les conditions définies par un règlement du comité de la réglementation comptable. 
+consolidés dans les conditions définies par un règlement de l'Autorité des normes comptables. 
 
 Ces comptes sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L.
 823-9 du code de commerce. 
@@ -3617,7 +3613,7 @@ Ces comptes sont certifiés par les commissaires aux comptes dans les conditions
 III.-Lorsque deux ou plusieurs mutuelles ou unions appartiennent à un groupe, l'une de ces entités établit et publie des
 comptes combinés. Un décret détermine celle de ces entités sur laquelle pèse cette obligation. Les comptes combinés sont
 constitués par agrégation de l'ensemble des comptes des entités concernées, établis s'il y a lieu sur une base consolidée
-dans des conditions définies par un règlement du comité de la réglementation comptable. 
+dans des conditions définies par un règlement de l'Autorité des normes comptables. 
 
 Les comptes mentionnés au présent article sont certifiés par les commissaires aux comptes dans les conditions prévues au
 deuxième alinéa de l'article L. 823-9 du code de commerce.
@@ -3656,7 +3652,7 @@ deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cite**:
 
@@ -14427,7 +14423,7 @@ c) Vendre une option d'achat à la condition que le sous-jacent soit un placemen
 ###### Article R212-75
 
 Les modalités d'enregistrement et de comptabilisation des opérations mentionnées aux articles R. 212-70 à R. 212-73 sont
-fixées par règlement du Comité de la réglementation comptable.
+fixées par règlement de l'Autorité des normes comptables.
 
 **Liens relatifs à cet article**
 
@@ -14435,13 +14431,13 @@ fixées par règlement du Comité de la réglementation comptable.
 
 	  - Code de la mutualité (nouveau) R212-70 à R212-73
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-76

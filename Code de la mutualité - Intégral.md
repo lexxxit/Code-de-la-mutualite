@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2009-01-24
+Version Consolidée au 2009-02-01
 
 # Partie législative
 
@@ -2903,6 +2903,32 @@ mutualité mettent leurs statuts en conformité avec les dispositions du présen
 	  - Code de la mutualité L116-1 à L116-3
 
 
+###### Article L116-5
+
+Les mutuelles et unions proposant les opérations mentionnées à l'article L. 223-1 établissent des conventions avec les
+intermédiaires mentionnés à l'article L. 116-2. 
+
+Ces conventions prévoient notamment : 
+
+1° Les conditions dans lesquelles l'intermédiaire mentionné à l'article L. 116-2 est tenu de soumettre à la mutuelle ou
+l'union les documents à caractère publicitaire, préalablement à leur diffusion, afin de vérifier leur conformité à
+l'opération d'assurance ou de capitalisation et, le cas échéant, à la notice, à la note ou à la fiche d'information ; 
+
+2° Les conditions dans lesquelles sont mises à disposition de l'intermédiaire par la mutuelle ou l'union les informations
+nécessaires à l'appréciation de l'ensemble des caractéristiques de l'opération d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 8
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L116-2
+	  - Code de la mutualité - art. L223-1
+
+
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
 
 ### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
@@ -5408,6 +5434,24 @@ soumises aux dispositions du présent article.
 	  - Code de la mutualité - art. L221-3 (M)
 
 
+###### Article L221-6-1
+
+Le ministre chargé de la mutualité peut, après avis du Conseil supérieur de la mutualité et à la demande d'un ou plusieurs
+organismes professionnels représentatifs mentionnés à l'article L. 223-10-1, homologuer par arrêté les codes de conduite
+qu'ils ont élaborés en matière de commercialisation de contrats mentionnés à l'article L. 223-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 8
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L223-1
+	  - Code de la mutualité - art. L223-10-1
+
+
 ##### Section 2 : Exécution du contrat.
 
 ###### Article L221-7
@@ -6311,17 +6355,18 @@ professionnelle dans un autre Etat membre de la Communauté européenne ou dans 
 ###### Article L222-6
 
 Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, la mutuelle ou union établit une comptabilité
-auxiliaire d'affectation unique pour l'ensemble des opérations relevant de la présente section et des opérations mentionnées
-à l'article L. 310-12-7 du code des assurances.
+auxiliaire d'affectation pour les opérations relevant de la présente section et des opérations mentionnées à l'article L.
+310-12-7 du code des assurances. Cette disposition peut s'appliquer individuellement à un contrat selon des conditions fixées
+par décret. 
 
-Toutefois, les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées à
-l'article L. 222-3 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général des impôts,
-celles mentionnées au VII de l'article L. 144-2 du code des assurances, sont établies séparément de la comptabilité
-auxiliaire d'affectation mentionnée à l'alinéa précédent.
+Les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées à l'article
+L. 222-3 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général des impôts, celles
+mentionnées au VII de l'article L. 144-2 du code des assurances, sont établies séparément de la comptabilité auxiliaire
+d'affectation mentionnée à l'alinéa précédent.
 
 L'autorité de contrôle instituée à l'article L. 510-1 peut également exiger que la mutuelle ou union établisse séparément de
 la comptabilité mentionnée au premier alinéa une comptabilité auxiliaire d'affectation pour les opérations mentionnées à
-l'article L. 310-12-7 du code des assurances.
+l'article L. 310-12-7 du code des assurances. 
 
 Les actifs de chaque contrat sont conservés par un dépositaire unique distinct de la mutuelle ou union, qui exerce à titre
 principal le service mentionné au 1 de l'article L. 321-2 du code monétaire et financier, et qui peut être agréé dans un
@@ -6329,22 +6374,18 @@ autre Etat membre ou dans autre Etat partie à l'accord sur l'Espace économique
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 163 quatervicies
-	  - Code monétaire et financier - art. L321-2 (M)
-	  - Code des assurances - art. L144-2 (V)
-	  - Code des assurances - art. L310-12-7 (V)
-	  - Code de la mutualité - art. L222-3 (V)
-	  - Code de la mutualité - art. L510-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 5
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 163 quatervicies
+	  - Code monétaire et financier - art. L321-2
+	  - Code des assurances - art. L144-2
+	  - Code des assurances - art. L310-12-7
+	  - Code de la mutualité - art. L222-3
+	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
@@ -6930,9 +6971,9 @@ le stipulant ne peut exercer sa faculté de rachat et la mutuelle ou l'union ne 
 bénéficiaire. 
 
 Tant que l'acceptation n'a pas eu lieu, le droit de révoquer cette stipulation n'appartient qu'au stipulant et ne peut être
-exercé de son vivant ni par ses créanciers ni par ses représentants légaux. Lorsqu'une curatelle ou une tutelle a été ouverte
-à l'égard du stipulant, la révocation ne peut intervenir qu'avec l'autorisation du juge des tutelles ou du conseil de famille
-s'il a été constitué.
+exercé de son vivant ni par ses créanciers ni par ses représentants légaux. Lorsqu'une tutelle a été ouverte à l'égard du
+stipulant, la révocation ne peut intervenir qu'avec l'autorisation du juge des tutelles ou du conseil de famille s'il a été
+constitué. 
 
 Ce droit de révocation ne peut être exercé, après la mort du cotisant, par ses héritiers qu'après l'exigibilité de la somme
 assurée et au plus tôt trois mois après que le bénéficiaire de la garantie a été mis en demeure, par acte extrajudiciaire,
@@ -6940,7 +6981,7 @@ d'avoir à déclarer s'il accepte.
 
 L'attribution à titre gratuit du bénéfice d'une assurance sur la vie à une personne déterminée est présumée faite sous la
 condition de l'existence du bénéficiaire à l'époque de l'exigibilité du capital ou de la rente garantis, à moins que le
-contraire ne résulte des termes de la stipulation.
+contraire ne résulte des termes de la stipulation. 
 
 II. Tant que le membre participant et le stipulant sont en vie, l'acceptation est faite par un avenant signé de la mutuelle
 ou de l'union, du stipulant et du bénéficiaire. Elle peut également être faite par un acte authentique ou sous seing privé,
@@ -6954,17 +6995,17 @@ Après le décès du membre participant ou du stipulant, l'acceptation est libre
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 30 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
 	**Cité par**:
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 5
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L223-7-1
 
 
 ###### Article L223-12
@@ -7147,22 +7188,21 @@ provision mathématique du contrat une indemnité de réduction.
 
 Dans la limite de la valeur de rachat, la mutuelle ou l'union peut consentir des avances au membre participant.
 
-La mutuelle ou l'union doit, à la demande du membre participant, verser à celui-ci la valeur de rachat de la garantie ou à
-l'organisme d'assurance gestionnaire du plan d'accueil la valeur de transfert du plan d'épargne retraite populaire d'origine
-dans un délai qui ne peut excéder deux mois. Au-delà de ce délai, les sommes non versées produisent de plein droit des
-intérêts au taux légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux
-légal.
+En cas de demande de rachat du contrat par un membre participant, la mutuelle ou  l'union lui verse la valeur de rachat du
+contrat dans un délai qui ne peut  excéder deux mois.
 
-**Nota:**
+En cas de demande de transfert du contrat  par un membre participant, la mutuelle ou l'union verse à l'organisme  d'assurance
+gestionnaire du plan d'accueil la valeur de transfert du plan  d'épargne retraite populaire dans un délai et selon des
+modalités fixées par  décret.
 
-NOTA : Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-20 du présent code, les
-mots "plan d'épargne retraite populaire" sont déclassés et ont dorénavant un caractère réglementaire.
+Au-delà des délais mentionnés aux deux alinéas  précédents, les sommes non versées produisent de plein droit intérêt au taux
+légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de  deux mois, au double du taux légal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1775 du 17 décembre 2007 - art. 2
+	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 5
 
 	**Cité par**:
 
@@ -8858,83 +8898,83 @@ de la sécurité sociale.
 La composition et l'organisation administrative de l'Autorité de contrôle sont fixées par l'article L. 310-12-1 du code des
 assurances ci-après reproduit : 
 
-" Art.L. 310-12-1.-L'Autorité de contrôle des assurances et des mutuelles est composée de neuf membres : 
+" Art.L. 310-12-1.- L'Autorité de contrôle des assurances et des mutuelles est composée de neuf membres :
 
-1° Un président nommé par décret ; 
+1° Un président nommé par décret ;
 
-2° Le gouverneur de la Banque de France, président de la Commission bancaire ; 
+2° Le gouverneur de la Banque de France, président de la Commission bancaire ;
 
-3° Un conseiller d'Etat, proposé par le vice-président du Conseil d'Etat ; 
+3° Un conseiller d'Etat, proposé par le vice-président du Conseil d'Etat ;
 
-4° Un conseiller à la Cour de cassation, proposé par le premier président de la Cour de cassation ; 
+4° Un conseiller à la Cour de cassation, proposé par le premier président de la Cour de cassation ;
 
-5° Un conseiller maître à la Cour des comptes, proposé par le premier président de la Cour des comptes ; 
+5° Un conseiller maître à la Cour des comptes, proposé par le premier président de la Cour des comptes ;
 
-6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité et de prévoyance. 
+6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité, de prévoyance et de réassurance.
 
 Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité
 sociale et de la mutualité. Un vice-président de l'Autorité de contrôle est également nommé parmi ces membres par arrêté
 conjoint des ministres, pris après avis du président. Le vice-président exerce les compétences du président en cas d'absence
-ou d'empêchement de celui-ci. 
+ou d'empêchement de celui-ci.
 
 Le gouverneur de la Banque de France peut être représenté. Des suppléants des membres mentionnés aux 3° à 6° sont nommés dans
 les mêmes conditions que les titulaires. Le suppléant du membre nommé vice-président de l'Autorité de contrôle le remplace
-lorsqu'il exerce les compétences du président en application de l'alinéa précédent. 
+lorsqu'il exerce les compétences du président en application de l'alinéa précédent.
 
 Le directeur du Trésor, ou son représentant, et le directeur de la sécurité sociale, ou son représentant, siègent auprès de
-l'Autorité de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
+la commission de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
 sanctions, demander une seconde délibération dans des conditions fixées par décret en Conseil d'Etat. Lorsqu'elle décide
-d'une sanction, l'Autorité de contrôle délibère hors de leur présence. 
+d'une sanction, l'Autorité de contrôle délibère hors de leur présence.
 
 Le président et les membres mentionnés aux 3° à 6° sont nommés pour une durée de cinq ans. Leur mandat est renouvelable une
-fois. 
+fois.
 
 En cas de vacance d'un siège de membre de l'Autorité de contrôle pour quelque cause que ce soit, il est procédé à son
 remplacement pour la durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte
 pour l'application de la règle de renouvellement. Les membres titulaires et suppléants de l'Autorité ne peuvent être
-révoqués. 
+révoqués.
 
 Les décisions de l'Autorité de contrôle sont prises à la majorité des voix. En cas de partage égal des voix, celle du
-président est prépondérante. 
+président est prépondérante.
 
 Dans des matières et conditions fixées par décret en Conseil d'Etat, l'Autorité de contrôle peut créer en son sein une ou
 plusieurs commissions spécialisées et leur donner délégation pour prendre des décisions de portée individuelle. Il est créé
 au moins une commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité.
 
 L'Autorité de contrôle peut également constituer des commissions consultatives, dans lesquelles elle nomme le cas échéant des
-experts, pour préparer et instruire ses décisions. 
+experts, pour préparer et instruire ses décisions.
 
-Le président de l'Autorité de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction. 
+Le président de l'Autorité de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction.
 
 Il peut déléguer sa signature dans les matières où il tient de dispositions législatives ou réglementaires une compétence
-propre. 
+propre.
 
 Les services de l'Autorité de contrôle sont dirigés par un secrétaire général nommé parmi les membres du corps de contrôle
 des assurances par arrêté conjoint des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, après avis
-de l'Autorité. 
+de la commission.
 
 Le personnel des services de l'Autorité de contrôle est composé d'agents publics mis à sa disposition dans des conditions
-fixées par décret en Conseil d'Etat, d'agents contractuels de droit public et de salariés de droit privé. 
+fixées par décret en Conseil d'Etat, d'agents contractuels de droit public et de salariés de droit privé.
 
 Sur proposition du secrétaire général, l'Autorité de contrôle fixe les règles de déontologie applicables au personnel des
 services de l'Autorité.
 
 L'Autorité de contrôle des assurances et des mutuelles et la Commission bancaire se réunissent conjointement au moins deux
-fois par an et en tant que de besoin sur des sujets d'intérêt commun. "
+fois par an et en tant que de besoin sur des sujets d'intérêt commun."
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2009-108 du 30 janvier 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code des assurances - art. L310-12-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L310-12-1
 
 	**Cité par**:
 

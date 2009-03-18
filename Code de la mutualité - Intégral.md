@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2009-02-01
+Version Consolidée au 2009-03-19
 
 # Partie législative
 
@@ -14641,40 +14641,36 @@ financiers à terme conclus avec un même organisme s'il existe entre les partie
 ###### Article R212-81
 
 Les montants prévus aux articles R. 212-79 et R. 212-80 sont calculés net de la valeur des garanties reçues en application
-d'une convention-cadre admissible.
+d'une convention-cadre admissible. 
 
-Est admissible une convention-cadre qui remplit l'ensemble des conditions suivantes :
+Est admissible une convention-cadre qui remplit l'ensemble des conditions suivantes : 
 
-a) Elle respecte les principes généraux d'une convention-cadre de place nationale ou internationale ;
+a) Elle respecte les principes généraux d'une convention-cadre de place nationale ou internationale ; 
 
-b) Elle prévoit de façon explicite la compensation entre valeurs de réalisation positives et négatives ;
+b) Elle prévoit de façon explicite la compensation entre valeurs de réalisation positives et négatives ; 
 
 c) Elle prévoit que la garantie prend la forme de remises en pleine propriété, opposables aux tiers sans formalité,
 d'espèces, de valeurs mentionnées au 1° du A de l'article R. 212-31, ou de parts ou d'actions d'organismes de placement
 collectif en valeurs mobilières mentionnés au 3° de cet article dont le portefeuille est exclusivement composé des valeurs
-mentionnées au 1° de cet article ;
+mentionnées au 1° de cet article ; 
 
 d) Elle prévoit que les lois ou règlements régissant la contrepartie, notamment en cas d'insolvabilité, ne font pas obstacle
-à la mise en oeuvre des modalités de résiliation, d'évaluation et de compensation, en application notamment de l'article L.
-431-7 du code monétaire et financier.
+à la mise en oeuvre des modalités de résiliation, d'évaluation et de compensation, en application notamment des articles L.
+211-36 et L. 211-36-1 du code monétaire et financier. 
 
 La liste des conventions-cadres qui remplissent ces conditions est déterminée par un arrêté du ministre chargé de la
 mutualité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-295 du 16 mars 2009 - art. 7
+
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-79, R212-80, R212-31
-	  - Code monétaire et financier - art. L431-7 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+	  - Code monétaire et financier - art. L211-36
+	  - Code de la mutualité - art. R212-79
 
 	**Cité par**:
 

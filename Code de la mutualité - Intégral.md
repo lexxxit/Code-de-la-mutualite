@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2009-03-19
+Version Consolidée au 2009-03-29
 
 # Partie législative
 
@@ -21305,6 +21305,64 @@ net de leurs placements à un montant au moins égal à celui des intérêts don
 	**Cite**:
 
 	  - Code de la mutualité (nouveau) L111-1
+
+
+###### Article A212-24
+
+Au sens du présent article, est appelée duration du passif d'une mutuelle ou d'une union de mutuelles une estimation prudente
+de l'échéance moyenne pondérée des paiements futurs relatifs aux engagements réglementés. Cette estimation doit être un
+nombre entier et ne peut être supérieure à 8. 
+
+Cette duration est calculée annuellement pour l'application de l'article A. 212-24-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 11 mars 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A212-24-1 (Ab)
+
+
+###### Article A212-24-1
+
+Lorsque la mutuelle ou l'union de mutuelles décide d'appliquer les dispositions de l'article R. 212-24, elle mouvemente un
+compte dont le solde ne peut à aucun moment être créditeur de la manière suivante : 
+
+a) Ce compte est débité d'une somme égale au montant de la dotation à la provision pour risque d'exigibilité de l'exercice. 
+
+b) Les reprises de provisions pour risque d'exigibilité font l'objet, pour un même montant, d'un crédit de ce compte ; 
+
+c) A la fin de chaque exercice, ce compte est également crédité d'une fraction de la moins-value latente globale mentionnée à
+l'article R. 212-24. Cette fraction est égale à : 
+
+1 / d, 
+
+où d est la duration des passifs mentionnée à l'article A. 212-24. 
+
+Lorsque la mutuelle ou l'union de mutuelles décide de ne plus appliquer les dispositions de l'article R. 212-24-1, ce compte
+est intégralement soldé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 11 mars 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. A212-24 (Ab)
+	  - Code de la mutualité - art. R212-24-1
 
 
 ##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.

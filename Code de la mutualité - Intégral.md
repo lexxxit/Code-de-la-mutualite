@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2009-03-29
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -2605,29 +2605,24 @@ commise, pour une durée de cinq ans au plus ;
 
 ###### Article L114-55
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies dans le présent livre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies dans le présent livre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
 
 
 ### Chapitre V : Règles particulières à certaines mutuelles, unions et fédérations à caractère professionnel.
@@ -3017,11 +3012,14 @@ assurances, elle reste seule responsable de ses engagements vis-à-vis des perso
 Les statuts des mutuelles et unions déterminent les modalités suivant lesquelles une mutuelle ou une union peut se réassurer
 auprès d'entreprises non régies par le présent code ou transférer des risques à un véhicule de titrisation.
 
+La présence d'opérations relevant de la réassurance financière limitée est explicitement mentionnée dans l'intitulé des
+contrats régissant ce type d'opérations.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 19
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Cite**:
 
@@ -5216,29 +5214,36 @@ commise, pour une durée de cinq ans au plus ;
 
 ###### Article L213-5
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies dans le présent livre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies dans le présent livre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par l'article 131-39 du même code. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+
+	**Liens**:
+
+	  - TRANSFERE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la mutualité - art. L213-4 (VD)
 
 
 ### Titre II : Opérations des mutuelles et des unions.
@@ -9512,36 +9517,28 @@ suit la notification de la décision, former un recours de pleine juridiction de
 ###### Article L510-12
 
 Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait pour tout président administrateur ou dirigeant
-ayant reçu délégation de pouvoirs d'une mutuelle, union ou fédération régie par le présent code :
+ayant reçu délégation de pouvoirs d'une mutuelle, union ou fédération régie par le présent code : 
 
 1° Après mise en demeure, de ne pas répondre aux demandes d'information de l'Autorité de contrôle ou de mettre obstacle de
 quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
-renseignements inexacts ;
+renseignements inexacts ; 
 
-2° De faire entrave à l'action de l'Autorité de contrôle exercée en application des articles L. 510-1 à L. 510-15 ;
+2° De faire entrave à l'action de l'Autorité de contrôle exercée en application des articles L. 510-1 à L. 510-15 ; 
 
 3° De faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses dans tout document produit au
 ministre chargé de la mutualité ou porté à la connaissance du public et des membres adhérents ou participants.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies au présent article. Elles encourent, dans ce cas, la peine d'amende, suivant les modalités
-prévues par l'article 131-38 du code pénal.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code de la mutualité L510-1 à L510-15
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code de la mutualité
 
 	**Cité par**:
 
@@ -13539,7 +13536,7 @@ d'une personne désignée par celui-ci à cet effet.
 
 La garantie des créances sur les réassureurs mentionnée à l'article R. 212-35 est constituée par le nantissement des valeurs
 visées aux 1°, 2°, 3°, 4°, 5°, 6°, 12° et 14° de l'article R. 212-31. Ces valeurs sont déposées sur un compte gagé au sens de
-l'article L. 431-4 du code monétaire et financier.
+l'article L. 211-20 du code monétaire et financier.
 
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions de l'article R. 212-54. Pour l'estimation des
 valeurs mentionnées au 1° de l'article R. 212-31, la fraction courue du coupon est prise en compte.
@@ -13548,7 +13545,7 @@ A la demande d'une mutuelle ou union, l'Autorité de contrôle mentionnée à l'
 dispositions du premier alinéa du présent article, l'autoriser, pour une durée déterminée, à constituer la garantie
 mentionnée à l'article R. 212-35 dans des limites fixées par arrêté du ministre chargé de la mutualité, par une caution ou un
 engagement équivalent pris par un établissement de crédit, dès lors que la nature et la forme de l'engagement ainsi que la
-qualité du garant répondent aux conditions fixées par le même arrêté.
+qualité du garant répondent aux conditions fixées par le même arrêté. 
 
 Pour l'application des dispositions des articles R. 212-32 et R. 212-33, les valeurs reçues en nantissement des réassureurs
 sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cédante.
@@ -13557,15 +13554,11 @@ sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cé
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-35, R212-31, R212-54, L510-1, R212-32, R212-33
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Code monétaire et financier - art. L211-20 (V)
+	  - Code de la mutualité - art. L510-1 (V)
+	  - Code de la mutualité - art. R212-31 (V)
+	  - Code de la mutualité - art. R212-32 (V)
+	  - Code de la mutualité - art. R212-54 (V)
 
 	**Cité par**:
 

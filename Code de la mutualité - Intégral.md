@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2009-11-15
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -11066,7 +11066,13 @@ f) Les mesures prises pour assurer le suivi de la gestion des sinistres, le suiv
 externalisées et des modes de commercialisation des produits de la mutuelle ou de l'union, et les risques qui pourraient en
 résulter ; 
 
-g) Les procédures d'élaboration et de vérification de l'information financière et comptable.
+g) Les procédures d'élaboration et de vérification de l'information financière et comptable ; 
+
+h) Les procédures et mesures de contrôle interne des risques de blanchiment des capitaux et de financement du terrorisme,
+pour les mutuelles et unions mentionnées au 4° de l'article L. 561-2 du code monétaire et financier.
+
+Ces procédures et mesures sont mises en œuvre dans les conditions prévues par un arrêté du ministre chargé de la mutualité
+après avis du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -11076,10 +11082,11 @@ g) Les procédures d'élaboration et de vérification de l'information financiè
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 15
+	  - Décret n°2009-1698 du 29 décembre 2009 - art. 2
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L561-2
 	  - Code de la mutualité - art. L114-4
 	  - Code de la mutualité - art. L212-3
 
@@ -20086,35 +20093,45 @@ prestations, commissions et provisions techniques par état de situation du risq
 
 ###### Article A114-2
 
-I. - Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions soumises au contrôle de
+I.-Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions soumises au contrôle de
 l'Autorité de contrôle des assurances et des mutuelles en application de l'article L. 510-1 remettent chaque année à cette
 dernière leurs comptes annuels dans les trente jours qui suivent leur approbation par l'assemblée générale. Elles joignent à
 cet envoi le rapport de gestion du conseil d'administration ainsi que les rapports des commissaires aux comptes et, pour
-celles qui y sont astreintes, le bilan social.
+celles qui y sont astreintes, le bilan social. 
 
-II. - Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions régies par le livre II du
+II.-Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions régies par le livre II du
 présent code et n'ayant pas conclu de convention de substitution pour l'intégralité de leurs opérations pratiquées en vertu
-de l'article L. 211-5 remettent chaque année à l'Autorité de contrôle précitée :
+de l'article L. 211-5 remettent chaque année à l'Autorité de contrôle précitée : 
 
-1° Dans les cinq mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 114-4 ;
+1° Dans les quatre mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 114-4 ; 
 
-2° Avant le 31 mars suivant la clôture de l'exercice, les états provisoires définis à l'article A. 114-6 et l'état C 6 bis
-relatif au test d'exigibilité défini à l'article A. 114-8.
+2° (abrogé) 
 
 3° Dans le mois suivant la fin de chaque trimestre, les états relatifs aux opérations réalisées au cours du trimestre définis
-à l'article A. 114-7.
+à l'article A. 114-7. 
 
-III. - Les mutuelles et unions non soumises aux obligations déclaratives prévues au II joignent aux documents mentionnés au I
-les renseignements généraux énumérés aux a, b, c et d de l'annexe à l'article A. 114-4.
+III.-Les mutuelles et unions non soumises aux obligations déclaratives prévues au II joignent aux documents mentionnés au I
+les renseignements généraux énumérés aux a, b, c et d de l'annexe à l'article A. 114-4. 
 
-IV. - Les mutuelles et unions ayant souscrit une convention de substitution en vertu de l'article L. 211-5 pour l'intégralité
+IV.-Les mutuelles et unions ayant souscrit une convention de substitution en vertu de l'article L. 211-5 pour l'intégralité
 de leurs opérations, et dont les comptes annuels sont établis par l'organisme qui s'est substitué à elles, ne sont pas
 astreintes à l'obligation de transmission des documents mentionnés aux I et III du présent article. Ces documents sont
 toutefois communiqués dans les mêmes délais par l'organisme qui s'est substitué à elles.
 
-V. - Les mutuelles et unions mentionnées à l'article L. 510-2 du présent code remettent les documents mentionnés au I et au
-II ou III à l'autorité administrative qui exerce le contrôle au niveau régional, laquelle communique ces documents à
-l'Autorité de contrôle précitée.
+V.-Les mutuelles et unions mentionnées à l'article L. 510-2 du présent code remettent les documents mentionnés au I et au II
+ou III à l'autorité administrative qui exerce le contrôle au niveau régional, laquelle communique ces documents à l'Autorité
+de contrôle précitée.
+
+**Nota:**
+
+Arrêté du 21 décembre 2009 art. 7 : 
+
+I. - Les dispositions du présent arrêté entrent en vigueur à compter du 1er janvier 2010, sous réserve des dispositions du
+présent article.
+
+II. - Le délai de quatre mois fixé au 1° du II de l'article A. 114-2 et au dernier alinéa de l'article A. 114-8 du code de la
+mutualité dans la rédaction résultant du présent arrêté est porté à quatre mois et quinze jours pour la remise du compte
+rendu détaillé annuel et des résultats du test d'exigibilité relatifs à l'exercice 2009.
 
 **Liens relatifs à cet article**
 
@@ -20124,17 +20141,16 @@ l'Autorité de contrôle précitée.
 	  - Arrêté du 21 décembre 2009 - art. 7 (V)
 	  - Code de la mutualité - art. A114-4 (Ab)
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1, L211-5, A114-4, A114-6, A114-8, A114-7, L510-2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Arrêté du 21 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. A114-7 (V)
+	  - Code de la mutualité - art. L211-5 (V)
+	  - Code de la mutualité - art. L510-1 (V)
+	  - Code de la mutualité - art. L510-2 (V)
 
 
 ###### Article A114-3
@@ -20170,7 +20186,9 @@ Le compte rendu détaillé annuel mentionné au 1° du II de l'article A. 114-2 
 2° Les comptes constitués du compte de résultat, du bilan, y compris le tableau des engagements reçus et donnés, et de
 l'annexe, tels qu'ils ont été arrêtés par le conseil d'administration pour être soumis à l'assemblée ; 
 
-3° Les états d'analyse des comptes énumérés à l'article A. 114-5. 
+3° Les états d'analyse des comptes énumérés à l'article A. 114-5 ; 
+
+4° Les états statistiques relatifs à la protection sociale complémentaire énumérés à l'article A. 114-9. 
 
 Le compte rendu détaillé annuel est certifié par le président du conseil d'administration de la mutuelle ou de l'union sous
 la formule suivante : " Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de l'application des
@@ -20179,13 +20197,9 @@ dispositions prévues par l'article L. 114-46 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Arrêté du 21 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -20194,10 +20208,11 @@ dispositions prévues par l'article L. 114-46 du même code.
 
 	**Cite**:
 
-	  - Code de la mutualité - art. A114-5 (V)
-	  - Code de la mutualité - art. Annexe à l'article A114-4 (V)
-	  - Code de la mutualité - art. L114-46 (V)
-	  - Code de la mutualité - art. L510-12 (V)
+	  - Code de la mutualité - art. A114-5
+	  - Code de la mutualité - art. Annexe à l'article A114-4
+	  - Code de la mutualité - art. L114-46
+	  - Code de la mutualité - art. L114-9 (V)
+	  - Code de la mutualité - art. L510-12
 
 
 ###### Article A114-5
@@ -20274,30 +20289,6 @@ les pratiquent pas directement n'établissent que les états C 1, C 2, C 3, C 4,
 	  - Code des assurances - art. Annexe D344-5 (MMN)
 
 
-###### Article A114-6
-
-Les états provisoires mentionnés au 2° du II de l'article A. 114-2 sont constitués de l'état C 8, par type de risques
-souscrits en affaires directes, selon le modèle et la liste de risques définis à l'annexe de l'article A. 114-5.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A114-2, A114-5
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
 ###### Article A114-7
 
 Les états trimestriels mentionnés au 3° du II de l'article A. 114-2 sont les suivants :
@@ -20344,7 +20335,7 @@ par rapport à leur moyenne respective constatée sur les trois dernières anné
 
 - en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
 
-- en une baisse de 20 % du prix des transactions immobilières.
+- en une baisse de 20 % du prix des transactions immobilières. 
 
 Le test consiste à comparer l'ensemble des décaissements et des encaissements prévisibles de la mutuelle ou de l'union au
 cours des cinq exercices qui suivent le dernier arrêté comptable. Quatre simulations sont successivement réalisées. Les trois
@@ -20356,20 +20347,28 @@ du marché monétaire et du marché obligataire énumérés à l'article R. 212-
 autres actifs en proportion de leur part dans le portefeuille résiduel de la mutuelle ou de l'union. Les prévisions de
 décaissement sont calculées à partir des engagements comptabilisés. Les engagements pour prestations à payer sont recalculés
 sur la base de prestations majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux
-annuel moyen des rachats constatés au cours des années passées.
+annuel moyen des rachats constatés au cours des années passées. 
 
 Les mutuelles et unions transmettent les résultats du test chaque année à l'Autorité de contrôle des assurances et des
-mutuelles avant le 31 mars, dans la forme de l'état C 6 bis défini dans l'annexe à l'article A. 114-5.
+mutuelles dans les quatre mois suivant la clôture de l'exercice, dans la forme de l'état C 6 bis défini dans l'annexe à
+l'article A. 114-5.
+
+**Nota:**
+
+Arrêté du 21 décembre 2009 art. 7 : 
+
+I. - Les dispositions du présent arrêté entrent en vigueur à compter du 1er janvier 2010, sous réserve des dispositions du
+présent article.
+
+II. - Le délai de quatre mois fixé au 1° du II de l'article A. 114-2 et au dernier alinéa de l'article A. 114-8 du code de la
+mutualité dans la rédaction résultant du présent arrêté est porté à quatre mois et quinze jours pour la remise du compte
+rendu détaillé annuel et des résultats du test d'exigibilité relatifs à l'exercice 2009.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Arrêté du 21 décembre 2009 - art. 4
 
 	**Cité par**:
 
@@ -20377,45 +20376,48 @@ mutuelles avant le 31 mars, dans la forme de l'état C 6 bis défini dans l'anne
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-27-1, R212-31, A114-5
+	  - Code de la mutualité - art. A114-5 (V)
+	  - Code de la mutualité - art. R212-27-1 (V)
+	  - Code de la mutualité - art. R212-31 (V)
 
 
 ###### Article A114-9
 
-Les mutuelles et unions qui pratiquent directement des opérations mentionnées au 1° du I de l'article L. 111-1 et doivent
-établir le compte rendu détaillé annuel prévu à l'article A. 114-4 joignent à celui-ci les états statistiques relatifs à la
-protection sociale complémentaire suivants :
+Les états statistiques relatifs à la protection sociale complémentaire mentionnés au 4° de l'article A. 114-4 sont les
+suivants : 
 
-- E 1 Statistiques relatives aux différentes catégories d'opérations ;
+E 1 Statistiques relatives aux différentes catégories d'opérations ; 
 
-- E 2 Cotisations et prestations ;
+E 2 Cotisations et prestations ; 
 
-- E 3 Frais de santé et indemnités journalières versés au cours de l'exercice.
+E 3 Frais de santé et indemnités journalières versés au cours de l'exercice ; 
 
-Ces états sont produits selon les modalités prévues au V de l'article A. 114-2 et à l'article A. 114-3 du présent code.
+E 4 Résultat technique en santé ; 
+
+E 5 Compléments CMU et gestion d'un régime obligatoire santé. 
 
 Ces états sont établis annuellement dans la forme fixée en annexe au présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
+	  - Arrêté du 21 décembre 2009 - art. 5
+
+	**Abrogé par**:
+
+	  - Arrêté du 27 avril 2011 - art. 4
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L111-1, A114-4, A114-3, A114-2, A114-9
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Code de la mutualité - art. A114-4
 
 
 ###### Article A114-10
 
 Les mutuelles et unions soumises à la surveillance complémentaire en application du premier alinéa de l'article L. 212-7-2 et
 des articles R. 213-1, R. 213-5 et R. 213-6 fournissent chaque année à l'Autorité de contrôle mentionnée à l'article L.
-510-1, avant le 31 mai, un dossier constitué conformément aux annexes 1 et 2 du présent article. 
+510-1, avant le 30 avril, un dossier constitué conformément aux annexes 1 et 2 du présent article. 
 
 Le dossier est certifié par le président du conseil d'administration ou le directeur général dans les mutuelles ou unions,
 par le mandataire général ou son représentant légal dans les succursales d'entreprises étrangères, sous la formule suivante :
@@ -20427,21 +20429,34 @@ L'Autorité de contrôle mentionnée à l'article L. 510-1 peut dispenser une mu
 dossier prévus à l'annexe 1 lorsque ce dossier est fourni par un organisme apparenté ou lorsque l'Autorité a attribué
 l'exercice de la surveillance complémentaire à une autre autorité conformément à l'article R. 213-5.
 
+**Nota:**
+
+Arrêté du 21 décembre 2009 art. 7 : 
+
+I. - Les dispositions du présent arrêté entrent en vigueur à compter du 1er janvier 2010, sous réserve des dispositions du
+présent article.
+
+III. - La date du "30 avril" fixée à l'article A. 114-10 du code de la mutualité dans la rédaction résultant du présent
+arrêté est portée au " 15 mai " pour la remise du dossier relatif aux opérations de l'exercice 2009.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2009 - art. 6
 
 	**Cité par**:
 
 	  - Arrêté du 21 décembre 2009 - art. 7 (V)
 
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L212-7-2, R213-1, R213-5, R213-6, L510-1, annexe 1
-	  - Code de la mutualité - art. Annexe 1 à l'article A114-10 (V)
-	  - Code de la mutualité - art. Annexe 2 à l'article A114-10 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Code de la mutualité - art. Annexe 1 à l'article A114-10
+	  - Code de la mutualité - art. Annexe 2 à l'article A114-10
 
 
 ###### Article A114-11
@@ -37973,939 +37988,608 @@ Autres
 
 ###### Article Annexe E1 à l'article A114-9
 
-**État E 1 : risques et engagements**
+**État E 1 : **Statistiques relatives aux différentes catégories d'opérations 
 
-Effectifs au 31 décembre
+Les mutuelles et unions établissent un état E1 " Statistiques relatives aux différentes catégories d'opérations " selon le
+modèle ci-après : 
 
 <table>
   <tbody>
     <tr>
-      <td>
-        <table>
-          <thead>
-            <tr>
-              <td width="377" colspan="3">
+      <td width="250" rowspan="2">
+
+RISQUES ET ENGAGEMENTS
+
+Effectifs au 31 décembre
+
+</td>
+      <td colspan="4" width="385">
 
 OPÉRATIONS DIRECTES EN FRANCE
 
 </td>
-              <td width="78">
-
-TOTAL
-
-</td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-
-</td>
-              <td>
+    </tr>
+    <tr>
+      <td width="97">
 
 Collectives à adhésion obligatoire
 
 </td>
-              <td>
+      <td width="96">
 
 Collectives à adhésion facultative
 
 </td>
-              <td>
+      <td width="96">
 
 Individuelles
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96">
 
-</td>
-              <td>
-
-Frais de santé
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-01
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-02
-
-</td>
-              <td>
-
-nombre de personnes protégées (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-03
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Incapacité temporaire - indemnités journalières
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-04
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-05
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Rentes d'invalidité
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-06
-
-</td>
-              <td>
-
-nombre de rentes en cours de service
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-07
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-08
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Chômage
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-09
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-10
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Indemnité et prime de fin de carrière
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-11
-
-</td>
-              <td>
-
-nombre de bénéficiaires servis
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-12
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-13
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Retraite supplémentaire (2)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-14
-
-</td>
-              <td>
-
-nombre de rentes en cours de service
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-15
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-16
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Autres contrats d'épargne
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-17
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-18
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Dépendance
-
-</td>
-              <td>
-
-</td>
-              <td>
+Total
 
 </td>
-            </tr>
-            <tr>
-              <td>
+    </tr>
+    <tr>
+      <td valign="top" width="250">
 
-19
+Frais de santé :
 
 </td>
-              <td>
+      <td width="97" valign="top">.</td>
+      <td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre de cotisants (1)
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">.</td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-20
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Décès et invalidité totale et définitive
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Capital décès et invalidité totale et définitive
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-21
-
-</td>
-              <td>
-
-nombre de capitaux versés
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+- nombre de personnes protégées (1) 
 
-22
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-23
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-            </tr>
-            <tr>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-Rente de conjoint survivant
+Incapacité temporaire - Indemnités journalières : 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de cotisants (1) 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-24
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre de rentes en cours de service
+Rentes d'invalidité :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre de rentes en cours de service 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-25
+- nombre de cotisants (1)
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre de cotisants (1)
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+Chômage : 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-26
+- nombre de cotisants (1) 
 
 </td>
-              <td>
-
-nombre d'organismes adhérents
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-            </tr>
-            <tr>
-              <td>
+Indemnité et prime de fin de carrière :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-Rente d'éducation ou d'orphelin
+- nombre de bénéficiaires servis
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de cotisants (1) 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-27
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre de rentes en cours de service
+Retraite supplémentaire (2) :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de rentes en cours de service
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-28
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre de cotisants (1)
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+Autres contrats d'épargne :
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-29
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre d'organismes adhérents
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+Dépendance :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-Autres risques et engagements
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-30
+Décès et invalidité totale et définitive :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre de cotisants (1)
+Capital décès et invalidité totale et définitive :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre de capitaux versés
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-31
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre d'organismes adhérents
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+Rente de conjoint survivant :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-Totaux avec double compte (3)
+- nombre de rentes en cours de service
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de cotisants (1) 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-41
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre total de cotisants
+Rente d'éducation ou d'orphelin :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre de rentes en cours de service
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-42
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre total d'organismes adhérents
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+Autres risques et engagements : 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-Totaux sans double compte (3)
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-51
+Total avec double compte (3) : 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre total de cotisants
+- nombre total de cotisants
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-52
+Total sans double compte (3) :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre total d'organismes adhérents
+- nombre total de cotisants
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td colspan="4">
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="665" colspan="5">
 
-(1) Cotisants : membres participants visés à l'article  L. 114-1 du code de la mutualité (y compris ceux des mutuelles
+(1) Cotisants : membres participants visés à l'article L. 114-1 du code de la mutualité (y compris ceux des mutuelles
 substituées). Les personnes protégées comprennent les membres participants et leurs ayant droits (y compris ceux des
 mutuelles substituées).
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(2) Epargne retraite facultative à sortie en rente viagère (soit souscrite à titre individuel (PERP, Préfon...) soit
-souscrite dans le cadre d'un plan d'épargne collectif salarial (PERCO)).
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(2) Epargne retraite facultative à sortie en rente viagère (soit souscrite à titre individuel [PERP, Préfon...] soit
+souscrite dans le cadre d'un plan d'épargne collectif salarial [PERCO]).
 
 (3) Le total avec double compte correspond à un nombre de contrats tandis que le total sans double compte correspond à un
 nombre de personnes. Ainsi, une personne cotisant pour deux types de contrat (par exemple pour les frais de santé et pour la
@@ -38913,1717 +38597,1207 @@ retraite supplémentaire) sera comptée deux fois dans le total avec double comp
 dans le total sans double compte.
 
 </td>
-            </tr>
-          </tbody>
-        </table>
-
-</td>
     </tr>
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2009 - art.
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article Annexe E2 à l'article A114-9
 
-**Etat E 2 - Cotisations et prestations**
+Etat E 2 - Cotisations et prestations
 
+Les mutuelles et unions établissent un état E2 "Cotisations et prestations" selon le modèle ci-après : 
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros. 
 <table>
   <tbody>
     <tr>
-      <td>
-        <table>
-          <thead>
-            <tr>
-              <td colspan="2" width="156">
+      <td rowspan="3" width="221">
 
-MONTANTS EN MILLIERS D'EUROS
+RISQUES ET 
+
+engagements 
 
 </td>
-              <td colspan="6" width="256">
+      <td colspan="8" width="656">
 
 OPÉRATIONS DIRECTES EN FRANCE
 
 </td>
-              <td width="85" colspan="2">
+    </tr>
+    <tr>
+      <td colspan="2" width="168">
 
-TOTAUX
+Collectives
 
-</td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td colspan="2">
+à adhésion obligatoire
 
 </td>
-              <td colspan="2">
+      <td colspan="2" width="168">
 
-Collectives à adhésion obligatoire
+Collectives
 
-</td>
-              <td colspan="2">
-
-Collectives à adhésion facultative
+à adhésion facultative
 
 </td>
-              <td colspan="2">
+      <td width="165" colspan="2">
 
 Individuelles
 
 </td>
-              <td colspan="2">
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="2">
-
-</td>
-              <td>
-
-Cotisations
-
-</td>
-              <td>
-
-Prestations
-
-</td>
-              <td>
-
-Cotisations
-
-</td>
-              <td>
-
-Prestations
-
-</td>
-              <td>
-
-Cotisations
-
-</td>
-              <td>
-
-Prestations
-
-</td>
-              <td>
-
-Cotisations
-
-</td>
-              <td>
-
-Prestations
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-01
-
-</td>
-              <td>
-
-Frais de santé (1)(2)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-02
-
-</td>
-              <td>
-
-Dont autres prestations liées à la santé (3)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Incapacité - invalidité (1)(2)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-03
-
-</td>
-              <td>
-
-- Indemnités journalières
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-04
-
-</td>
-              <td>
-
-- Rentes d'invalidité
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-05
-
-</td>
-              <td>
-
-Chômage (1)(2)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-06
-
-</td>
-              <td>
-
-Indemnité et prime de fin de carrière
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-07
-
-</td>
-              <td>
-
-Retraite supplémentaire
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-08
-
-</td>
-              <td>
-
-Autres contrats d'épargne
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-09
-
-</td>
-              <td>
-
-Dépendance
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Décès
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-10
-
-</td>
-              <td>
-
-Capitaux
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-11
-
-</td>
-              <td>
-
-Rente de conjoint survivant
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-12
-
-</td>
-              <td>
-
-Rente d'éducation ou d'orphelin
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-13
-
-</td>
-              <td>
-
-Autres risques et engagements
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-20
-
-</td>
-              <td>
+      <td colspan="2" width="155">
 
 Total
 
 </td>
-              <td>
+    </tr>
+    <tr>
+      <td width="84">
+
+Cotisations
 
 </td>
-              <td>
+      <td width="84">
+
+Prestations
 
 </td>
-              <td>
+      <td width="84">
+
+Cotisations
 
 </td>
-              <td>
+      <td width="84">
+
+Prestations
 
 </td>
-              <td>
+      <td width="84">
+
+Cotisations
 
 </td>
-              <td>
+      <td width="81">
+
+Prestations
 
 </td>
-              <td>
+      <td width="75">
+
+Cotisations
 
 </td>
-              <td>
+      <td width="80">
+
+Prestations
 
 </td>
-            </tr>
-            <tr>
-              <td colspan="10">
+    </tr>
+    <tr>
+      <td valign="top" width="221">
 
-(1) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du tableau C de l'état C10.
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="10">
-
-(2) Prestations au sens de la ligne "4. Charges nettes de recours" du tableau C de l'état C10.
+Frais de santé (1)(2)
 
 </td>
-            </tr>
-            <tr>
-              <td colspan="10">
+      <td width="84" valign="top">.</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td width="221" valign="top">
 
-(3) Total autres prestations en espèces : selon ligne 40 de l'état E 3.
+dont autres prestations liées à la santé (3)
 
 </td>
-            </tr>
-          </tbody>
-        </table>
+      <td valign="top" width="84">.</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="81">
+      </td><td width="75" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+Incapacité - invalidité (1)(2)
+
+</td>
+      <td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="81">
+      </td><td valign="top" width="75">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+- indemnités journalières
+
+</td>
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+- rentes d'invalidité 
+
+</td>
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="81">
+      </td><td valign="top" width="75">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td width="221" valign="top">
+
+Chômage (1)(2)
+
+</td>
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+Indemnité et prime de fin de carrière
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="81" valign="top">
+      </td><td valign="top" width="75">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+Retraite supplémentaire 
+
+</td>
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td width="221" valign="top">
+
+Autres contrats d'épargne
+
+</td>
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+Dépendance
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="81">
+      </td><td width="75" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td width="221" valign="top">
+
+Décès : 
+
+</td>
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="81" valign="top">
+      </td><td valign="top" width="75">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+- capitaux
+
+</td>
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="81">
+      </td><td valign="top" width="75">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+- rente de conjoint survivant
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="221">
+
+- rente d'éducation ou d'orphelin
+
+</td>
+      <td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="81">
+      </td><td valign="top" width="75">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td width="221" valign="top">
+
+Autres risques et engagements 
+
+</td>
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td width="221" valign="top">
+
+Montant total
+
+</td>
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="81" valign="top">
+      </td><td width="75" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td width="877" colspan="9">
+
+(1) Cotisations au sens de la ligne 7. Cotisations acquises à l'année du tableau C de l'état C10
+
+(2) Prestations au sens de la ligne 4. Charges nettes de recours du même tableau C.
+
+(3) Total autres prestations en espèces : selon ligne 23 de l'état E3
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2009 - art.
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article Annexe E3 à l'article A114-9
 
-**Etat E 3 - Frais de santé et IJ**
+**Etat E 3 - **Frais de santé et indemnités journalières versés au cours de l'exercice 
+
+Les mutuelles et unions proposant des garanties ventilées sous les codifications 20 et 21 au sens de l'état C4 défini en
+annexe à l'article A. 114-5 établissent un état E3 " frais de santé et indemnités journalières versés au cours de l'exercice"
+selon le modèle ci-après : 
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros. 
+
+Tableau A : données techniques relatives au risque "santé" issues des systèmes de gestion, 
+
+données qui doivent être cohérentes avec la ligne 10-12 de l'état E4 
 
 <table>
   <tbody>
     <tr>
-      <td>
-        <table>
-          <thead>
-            <tr>
-              <td width="104">
+      <td colspan="2" rowspan="2" width="437">
 
-MONTANTS en milliers d'euros
+DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :
+
+Prestations versées du risque santé
 
 </td>
-              <td colspan="2" width="247">
+      <td colspan="2" width="180">
 
-OPÉRATIONS DIRECTES EN FRANCE
+OPERATIONS DIRECTES
+
+en France
 
 </td>
-              <td width="104">
+      <td width="84" rowspan="2">
 
 TOTAL
 
 </td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Collectives à adhésion obligatoire
-
-</td>
-              <td>
-
-Collectives à adhésion facultative
-
-</td>
-              <td>
+    </tr>
+    <tr>
+      <td width="96">
 
 Individuelles
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="84">
+
+Collectives
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="41">
 
 01
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Hôpitaux publics et PSPH et hôpitaux privés (1)
-
-</td>
-              <td>
+Champ couvert-en pourcentage des prestations versées nettes de recours (1)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 02
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Hôpitaux publics et PSPH (1)
-
-</td>
-              <td>
+Ensemble des Hôpitaux (secteur public et secteur privé) (2)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 03
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont longs séjours (hébergement, ...)
-
-</td>
-              <td>
+- dont frais d'hébergement en SLD, suppléments chambres particulières, lit accompagnant... (3)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 04
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Hôpitaux privés (1)
-
-</td>
-              <td>
+Soins ambulatoires (L05 + L06 + L07 + L10 + L11 + L12)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 05
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont frais de séjour
-
-</td>
-              <td>
+1. Médecins exerçant en cabinet libéral (4)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 06
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont honoraires et prescriptions
-
-</td>
-              <td>
+2. Auxiliaires en cabinets libéraux (5)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 07
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont suppléments
-
-</td>
-              <td>
+3. Dentistes en cabinets libéraux
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 08
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sous-total hôpitaux (L. 01 ou L. 02 + L. 04)
-
-</td>
-              <td>
+- dont honoraires
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 09
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Sections médicalisées publiques et privées (2)
-
-</td>
-              <td>
+- dont prothèses
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 10
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sections médicalisées publiques (2)
-
-</td>
-              <td>
+4. Centres de Santé (Dispensaires...)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 11
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sections médicalisées privées (2)
-
-</td>
-              <td>
+5. Laboratoires d'analyse (6)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 12
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sous-total sections médicalisées (L. 09 ou L. 10 + L. 11)
-
-</td>
-              <td>
+6. Etablissements thermaux
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 13
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sous-total hôpitaux et sections médicalisées (L. 08 + L. 12)
-
-</td>
-              <td>
+- dont hébergement (7)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Cabinets libéraux
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 14
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-a. médecins (3)
-
-</td>
-              <td>
+Transports des malades (ambulances, taxis, VSL...) (8)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 15
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont dépassements
-
-</td>
-              <td>
+TOTAL PRESTATIONS DE SOINS (L02 + L04 + L14)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 16
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-b. auxiliaires (4)
-
-</td>
-              <td>
+Officines pharmaceutiques (médicaments)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 17
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-c. dentistes
-
-</td>
-              <td>
+Distributeurs d'autres biens médicaux (L18 + L19 + L20)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 18
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont honoraires
-
-</td>
-              <td>
+1. Optique
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 19
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont dépassements d'honoraires
-
-</td>
-              <td>
+2. Prothèses (sauf dentaires), orthèses, VHP (9)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 20
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont prothèses
-
-</td>
-              <td>
+3. Petit matériel et pansements
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 21
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Dispensaire
-
-</td>
-              <td>
+TOTAL BIENS MEDICAUX (L16 + L17)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 22
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Laboratoires d'analyse (5)
-
-</td>
-              <td>
+TOTAL DES PRESTATIONS VERSEES en SOINS et BIENS MEDICAUX (L15 + L21)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 23
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Etablissements thermaux
-
-</td>
-              <td>
+Autres prestations liées à la santé (L24 + L25)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 24
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont hébergement
-
-</td>
-              <td>
+EHPA et EHPAD des secteurs public et privé (10)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 25
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Sous-total soins ambulatoires (L. 14 + L. 16 + L. 17 + L. 21 à L. 23)
-
-</td>
-              <td>
+Autres prestations liées à la santé (11)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 26
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Transports des malades (ambulances, taxis, VSL, ...) (6)
+TOTAL DES PRESTATIONS VERSEES (L22 + L23)
 
 </td>
-              <td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td colspan="5" width="701">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-27
-
-</td>
-              <td>
-
-Total prestations de soins (L. 13 + L. 25 + L. 26)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-28
-
-</td>
-              <td>
-
-Officines pharmaceutiques
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-29
-
-</td>
-              <td>
-
-Distributeurs d'autres biens médicaux
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-30
-
-</td>
-              <td>
-
-a. Optique
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-31
-
-</td>
-              <td>
-
-b. Prothèses (sauf dentaires), orthèses, VHP (7)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-32
-
-</td>
-              <td>
-
-c. Petit matériel et pansements
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-33
-
-</td>
-              <td>
-
-Total biens médicaux (L. 28 + L. 29)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Autres prestations liées à la santé (8)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-34
-
-</td>
-              <td>
-
-Allocations maternité (allocations naissance...)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-35
-
-</td>
-              <td>
-
-Prestations vieillesse
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-36
-
-</td>
-              <td>
-
-Prestations invalidité (allocations handicapés)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-37
-
-</td>
-              <td>
-
-Allocations funéraires
-
-</td>
-              <td>
+(1) Importance des opérations prises en compte dans ce tableau en pourcentage des sinistres payés nets de recours (ligne
+10-12 de l'état E4-C42d).
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-38
-
-</td>
-              <td>
-
-Aides à la famille
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-39
-
-</td>
-              <td>
-
-Autres
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-40
-
-</td>
-              <td>
-
-Total autres prestations en espèces (L. 34 à L. 39)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-41
-
-</td>
-              <td>
-
-Total des prestations versées (L. 27 + L. 33 + L. 40)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Indemnités journalières maladie
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-42
-
-</td>
-              <td>
-
-IJ moins de 3 mois
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-43
-
-</td>
-              <td>
-
-dont IJ moins de 15 jours
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-44
-
-</td>
-              <td>
-
-IJ 3 mois ou plus
-
-</td>
-              <td>
-
-</td>
-              <td>
+(2) Les frais d'hospitalisation incluent le forfait journalier hospitalier, le ticket modérateur des journées et des actes,
+les honoraires et prescriptions en activité libérale.
 
-</td>
-            </tr>
-            <tr>
-              <td>
-
-45
-
-</td>
-              <td>
-
-Total des IJ versées (L. 42 + L. 44)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(1) PSPH = participant au service public hospitalier.
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-La ligne 1 est à remplir si la mutuelle n'a pas le détail public/privé, sinon elle remplit les lignes 2 et 3. Les frais
-d'hospitalisation incluent le ticket modérateur des journées et des actes (hôpitaux publics et hôpitaux privés participant au
-service public hospitalier), les frais de séjour (établissements hospitaliers privés, non compris ceux participant au service
-public), les honoraires et prescriptions (établissements hospitaliers privés, non compris ceux participant au service
-public), le forfait journalier, le supplément pour chambre particulière, les accompagnants, les autres indemnités
-compensatrices.
+(3) Ligne à renseigner dans la mesure où ces versements pour hébergement des soins de longue durée (SLD), chambres
+particulières, lits accompagnant... font partie des prestations de santé de l'organisme complémentaire. Ces versements sont
+en effet exclus du champ des comptes de la santé.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(2) Sections médicalisées = sections mises en place dans les établissements d'hébergement pour personnes âgées (EHPA) ou
-établissements d'hébergement pour personnes âgées dépendantes (EHPAD).
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(3) Honoraires médicaux : dont actes en C, V, K, KE, KFA-KFB, P, SF (sage-femmes), SK, KC, Z, y compris les frais de
-déplacement.
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(4) Honoraires médicaux y compris sages-femmes et frais de déplacement.
 
-(4) Actes d'auxiliaires médicaux : dont actes en AM, AIS, y compris les frais de déplacements.
+(5) Actes d'auxiliaires médicaux y compris frais de déplacement.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(5) Analyses médicales : dont actes en B, BM, KB, PB, TB.
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(6) Analyses médicales.
 
-(6) VSL = Véhicule sanitaire léger.
+(7) Ligne à renseigner dans la mesure où les versements pour hébergement en cures thermales font partie des prestations de
+santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(7) VHP : véhicule pour handicapé physique.
+(8) VSL = Véhicule sanitaire léger.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(9) VHP : véhicule pour handicapé physique.
 
-(8) Prestations liées à la santé non comptabilisées dans les rubriques précédentes, non prises en charge par la sécurité
-sociale (par exemple, ostéopathie, forfait maternité...)
+(10) EHPA = Etablissements pour Personnes âgées et EHPAD = Etablissements pour Personnes âgées Dépendantes. Ligne à
+renseigner si les versements correspondants relatifs à l'hébergement ou à la prise en charge de la dépendance font partie des
+prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
 
-</td>
-            </tr>
-          </tbody>
-        </table>
+(11) Prestations liées à la santé non comptabilisées dans les rubriques précédentes (par exemple forfait naissance,
+allocations funéraires...).
 
 </td>
     </tr>
   </tbody>
 </table>
 
+Tableau B : données techniques relatives au risque "incapacité de travail" issues des systèmes de gestion
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" colspan="2" width="437">
+
+DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :
+
+Prestations versées du risque incapacité de travail
+
+</td>
+      <td colspan="2" width="180">
+
+OPERATIONS DIRECTES
+
+en France
+
+</td>
+      <td rowspan="2" width="84">
+
+TOTAL
+
+</td>
+    </tr>
+    <tr>
+      <td width="96">
+
+Individuelles
+
+</td>
+      <td width="84">
+
+Collectives
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="41">
+
+31
+
+</td>
+      <td valign="top" width="396">
+
+Indemnités journalières maladie
+
+</td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
+
+32
+
+</td>
+      <td valign="top" width="396">
+
+Indemnités journalières maternité
+
+</td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
+
+33
+
+</td>
+      <td width="396" valign="top">
+
+Indemnités journalières accidents du travail - maladie professionnelle
+
+</td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
+
+34
+
+</td>
+      <td width="396" valign="top">
+
+TOTAL des indemnités journalières versées (L01 + L02 + L03)
+
+</td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2009 - art.
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe E4 à l'article A114-9
+
+Etat E4. - Résultat technique en santé 
+
+Les mutuelles et unions proposant des garanties ventilées sous les codifications 201, 203, 211, 213 au sens de l'état C4
+défini en annexe à l'article A. 114-5 établissent un état E4 "Résultat technique en santé". 
+
+Cet état comporte les colonnes suivantes : 
+
+- santé : total contrats individuels (catégories 201 et 203 de l'état C4 tel que défini à l'article A. 114-5) ; 
+
+- santé : contrats individuels non donnés en substitution (catégories 2011 et 2031 de l'état C4 tel que défini à l'article A.
+114-5) ; 
+
+- santé : contrats individuels donnés en substitution (catégories 2012 et 2032 de l'état C4 tel que défini à l'article A.
+114-5) ; 
+
+- santé : total contrats collectifs (catégories 211 et 213 de l'état C4 tel que défini à l'article A. 114-5) ; 
+
+- santé : contrats collectifs non donnés en substitution (catégories 2111 et 2131 tel que défini à l'article A. 114-5) ; 
+
+- santé : contrats collectifs donnés en substitution (catégories 2112 et 2132 tel que défini à l'article A. 114-5). 
+
+Les lignes de cet état correspondent strictement à celles de l'état C1 "Dommages corporels " telles que définies à l'article
+A. 114-5. 
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 21 décembre 2009 - art.
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+
+###### Article Annexe E5 à l'article A114-9
+
+Etat E5. - Compléments CMU et gestion d'un régime obligatoire santé 
+
+Les mutuelles et unions proposant des garanties ventilées sous les codifications 201, 203, 211, 213 au sens de l'état C4
+défini en annexe à l'article A. 114-5 établissent un état E 5 "Compléments CMU et gestion d'un régime obligatoire santé",
+selon le modèle ci-après. 
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros. 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="401">
+
+</td>
+      <td width="156">
+
+CODE
+
+du Plan comptable (*)
+
+</td>
+      <td width="144">
+
+MONTANT 
+
+(en milliers d'euros)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="401">
+      </td><td width="156">
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td width="401" valign="top">
+
+Gestion d'un Régime obligatoire de base
+
+</td>
+      <td width="156">
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="401">
+      </td><td width="156">
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td width="401" valign="top">
+
+Produits de gestion d'un régime obligatoire d'assurance maladie
+
+</td>
+      <td width="156">
+
+7450
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td width="401" valign="top">
+
+Charges de gestion d'un régime obligatoire d'assurance maladie
+
+</td>
+      <td width="156">
+
+6450
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="401">
+      </td><td width="156">
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td width="401" valign="top">
+
+CMU
+
+</td>
+      <td width="156">
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="401">
+      </td><td width="156">
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="401">
+
+Participation légale reçue et à recevoir au titre de la CMU
+
+</td>
+      <td width="156">
+
+7021
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="401">
+
+Participation légale reçue et à recevoir au titre de l'ACS
+
+</td>
+      <td width="156">
+
+(*)
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td width="401" valign="top">
+
+Prestations santé versées et à verser aux bénéficiaires de la CMU
+
+</td>
+      <td width="156">
+
+6021
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td width="401" valign="top">
+
+Contribution versée à la CMU
+
+</td>
+      <td width="156">
+
+6458
+
+</td>
+      <td width="144">
+
+</td>
+    </tr>
+    <tr>
+      <td width="701" colspan="3">
+
+(*) Numéro du poste du plan comptable dans lequel l'opération est enregistrée. Pour les mutuelles le numéro est ici précisé,
+pour les IP et les sociétés d'assurance le numéro sera à renseigner par l'organisme.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 21 décembre 2009 - art.
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ## Annexes à l'article A114-10

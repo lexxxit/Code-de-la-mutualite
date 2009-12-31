@@ -1,938 +1,607 @@
 # Article Annexe E1 à l'article A114-9
 
-**État E 1 : risques et engagements**
+**État E 1 : **Statistiques relatives aux différentes catégories d'opérations 
 
-Effectifs au 31 décembre
+Les mutuelles et unions établissent un état E1 " Statistiques relatives aux différentes catégories d'opérations " selon le
+modèle ci-après : 
 
 <table>
   <tbody>
     <tr>
-      <td>
-        <table>
-          <thead>
-            <tr>
-              <td width="377" colspan="3">
+      <td width="250" rowspan="2">
+
+RISQUES ET ENGAGEMENTS
+
+Effectifs au 31 décembre
+
+</td>
+      <td colspan="4" width="385">
 
 OPÉRATIONS DIRECTES EN FRANCE
 
 </td>
-              <td width="78">
-
-TOTAL
-
-</td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-
-</td>
-              <td>
+    </tr>
+    <tr>
+      <td width="97">
 
 Collectives à adhésion obligatoire
 
 </td>
-              <td>
+      <td width="96">
 
 Collectives à adhésion facultative
 
 </td>
-              <td>
+      <td width="96">
 
 Individuelles
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96">
 
-</td>
-              <td>
-
-Frais de santé
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-01
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-02
-
-</td>
-              <td>
-
-nombre de personnes protégées (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-03
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Incapacité temporaire - indemnités journalières
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-04
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-05
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Rentes d'invalidité
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-06
-
-</td>
-              <td>
-
-nombre de rentes en cours de service
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-07
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-08
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Chômage
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-09
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-10
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Indemnité et prime de fin de carrière
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-11
-
-</td>
-              <td>
-
-nombre de bénéficiaires servis
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-12
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-13
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Retraite supplémentaire (2)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-14
-
-</td>
-              <td>
-
-nombre de rentes en cours de service
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-15
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-16
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Autres contrats d'épargne
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-17
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-18
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Dépendance
-
-</td>
-              <td>
-
-</td>
-              <td>
+Total
 
 </td>
-            </tr>
-            <tr>
-              <td>
+    </tr>
+    <tr>
+      <td valign="top" width="250">
 
-19
+Frais de santé :
 
 </td>
-              <td>
+      <td width="97" valign="top">.</td>
+      <td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre de cotisants (1)
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">.</td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-20
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Décès et invalidité totale et définitive
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Capital décès et invalidité totale et définitive
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-21
-
-</td>
-              <td>
-
-nombre de capitaux versés
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+- nombre de personnes protégées (1) 
 
-22
-
-</td>
-              <td>
-
-nombre de cotisants (1)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-23
-
-</td>
-              <td>
-
-nombre d'organismes adhérents
-
-</td>
-              <td>
-
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-            </tr>
-            <tr>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-Rente de conjoint survivant
+Incapacité temporaire - Indemnités journalières : 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de cotisants (1) 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-24
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre de rentes en cours de service
+Rentes d'invalidité :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre de rentes en cours de service 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-25
+- nombre de cotisants (1)
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre de cotisants (1)
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+Chômage : 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-26
+- nombre de cotisants (1) 
 
 </td>
-              <td>
-
-nombre d'organismes adhérents
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-            </tr>
-            <tr>
-              <td>
+Indemnité et prime de fin de carrière :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-Rente d'éducation ou d'orphelin
+- nombre de bénéficiaires servis
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de cotisants (1) 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-27
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre de rentes en cours de service
+Retraite supplémentaire (2) :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de rentes en cours de service
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-28
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre de cotisants (1)
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+Autres contrats d'épargne :
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-29
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre d'organismes adhérents
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+Dépendance :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-Autres risques et engagements
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-30
+Décès et invalidité totale et définitive :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre de cotisants (1)
+Capital décès et invalidité totale et définitive :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre de capitaux versés
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-31
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre d'organismes adhérents
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+Rente de conjoint survivant :
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-Totaux avec double compte (3)
+- nombre de rentes en cours de service
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre de cotisants (1) 
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-41
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre total de cotisants
+Rente d'éducation ou d'orphelin :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre de rentes en cours de service
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-42
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-nombre total d'organismes adhérents
+- nombre d'organismes adhérents
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+Autres risques et engagements : 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-Totaux sans double compte (3)
+- nombre de cotisants (1) 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-51
+Total avec double compte (3) : 
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre total de cotisants
+- nombre total de cotisants
 
 </td>
-              <td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="97">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-52
+Total sans double compte (3) :
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td width="96" valign="top">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="250" valign="top">
 
-nombre total d'organismes adhérents
+- nombre total de cotisants
 
 </td>
-              <td>
+      <td width="97" valign="top">
+      </td><td valign="top" width="96">
+      </td><td width="96" valign="top">
+      </td><td width="96" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="250">
 
-</td>
-              <td>
+- nombre d'organismes adhérents
 
 </td>
-            </tr>
-            <tr>
-              <td colspan="4">
+      <td valign="top" width="97">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+      </td><td valign="top" width="96">
+    </td></tr>
+    <tr>
+      <td width="665" colspan="5">
 
-(1) Cotisants : membres participants visés à l'article  L. 114-1 du code de la mutualité (y compris ceux des mutuelles
+(1) Cotisants : membres participants visés à l'article L. 114-1 du code de la mutualité (y compris ceux des mutuelles
 substituées). Les personnes protégées comprennent les membres participants et leurs ayant droits (y compris ceux des
 mutuelles substituées).
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(2) Epargne retraite facultative à sortie en rente viagère (soit souscrite à titre individuel (PERP, Préfon...) soit
-souscrite dans le cadre d'un plan d'épargne collectif salarial (PERCO)).
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(2) Epargne retraite facultative à sortie en rente viagère (soit souscrite à titre individuel [PERP, Préfon...] soit
+souscrite dans le cadre d'un plan d'épargne collectif salarial [PERCO]).
 
 (3) Le total avec double compte correspond à un nombre de contrats tandis que le total sans double compte correspond à un
 nombre de personnes. Ainsi, une personne cotisant pour deux types de contrat (par exemple pour les frais de santé et pour la
@@ -940,12 +609,16 @@ retraite supplémentaire) sera comptée deux fois dans le total avec double comp
 dans le total sans double compte.
 
 </td>
-            </tr>
-          </tbody>
-        </table>
-
-</td>
     </tr>
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2009 - art.
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2

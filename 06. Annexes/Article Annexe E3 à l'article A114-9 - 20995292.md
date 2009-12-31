@@ -1,1000 +1,586 @@
 # Article Annexe E3 à l'article A114-9
 
-**Etat E 3 - Frais de santé et IJ**
+**Etat E 3 - **Frais de santé et indemnités journalières versés au cours de l'exercice 
+
+Les mutuelles et unions proposant des garanties ventilées sous les codifications 20 et 21 au sens de l'état C4 défini en
+annexe à l'article A. 114-5 établissent un état E3 " frais de santé et indemnités journalières versés au cours de l'exercice"
+selon le modèle ci-après : 
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros. 
+
+Tableau A : données techniques relatives au risque "santé" issues des systèmes de gestion, 
+
+données qui doivent être cohérentes avec la ligne 10-12 de l'état E4 
 
 <table>
   <tbody>
     <tr>
-      <td>
-        <table>
-          <thead>
-            <tr>
-              <td width="104">
+      <td colspan="2" rowspan="2" width="437">
 
-MONTANTS en milliers d'euros
+DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :
+
+Prestations versées du risque santé
 
 </td>
-              <td colspan="2" width="247">
+      <td colspan="2" width="180">
 
-OPÉRATIONS DIRECTES EN FRANCE
+OPERATIONS DIRECTES
+
+en France
 
 </td>
-              <td width="104">
+      <td width="84" rowspan="2">
 
 TOTAL
 
 </td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Collectives à adhésion obligatoire
-
-</td>
-              <td>
-
-Collectives à adhésion facultative
-
-</td>
-              <td>
+    </tr>
+    <tr>
+      <td width="96">
 
 Individuelles
 
 </td>
-            </tr>
-            <tr>
-              <td>
+      <td width="84">
+
+Collectives
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="41">
 
 01
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Hôpitaux publics et PSPH et hôpitaux privés (1)
-
-</td>
-              <td>
+Champ couvert-en pourcentage des prestations versées nettes de recours (1)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 02
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Hôpitaux publics et PSPH (1)
-
-</td>
-              <td>
+Ensemble des Hôpitaux (secteur public et secteur privé) (2)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 03
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont longs séjours (hébergement, ...)
-
-</td>
-              <td>
+- dont frais d'hébergement en SLD, suppléments chambres particulières, lit accompagnant... (3)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 04
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Hôpitaux privés (1)
-
-</td>
-              <td>
+Soins ambulatoires (L05 + L06 + L07 + L10 + L11 + L12)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 05
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont frais de séjour
-
-</td>
-              <td>
+1. Médecins exerçant en cabinet libéral (4)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 06
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont honoraires et prescriptions
-
-</td>
-              <td>
+2. Auxiliaires en cabinets libéraux (5)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 07
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont suppléments
-
-</td>
-              <td>
+3. Dentistes en cabinets libéraux
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 08
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sous-total hôpitaux (L. 01 ou L. 02 + L. 04)
-
-</td>
-              <td>
+- dont honoraires
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 09
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Sections médicalisées publiques et privées (2)
-
-</td>
-              <td>
+- dont prothèses
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 10
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sections médicalisées publiques (2)
-
-</td>
-              <td>
+4. Centres de Santé (Dispensaires...)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 11
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sections médicalisées privées (2)
-
-</td>
-              <td>
+5. Laboratoires d'analyse (6)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 12
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sous-total sections médicalisées (L. 09 ou L. 10 + L. 11)
-
-</td>
-              <td>
+6. Etablissements thermaux
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 13
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Sous-total hôpitaux et sections médicalisées (L. 08 + L. 12)
-
-</td>
-              <td>
+- dont hébergement (7)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Cabinets libéraux
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 14
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-a. médecins (3)
-
-</td>
-              <td>
+Transports des malades (ambulances, taxis, VSL...) (8)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 15
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont dépassements
-
-</td>
-              <td>
+TOTAL PRESTATIONS DE SOINS (L02 + L04 + L14)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 16
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-b. auxiliaires (4)
-
-</td>
-              <td>
+Officines pharmaceutiques (médicaments)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 17
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-c. dentistes
-
-</td>
-              <td>
+Distributeurs d'autres biens médicaux (L18 + L19 + L20)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 18
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont honoraires
-
-</td>
-              <td>
+1. Optique
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 19
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-dont dépassements d'honoraires
-
-</td>
-              <td>
+2. Prothèses (sauf dentaires), orthèses, VHP (9)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 20
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont prothèses
-
-</td>
-              <td>
+3. Petit matériel et pansements
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 21
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Dispensaire
-
-</td>
-              <td>
+TOTAL BIENS MEDICAUX (L16 + L17)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 22
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Laboratoires d'analyse (5)
-
-</td>
-              <td>
+TOTAL DES PRESTATIONS VERSEES en SOINS et BIENS MEDICAUX (L15 + L21)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
 
 23
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-Etablissements thermaux
-
-</td>
-              <td>
+Autres prestations liées à la santé (L24 + L25)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 24
 
 </td>
-              <td>
+      <td valign="top" width="396">
 
-dont hébergement
-
-</td>
-              <td>
+EHPA et EHPAD des secteurs public et privé (10)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 25
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Sous-total soins ambulatoires (L. 14 + L. 16 + L. 17 + L. 21 à L. 23)
-
-</td>
-              <td>
+Autres prestations liées à la santé (11)
 
 </td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
 
 26
 
 </td>
-              <td>
+      <td width="396" valign="top">
 
-Transports des malades (ambulances, taxis, VSL, ...) (6)
+TOTAL DES PRESTATIONS VERSEES (L22 + L23)
 
 </td>
-              <td>
+      <td width="96" valign="top">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td colspan="5" width="701">
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-27
-
-</td>
-              <td>
-
-Total prestations de soins (L. 13 + L. 25 + L. 26)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-28
-
-</td>
-              <td>
-
-Officines pharmaceutiques
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-29
-
-</td>
-              <td>
-
-Distributeurs d'autres biens médicaux
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-30
-
-</td>
-              <td>
-
-a. Optique
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-31
-
-</td>
-              <td>
-
-b. Prothèses (sauf dentaires), orthèses, VHP (7)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-32
-
-</td>
-              <td>
-
-c. Petit matériel et pansements
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-33
-
-</td>
-              <td>
-
-Total biens médicaux (L. 28 + L. 29)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Autres prestations liées à la santé (8)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-34
-
-</td>
-              <td>
-
-Allocations maternité (allocations naissance...)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-35
-
-</td>
-              <td>
-
-Prestations vieillesse
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-36
-
-</td>
-              <td>
-
-Prestations invalidité (allocations handicapés)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-37
-
-</td>
-              <td>
-
-Allocations funéraires
-
-</td>
-              <td>
+(1) Importance des opérations prises en compte dans ce tableau en pourcentage des sinistres payés nets de recours (ligne
+10-12 de l'état E4-C42d).
 
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-38
-
-</td>
-              <td>
-
-Aides à la famille
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-39
-
-</td>
-              <td>
-
-Autres
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-40
-
-</td>
-              <td>
-
-Total autres prestations en espèces (L. 34 à L. 39)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-41
-
-</td>
-              <td>
-
-Total des prestations versées (L. 27 + L. 33 + L. 40)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-</td>
-              <td>
-
-Indemnités journalières maladie
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-42
-
-</td>
-              <td>
-
-IJ moins de 3 mois
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-43
-
-</td>
-              <td>
-
-dont IJ moins de 15 jours
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td>
-
-44
-
-</td>
-              <td>
-
-IJ 3 mois ou plus
-
-</td>
-              <td>
-
-</td>
-              <td>
+(2) Les frais d'hospitalisation incluent le forfait journalier hospitalier, le ticket modérateur des journées et des actes,
+les honoraires et prescriptions en activité libérale.
 
-</td>
-            </tr>
-            <tr>
-              <td>
-
-45
-
-</td>
-              <td>
-
-Total des IJ versées (L. 42 + L. 44)
-
-</td>
-              <td>
-
-</td>
-              <td>
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(1) PSPH = participant au service public hospitalier.
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-La ligne 1 est à remplir si la mutuelle n'a pas le détail public/privé, sinon elle remplit les lignes 2 et 3. Les frais
-d'hospitalisation incluent le ticket modérateur des journées et des actes (hôpitaux publics et hôpitaux privés participant au
-service public hospitalier), les frais de séjour (établissements hospitaliers privés, non compris ceux participant au service
-public), les honoraires et prescriptions (établissements hospitaliers privés, non compris ceux participant au service
-public), le forfait journalier, le supplément pour chambre particulière, les accompagnants, les autres indemnités
-compensatrices.
+(3) Ligne à renseigner dans la mesure où ces versements pour hébergement des soins de longue durée (SLD), chambres
+particulières, lits accompagnant... font partie des prestations de santé de l'organisme complémentaire. Ces versements sont
+en effet exclus du champ des comptes de la santé.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(2) Sections médicalisées = sections mises en place dans les établissements d'hébergement pour personnes âgées (EHPA) ou
-établissements d'hébergement pour personnes âgées dépendantes (EHPAD).
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(3) Honoraires médicaux : dont actes en C, V, K, KE, KFA-KFB, P, SF (sage-femmes), SK, KC, Z, y compris les frais de
-déplacement.
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(4) Honoraires médicaux y compris sages-femmes et frais de déplacement.
 
-(4) Actes d'auxiliaires médicaux : dont actes en AM, AIS, y compris les frais de déplacements.
+(5) Actes d'auxiliaires médicaux y compris frais de déplacement.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(5) Analyses médicales : dont actes en B, BM, KB, PB, TB.
-
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(6) Analyses médicales.
 
-(6) VSL = Véhicule sanitaire léger.
+(7) Ligne à renseigner dans la mesure où les versements pour hébergement en cures thermales font partie des prestations de
+santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
-
-(7) VHP : véhicule pour handicapé physique.
+(8) VSL = Véhicule sanitaire léger.
 
-</td>
-            </tr>
-            <tr>
-              <td colspan="4">
+(9) VHP : véhicule pour handicapé physique.
 
-(8) Prestations liées à la santé non comptabilisées dans les rubriques précédentes, non prises en charge par la sécurité
-sociale (par exemple, ostéopathie, forfait maternité...)
+(10) EHPA = Etablissements pour Personnes âgées et EHPAD = Etablissements pour Personnes âgées Dépendantes. Ligne à
+renseigner si les versements correspondants relatifs à l'hébergement ou à la prise en charge de la dépendance font partie des
+prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
 
-</td>
-            </tr>
-          </tbody>
-        </table>
+(11) Prestations liées à la santé non comptabilisées dans les rubriques précédentes (par exemple forfait naissance,
+allocations funéraires...).
 
 </td>
     </tr>
   </tbody>
 </table>
 
+Tableau B : données techniques relatives au risque "incapacité de travail" issues des systèmes de gestion
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" colspan="2" width="437">
+
+DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :
+
+Prestations versées du risque incapacité de travail
+
+</td>
+      <td colspan="2" width="180">
+
+OPERATIONS DIRECTES
+
+en France
+
+</td>
+      <td rowspan="2" width="84">
+
+TOTAL
+
+</td>
+    </tr>
+    <tr>
+      <td width="96">
+
+Individuelles
+
+</td>
+      <td width="84">
+
+Collectives
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="41">
+
+31
+
+</td>
+      <td valign="top" width="396">
+
+Indemnités journalières maladie
+
+</td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="41" valign="top">
+
+32
+
+</td>
+      <td valign="top" width="396">
+
+Indemnités journalières maternité
+
+</td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
+
+33
+
+</td>
+      <td width="396" valign="top">
+
+Indemnités journalières accidents du travail - maladie professionnelle
+
+</td>
+      <td valign="top" width="96">
+      </td><td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="41">
+
+34
+
+</td>
+      <td width="396" valign="top">
+
+TOTAL des indemnités journalières versées (L01 + L02 + L03)
+
+</td>
+      <td width="96" valign="top">
+      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2009 - art.
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-23
 
 # Partie législative
 
@@ -9,51 +9,51 @@ Version Consolidée au 2010-01-01
 
 ###### Article L111-1
 
-I. - Les mutuelles sont des personnes morales de droit privé à but non lucratif. Elles acquièrent la qualité de mutuelle et
-sont soumises aux dispositions du présent code à dater de leur immatriculation au registre national des mutuelles prévu à
-l'article L. 411-1. Elles mènent, notamment au moyen des cotisations versées par leurs membres, et dans l'intérêt de ces
-derniers et de leurs ayants droit, une action de prévoyance, de solidarité et d'entraide, dans les conditions prévues par
+I.-Les mutuelles sont des personnes morales de droit privé à but non lucratif. Elles acquièrent la qualité de mutuelle et
+sont soumises aux dispositions du présent code à dater de leur immatriculation              dans les conditions fixées par
+décret en Conseil d'Etat. Elles mènent, notamment au moyen des cotisations versées par leurs membres, et dans l'intérêt de
+ces derniers et de leurs ayants droit, une action de prévoyance, de solidarité et d'entraide, dans les conditions prévues par
 leurs statuts, afin de contribuer au développement culturel, moral, intellectuel et physique de leurs membres et à
 l'amélioration de leurs conditions de vie. Ces statuts définissent leur objet social, leur champ d'activité et leurs
-modalités de fonctionnement, conformément aux dispositions du présent code.
+modalités de fonctionnement, conformément aux dispositions du présent code. 
 
-Les mutuelles peuvent avoir pour objet :
+Les mutuelles peuvent avoir pour objet : 
 
-1° De réaliser les opérations d'assurance suivantes :
+1° De réaliser les opérations d'assurance suivantes : 
 
-a) Couvrir les risques de dommages corporels liés à des accidents ou à la maladie ;
+a) Couvrir les risques de dommages corporels liés à des accidents ou à la maladie ; 
 
 b) Contracter des engagements dont l'exécution dépend de la durée de la vie humaine, verser un capital en cas de mariage ou
-de naissance d'enfants, faire appel à l'épargne en vue de la capitalisation en contractant des engagements déterminés ;
+de naissance d'enfants, faire appel à l'épargne en vue de la capitalisation en contractant des engagements déterminés ; 
 
-c) Réaliser des opérations de protection juridique et d'assistance aux personnes ;
+c) Réaliser des opérations de protection juridique et d'assistance aux personnes ; 
 
-d) Couvrir le risque de perte de revenus lié au chômage ;
+d) Couvrir le risque de perte de revenus lié au chômage ; 
 
 e) Apporter leur caution mutualiste aux engagements contractés par leurs membres participants en vue de l'acquisition, de la
-construction, de la location ou de l'amélioration de leur habitat ou de celui de leurs ayants droit ;
+construction, de la location ou de l'amélioration de leur habitat ou de celui de leurs ayants droit ; 
 
 2° D'assurer la prévention des risques de dommages corporels liés à des accidents ou à la maladie, ainsi que la protection de
-l'enfance, de la famille, des personnes âgées, dépendantes ou handicapées ;
+l'enfance, de la famille, des personnes âgées, dépendantes ou handicapées ; 
 
-3° De mettre en oeuvre une action sociale ou gérer des réalisations sanitaires, sociales ou culturelles ;
+3° De mettre en oeuvre une action sociale ou gérer des réalisations sanitaires, sociales ou culturelles ; 
 
 4° De participer à la gestion d'un régime légal d'assurance maladie et maternité en application des articles L. 211-3 à L.
 211-7, L. 381-8, L. 381-9, L. 611-3, L. 712-6 à L. 712-8 du code de la sécurité sociale et des articles L. 723-2, L. 731-30 à
 L. 731-34, L. 741-23 et L. 742-3 du code rural et d'assurer la gestion d'activités et de prestations sociales pour le compte
-de l'Etat ou d'autres collectivités publiques.
+de l'Etat ou d'autres collectivités publiques. 
 
-Elles peuvent accepter les engagements mentionnés au 1° ci-dessus en réassurance.
+Elles peuvent accepter les engagements mentionnés au 1° ci-dessus en réassurance. 
 
 Elles peuvent également, à la demande d'autres mutuelles ou unions, se substituer intégralement à ces organismes dans les
-conditions prévues au livre II pour la délivrance de ces engagements.
+conditions prévues au livre II pour la délivrance de ces engagements. 
 
-II. - Sous réserve des dispositions du III, une même mutuelle ne peut exercer à la fois une activité d'assurance définie au
-1° ou aux deux derniers alinéas du I et une activité définie au 2° ou au 3° du I. En outre, une mutuelle exerçant une
-activité d'assurance ne peut contracter à la fois des engagements définis au b du 1° du I et des engagements définis aux c, d
-et e du 1° du I.
+II.-Sous réserve des dispositions du III, une même mutuelle ne peut exercer à la fois une activité d'assurance définie au 1°
+ou aux deux derniers alinéas du I et une activité définie au 2° ou au 3° du I. En outre, une mutuelle exerçant une activité
+d'assurance ne peut contracter à la fois des engagements définis au b du 1° du I et des engagements définis aux c, d et e du
+1° du I. 
 
-III. - Une mutuelle exerçant une activité d'assurance peut assurer la prévention des risques de dommages corporels, mettre en
+III.-Une mutuelle exerçant une activité d'assurance peut assurer la prévention des risques de dommages corporels, mettre en
 oeuvre une action sociale ou gérer des réalisations sanitaires et sociales dans la mesure où ces activités sont accessoires,
 et accessibles uniquement :
 
@@ -107,6 +107,7 @@ elle, dès lors que les prestations délivrées dans ce cadre découlent directe
 	  - Code de la mutualité - art. L227-1 (V)
 	  - Code de la mutualité - art. L310-1 (V)
 	  - Code de la mutualité - art. L311-2 (Ab)
+	  - Code de la mutualité - art. L411-1 (Ab)
 	  - Code de la mutualité - art. L510-2 (Ab)
 	  - Code de la mutualité - art. R211-15-1 (VT)
 	  - Code de la mutualité - art. R211-5-1 (VD)
@@ -128,17 +129,16 @@ elle, dès lors que les prestations délivrées dans ce cadre découlent directe
 	  - Code monétaire et financier - art. L612-3 (VD)
 	  - Code monétaire et financier - art. L745-1-1 (VT)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la sécurité sociale L211-3 à L211-7, L381-8, L381-9, L611-3, L712-6 à L712-8
-	  - Code de la sécurité sociale. - art. L381-8 (M)
-	  - Code de la sécurité sociale. - art. L381-9 (M)
-	  - Code de la sécurité sociale. - art. L611-3 (M)
-	  - Code de la mutualité - art. L411-1 (Ab)
+	  - Code de la sécurité sociale.
+	  - Code de la sécurité sociale. - art. L381-8
+	  - Code de la sécurité sociale. - art. L381-9
+	  - Code de la sécurité sociale. - art. L611-3
 	  - Code rural L723-2, L731-30 à L731-34, L741-23, L742-3
 
 
@@ -425,25 +425,25 @@ Les conditions de fonctionnement de l'union mutualiste de groupe sont fixées pa
 ###### Article L111-5
 
 Une fédération est une personne morale de droit privé à but non lucratif créée par plusieurs mutuelles ou unions en vue de
-défendre leurs intérêts collectifs, moraux et matériels, d'en assurer la représentation et de faciliter leurs activités.
+défendre leurs intérêts collectifs, moraux et matériels, d'en assurer la représentation et de faciliter leurs activités. 
 
 Les fédérations coordonnent ou mettent en oeuvre des actions d'information dans le domaine de la santé, notamment en matière
-de prévention, de lutte contre la toxicomanie, du bon usage des médicaments et de mise en place de réseaux de soins.
+de prévention, de lutte contre la toxicomanie, du bon usage des médicaments et de mise en place de réseaux de soins. 
 
 Les fédérations ne peuvent pas pratiquer directement des opérations d'assurance. Elles sont autorisées à pratiquer des
 opérations de réassurance portant sur les opérations mentionnées au 1° du I de l'article L. 111-1, dans des conditions
-prévues à l'article L. 111-4, au moyen d'unions consacrées à ces catégories d'opérations.
+prévues à l'article L. 111-4, au moyen d'unions consacrées à ces catégories d'opérations. 
 
 Les membres d'une fédération qui relèvent du livre II du présent code peuvent créer, dans les conditions prévues à l'article
 L. 111-4, une union chargée de gérer un système fédéral de garantie. Le système fédéral de garantie ainsi constitué
-fonctionne dans les conditions fixées à l'article L. 111-6 et est soumis au contrôle de la commission visée à l'article L.
-510-1.
+fonctionne dans les conditions fixées à l'article L. 111-6 et est soumis au contrôle de la          l'Autorité de contrôle
+prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -454,53 +454,47 @@ fonctionne dans les conditions fixées à l'article L. 111-6 et est soumis au co
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L111-4 (V)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L111-4
 
 
 ###### Article L111-6
 
 Les systèmes fédéraux de garantie mis en place conformément à l'article L. 111-5 sont agréés dans des conditions fixées par
-décret en Conseil d'Etat. Les ressources des systèmes fédéraux de garantie sont définies par leurs statuts.
+décret en Conseil d'Etat. Les ressources des systèmes fédéraux de garantie sont définies par leurs statuts. 
 
-Une mutuelle ou union ne peut être membre de plus d'un système fédéral de garantie.
+Une mutuelle ou union ne peut être membre de plus d'un système fédéral de garantie. 
 
-Sans préjudice des pouvoirs de contrôle conférés à l'Autorité visée à l'article L. 510-1, les systèmes fédéraux veillent à
+Sans préjudice des pouvoirs de contrôle conférés à l'Autorité de contrôle prudentiel, les systèmes fédéraux veillent à
 l'application par leurs membres des dispositions législatives et réglementaires qui les régissent et exercent un contrôle
-administratif, technique et financier sur leur organisation et leur gestion.
+administratif, technique et financier sur leur organisation et leur gestion. 
 
 Dans les conditions et limites définies par leur règlement, ils garantissent, en cas de défaillance, le paiement des
 prestations dues aux membres participants des mutuelles et unions qui leur sont affiliées. Sont toutefois exclues de cette
-garantie les opérations d'assistance et de protection juridique figurant au c du 1° du I de l'article L. 111-1.
+garantie les opérations d'assistance et de protection juridique figurant au c du 1° du I de l'article L. 111-1. 
 
 Les systèmes fédéraux de garantie peuvent en outre intervenir à titre préventif auprès d'une mutuelle ou d'une union
 susceptible de ne plus répondre aux conditions de solvabilité mentionnées au 3° de l'article L. 212-1. Les interventions
-préventives du système fédéral de garantie prennent la forme de concours non remboursables.
+préventives du système fédéral de garantie prennent la forme de concours non remboursables. 
 
 Le système fédéral de garantie est subrogé dans les droits de l'organisme défaillant et de ses membres participants à
-concurrence du montant de toutes les sommes qu'il a versées.
+concurrence du montant de toutes les sommes qu'il a versées. 
 
 Lorsqu'une mutuelle ou une union relevant du livre II du présent code cesse d'être membre d'un système fédéral de garantie,
-celui-ci en informe le ministre chargé de la mutualité et l'Autorité de contrôle mentionnée à l'article L. 510-1 qui s'assure
-de son adhésion directe au fonds de garantie mentionné à l'article L. 431-1. Le système fédéral de garantie informe également
-le président du fonds mentionné à l'article L. 431-1.
+celui-ci en informe le ministre chargé de la mutualité et l'Autorité de contrôle prudentiel qui s'assure de son adhésion
+directe au fonds de garantie mentionné à l'article L. 431-1. Le système fédéral de garantie informe également le président du
+fonds mentionné à l'article L. 431-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L212-1 (V)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L212-1
 
 	**Cité par**:
 
@@ -574,7 +568,7 @@ I.
 Par dérogation, les données mentionnées au troisième alinéa du I peuvent, s'agissant des risques liés à la durée de la vie
 humaine, prendre la forme de tables homologuées et régulièrement mises à jour par arrêté du ministre chargé de la mutualité
 ou de tables établies ou non par sexe par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé
-à cet effet par l'une des associations d'actuaires reconnues par l'autorité de contrôle instituée à l'article L. 510-1. 
+à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle prudentiel. 
 
 III.-Le présent article s'applique aux contrats d'assurance autres que ceux conclus dans les conditions prévues à l'article
 L. 911-1 du code de la sécurité sociale. 
@@ -585,15 +579,15 @@ y compris celles revêtant un caractère temporaire, en cours à sa date d'entr�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-496 du 27 mai 2008 - art. 8
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L911-1 (V)
-	  - Code de la mutualité - art. L223-10-1 (V)
-	  - Code de la mutualité - art. L510-1 (V)
+	  - Code de la sécurité sociale. - art. L911-1
+	  - Code de la mutualité - art. L223-10-1
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L112-2
@@ -837,26 +831,18 @@ l'article L. 114-12.
 
 L'excédent de l'actif net sur le passif est dévolu, par décision de l'assemblée générale statuant dans les conditions prévues
 au I de l'article L. 114-12 à d'autres mutuelles, unions ou fédérations ou au fonds de solidarité et d'action mutualistes
-mentionné à l'article L. 421-1 ou au fonds de garantie mentionné à l'article L. 431-1. A défaut de dévolution, par
-l'assemblée générale ayant prononcé la dissolution, de l'excédent de l'actif net sur le passif, celui-ci est affecté au fonds
-de garantie mentionné à l'article L. 431-1.
+mentionné à l'article L. 421-1 ou au fonds de garantie mentionné à l'article L. 431-1.A défaut de dévolution, par l'assemblée
+générale ayant prononcé la dissolution, de l'excédent de l'actif net sur le passif, celui-ci est affecté au fonds de garantie
+mentionné à l'article L. 431-1.
 
 A défaut de réunion de l'assemblée générale durant deux années civiles consécutives, la dissolution peut être prononcée par
-l'Autorité de contrôle mentionnée à l'article L. 510-1, qui nomme un liquidateur. L'excédent de l'actif net sur le passif est
-dévolu au fonds de garantie mentionné à l'article L. 431-1.
+l'Autorité de contrôle prudentiel , qui nomme un liquidateur. L'excédent de l'actif net sur le passif est dévolu au fonds de
+garantie mentionné à l'article L. 431-1.
 
 A défaut de décision de l'assemblée générale dans les cas de dissolution visés à l'article L. 212-16, l'excédent de l'actif
 net sur le passif est affecté au fonds de garantie mentionné à l'article L. 431-1.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
@@ -864,13 +850,16 @@ net sur le passif est affecté au fonds de garantie mentionné à l'article L. 4
 	  - Code de la mutualité - art. L421-2 (V)
 	  - Code de la mutualité - art. L510-10 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-12 (V)
-	  - Code de la mutualité - art. L212-16 (M)
-	  - Code de la mutualité - art. L421-1 (V)
-	  - Code de la mutualité - art. L431-1 (V)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L114-12
+	  - Code de la mutualité - art. L212-16
+	  - Code de la mutualité - art. L421-1
+	  - Code de la mutualité - art. L431-1
 
 
 ### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.
@@ -1094,31 +1083,31 @@ adhérents.
 
 ###### Article L114-8
 
-I. - Les membres des mutuelles, unions et fédérations se réunissent en assemblée générale au moins une fois par an, sur
-convocation du président du conseil d'administration. A défaut d'une telle convocation, le président du tribunal de grande
+I.-Les membres des mutuelles, unions et fédérations se réunissent en assemblée générale au moins une fois par an, sur
+convocation du président du conseil d'administration.A défaut d'une telle convocation, le président du tribunal de grande
 instance, statuant en référé, peut, à la demande de tout membre de l'organisme, enjoindre sous astreinte aux membres du
 conseil d'administration de convoquer cette assemblée ou désigner un mandataire chargé de procéder à cette convocation.
 
-L'assemblée générale peut également être convoquée par :
+L'assemblée générale peut également être convoquée par : 
 
-1° La majorité des administrateurs composant le conseil ;
+1° La majorité des administrateurs composant le conseil ; 
 
-2° Les commissaires aux comptes ;
+2° Les commissaires aux comptes ; 
 
-3° L'Autorité de contrôle mentionnée à l'article L. 510-1, d'office ou à la demande d'un membre participant ;
+3° L'Autorité de contrôle prudentiel, d'office ou à la demande d'un membre participant ; 
 
-4° Un administrateur provisoire nommé par l'Autorité de contrôle mentionnée à l'article L. 510-1, à la demande d'un ou
-plusieurs membres participants ;
+4° Un administrateur provisoire nommé par l'Autorité de contrôle prudentiel , à la demande d'un ou plusieurs membres
+participants ; 
 
 5° Les liquidateurs.
 
 A défaut d'une telle convocation, le président du tribunal de grande instance, statuant en référé, peut, à la demande de tout
 membre de l'organisme, enjoindre sous astreinte aux membres du conseil d'administration de convoquer cette assemblée ou
-désigner un mandataire chargé de procéder à cette convocation.
+désigner un mandataire chargé de procéder à cette convocation. 
 
-II. - La convocation des assemblées générales est faite dans les conditions et délais fixés par décret.
+II.-La convocation des assemblées générales est faite dans les conditions et délais fixés par décret. 
 
-III. - L'ordre du jour de l'assemblée est arrêté par l'auteur de la convocation. Toutefois, les membres participants ou les
+III.-L'ordre du jour de l'assemblée est arrêté par l'auteur de la convocation. Toutefois, les membres participants ou les
 délégués, selon la composition de l'assemblée générale, peuvent, dans des conditions déterminées par décret, requérir
 l'inscription à l'ordre du jour de projets de résolution.
 
@@ -1129,13 +1118,9 @@ présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -1143,7 +1128,7 @@ présent code.
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L114-9
@@ -1359,8 +1344,7 @@ chargé de procéder à cette communication et, le cas échéant, de reporter la
 ###### Article L114-15
 
 Les comptes annuels sont communiqués par les mutuelles, unions et fédérations à toute personne qui en fait la demande, dans
-des conditions fixées par arrêté du ministre chargé de la mutualité. Cet arrêté définit les états, tableaux et documents
-transmis à l'Autorité de contrôle mentionnée à l'article L. 510-1, qui sont communiqués en réponse à une telle demande.
+des conditions fixées par arrêté du ministre chargé de la mutualité. 
 
 Lorsqu'une mutuelle, une union ou une fédération refuse communication en tout ou partie des documents demandés au titre de
 l'alinéa précédent, le président du tribunal de grande instance statuant en référé peut, à la demande de la personne
@@ -1368,17 +1352,17 @@ concernée, ordonner à la mutuelle, union ou fédération, sous astreinte, de l
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-1
 
 
 #### Section 4 : Conseil d'administration.
@@ -1518,9 +1502,10 @@ au cours duquel un mandat au sein de l'organe d'administration ou de surveillanc
 
 Le conseil d'administration élit parmi ses membres un président qui est élu en qualité de personne physique. Le président du
 conseil d'administration organise et dirige les travaux de celui-ci, dont il rend compte à l'assemblée générale. Il informe
-le conseil d'administration des procédures engagées en application des articles L. 510-8 et L. 510-10. Il veille au bon
-fonctionnement des organes de la mutuelle ou de l'union et s'assure en particulier que les administrateurs sont en mesure de
-remplir les attributions qui leur sont confiées.
+le conseil d'administration des procédures engagées en application des dispositions de la section 6 et de la section 7 du
+chapitre II du titre Ier du livre VI du code monétaire et financier. Il veille au bon fonctionnement des organes de la
+mutuelle ou de l'union et s'assure en particulier que les administrateurs sont en mesure de remplir les attributions qui leur
+sont confiées.
 
 Le président est nommé pour une durée qui ne peut excéder celle de son mandat d'administrateur. Il est rééligible. Le conseil
 d'administration peut à tout moment mettre un terme aux fonctions du président.
@@ -1530,9 +1515,9 @@ président du conseil d'administration.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -1540,17 +1525,12 @@ président du conseil d'administration.
 	  - Code de la mutualité - art. L114-9 (V)
 	  - Code de la mutualité - art. L115-6 (V)
 
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-10 (V)
-	  - Code de la mutualité - art. L510-8 (M)
-
 
 ###### Article L114-19
 
 Dans les organismes nommant un ou plusieurs dirigeants salariés, le conseil d'administration nomme ceux-ci et fixe leur
 rémunération. Ces dirigeants assistent à chaque réunion du conseil d'administration. Ils sont révocables à tout moment par le
-conseil d'administration. La liste des dirigeants est publiée au registre national des mutuelles.
+conseil d'administration. 
 
 A l'égard des tiers, la mutuelle ou l'union est engagée même par les actes du président du conseil d'administration ou des
 dirigeants salariés qui ne relèvent pas de son objet, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet
@@ -1558,9 +1538,13 @@ objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cité par**:
 
@@ -2215,21 +2199,17 @@ par le livre III.
 ###### Article L114-40
 
 Lorsque le commissaire aux comptes informe le président du tribunal de grande instance, en application de l'article L. 612-3
-du code de commerce, il informe en même temps l'Autorité de contrôle.
+du code de commerce, il informe en même temps l'  Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de commerce. - art. L612-3 (M)
+	  - Code de commerce - art. L612-3
 
 
 ###### Article L114-41
@@ -2257,41 +2237,37 @@ code de commerce.
 
 ###### Article L114-42
 
-I. - Lorsque le comité d'entreprise ou, s'il n'est pas constitué, les délégués du personnel ont connaissance de faits de
-nature à affecter de manière préoccupante la situation économique de la mutuelle, union ou fédération, ils peuvent demander à
-un dirigeant salarié, dans les conditions définies aux articles L. 422-4 et L. 432-5 du code du travail, de leur fournir des
-explications.
+I.-Lorsque le comité d'entreprise ou, s'il n'est pas constitué, les délégués du personnel ont connaissance de faits de nature
+à affecter de manière préoccupante la situation économique de la mutuelle, union ou fédération, ils peuvent demander à un
+dirigeant salarié, dans les conditions définies aux articles L. 422-4 et L. 432-5 du code du travail, de leur fournir des
+explications. 
 
-Le dirigeant est tenu d'en informer le président.
+Le dirigeant est tenu d'en informer le président. 
 
 Si le comité d'entreprise ou, à défaut, les délégués du personnel n'ont pu obtenir de réponse suffisante du dirigeant ou si
-celui-ci confirme le caractère préoccupant de la situation, ils établissent un rapport.
+celui-ci confirme le caractère préoccupant de la situation, ils établissent un rapport. 
 
 Le rapport est transmis au dirigeant et aux commissaires aux comptes. Le dirigeant est tenu de le remettre au président. Le
-conseil d'administration doit en être saisi dès qu'il est appelé à se réunir.
+conseil d'administration doit en être saisi dès qu'il est appelé à se réunir. 
 
-II. - Le comité d'entreprise ou à défaut les délégués du personnel communiquent au président de l'Autorité de contrôle
-mentionnée à l'article L. 510-1, tout fait révélant la cessation des paiements de l'organisme.
+II.-Le comité d'entreprise ou à défaut les délégués du personnel communiquent au président de l'Autorité de contrôle
+prudentiel, tout fait révélant la cessation des paiements de l'organisme. 
 
-III. - Les informations concernant la mutuelle, union ou fédération communiquées en application du présent article ont par
+III.-Les informations concernant la mutuelle, union ou fédération communiquées en application du présent article ont par
 nature un caractère confidentiel. Toute personne qui y a accès en application de ce même article est tenue à leur égard à une
 obligation de discrétion.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code du travail - art. L422-4 (T)
-	  - Code du travail - art. L432-5 (T)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code du travail - art. L422-4
+	  - Code du travail - art. L432-5
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L114-43
@@ -2371,22 +2347,17 @@ prévues par les articles L. 228-1 à L. 228-97 du code de commerce.
 
 Les plans comptables des mutuelles, des unions et des fédérations sont adoptés, après avis du conseil supérieur de la
 mutualité, par l'Autorité des normes comptables conformément aux dispositions de l'article 1er de la loi n° 98-261 du 6 avril
-1998 portant réforme de la réglementation comptable et adaptation du régime de la publicité foncière. 
-
-Un arrêté détermine, selon la nature et l'importance de leurs opérations, les états statistiques que les organismes doivent
-produire, ainsi que la nature et la périodicité des informations qu'ils doivent transmettre à l'Autorité de contrôle
-mentionnée à l'article L. 510-1.
+1998 portant réforme de la réglementation comptable et adaptation du régime de la publicité foncière.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°98-261 du 6 avril 1998 - art. 1
-	  - Code de la mutualité - art. L510-1
+	  - Loi n°98-261 du 6 avril 1998 - art. 1 (Ab)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -2984,23 +2955,19 @@ qu'elles ont délivrées et des engagements qu'elles ont pris.
 ###### Article L211-3
 
 Les mutuelles et unions soumises aux dispositions du présent livre sont tenues de déclarer à l'Autorité de contrôle
-mentionnée à l'article L. 510-1 toute convention de gestion par laquelle elles participent au financement d'une mutuelle ou
-d'une union soumise aux dispositions du livre III ou disposent avec elle de services communs. Toute modification de la
-convention fait l'objet de la même procédure.
+prudentiel toute convention de gestion par laquelle elles participent au financement d'une mutuelle ou d'une union soumise
+aux dispositions du livre III ou disposent avec elle de services communs. Toute modification de la convention fait l'objet de
+la même procédure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L211-4
@@ -3036,9 +3003,9 @@ Les opérations faites en application de la convention de substitution sont cons
 livre, comme des opérations directes de la mutuelle ou de l'union qui s'est substituée à l'organisme concerné. 
 
 Les organismes qui ont le projet de se substituer à d'autres ne peuvent conclure une telle convention qu'au plus tôt deux
-mois après avoir informé de ce projet l'Autorité de contrôle mentionnée à l'article L. 510-1. Les organismes qui se sont
-substitués à d'autres sont tenus d'informer l'Autorité de contrôle au plus tard deux mois avant la modification ou la
-résiliation de la convention.
+mois après avoir informé de ce projet l'Autorité de contrôle prudentiel. Les organismes qui se sont substitués à d'autres
+sont tenus d'informer l'Autorité de contrôle prudentiel au plus tard deux mois avant la modification ou la résiliation de la
+convention.
 
 A compter de l'entrée en vigueur de la convention, les mutuelles et unions auxquelles un autre organisme s'est substitué ne
 sont pas soumises aux dispositions des articles L. 212-1, 
@@ -3048,10 +3015,11 @@ Elles sont également dispensées de nommer un commissaire aux comptes lorsque l
 passé convention établit leurs comptes annuels. Dans ce cas, le commissaire aux comptes de l'organisme qui s'est substitué à
 elles certifie les comptes annuels. 
 
-Toute modification de la convention de substitution est soumise à l'autorisation préalable de l'Autorité de contrôle. 
+Toute modification de la convention de substitution est soumise à l'autorisation préalable de l'Autorité de contrôle
+prudentiel. 
 
 Au plus tard deux mois avant l'expiration de la convention de substitution, les mutuelles et les unions sont tenues de
-justifier auprès de l'Autorité de contrôle : 
+justifier auprès de l'Autorité de contrôle prudentiel : 
 
 a) Soit qu'elles ont prolongé la convention ou qu'elles en ont conclu une nouvelle ; 
 
@@ -3063,13 +3031,10 @@ c) Soit enfin qu'elles ont obtenu l'autorisation de transférer leur portefeuill
 
 Si elles ne peuvent apporter l'une des justifications mentionnées aux a et b ci-dessus, elles ne peuvent passer de nouveaux
 contrats ou en renouveler, à compter de la date de l'expiration de la convention.A compter de cette même date, elles sont
-passibles des peines prévues à l'article L. 510-11.
+passibles des mesures prévues aux articles L. 612-33 et L. 612-34 et des sanctions prévues à l'article L. 612-39 du code
+monétaire et financier.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -3099,14 +3064,17 @@ passibles des peines prévues à l'article L. 510-11.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (V)
-	  - Code de la mutualité - art. L212-1 (V)
-	  - Code de la mutualité - art. L212-15 (V)
-	  - Code de la mutualité - art. L212-3 (V)
+	  - Code monétaire et financier - art. L612-33 (V)
+	  - Code monétaire et financier - art. L612-39 (V)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L212-1
+	  - Code de la mutualité - art. L212-11 (V)
+	  - Code de la mutualité - art. L212-15
+	  - Code de la mutualité - art. L212-3
 
 
 ###### Article L211-6
@@ -3128,8 +3096,8 @@ l'exclusion de la Nouvelle-Calédonie et de la Polynésie française.
 ###### Article L211-7
 
 Les mutuelles et unions soumises aux dispositions du présent livre ne peuvent commencer leurs opérations qu'après avoir
-obtenu un agrément délivré par l'autorité administrative compétente, après avis du Conseil supérieur de la mutualité
-mentionné à l'article L. 411-1.
+obtenu un agrément délivré par   l'Autorité de contrôle prudentiel compétente, après avis du Conseil supérieur de la
+mutualité mentionné à l'article L. 411-1.
 
 L'agrément est accordé, sur demande de la mutuelle ou de l'union, pour les opérations d'une ou plusieurs branches ou sous-
 branches d'activité. La mutuelle ou l'union ne peut pratiquer que les opérations pour lesquelles elle est agréée. 
@@ -3191,13 +3159,13 @@ de l'autre Etat partie à l'accord sur l'Espace économique européen concerné 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 
 ###### Article L211-7-1
 
-Lorsque l'autorité administrative compétente en matière d'agrément se prononce sur une demande d'agrément présentée par une
-mutuelle ou union qui est soit :
+Lorsque l'Autorité de contrôle prudentiel se prononce sur une demande d'agrément présentée par une mutuelle ou union qui est
+soit :
 
 a) Un organisme subordonné à un établissement de crédit agréé ou à une entreprise d'investissement agréée dans un Etat membre
 ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
@@ -3211,13 +3179,9 @@ elle consulte l'autorité chargée de la surveillance des établissements de cr�
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance 2004-1201 2004-11-12 art. 14 2° JORF 16 novembre 2004
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -3289,9 +3253,9 @@ Etat partie à l'accord sur l'Espace économique européen concerné.
 
 ###### Article L211-8
 
-Pour accorder l'agrément prévu à l'article L. 211-7 ou L. 211-7-2, l'autorité administrative s'assure que les éléments du
-programme d'activité établi selon les principes définis par arrêté du ministre chargé de la mutualité sont adaptés à la
-nature des activités que l'organisme se propose d'exercer. 
+Pour accorder l'agrément prévu à l'article L. 211-7 ou L. 211-7-2, l'Autorité de contrôle prudentiel s'assure que les
+éléments du programme d'activité établi selon les principes définis par arrêté du ministre chargé de la mutualité sont
+adaptés à la nature des activités que l'organisme se propose d'exercer. 
 
 Elle s'assure également que les moyens administratifs, notamment d'encadrement, et les moyens techniques et financiers dont
 la mise en oeuvre est proposée sont compatibles avec le programme d'activité de la mutuelle ou de l'union. 
@@ -3301,16 +3265,16 @@ Elle vérifie le respect des règles relatives à l'éligibilité des administra
 Elle vérifie l'honorabilité et la qualification ou l'expérience professionnelle des personnes chargées de la diriger. Elle
 prend en compte le niveau et les modalités de constitution de son fonds de garantie.
 
-L'autorité administrative refuse l'agrément lorsque l'organisme ne satisfait pas aux obligations législatives et
+L'Autorité de contrôle prudentiel refuse l'agrément lorsque l'organisme ne satisfait pas aux obligations législatives et
 réglementaires, notamment prudentielles, prévues par le présent code ou lorsque les caractéristiques du projet ou la qualité
 des dirigeants lui paraissent de nature à mettre en péril la capacité de l'organisme à respecter ses engagements à l'égard
 des membres participants.
 
-L'autorité administrative refuse l'agrément, après avis de l'Autorité de contrôle mentionnée à l'article L. 510-1, lorsque
-l'exercice de la mission de surveillance de la mutuelle ou de l'union est susceptible d'être entravé, soit par l'existence de
-relations de contrôle direct ou indirect entre l'organisme requérant et d'autres personnes physiques ou morales, soit par des
-dispositions législatives, réglementaires ou administratives d'un Etat qui n'est ni membre de la Communauté européenne ni
-partie à l'accord sur l'Espace économique européen, et dont relèvent une ou plusieurs de ces personnes.
+L'Autorité de contrôle prudentiel refuse l'agrément, lorsque l'exercice de la mission de surveillance de la mutuelle ou de
+l'union est susceptible d'être entravé, soit par l'existence de relations de contrôle direct ou indirect entre l'organisme
+requérant et d'autres personnes physiques ou morales, soit par des dispositions législatives, réglementaires ou
+administratives d'un Etat qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique
+européen, et dont relèvent une ou plusieurs de ces personnes.
 
 L'arrêté mentionné au premier alinéa fixe la liste des documents à produire à l'appui d'une demande d'agrément.
 
@@ -3336,19 +3300,18 @@ L'arrêté mentionné au premier alinéa fixe la liste des documents à produire
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
 	  - Code de la mutualité - art. L211-7
 	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L211-9
 
-L'agrément prévu à l'article L. 211-7 et à l'article L. 211-7-2 peut être retiré par l'autorité administrative qui l'a
-délivré lorsque la mutuelle ou l'union : 
+L'agrément prévu à l'article L. 211-7 et à l'article L. 211-7-2 peut être retiré par l'Autorité de contrôle prudentiel qui
+l'a délivré lorsque la mutuelle ou l'union : 
 
 a) Renonce expressément à l'agrément, n'en fait pas usage dans un délai d'un an ou a cessé d'exercer son activité pendant une
 période de six mois ; 
@@ -3359,7 +3322,7 @@ b) Ne satisfait plus aux conditions d'agrément définies à l'article L. 211-8.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -3379,37 +3342,33 @@ b) Ne satisfait plus aux conditions d'agrément définies à l'article L. 211-8.
 
 ###### Article L211-10
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, et notamment :
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, et notamment : 
 
 1° Les conditions dans lesquelles une mutuelle ou une union qui a conclu une convention de substitution conformément aux
 dispositions du premier alinéa de l'article L. 211-5 en informe ses membres et peut procéder à sa résiliation ou à son
-renouvellement ;
+renouvellement ; 
 
-2° Les conditions dans lesquelles l'autorité administrative délivre l'agrément en application de l'article L. 211-8 et peut
-le retirer conformément à l'article L. 211-9 ;
+2° Les conditions dans lesquelles   l'Autorité de contrôle prudentiel délivre l'agrément en application de l'article L. 211-8
+et peut le retirer conformément à l'article L. 211-9 ; 
 
 3° Les exigences supplémentaires qu'il convient d'instaurer pour l'application des dispositions du présent chapitre aux
 mutuelles et aux unions pratiquant à la fois des opérations mentionnées aux a et b du 1° du I de l'article L. 111-1, en vue
 notamment d'assurer une gestion distincte, pour la protection des intérêts de leurs membres participants et bénéficiaires, de
-chacune des deux catégories d'opérations ;
+chacune des deux catégories d'opérations ; 
 
 4° Les conditions du contrôle interne des mutuelles et unions régies par les dispositions du présent livre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L211-8 (M)
-	  - Code de la mutualité - art. L211-9 (V)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L211-8
+	  - Code de la mutualité - art. L211-9
 
 	**Cité par**:
 
@@ -3486,19 +3445,15 @@ et les hypothèses retenues sont explicitées et justifiées, les engagements qu
 de leurs ayants droit, rappelle les orientations retenues en matière de placements, présente et analyse les résultats obtenus
 et indique si la marge de solvabilité est constituée conformément à la réglementation applicable. Le rapport de solvabilité
 contient obligatoirement une analyse des conditions dans lesquelles l'organisme est en mesure, à moyen et long terme, de
-faire face à l'ensemble de ses engagements.
+faire face à l'ensemble de ses engagements. 
 
-Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de contrôle mentionnée à l'article L. 510-1.
+Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -3512,7 +3467,7 @@ Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L212-3-1
@@ -3818,9 +3773,9 @@ et les règles concernant la surveillance complémentaire instituée à l'articl
 
 Les mutuelles ou unions régies par les dispositions du présent livre et apparentées à au moins un autre organisme assureur ou
 subordonnées à un organisme ayant une activité économique font l'objet d'une surveillance complémentaire de leur situation
-financière par l'Autorité de contrôle mentionnée à l'article L. 510-1. 
+financière par l'Autorité de contrôle prudentiel. 
 
-La surveillance complémentaire tient compte des organismes qui sont apparentés à la mutuelle ou à l'union.L'Autorité peut
+La surveillance complémentaire tient compte des organismes qui sont apparentés à la mutuelle ou à l'union. L'Autorité peut
 toutefois décider d'exclure un organisme apparenté de la surveillance complémentaire si elle estime que sa prise en compte
 présenterait un intérêt négligeable ou serait contraire aux objectifs de cette surveillance. 
 
@@ -3831,10 +3786,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 - les règles prudentielles applicables dans le cadre de la surveillance complémentaire.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -3851,11 +3802,46 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (V)
+	  - Code de la mutualité - art. L510-1
+
+
+###### Article L212-7-2-1
+
+L'Autorité de contrôle prudentiel peut demander aux organismes soumis à une surveillance complémentaire en application de
+l'article L. 212-7-2 les données ou informations nécessaires à l'exercice de cette surveillance, qui sont détenues par leurs
+organismes apparentés. Si ces derniers organismes ne fournissent pas ces données et informations, l'Autorité peut leur
+demander directement. 
+
+Les organismes soumis à une surveillance complémentaire et dont le siège social est situé en France transmettent les données
+ou informations nécessaires à leurs organismes apparentés ayant leur siège social dans un Etat membre de l'Union européenne
+ou dans un autre Etat partie à l'accord sur l'Espace économique européen pour l'exercice de la surveillance complémentaire
+par les autorités compétentes de cet Etat. 
+
+II.-L'Autorité de contrôle prudentiel peut procéder à la vérification sur place des informations nécessaires à la
+surveillance complémentaire instituée aux articles L. 334-3 du code des assurances, L. 212-7-2 du présent code ou L. 933-3 du
+code de la sécurité sociale, auprès de l'entreprise d'assurance, de la mutuelle ou de l'union, de l'institution de prévoyance
+ou de l'union d'institutions de prévoyance et de leurs organismes apparentés. 
+
+Lorsque, dans le cadre de la surveillance complémentaire, l'Autorité souhaite vérifier des informations utiles à l'exercice
+de sa surveillance concernant un organisme situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen, elle demande aux autorités compétentes de cet Etat qu'il soit procédé à cette
+vérification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L933-3 (V)
+	  - Code des assurances - art. L334-3
+	  - Code de la mutualité - art. L212-7-2
 
 
 ###### Article L212-7-3
@@ -3891,18 +3877,18 @@ compétentes de cet Etat.
 ###### Article L212-7-4
 
 Les entités réglementées appartenant à un conglomérat financier font l'objet d'une surveillance complémentaire dans les
-conditions prévues par les articles L. 212-7-4 à L. 212-7-20, sans préjudice des règles sectorielles qui leur sont
-applicables.
+conditions prévues au chapitre III du titre III du livre VI du code monétaire et financier, sans préjudice des règles
+sectorielles qui leur sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
+	  - Code monétaire et financier
 
 	**Cité par**:
 
@@ -3910,10 +3896,6 @@ applicables.
 	  - Code de la mutualité - art. R212-11 (VD)
 	  - Code de la mutualité - art. R212-15 (VT)
 	  - Code de la mutualité - art. R213-8 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité L212-7-4 à L212-7-20
 
 
 ###### Article L212-7-5
@@ -3977,42 +3959,6 @@ motivée le sous-groupe au régime de surveillance complémentaire dans les cond
 	  - Code de la mutualité - art. L212-7-7 (Ab)
 	  - Code de la mutualité - art. L510-3 (Ab)
 	  - Code de la mutualité - art. R211-28-1 (M)
-
-
-###### Article L212-7-6
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1, la commission bancaire, l'Autorité des marchés financiers, en
-liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats membres ou autres Etats
-parties à l'accord sur l'Espace économique européen identifient les groupes entrant dans le champ de la surveillance
-complémentaire des conglomérats financiers et échangent à cet effet toute information utile à l'accomplissement de leurs
-missions respectives.
-
-Lorsqu'un groupe a été identifié comme un conglomérat financier et que l'Autorité de contrôle mentionnée à l'article L. 510-1
-est désignée, conformément aux dispositions de l'article L. 212-7-9, comme le coordonnateur de la surveillance
-complémentaire, elle en informe l'entité tête de groupe ou, à défaut, l'entité réglementée qui affiche le total du bilan le
-plus élevé dans le secteur financier le plus important du groupe. Elle en informe également les autorités compétentes qui ont
-agréé les entités réglementées du groupe et les autorités compétentes de l'Etat membre ou de l'autre Etat partie à l'accord
-sur l'Espace économique européen dans lequel la compagnie financière holding mixte a son siège social, ainsi que la
-Commission européenne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-9 (V)
-	  - Code de la mutualité - art. L510-1 (M)
 
 
 ###### Article L212-7-7
@@ -4086,394 +4032,6 @@ voie réglementaire est le coordonnateur.
 	  - Code de la mutualité - art. L212-7-16 (V)
 
 
-###### Article L212-7-9
-
-I. - Le coordonnateur est l'autorité compétente responsable de la coordination et de l'exercice de la surveillance
-complémentaire. Celle des autorités compétentes d'un des Etats membres ou des autres Etats partie à l'accord sur l'Espace
-économique européen qui remplit les critères définis par voie réglementaire est le coordonnateur.
-
-II. - Il peut décider, après consultation des autorités compétentes concernées et du conglomérat financier, quelle méthode de
-calcul des exigences complémentaires en matière d'adéquation des fonds propres est appliquée, et décider de ne pas inclure
-une entité particulière dans le périmètre de calcul des exigences complémentaires en matière d'adéquation des fonds propres
-dans des cas précisés par arrêté du ministre chargé de la mutualité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-7-1 (VD)
-	  - Code de la mutualité - art. L212-7-18 (Ab)
-	  - Code de la mutualité - art. L212-7-5 (Ab)
-	  - Code de la mutualité - art. L212-7-6 (V)
-	  - Code de la mutualité - art. L510-3 (Ab)
-	  - Code de la mutualité - art. L510-6 (Ab)
-
-
-###### Article L212-7-10
-
-Lorsqu'elle est désignée comme coordonnateur, l'Autorité de contrôle mentionnée à l'article L. 510-1 assure, au titre de la
-surveillance complémentaire :
-
-a) La coordination de la collecte et de la diffusion de toute information utile dans la marche normale des affaires comme
-dans les situations d'urgence, et en particulier de toute information importante intéressant la surveillance prudentielle
-exercée par une autorité compétente en vertu des règles sectorielles ;
-
-b) Le contrôle prudentiel et l'évaluation de la situation financière d'un conglomérat financier ;
-
-c) L'évaluation de l'application des règles relatives à l'adéquation des fonds propres, à la concentration de risques et aux
-transactions entre les différentes entités du conglomérat conformément aux dispositions de l'article L. 212-7-8 ;
-
-d) L'évaluation de la structure, de l'organisation et des dispositifs de contrôle interne du conglomérat financier ;
-
-e) La planification et la coordination des activités prudentielles, en coopération avec les autorités compétentes concernées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-7-11 (Ab)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-8 (V)
-	  - Code de la mutualité - art. L510-1 (M)
-
-
-###### Article L212-7-11
-
-Lorsque le coordonnateur d'un conglomérat financier est une autorité d'un autre Etat membre ou un autre Etat partie à
-l'accord sur l'Espace économique européen, il assure, à l'égard des entités établies en France, les missions définies à
-l'article L. 212-7-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-10
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-7-19 (Ab)
-
-
-###### Article L212-7-12
-
-Afin de faciliter l'exercice de la surveillance complémentaire, l'Autorité de contrôle mentionnée à l'article L. 510-1
-conclut avec les autorités compétentes concernées, et, en tant que de besoin, toute autre autorité compétente intéressée, des
-accords de coordination. Ces accords sont publiés au Journal officiel de la République française. Ils peuvent confier des
-missions supplémentaires au coordinateur et préciser les procédures à suivre dans le cadre de la surveillance complémentaire.
-Ils peuvent également préciser les modalités de coordination avec d'autres autorités compétentes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1 (M)
-
-
-###### Article L212-7-13
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 coopère avec les autorités compétentes chargées de la surveillance des
-entités réglementées appartenant à un conglomérat financier et, lorsqu'elle n'exerce pas ce rôle, avec le coordinateur.
-
-Pour les besoins de l'exercice de leurs fonctions respectives, les autorités compétentes peuvent échanger des informations
-relatives aux entités réglementées appartenant à un conglomérat financier, conformément aux règles sectorielles, avec les
-banques centrales des Etats membres ou des autres Etats parties à l'accord sur l'Espace économique européen, le Système
-européen des banques centrales et la Banque centrale européenne.
-
-Les conditions d'application du présent article sont fixées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1 (M)
-
-
-###### Article L212-7-14
-
-Par dérogation à la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre
-économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères, toute entité
-établie en France appartenant à un conglomérat financier dont le coordinateur est une autorité d'un Etat membre ou d'un autre
-Etat partie à l'accord sur l'Espace économique européen est tenue de transmettre au coordinateur, à sa demande, toute
-information pouvant intéresser la surveillance complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°68-678 du 26 juillet 1968
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 13 () JORF 16 novembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-
-###### Article L212-7-15
-
-Lorsque les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen
-souhaitent, dans des cas déterminés, vérifier les informations relatives à une entité établie en France, réglementée ou non,
-appartenant à un conglomérat financier et mentionnée à l'article L. 510-1, elles demandent à l'Autorité de contrôle
-mentionnée à l'article L. 510-1 de faire procéder à cette vérification.
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 y donne suite, dans le cadre de ses compétences, soit en procédant
-elle-même à cette vérification, soit en permettant à l'autorité qui a présenté la demande d'y procéder elle-même, soit en
-permettant qu'un commissaire aux comptes ou un expert y procède.
-
-Lorsqu'elle ne procède pas elle-même à la vérification, l'autorité compétente qui a présenté la demande peut, si elle le
-souhaite, y être associée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1 (M)
-
-
-###### Article L212-7-16
-
-Lorsque l'Autorité de contrôle mentionnée à l'article L. 510-1, dans l'exercice de ses fonctions de coordonnateur, constate
-que la solvabilité des entités réglementées appartenant à un conglomérat financier risque d'être compromise, ou que les
-transactions entre les différentes entités du conglomérat ou que les concentrations de risques menacent la situation
-financière de ces entités réglementées, ou qu'une entité réglementée ne se conforme pas aux exigences de l'article L.
-212-7-8, ou une compagnie financière holding mixte ne respecte pas les dispositions législatives et réglementaires afférentes
-à son activité, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut prononcer, à l'encontre de cette compagnie ou de
-ses dirigeants :
-
-1° Une ou plusieurs des sanctions prévues aux 1, 2, 4 et 5 de l'article L. 510-11 ;
-
-2° Soit à la place, soit en sus de ces sanctions, une sanction pécuniaire dont le montant doit être fonction de la gravité
-des manquements commis et ne peut excéder le plus élevé des deux montants suivants :
-
-3 % du chiffre d'affaires hors taxes réalisé, au cours du dernier exercice clos calculé sur une période de douze mois, par
-l'entité réglementée ayant réalisé le chiffre d'affaires le plus important. Ce maximum est porté à 5 % en cas de nouvelle
-violation de la même obligation ;
-
-Le capital minimum auquel est astreinte l'entité réglementée filiale de la compagnie financière holding mixte. Lorsque celle-
-ci comprend plusieurs filiales qui sont des entités réglementées, le plafond de l'amende est déterminé par référence au
-capital de l'entité réglementée qui est astreinte au capital minimum le plus élevé. Les sommes correspondantes sont versées
-au Trésor public et sont recouvrées comme des créances de l'Etat étrangères à l'impôt et au domaine.
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 peut décider de reporter sa décision à l'expiration d'un délai imparti
-aux entités réglementées ou à la compagnie financière holding mixte placée à la tête du groupe pour prendre toute mesure
-destinée à rétablir ou renforcer leur équilibre financier ou à corriger leurs pratiques.
-
-Dans les cas visés aux alinéas précédents, les dispositions des deux derniers alinéas de l'article L. 510-11 sont
-applicables.
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 informe de ces constatations les autorités compétentes chargées de la
-surveillance sectorielle des entités réglementées du conglomérat financier.
-
-Lorsque le coordonnateur est une autorité compétente d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen, il peut prononcer à l'encontre d'une compagnie financière holding mixte ayant son siège en France, dans
-les conditions prévues à l'alinéa précédent, les sanctions prévues au présent article ou prendre les mesures prévues par son
-droit national.
-
-Les autorités compétentes sectorielles, y compris l'Autorité de contrôle mentionnée à l'article L. 510-1 lorsqu'elle
-intervient en cette qualité, peuvent faire usage, aux fins de la surveillance complémentaire, des pouvoirs de sanctions dont
-elles disposent au titre de la surveillance sectorielle à l'égard des entités réglementées soumises à leur contrôle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-8 (V)
-	  - Code de la mutualité - art. L510-1 (M)
-	  - Code de la mutualité - art. L510-11 (M)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R213-10 (Ab)
-
-
-###### Article L212-7-17
-
-Lorsqu'une entité réglementée utilise son appartenance à un conglomérat financier pour se soustraire, totalement ou
-partiellement, à l'application des règles sectorielles dont elle relève, l'Autorité de contrôle mentionnée à l'article L.
-510-1 peut faire usage des pouvoirs prévus au livre V.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1 (M)
-
-
-###### Article L212-7-18
-
-Lorsque des entités réglementées appartenant à un conglomérat financier ont pour organisme de référence un organisme dont le
-siège social se situe dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen, l'autorité remplissant
-les conditions fixées par l'article L. 212-7-9 pour être coordinateur vérifie, de sa propre initiative ou à la demande de
-l'organisme de référence ou d'une entité réglementée agréée dans un Etat membre ou dans un autre Etat partie à l'accord sur
-l'Espace économique européen, que ces entités réglementées sont soumises, par une autorité compétente du pays tiers, à une
-surveillance complémentaire équivalente à celle prévue à la présente section. Cette autorité consulte les autorités
-compétentes concernées. A défaut d'équivalence, il est appliqué à ces entités réglementées les dispositions relatives à la
-surveillance complémentaire.
-
-Afin d'assurer la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier dont
-l'entreprise mère a son siège social dans un Etat non membre ni partie à l'Espace économique européen, les autorités
-compétentes peuvent également appliquer d'autres méthodes qu'elles jugent appropriées. Ces méthodes doivent avoir été
-validées par l'Autorité de contrôle, lorsqu'elle remplit les conditions fixées par l'article L. 212-7-9 pour être
-coordinateur, après consultation des autres autorités compétentes concernées. Les autorités compétentes peuvent notamment
-exiger la constitution d'une compagnie financière holding mixte ayant son siège social dans un Etat membre ou dans un autre
-Etat partie à l'accord sur l'Espace économique européen et appliquer les dispositions relatives à la surveillance
-complémentaire aux entités réglementées du conglomérat financier coiffées par cette compagnie financière holding mixte. Les
-méthodes mentionnées au présent alinéa sont notifiées aux autorités compétentes concernées et à la Commission européenne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-7-7 (Ab)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-9
-
-
-###### Article L212-7-19
-
-Aux fins de la surveillance complémentaire prévue par le présent chapitre, l'Autorité de contrôle mentionnée à l'article L.
-510-1 peut conclure les accords prévus à l'article L. 212-7-11 avec les autorités compétentes d'un Etat non partie à l'accord
-sur l'Espace économique européen en vue du contrôle de toute entité, réglementée ou non, appartenant à un conglomérat
-financier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-11
-	  - Code de la mutualité - art. L510-1
-
-
 ##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation.
 
 ###### Article L212-11
@@ -4497,28 +4055,27 @@ mutuelle ou l'union les avaient établies.
 L'assemblée générale de la mutuelle ou de l'union est obligatoirement appelée à se prononcer sur la demande de transfert dans
 les conditions de l'article L. 114-12.
 
-La demande de transfert est portée à la connaissance des créanciers par un avis publié au Journal officiel, qui leur impartit
-un délai de deux mois pour présenter leurs observations à l'autorité administrative. L'autorité administrative approuve le
-transfert par arrêté, s'il lui apparaît que celui-ci ne préjudicie pas aux intérêts des créanciers, des adhérents, des
-membres participants, de leurs ayants droit et des bénéficiaires.
+La demande de transfert est portée à la connaissance des créanciers par un avis publié au Journal officiel de la République
+française, qui leur impartit un délai de deux mois pour présenter leurs observations.L'Autorité de contrôle prudentiel
+approuve le transfert s'il lui apparaît que le transfert ne préjudicie pas aux intérêts des créanciers, des adhérents, des
+membres participants, de leurs ayants droit et des bénéficiaires. 
 
-L'autorité administrative n'approuve le transfert que si les autorités de contrôle de l'Etat d'établissement de l'entreprise
-cessionnaire attestent que celle-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire. Toutefois, lorsque
-l'Etat d'origine de l'entreprise cessionnaire est partie à l'accord sur l'Espace économique européen, l'attestation
-mentionnée au présent alinéa est donnée par les autorités de contrôle de cet Etat.
+L'Autorité de contrôle prudentiel n'approuve le transfert que si l'entreprise cessionnaire dispose, compte tenu du transfert,
+de la marge de solvabilité nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire est partie à l'accord
+sur l'Espace économique européen, cette approbation est prise après avis des autorités de contrôle de cet Etat. 
 
-Lorsque les risques ou les engagements transférés sont situés dans un Etat membre de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen autre que la France, l'autorité administrative recueille préalablement l'avis de
+Lorsque les risques ou les engagements transférés sont situés dans un Etat membre de l'Union européenne ou partie à l'accord
+sur l'Espace économique européen autre que la France, l'Autorité de contrôle prudentiel recueille préalablement l'avis de
 l'autorité de contrôle de l'Etat du risque ou de l'engagement.
 
 Pour les transferts de portefeuilles d'opérations relevant du b du 1° du I de l'article L. 111-1, cette approbation est en
 outre fondée sur les données de l'état sur les plus-values latentes prévu à l'article L. 212-6.
 
 L'approbation rend le transfert opposable aux membres participants ainsi qu'aux créanciers à partir de la date de publication
-au Journal officiel de l'arrêté mentionné au quatrième alinéa du présent article. Les membres participants ont la faculté de
-résilier leur adhésion dans le délai d'un mois suivant la date de cette publication. Toutefois, cette faculté de résiliation
-ne leur est pas offerte lorsque l'affiliation à la mutuelle ou à l'union est obligatoire en vertu d'une convention ou d'un
-accord collectif, d'un accord ratifié par référendum ou d'une décision unilatérale de l'employeur, sauf modification de la
+de l'approbation mentionnée au quatrième alinéa du présent article. Les membres participants ont la faculté de résilier leur
+adhésion dans le délai d'un mois suivant la date de cette publication. Toutefois, cette faculté de résiliation ne leur est
+pas offerte lorsque l'affiliation à la mutuelle ou à l'union est obligatoire en vertu d'une convention ou d'un accord
+collectif, d'un accord ratifié par référendum ou d'une décision unilatérale de l'employeur, sauf modification de la
 convention, de l'accord ou de la décision unilatérale.
 
 **Liens relatifs à cet article**
@@ -4540,20 +4097,15 @@ convention, de l'accord ou de la décision unilatérale.
 	  - Code de la mutualité - art. R212-63 (V)
 	  - Code monétaire et financier - art. L612-33 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 33 () JORF 2 août 2003
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code rural L727-2
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L114-12 (V)
-	  - Code de la mutualité - art. L212-6 (V)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L114-12
+	  - Code de la mutualité - art. L212-6
 
 
 ###### Article L212-11-1
@@ -4605,15 +4157,15 @@ l'article précédent, elles sont menées conformément à la procédure défini
 
 Lorsque les opérations de fusion ou de scission ne comportent pas de transfert de portefeuille de contrats réalisé dans les
 conditions prévues à l'article L. 212-11, les mutuelles et les unions régies par le présent livre sont tenues de produire à
-l'autorité administrative une déclaration accompagnée de tous les documents utiles exposant les buts et les modalités de
-l'opération projetée un mois avant sa réalisation définitive. Durant ce délai, l'autorité administrative peut s'opposer à
-l'opération si elle juge qu'elle n'est pas conforme à l'intérêt des membres participants et bénéficiaires ou des créanciers
-ou qu'elle a pour conséquence de diminuer la valeur de réalisation des placements correspondant à des engagements pris envers
-les membres participants et bénéficiaires déterminés conformément aux dispositions de l'article L. 212-6 ; elle peut
-également demander des documents complémentaires nécessaires à l'appréciation de l'opération ; dans ce dernier cas, le délai
-d'un mois pendant lequel l'autorité administrative peut s'opposer à la poursuite de l'opération court de la date de
-production des documents demandés et la réalisation définitive de l'opération ne peut intervenir avant l'expiration de ce
-même délai.
+l'Autorité de contrôle prudentiel une déclaration accompagnée de tous les documents utiles exposant les buts et les modalités
+de l'opération projetée un mois avant sa réalisation définitive. Durant ce délai,   l'Autorité de contrôle prudentiel peut
+s'opposer à l'opération si elle juge qu'elle n'est pas conforme à l'intérêt des membres participants et bénéficiaires ou des
+créanciers ou qu'elle a pour conséquence de diminuer la valeur de réalisation des placements correspondant à des engagements
+pris envers les membres participants et bénéficiaires déterminés conformément aux dispositions de l'article L. 212-6 ; elle
+peut également demander des documents complémentaires nécessaires à l'appréciation de l'opération ; dans ce dernier cas, le
+délai d'un mois pendant lequel   l'Autorité de contrôle prudentiel peut s'opposer à la poursuite de l'opération court de la
+date de production des documents demandés et la réalisation définitive de l'opération ne peut intervenir avant l'expiration
+de ce même délai.
 
 **Liens relatifs à cet article**
 
@@ -4622,14 +4174,14 @@ même délai.
 	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
 	  - Code de la mutualité - art. R212-64 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-11 (M)
-	  - Code de la mutualité - art. L212-6 (V)
+	  - Code de la mutualité - art. L212-11
+	  - Code de la mutualité - art. L212-6
 
 
 ###### Article L212-14
@@ -4637,16 +4189,22 @@ même délai.
 La dissolution volontaire comporte, pour la mutuelle ou pour l'union, l'engagement de ne plus réaliser, pour l'ensemble des
 agréments qui lui avaient été accordés, de nouvelles opérations. 
 
-La mutuelle ou l'union en informe immédiatement l'Autorité de contrôle mentionnée à l'article L. 510-1. 
+La mutuelle ou l'union en informe immédiatement l'Autorité de contrôle prudentiel. 
 
-Dans le mois de la décision constatant la caducité de l'agrément, elle soumet à l'Autorité un programme de liquidation
-précisant notamment les délais prévisibles et les conditions financières de la liquidation ainsi que les moyens en personnel
-et matériels mis en oeuvre pour la gestion des engagements résiduels. 
+Dans le mois de la décision constatant la caducité de l'agrément, la mutuelle ou l'union soumet à l'Autorité de contrôle
+prudentiel un programme de liquidation précisant notamment les délais prévisibles et les conditions financières de la
+liquidation ainsi que les moyens en personnel et matériels mis en œuvre pour la gestion des engagements résiduels. 
 
 Lorsque la gestion des engagements résiduels est déléguée à un tiers, le projet de contrat de délégation et un dossier
 décrivant la qualité du délégataire et de ses dirigeants, son organisation, sa situation financière et les moyens mis en
-oeuvre sont communiqués à l'Autorité qui peut, dans les conditions mentionnées à l'article L. 510-7, réaliser tous contrôles
-sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements. 
+œuvre sont communiqués à l'Autorité qui peut, ainsi qu'il est dit à l'article L. 612-26, réaliser tous contrôles sur pièces
+et sur place du délégataire, jusqu'à liquidation intégrale des engagements. 
+
+Si l'Autorité estime que le programme de liquidation qui lui est présenté n'est pas conforme aux intérêts des membres
+participants de la mutuelle ou des membres de l'union, elle ne l'approuve pas et peut demander la présentation d'un nouveau
+programme, dans les délais et conditions qu'elle prescrit. En l'absence de programme de liquidation ou lorsque la mutuelle ou
+l'union ne respecte pas le programme approuvé, l'Autorité prend toutes mesures conservatoires ou de sanction qu'elle juge
+nécessaires. 
 
 En cas de liquidation d'une mutuelle ou union de réassurance agréée dans les conditions prévues à l'article L. 211-7-2, les
 engagements résultant des contrats souscrits par l'intermédiaire d'une succursale ou en libre prestation de services sont
@@ -4654,20 +4212,19 @@ exécutés de la même façon que les engagements résultant des autres contrats
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
-
 	**Cité par**:
 
 	  - Décret n°2008-1154 du 7 novembre 2008 - art. 31 (V)
 	  - Code de la mutualité - art. L510-4 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L612-26
 	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. L510-7
 
 
 ###### Article L212-15
@@ -4679,27 +4236,22 @@ commission, être saisi d'une demande d'ouverture de cette procédure par le pro
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture d'une procédure de conciliation instituée par l'article
 L. 611-4 du code de commerce ou d'une procédure de sauvegarde visée à l'article L. 620-1 du même code, à l'égard d'une
-mutuelle ou d'une union régie par le présent livre, qu'après avis conforme de la commission mentionnée à l'article L. 510-1.
+mutuelle ou d'une union régie par le présent livre, qu'après avis conforme de l'Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de commerce. - art. L611-4 (M)
-	  - Code de commerce. - art. L620-1 (M)
-	  - Code de commerce. - art. L631-4 (V)
-	  - Code de commerce. - art. L631-5 (V)
-	  - Code de commerce. - art. L640-4 (V)
-	  - Code de commerce. - art. L640-5 (V)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de commerce - art. L611-4
+	  - Code de commerce - art. L620-1
+	  - Code de commerce - art. L631-4
+	  - Code de commerce - art. L631-5
+	  - Code de commerce - art. L640-4
+	  - Code de commerce - art. L640-5
 
 	**Cité par**:
 
@@ -4709,41 +4261,33 @@ mutuelle ou d'une union régie par le présent livre, qu'après avis conforme de
 
 ###### Article L212-16
 
-La décision de l'autorité administrative ou de la commission mentionnée à l'article L. 510-1, prononçant le retrait total de
-l'agrément, emporte de plein droit, à dater de sa publication au Journal officiel, la dissolution de la personne morale. Dans
-ce cas, la liquidation judiciaire est ouverte à la requête de la commission. La liquidation est régie par le chapitre II du
-titre II du livre VI du code de commerce, sous réserve des dispositions du présent chapitre.
+La décision de l'Autorité de contrôle prudentiel, prononçant le retrait total de l'agrément, emporte de plein droit, à dater
+de sa publication au Journal officiel, la dissolution de la personne morale. Dans ce cas, la liquidation judiciaire est
+ouverte à la requête de l'Autorité de contrôle prudentiel. La liquidation est régie par le chapitre II du titre II du livre
+VI du code de commerce, sous réserve des dispositions du présent chapitre.
 
-La commission désigne un liquidateur, chargé de la vérification des créances d'assurance ainsi que de l'inventaire des actifs
-directement liés aux passifs, tels que les créances à l'égard des membres participants, des cédantes, des réassureurs et des
-coassureurs.
+L'Autorité de contrôle prudentiel désigne un liquidateur, chargé de la vérification des créances d'assurance ainsi que de
+l'inventaire des actifs directement liés aux passifs, tels que les créances à l'égard des membres participants, des cédantes,
+des réassureurs et des coassureurs.
 
 Le tribunal désigne parallèlement en tant que liquidateur, lors du jugement d'ouverture, un ou plusieurs mandataires de
 justice, qui peuvent être choisis en dehors de la liste des mandataires judiciaires. Ce liquidateur est chargé de
 l'inventaire des autres actifs et des opérations de liquidation.
 
 Le tribunal désigne par la même décision un juge-commissaire chargé de contrôler les opérations de liquidation ; ce juge est
-assisté, dans l'exercice de sa mission, par un ou plusieurs commissaires désignés par la commission.
+assisté, dans l'exercice de sa mission, par un ou plusieurs commissaires désignés par l'Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L113-4 (V)
 	  - Code de la mutualité - art. R211-15-1 (VT)
 	  - Code de la mutualité - art. R414-3 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1 (M)
 
 
 ###### Article L212-17
@@ -4823,28 +4367,24 @@ leur droit à renonciation en application de l'article L. 223-8.
 En cas de retrait de l'agrément accordé à une mutuelle ou une union, les garanties relatives aux a, c, d et e du 1° du I de
 l'article L. 111-1 conclues en application des dispositions du titre II du présent livre cessent de plein droit d'avoir effet
 le quarantième jour à midi, à compter de la publication au Journal officiel de la décision prononçant ce retrait. Les
-cotisations échues avant la date de la décision de l'autorité administrative ou de l'Autorité de contrôle mentionnée à
-l'article L. 510-1 prononçant le retrait d'agrément, et non payées à cette date, sont dues en totalité à la mutuelle ou à
-l'union mais elles ne sont définitivement acquises à celle-ci que proportionnellement à la période garantie jusqu'au jour de
-la résiliation. Pour celles des garanties qui sont permanentes ou qui ont été reconduites, tacitement ou non, entre la date
-de la décision de l'autorité administrative ou de l'Autorité de contrôle prononçant le retrait d'agrément et la date de
-résiliation de plein droit des garanties souscrites en application du titre II du présent livre, les cotisations ne sont dues
-que proportionnellement à la durée de la période garantie.
+cotisations échues avant la date de la décision de l'Autorité de contrôle prudentiel prononçant le retrait d'agrément, et non
+payées à cette date, sont dues en totalité à la mutuelle ou à l'union mais elles ne sont définitivement acquises à celle-ci
+que proportionnellement à la période garantie jusqu'au jour de la résiliation. Pour celles des garanties qui sont permanentes
+ou qui ont été reconduites, tacitement ou non, entre la date de la décision de l'Autorité de contrôle prudentiel ou de
+l'Autorité de contrôle prononçant le retrait d'agrément et la date de résiliation de plein droit des garanties souscrites en
+application du titre II du présent livre, les cotisations ne sont dues que proportionnellement à la durée de la période
+garantie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
@@ -4854,62 +4394,53 @@ que proportionnellement à la durée de la période garantie.
 
 ###### Article L212-21
 
-Après la publication au Journal officiel de la décision de l'autorité administrative ou de l'Autorité de contrôle mentionnée
-à l'article L. 510-1 prononçant le retrait de l'agrément accordé à une mutuelle ou une union, les garanties souscrites par
-l'organisme relevant du b du 1° du I de l'article L. 111-1 demeurent régies par leurs règlements ou conditions générales et
-particulières tant que la décision de l'Autorité prévue à l'alinéa suivant n'a pas été publiée au Journal officiel, mais le
-liquidateur peut, avec l'approbation du juge-commissaire, surseoir au paiement de toutes les sommes dues au titre des
-bulletins d'adhésion ou des contrats collectifs. Les cotisations encaissées par le liquidateur sont versées à un compte
-spécial qui fait l'objet d'une liquidation distincte.
+Après la publication au Journal officiel de la décision de l'Autorité de contrôle prudentiel prononçant le retrait de
+l'agrément accordé à une mutuelle ou une union, les garanties souscrites par l'organisme relevant du b du 1° du I de
+l'article L. 111-1 demeurent régies par leurs règlements ou conditions générales et particulières tant que la décision de
+l'Autorité de contrôle prudentiel n'a pas été publiée au Journal officiel, mais le liquidateur peut, avec l'approbation du
+juge-commissaire, surseoir au paiement de toutes les sommes dues au titre des bulletins d'adhésion ou des contrats
+collectifs. Les cotisations encaissées par le liquidateur sont versées à un compte spécial qui fait l'objet d'une liquidation
+distincte.
 
-L'Autorité de contrôle, à la demande du liquidateur et sur le rapport du juge commissaire, peut fixer la date à laquelle les
-garanties cessent d'avoir effet, autoriser leur transfert en tout ou partie à d'autres, proroger leur échéance, décider la
-réduction des sommes payables en cas de vie ou de décès ainsi que des excédents attribués et des valeurs de rachat, de
-manière à ramener la valeur des engagements de la mutuelle ou de l'union au montant que la situation de la liquidation permet
-de couvrir.
+L'Autorité de contrôle prudentiel, à la demande du liquidateur et sur le rapport du juge commissaire, peut fixer la date à
+laquelle les garanties cessent d'avoir effet, autoriser leur transfert en tout ou partie à d'autres, proroger leur échéance,
+décider la réduction des sommes payables en cas de vie ou de décès ainsi que des excédents attribués et des valeurs de
+rachat, de manière à ramener la valeur des engagements de la mutuelle ou de l'union au montant que la situation de la
+liquidation permet de couvrir.
 
 Le versement des cotisations périodiques est suspendu dix jours après la nomination du liquidateur, et jusqu'à la publication
 de la décision de l'Autorité de contrôle fixant la date à laquelle les garanties cessent d'avoir effet. En cas de transfert
 du portefeuille, les versements suspendus sont effectués par l'entreprise cessionnaire, abattus du taux de réduction défini
-par l'Autorité de contrôle mentionnée à l'article L. 510-1.
+par l'Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L111-1
 
 
 ###### Article L212-22
 
-A la requête de l'Autorité de contrôle mentionnée à l'article L. 510-1, le tribunal peut prononcer la nullité d'une ou
-plusieurs opérations réalisées par les dirigeants d'une mutuelle ou union pourvue d'un liquidateur à la suite du retrait de
-l'agrément, à charge, pour l'Autorité de contrôle, d'apporter la preuve que les personnes qui ont adhéré à l'organisme ou
-contracté avec celui-ci savaient que l'actif était insuffisant pour garantir les créances privilégiées des participants et
-bénéficiaires et que l'opération incriminée devait avoir pour effet de diminuer cette garantie.
+A la requête de l'Autorité de contrôle prudentiel, le tribunal peut prononcer la nullité d'une ou plusieurs opérations
+réalisées par les dirigeants d'une mutuelle ou union pourvue d'un liquidateur à la suite du retrait de l'agrément, à charge,
+pour l'Autorité de contrôle, d'apporter la preuve que les personnes qui ont adhéré à l'organisme ou contracté avec celui-ci
+savaient que l'actif était insuffisant pour garantir les créances privilégiées des participants et bénéficiaires et que
+l'opération incriminée devait avoir pour effet de diminuer cette garantie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-1
 
 
 ##### Section 4 : Privilèges.
@@ -4958,22 +4489,18 @@ civil.
 Lorsque les actifs d'une mutuelle ou union sont insuffisants pour assurer la représentation de ses engagements réglementés ou
 lorsque la situation financière de cet organisme est telle que les intérêts des membres participants et des bénéficiaires
 sont susceptibles d'être compromis à bref délai, les immeubles faisant partie de son patrimoine peuvent être grevés d'une
-hypothèque inscrite à la requête de l'Autorité de contrôle mentionnée à l'article L. 510-1. Lorsque la mutuelle ou l'union
-fait l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droit à la date du retrait d'agrément.
+hypothèque inscrite à la requête de l'            Autorité de contrôle prudentiel. Lorsque la mutuelle ou l'union fait
+l'objet d'un retrait d'agrément, cette hypothèque est prise de plein droit à la date du retrait d'agrément.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
@@ -5044,38 +4571,32 @@ la vie humaine et de calcul de la participation aux excédents.
 
 Les mesures d'assainissement et les procédures de liquidation prises par l'autorité publique française compétente à l'égard
 d'une mutuelle ou d'une union produisent tous leurs effets sur le territoire des autres Etats membres de la Communauté
-européenne, sous réserve de dispositions contraires prévues par les lois de ces Etats, conformément à la directive 2001/17/CE
-du Parlement européen et du Conseil du 19 mars 2001 concernant l'assainissement et la liquidation des entreprises
-d'assurance.
+européenne, sous réserve de dispositions contraires prévues par les lois de ces Etats, conformément à la directive 2001 /
+17 / CE du Parlement européen et du Conseil du 19 mars 2001 concernant l'assainissement et la liquidation des entreprises
+d'assurance. 
 
 Les mesures d'assainissement mentionnées au premier alinéa sont, lorsqu'elles affectent les droits préexistants des parties
-autres que l'organisme d'assurance lui-même :
+autres que l'organisme d'assurance lui-même : 
 
-1° Les mesures visées aux deuxième et troisième alinéas de l'article L. 510-8 et au troisième alinéa de l'article L. 510-9, à
-l'exception de la nomination d'un administrateur provisoire ;
+1° Les mesures mentionnées aux 2°, 3° et 4° de l'article L. 612-37 du code monétaire et financier ; 
 
-2° La sanction prévue au 3° de l'article L. 510-11, le retrait partiel d'agrément prévu au 6° ou le transfert partiel de
-portefeuille prévu au 7° du même article ;
+2° La sanction prévue au 3° de l'article L. 612-43 du code monétaire et financier ou le retrait partiel d'agrément mentionné
+au 6° du même article ; 
 
-3° (abrogé)
+3° (abrogé) 
 
 4° Les procédures de redressement judiciaire visées au livre VI du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 174 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-11 (M)
-	  - Code de la mutualité - art. L510-8 (M)
-	  - Code de la mutualité - art. L510-9 (M)
+	  - Code monétaire et financier - art. L612-37
+	  - Code monétaire et financier - art. L612-43
 	  - Directive 2001-17 2001-03-19
 
 	**Cité par**:
@@ -6004,8 +5525,8 @@ sur leur valeur qui peut être sujette à des fluctuations à la hausse comme à
 V.-Un décret en Conseil d'Etat fixe les informations communiquées au membre participant en cas de communication par
 téléphonie vocale. 
 
-VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle des
-assurances et des mutuelles dans les conditions prévues au livre V. 
+VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par         l'Autorité de contrôle
+prudentiel dans les conditions prévues au livre V. 
 
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que
 le refus de la mutuelle ou de l'union de rembourser le membre participant dans les conditions fixées à l'article L. 121-20-13
@@ -6016,33 +5537,29 @@ Les conditions d'application du présent article sont définies en tant que de b
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-20-11 (V)
-	  - Code de la consommation - art. L121-20-13 (V)
-	  - Code de la consommation - art. L121-20-17 (MMN)
-	  - Code de la sécurité sociale L34-5
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L223-8 (M)
-	  - Code de la mutualité L121-20-10, L121-20-12, L121-20-17, L121-20-5, L223-8, L111-1
+	  - Code de la consommation - art. L121-20-11
+	  - Code de la consommation - art. L121-20-13
+	  - Code de la consommation - art. L121-20-17
+	  - Code de la sécurité sociale.
+	  - Code de la mutualité
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L223-8
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-11 (V)
-	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-13 (V)
-	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-14 (V)
-	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-15 (V)
-	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-16 (V)
-	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-8 (V)
-	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-9 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-11
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-13
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-14
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-15
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-16
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-8
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-9
 
 	**Cité par**:
 
@@ -6361,7 +5878,7 @@ professionnelle dans un autre Etat membre de la Communauté européenne ou dans 
 
 Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, la mutuelle ou union établit une comptabilité
 auxiliaire d'affectation pour les opérations relevant de la présente section et des opérations mentionnées à l'article L.
-310-12-7 du code des assurances. Cette disposition peut s'appliquer individuellement à un contrat selon des conditions fixées
+310-14 du code des assurances. Cette disposition peut s'appliquer individuellement à un contrat selon des conditions fixées
 par décret. 
 
 Les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées à l'article
@@ -6369,9 +5886,9 @@ L. 222-3 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervi
 mentionnées au VII de l'article L. 144-2 du code des assurances, sont établies séparément de la comptabilité auxiliaire
 d'affectation mentionnée à l'alinéa précédent.
 
-L'autorité de contrôle instituée à l'article L. 510-1 peut également exiger que la mutuelle ou union établisse séparément de
-la comptabilité mentionnée au premier alinéa une comptabilité auxiliaire d'affectation pour les opérations mentionnées à
-l'article L. 310-12-7 du code des assurances. 
+L'Autorité de contrôle prudentiel peut également exiger que la mutuelle ou union établisse séparément de la comptabilité
+mentionnée au premier alinéa une comptabilité auxiliaire d'affectation pour les opérations mentionnées à l'article L. 310-14
+du code des assurances. 
 
 Les actifs de chaque contrat sont conservés par un dépositaire unique distinct de la mutuelle ou union, qui exerce à titre
 principal le service mentionné au 1 de l'article L. 321-2 du code monétaire et financier, et qui peut être agréé dans un
@@ -6381,16 +5898,15 @@ autre Etat membre ou dans autre Etat partie à l'accord sur l'Espace économique
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 5
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 163 quatervicies
 	  - Code monétaire et financier - art. L321-2
 	  - Code des assurances - art. L144-2
-	  - Code des assurances - art. L310-12-7
+	  - Code des assurances - art. L310-14 (V)
 	  - Code de la mutualité - art. L222-3
-	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
@@ -6413,21 +5929,13 @@ de ces engagements par affectation d'actifs représentatifs de réserves ou de p
 engagements réglementés. Lorsque la représentation des engagements du ou des contrats le rend possible, les actifs affectés à
 ce ou ces contrats ou leur contre-valeur sont réaffectés aux autres opérations de la mutuelle ou union dans des conditions
 convenues entre celle-ci et le ou les souscripteurs des contrats faisant l'objet de la comptabilité auxiliaire d'affectation.
-En cas de désaccord entre les parties, l'autorité de contrôle instituée à l'article L. 510-1 détermine le montant et le
-calendrier d'affectation d'actifs par la mutuelle ou union.
+En cas de désaccord entre les parties, l'Autorité de contrôle prudentiel détermine le montant et le calendrier d'affectation
+d'actifs par la mutuelle ou union.
 
 L'élaboration du plan de redressement mentionné au premier alinéa tient compte de la situation particulière de la mutuelle ou
 union au titre de la comptabilité auxiliaire faisant l'objet dudit plan. Ce plan est tenu à la disposition des adhérents.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -6435,10 +5943,14 @@ union au titre de la comptabilité auxiliaire faisant l'objet dudit plan. Ce pla
 	  - Code de la mutualité - art. L222-9 (M)
 	  - Code des assurances - art. R352-28 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L222-6 (M)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L222-6
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L222-8
@@ -6488,36 +6000,32 @@ union autre que les membres participants ou bénéficiaires au titre des opérat
 prévaloir d'un quelconque droit sur les biens et droits résultant de l'enregistrement comptable établi en vertu du premier
 alinéa de l'article L. 222-6, même sur le fondement du livre VI du code de commerce, des articles 2331 et 2375 du code civil,
 des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
-sociale ou de l'article L. 212-23 du code de la mutualité.
+sociale ou de l'article L. 212-23 du code de la mutualité. 
 
 Sous réserve de l'article L. 222-7, les membres participants ou bénéficiaires au titre des opérations relevant du présent
-chapitre et de l'article L. 310-12-7 du code des assurances ne peuvent se prévaloir d'un quelconque droit sur les biens et
+chapitre et de l'article L. 310-14 du code des assurances ne peuvent se prévaloir d'un quelconque droit sur les biens et
 droits résultant des autres opérations de la mutuelle ou union, même sur le fondement du livre VI du code de commerce, des
 articles 2331 et 2375 du code civil, des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de
 l'article L. 932-24 du code de la sécurité sociale ou de l'article L. 212-23 du code de la mutualité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code civil - art. 2331 (V)
-	  - Code civil - art. 2375 (V)
-	  - Code de la sécurité sociale. - art. L932-24 (M)
-	  - Code des assurances - art. L310-12-7 (V)
-	  - Code des assurances - art. L310-25 (M)
-	  - Code des assurances - art. L441-8 (M)
-	  - Code des assurances L310-25, L326-2 à L327-6, L441-8, L310-12-7
-	  - Code de la mutualité - art. L212-23 (M)
-	  - Code de la mutualité - art. L222-6 (M)
-	  - Code de la mutualité - art. L222-7 (V)
+	  - Code civil - art. 2331
+	  - Code civil - art. 2375
+	  - Code de la sécurité sociale. - art. L932-24
+	  - Code des assurances
+	  - Code des assurances - art. L310-14
+	  - Code des assurances - art. L310-25
+	  - Code des assurances - art. L441-8
+	  - Code de la mutualité - art. L212-23
+	  - Code de la mutualité - art. L222-6
+	  - Code de la mutualité - art. L222-7
 
 
 ###### Article L222-10
@@ -6550,7 +6058,7 @@ de l'agrément administratif mentionné au premier alinéa de cet article.
 
 Les mutuelles ou unions peuvent proposer des services d'institutions de retraite professionnelle sur le territoire d'un autre
 Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, dans les conditions
-fixées à l'article L. 310-12-7 du code des assurances.
+fixées à l'article L. 310-14 du code des assurances. 
 
 Un décret en Conseil d'Etat précise les règles techniques et de garantie applicables aux opérations mentionnées à l'article
 L. 222-3, ainsi que les conditions d'application des articles L. 222-3 à L. 222-9, et notamment les modalités de constitution
@@ -6558,18 +6066,14 @@ et de fonctionnement du comité de surveillance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-14
 	  - Code de la mutualité - art. L222-3 (V)
-	  - Code de la mutualité L222-3, L222-3 à L222-9
 
 
 #### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.
@@ -6761,7 +6265,7 @@ de publication de la présente loi.
 Tout membre participant qui a signé un bulletin d'adhésion auprès d'une mutuelle ou par l'intermédiaire de celle-ci auprès
 d'une union a la faculté d'y renoncer par lettre recommandée avec demande d'avis de réception pendant un délai de trente
 jours calendaires révolus à compter du moment où il est informé que l'adhésion a pris effet. Ce délai expire le dernier jour
-à vingt-quatre heures. S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas prorogé.
+à vingt-quatre heures.S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas prorogé. 
 
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné à faciliter l'exercice de cette faculté de
 renonciation. Il doit indiquer, notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour les bulletins
@@ -6772,50 +6276,41 @@ moins. Le bulletin d'adhésion ou le contrat indique les valeurs minimales et ex
 rachat ou de transfert lorsque celles-ci ne peuvent être établies. La mutuelle ou l'union doit, en outre, remettre, contre
 récépissé, une note d'information sur les dispositions essentielles des règlements incluant, lorsque le contrat comporte des
 garanties exprimées en unités de compte, les caractéristiques principales de ces unités de compte, sur les conditions
-d'exercice de la faculté de renonciation.
+d'exercice de la faculté de renonciation. 
 
 Pour les opérations collectives facultatives, la note précise que les droits et obligations du membre participant peuvent
 être modifiés par des avenants aux bulletins d'adhésion ou contrats. Les modalités d'adoption de ces avenants par l'employeur
-ou la personne morale souscriptrice sont communiquées par ce dernier aux membres participants.
+ou la personne morale souscriptrice sont communiquées par ce dernier aux membres participants. 
 
-De plus, il est inséré en début de note un encadré indiquant en caractères très apparents la nature du contrat. L'encadré
+De plus, il est inséré en début de note un encadré indiquant en caractères très apparents la nature du contrat.L'encadré
 comporte en particulier le regroupement des frais dans une même rubrique, les garanties offertes, la disponibilité des sommes
 en cas de rachat, la participation aux bénéfices, ainsi que les modalités de désignation du bénéficiaire. Un arrêté du
-ministre chargé de la mutualité, pris après avis de l'Autorité de contrôle des assurances et des mutuelles, fixe le format de
-cet encadré ainsi que, de façon limitative, son contenu.
+ministre chargé de la mutualité, pris après avis de         l'Autorité de contrôle prudentiel, fixe le format de cet encadré
+ainsi que, de façon limitative, son contenu. 
 
 Le défaut de remise des documents et informations énumérés au deuxième alinéa entraîne de plein droit la prorogation du délai
 prévu au premier alinéa jusqu'au trentième jour calendaire révolu suivant la date de remise effective de ces documents, dans
-la limite de huit ans à compter de la date où l'adhérent est informé que l'adhésion a pris effet.
+la limite de huit ans à compter de la date où l'adhérent est informé que l'adhésion a pris effet. 
 
 La renonciation entraîne la restitution, par la mutuelle ou l'union, de l'intégralité des sommes versées par le cotisant,
 dans le délai maximal de trente jours calendaires révolus à compter de la réception de la lettre recommandée. Au-delà de ce
 délai, les sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis à
-l'expiration de ce délai de deux mois, au double du taux légal.
+l'expiration de ce délai de deux mois, au double du taux légal. 
 
 Toutefois, les dispositions qui précèdent ne s'appliquent pas aux bulletins d'adhésion ou contrats d'une durée maximum de
-deux mois.
+deux mois. 
 
 Un arrêté du ministre chargé de la mutualité précise les modalités d'application de ces dispositions.
 
-**Nota:**
-
-Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L223-8 du présent code, les mots "
-plans d'épargne retraite populaire " sont déclassés et ont dorénavant un caractère réglementaire.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L144-2 (V)
+	  - Code des assurances - art. L144-2
 
 	**Cité par**:
 
@@ -6824,7 +6319,7 @@ plans d'épargne retraite populaire " sont déclassés et ont dorénavant un car
 	  - Code de la mutualité - art. L212-23 (V)
 	  - Code de la mutualité - art. L221-18 (V)
 	  - Code de la mutualité - art. L223-28 (VD)
-	  - Code de la mutualité - art. L223-8 (M)
+	  - Code de la mutualité - art. L223-8 (V)
 	  - Code de la mutualité - art. L227-1 (V)
 
 
@@ -8238,10 +7733,7 @@ ministre et au Parlement.
 Il est consulté préalablement aux décisions relatives à l'agrément des mutuelles et des unions prévu aux articles L. 211-7,
 L. 211-7-2 et L. 211-8. 
 
-Il gère pour le compte de l'Etat le fonds national de solidarité et d'action mutualistes. 
-
-Le secrétariat général du Conseil supérieur de la mutualité est chargé de la tenue du registre national des mutuelles, unions
-et fédérations dans lequel ces organismes sont répertoriés en fonction de leur activité.
+Il gère pour le compte de l'Etat le fonds national de solidarité et d'action mutualistes.
 
 **Liens relatifs à cet article**
 
@@ -8278,7 +7770,7 @@ et fédérations dans lequel ces organismes sont répertoriés en fonction de le
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
@@ -8311,13 +7803,9 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 
 a) La composition du Conseil supérieur de la mutualité et les modalités d'élection de ses membres ;
 
-b) Le contenu du registre national des mutuelles prévu à l'article L. 411-1.
+b) Les obligations déclaratives auxquelles sont soumises les mutuelles, unions et fédérations.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -8325,9 +7813,13 @@ b) Le contenu du registre national des mutuelles prévu à l'article L. 411-1.
 	  - Code de la mutualité - art. L411-6 (Ab)
 	  - Code de la mutualité - art. L531-5 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L411-1 (Ab)
+	  - Code de la mutualité - art. L411-1
 
 
 #### Chapitre II : Comités régionaux de coordination de la mutualité.
@@ -8380,17 +7872,16 @@ prêts aux mutuelles et unions régies par le livre III, soit pour les aider à 
 sociales présentant un caractère innovant, soit pour améliorer le développement et les conditions d'exploitation de leurs
 réalisations.
 
-Il contribue aux dépenses de promotion et d'éducation mutualiste des mutuelles, unions et fédérations et à celles liées à la
-mise en oeuvre et au fonctionnement du registre national des mutuelles.
+Il contribue aux dépenses de promotion et d'éducation mutualiste des mutuelles, unions et fédérations.
 
 Il peut également intervenir en faveur des mutuelles et unions qui ont été victimes de calamités publiques ou de tout autre
 dommage résultant d'un cas de force majeure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cité par**:
 
@@ -8511,59 +8002,55 @@ adhérents.
 
 ###### Article L431-2
 
-I. - Lorsque, à l'occasion de la procédure prévue à l'article L. 510-11, l'Autorité de contrôle mentionnée à l'article L.
-510-1 estime qu'un des organismes mentionnés au premier alinéa de l'article L. 431-1 n'est plus en mesure de faire face à ses
-engagements envers les personnes mentionnées au même article, elle décide de recourir au fonds de garantie après avoir
-consulté par écrit le président du directoire de celui-ci.
+I. - Lorsque l'Autorité de contrôle prudentiel estime qu'un des organismes mentionnés au premier alinéa de l'article L. 431-1
+n'est plus en mesure de faire face à ses engagements envers les personnes mentionnées au même article, elle décide de
+recourir au fonds de garantie après avoir consulté par écrit le président du directoire de celui-ci. 
 
-S'il conteste la décision de l'Autorité de contrôle, le président du directoire peut, dans un délai de quinze jours à compter
-de celle-ci, saisir le ministre chargé de la mutualité. Celui-ci peut alors, dans l'intérêt des personnes mentionnées au
-premier alinéa de l'article L. 431-1 et dans un délai de quinze jours, demander à l'Autorité une nouvelle délibération après
-avoir recueilli l'avis écrit d'un collège arbitral dont la composition est fixée par décret en Conseil d'Etat.
+S'il conteste la décision de l'Autorité, le président du directoire peut, dans un délai de quinze jours à compter de celle-
+ci, saisir le ministre chargé de la mutualité. Celui-ci peut alors, dans l'intérêt des personnes mentionnés au premier alinéa
+de l'article L. 431-1 et dans un délai de quinze jours, demander à l'Autorité une nouvelle délibération après avoir reçu
+l'avis écrit d'un collège arbitral dont la composition est fixée par un décret en Conseil d'Etat. 
 
-La décision de l'Autorité de contrôle de recourir au fonds de garantie est immédiatement notifiée à la mutuelle ou à l'union
-concernée. En cas de mise en oeuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de
-l'Autorité est notifiée à l'entreprise.
+La décision de l'Autorité de recourir au fonds de garantie est immédiatement notifiée à la mutuelle ou l'union concernée. En
+cas de mise en œuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de l'Autorité est notifiée
+à l'organisme. 
 
-II. - Dès cette notification, l'Autorité de contrôle lance un appel d'offres en vue du transfert du portefeuille d'opérations
-de cet organisme mutualiste. Cet appel d'offres est communiqué au fonds de garantie.
+II. - Dès cette notification, l'Autorité lance un appel d'offres en vue du transfert du portefeuille de contrats de cet
+organisme mutualiste. Cet appel d'offres est communiqué au fonds de garantie. 
 
-III. - L'Autorité de contrôle retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des personnes
-mentionnées au premier alinéa de l'article L. 431-1, eu égard notamment à la solvabilité du ou des organismes candidats et
-aux taux de réduction des engagements que ces derniers proposent.
+III. - L'Autorité retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des personnes mentionnées au
+premier alinéa de l'article L. 431-1, eu égard notamment à la solvabilité du ou des organismes candidats et aux taux de
+réduction des engagements que ces derniers proposent. 
 
-La décision de l'Autorité qui prononce le transfert de portefeuille d'opérations au profit du ou des organismes qu'elle a
-désignés et qui mentionne, le cas échéant, le taux de réduction pour chaque type d'opérations transférées est publiée au
-Journal officiel. Cette décision libère l'organisme cédant de tout engagement envers les personnes mentionnées au premier
-alinéa de l'article L. 431-1 dont les opérations ont été transférées en vertu des dispositions du présent article.
+La décision de l'Autorité qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle a
+désignées et qui mentionne, le cas échéant, le taux de réduction pour chaque type d'opérations transférées est publiée au
+Journal officiel de la République française. Cette décision libère l'organisme cédant de tout engagement envers les personnes
+mentionnées au premier alinéa de l'article L. 431-1, dont les opérations ont été transférées en vertu des dispositions du
+présent article. 
 
-Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité de contrôle en informe le fonds de garantie.
+Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
 
-IV. - Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les excédents éventuels, dus à une
-sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert, reviennent aux personnes
-mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés.
+IV. - Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les excédents éventuels dus à une
+sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert reviennent aux personnes
+mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés. 
 
-V. - Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait par
-l'Autorité de contrôle de tous les agréments administratifs de la mutuelle ou de l'union défaillante. Le fonds de garantie
-accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille d'opérations
-qui n'a pas été transférée. L'administrateur provisoire nommé, le cas échéant, par l'Autorité de contrôle peut accomplir ces
-actes de gestion pour le compte du fonds de garantie.
+V. - Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait,
+par l'Autorité, de tous les agréments administratifs de la mutuelle ou de l'union défaillante. Le fonds de garantie
+accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille de contrats
+qui n'a pas été transférée.L'administrateur provisoire nommé, le cas échéant, l'Autorité peut accomplir ces actes de gestion
+pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L431-1 (V)
-	  - Code de la mutualité - art. L510-1 (M)
-	  - Code de la mutualité - art. L510-11 (M)
+	  - Code de la mutualité - art. L431-1
+	  - Code de la mutualité - art. L510-1
+	  - Code de la mutualité - art. L510-11
 
 	**Cité par**:
 
@@ -8613,52 +8100,46 @@ arrêté par l'Autorité de contrôle.
 
 Le fonds de garantie est une personne morale de droit privé. Il est géré par un directoire agissant sous le contrôle d'un
 conseil de surveillance. Les membres du directoire et du conseil de surveillance doivent remplir les conditions énoncées à
-l'article L. 114-21.
+l'article L. 114-21. 
 
 Le conseil de surveillance exerce le contrôle permanent de la gestion du fonds de garantie. Il élabore les statuts et le
 règlement intérieur du fonds de garantie, qui sont homologués par un arrêté du ministre chargé de la mutualité. Il élit en
-son sein son président.
+son sein son président. 
 
-Le conseil de surveillance approuve les comptes et nomme le commissaire aux comptes et son suppléant. A la fin de chaque
+Le conseil de surveillance approuve les comptes et nomme le commissaire aux comptes et son suppléant.A la fin de chaque
 exercice, il est remis au ministre chargé de la mutualité un exemplaire des comptes approuvés. Le fonds de garantie est
-soumis au contrôle de l'inspection générale des affaires sociales et de l'inspection générale des finances.
+soumis au contrôle de l'inspection générale des affaires sociales et de l'inspection générale des finances. 
 
 Le conseil de surveillance comprend douze membres désignés par les organismes adhérents suivant des modalités qui tiennent
-compte de la part des cotisations versées par chacun de ces organismes.
+compte de la part des cotisations versées par chacun de ces organismes. 
 
 Les décisions du conseil de surveillance sont prises à la majorité simple. Chaque membre siégeant au conseil de surveillance
 dispose d'un nombre de voix dépendant de sa contribution financière totale au fonds de garantie et de celles des organismes
-qui l'ont désigné comme leur représentant. En cas de partage égal des voix, le vote du président est prépondérant.
+qui l'ont désigné comme leur représentant. En cas de partage égal des voix, le vote du président est prépondérant. 
 
 Le directoire est composé de trois membres nommés par le conseil de surveillance, qui confère à l'un d'eux la qualité de
 président. Les membres du directoire ne peuvent exercer en même temps des fonctions au sein de mutuelles ou d'unions
 adhérentes au fonds de garantie, ni recevoir de rétribution de l'une d'elles. Son président ne peut exercer ses fonctions
-qu'après agrément du ministre chargé de la mutualité.
+qu'après agrément du ministre chargé de la mutualité. 
 
-Le ministre chargé de la mutualité ou son représentant ainsi que le président de l'Autorité de contrôle mentionnée à
-l'article L. 510-1 ou son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le
-directoire.
+Le ministre chargé de la mutualité ou son représentant ainsi que le président de l' Autorité de contrôle prudentiel ou son
+représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le directoire.
 
-L'Autorité de contrôle mentionnée à l'article L. 510-1 entend le président du directoire du fonds de garantie sur toute
-question concernant une mutuelle ou une union pour laquelle elle envisage de mettre en oeuvre les dispositions du présent
-chapitre.
+L' Autorité de contrôle prudentiel entend le président du directoire du fonds de garantie sur toute question concernant une
+mutuelle ou une union pour laquelle elle envisage de mettre en oeuvre les dispositions du présent chapitre. 
 
-Le président du directoire est également entendu, à sa demande, par l'Autorité de contrôle mentionnée à l'article L. 510-1.
+Le président du directoire est également entendu, à sa demande, par l'Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-21 (M)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L114-21
+	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
@@ -8668,29 +8149,25 @@ Le président du directoire est également entendu, à sa demande, par l'Autorit
 ###### Article L431-5
 
 Le fonds de garantie est subrogé dans les droits des personnes mentionnées au premier alinéa de l'article L. 431-1, à
-concurrence du montant des sommes qu'il a versées.
+concurrence du montant des sommes qu'il a versées. 
 
 Le fonds de garantie est également subrogé dans les mêmes limites dans les droits de l'organisme défaillant à concurrence des
-sommes exigibles en vertu de l'exécution des traités de réassurance en cours.
+sommes exigibles en vertu de l'exécution des traités de réassurance en cours. 
 
 Le fonds de garantie peut engager toute action en responsabilité à l'encontre des dirigeants de droit ou de fait de la
 mutuelle ou de l'union dont la défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de tout ou partie
-des sommes versées par lui. Il en informe l'Autorité de contrôle mentionnée à l'article L. 510-1.
+des sommes versées par lui. Il en informe l'Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L431-1 (V)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L431-1
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L431-6
@@ -8699,54 +8176,50 @@ Les membres du directoire et le conseil de surveillance du fonds de garantie, ai
 fonctions, a accès aux documents et informations détenus par le fonds de garantie, sont tenus au secret professionnel dans
 les conditions et sous les peines prévues à l'article 226-13 du code pénal. Ce secret n'est opposable ni à l'autorité
 judiciaire agissant dans le cadre d'une procédure pénale, ni aux juridictions civiles statuant sur un recours formé à
-l'encontre d'une décision du fonds de garantie, ni à l'Autorité de contrôle mentionnée à l'article L. 510-1, ni aux membres
-de l'inspection générale des affaires sociales et de l'inspection générale des finances.
+l'encontre d'une décision du fonds de garantie, ni à l'Autorité de contrôle prudentiel, ni aux membres de l'inspection
+générale des affaires sociales et de l'inspection générale des finances.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code pénal - art. 226-13
+	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L431-7
 
 Pour l'accomplissement des missions du fonds de garantie, les mutuelles et unions y adhérant sont redevables de cotisations
-dans des conditions fixées par décret en Conseil d'Etat.
+dans des conditions fixées par décret en Conseil d'Etat. 
 
 Le fonds de garantie peut, en outre, émettre des certificats d'association nominatifs non négociables que souscrivent les
-organismes adhérents lors de leur adhésion.
+organismes adhérents lors de leur adhésion. 
 
 Lorsque les pertes subies par le fonds de garantie ne peuvent être couvertes par les cotisations déjà appelées, les
 certificats d'association mentionnés au précédent alinéa ne peuvent plus faire l'objet d'une rémunération. Le nominal de
 chacun de ces certificats est alors réduit dans la proportion nécessaire pour absorber les pertes. Ces certificats
-d'association ne sont pas remboursables.
+d'association ne sont pas remboursables. 
 
 Le fonds de garantie peut emprunter auprès de ses adhérents. Il peut, à cette fin, constituer pour son compte les garanties
-requises conventionnellement.
+requises conventionnellement. 
 
 Le défaut d'adhésion ou l'absence de versement au fonds de garantie de la cotisation appelée sont passibles des sanctions
-prévues à l'article L. 510-11 et de pénalités de retard versées directement au fonds de garantie selon des modalités définies
-par le règlement intérieur de celui-ci.
+prévues à l'article L. 612-39 du code monétaire et financier et de pénalités de retard versées directement au fonds de
+garantie selon des modalités définies par le règlement intérieur de celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-11 (M)
+	  - Code monétaire et financier - art. L612-39
 
 	**Cité par**:
 
@@ -8796,20 +8269,13 @@ Ce décret est pris après avis du directoire du fonds de garantie.
 
 ###### Article L510-1
 
-Le contrôle de l'Etat sur les mutuelles, unions et fédérations régies par le présent code est exercé, dans l'intérêt de leurs
-membres et de leurs ayants droit, par l'Autorité de contrôle des assurances et des mutuelles instituée à l'article L. 310-12
-du code des assurances. 
+Pour l'exercice du contrôle des mutuelles, unions et fédérations, mentionnées à l'article L. 612-2 du code monétaire et
+financier, l'Autorité de contrôle prudentiel exerce sa mission dans les conditions prévues au chapitre II du titre Ier du
+livre VI du code monétaire et financier. 
 
-Les organismes soumis au contrôle de l'autorité en vertu du présent article sont assujettis à la contribution pour frais de
-contrôle mentionnée à l'article L. 310-12-4 du code des assurances. Par dérogation aux dispositions dudit article, l'assiette
-et les modalités de recouvrement de cette contribution sont fixées selon les modalités définies à l'article L. 951-1 du code
-de la sécurité sociale.
+Le ministre chargé de la mutualité exerce le contrôle des mutuelles et les unions régies par les dispositions du livre III.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
@@ -8890,640 +8356,23 @@ de la sécurité sociale.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 118 () JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-12 (V)
-	  - Code des assurances - art. L310-12-4 (V)
-
-
-###### Article L510-1-1
-
-La composition et l'organisation administrative de l'Autorité de contrôle sont fixées par l'article L. 310-12-1 du code des
-assurances ci-après reproduit : 
-
-" Art.L. 310-12-1.- L'Autorité de contrôle des assurances et des mutuelles est composée de neuf membres :
-
-1° Un président nommé par décret ;
-
-2° Le gouverneur de la Banque de France, président de la Commission bancaire ;
-
-3° Un conseiller d'Etat, proposé par le vice-président du Conseil d'Etat ;
-
-4° Un conseiller à la Cour de cassation, proposé par le premier président de la Cour de cassation ;
-
-5° Un conseiller maître à la Cour des comptes, proposé par le premier président de la Cour des comptes ;
-
-6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité, de prévoyance et de réassurance.
-
-Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité
-sociale et de la mutualité. Un vice-président de l'Autorité de contrôle est également nommé parmi ces membres par arrêté
-conjoint des ministres, pris après avis du président. Le vice-président exerce les compétences du président en cas d'absence
-ou d'empêchement de celui-ci.
-
-Le gouverneur de la Banque de France peut être représenté. Des suppléants des membres mentionnés aux 3° à 6° sont nommés dans
-les mêmes conditions que les titulaires. Le suppléant du membre nommé vice-président de l'Autorité de contrôle le remplace
-lorsqu'il exerce les compétences du président en application de l'alinéa précédent.
-
-Le directeur du Trésor, ou son représentant, et le directeur de la sécurité sociale, ou son représentant, siègent auprès de
-la commission de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
-sanctions, demander une seconde délibération dans des conditions fixées par décret en Conseil d'Etat. Lorsqu'elle décide
-d'une sanction, l'Autorité de contrôle délibère hors de leur présence.
-
-Le président et les membres mentionnés aux 3° à 6° sont nommés pour une durée de cinq ans. Leur mandat est renouvelable une
-fois.
-
-En cas de vacance d'un siège de membre de l'Autorité de contrôle pour quelque cause que ce soit, il est procédé à son
-remplacement pour la durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte
-pour l'application de la règle de renouvellement. Les membres titulaires et suppléants de l'Autorité ne peuvent être
-révoqués.
-
-Les décisions de l'Autorité de contrôle sont prises à la majorité des voix. En cas de partage égal des voix, celle du
-président est prépondérante.
-
-Dans des matières et conditions fixées par décret en Conseil d'Etat, l'Autorité de contrôle peut créer en son sein une ou
-plusieurs commissions spécialisées et leur donner délégation pour prendre des décisions de portée individuelle. Il est créé
-au moins une commission spécialisée compétente à l'égard des organismes régis par le livre III du code de la mutualité.
-
-L'Autorité de contrôle peut également constituer des commissions consultatives, dans lesquelles elle nomme le cas échéant des
-experts, pour préparer et instruire ses décisions.
-
-Le président de l'Autorité de contrôle a qualité pour agir au nom de celle-ci devant toute juridiction.
-
-Il peut déléguer sa signature dans les matières où il tient de dispositions législatives ou réglementaires une compétence
-propre.
-
-Les services de l'Autorité de contrôle sont dirigés par un secrétaire général nommé parmi les membres du corps de contrôle
-des assurances par arrêté conjoint des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, après avis
-de la commission.
-
-Le personnel des services de l'Autorité de contrôle est composé d'agents publics mis à sa disposition dans des conditions
-fixées par décret en Conseil d'Etat, d'agents contractuels de droit public et de salariés de droit privé.
-
-Sur proposition du secrétaire général, l'Autorité de contrôle fixe les règles de déontologie applicables au personnel des
-services de l'Autorité.
-
-L'Autorité de contrôle des assurances et des mutuelles et la Commission bancaire se réunissent conjointement au moins deux
-fois par an et en tant que de besoin sur des sujets d'intérêt commun."
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-108 du 30 janvier 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code des assurances - art. L310-12-1
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L612-39 (VT)
-
-
-###### Article L510-2
-
-Par dérogation aux dispositions de l'article L. 510-1, le contrôle des mutuelles et des unions est exercé au niveau régional
-par l'autorité administrative, lorsque les mutuelles et les unions relèvent du livre III, ont souscrit une convention de
-substitution en application de l'article L. 211-5, ou pratiquent exclusivement les opérations mentionnées au a du 1° du I de
-l'article L. 111-1 à l'exception des prestations d'une durée supérieure à un an et au titre desquelles les cotisations
-encaissées et les prestations versées ne dépassent pas des seuils fixés par arrêté conjoint des ministres chargés de la
-mutualité et de l'économie, pris après avis de l'Autorité de contrôle.
-
-L'Autorité de contrôle dispose, cependant, d'un pouvoir d'évocation à l'égard de ces mutuelles et unions et demeure seule
-compétente pour prononcer les sanctions disciplinaires prévues à l'article L. 510-11.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Arrêté du 18 avril 2005 - art. 2 (V)
-	  - Décret n°2007-706 du 4 mai 2007 - art. 2 (V)
-	  - Code de la mutualité - art. A114-2 (M)
-	  - Code de la sécurité sociale. - art. R951-2 (M)
-	  - Code des assurances - art. R310-12 (Ab)
-	  - Code monétaire et financier - art. D411-1 (V)
-	  - Code monétaire et financier - art. D533-11 (M)
-	  - Code monétaire et financier - art. D533-13 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. L211-5
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. L510-11
-
-
-###### Article L510-3
-
-L'Autorité de contrôle veille au respect, par les mutuelles, unions et fédérations ainsi que par toute entité appartenant à
-un conglomérat financier défini à l'article L. 212-7-5 dont la surveillance est coordonnée par l'Autorité de contrôle
-mentionnée à l'article L. 510-1 dans les conditions prévues à l'article L. 212-7-9, des dispositions législatives et
-réglementaires du présent code. 
-
-Elle s'assure que les mutuelles et unions sont toujours en mesure de remplir les engagements qu'elles ont contractés à
-l'égard des participants ou bénéficiaires et ayants droit de ceux-ci ou organismes réassurés et qu'elles présentent la marge
-de solvabilité fixée par voie réglementaire. Elle s'assure également que les mutuelles et unions de réassurance sont en
-mesure de tenir à tout moment les engagements qu'elles ont contractés envers les organismes réassurés et présentent la marge
-de solvabilité fixée par voie réglementaire. Elle examine à ces fins la situation financière et les conditions d'exploitation
-des organismes soumis à son contrôle et veille en outre à ce que leurs modalités de constitution et le fonctionnement de
-leurs organes délibérants et organes dirigeants soient conformes aux dispositions qui les régissent.
-
-L'Autorité de contrôle s'assure en outre que les modalités de constitution et de fonctionnement des organismes soumis à son
-contrôle sont conformes aux dispositions qui les régissent. 
-
-Toute mutuelle ou union relevant du livre II, agréée conformément aux dispositions des articles L. 211-7 et L. 211-7-2, qui
-projette d'ouvrir une succursale, ou d'exercer pour la première fois des activités en libre prestation de services sur le
-territoire d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou de
-modifier la nature ou les conditions d'exercice de ces activités, notifie son projet à l'Autorité de contrôle. Celle-ci
-s'assure que la mutuelle ou l'union dispose d'une structure administrative et d'une situation financière adéquates au regard
-de son projet. Si elle estime que ces conditions ne sont pas remplies, l'Autorité de contrôle ne communique pas à l'autorité
-de contrôle de cet autre Etat les documents permettant l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe
-les conditions d'application du présent alinéa, notamment les modalités du contrôle préalable et les délais dans lesquels
-l'Autorité doit se prononcer. 
-
-Avant un refus d'agrément, l'Autorité de contrôle est saisie pour avis par l'autorité administrative détentrice du pouvoir
-d'accorder l'agrément, dans les conditions mentionnées à l'article L. 211-8.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. L211-8
-	  - Code de la mutualité - art. L212-7-5
-	  - Code de la mutualité - art. L212-7-9
-	  - Code de la mutualité - art. L510-1
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R510-16 (Ab)
-
-
-###### Article L510-3-1
-
-L'autorité instituée à l'article L. 510-1 autorise les mutuelles ou unions relevant du livre II du présent code à fournir des
-services d'institutions de retraite professionnelle sur le territoire d'un autre Etat membre de la Communauté européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen, dans les conditions mentionnées à l'article L. 310-12-7
-du code des assurances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance 2006-344 2006-03-23 art. 5 2° JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-12-7
-	  - Code de la mutualité - art. L510-1
-
-
-###### Article L510-4
-
-Lorsque la commission est informée, dans les conditions prévues à l'article L. 212-14, de la décision d'une mutuelle ou d'une
-union de se dissoudre, elle demande à l'autorité administrative de prononcer immédiatement la caducité de l'agrément.
-
-Si, à la suite de cette dissolution volontaire, la commission estime que le programme de liquidation présenté par
-l'entreprise n'est pas conforme aux intérêts des membres participants de la mutuelle ou des membres de l'union, elle ne
-l'approuve pas et peut demander la présentation d'un nouveau programme, dans les délais et conditions qu'elle prescrit. En
-l'absence de programme de liquidation ou lorsque la mutuelle ou l'union ne respecte pas le programme approuvé, la commission
-prend, en application de l'article L. 510-9, toutes mesures conservatoires qu'elle juge nécessaires ; elle peut également
-faire usage des pouvoirs d'injonction et de sanction prévus aux articles L. 510-8 et L. 510-11, dans les conditions prévues à
-ces articles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-14
-	  - Code de la mutualité - art. L510-11
-	  - Code de la mutualité - art. L510-8
-	  - Code de la mutualité - art. L510-9
-
-
-###### Article L510-5
-
-Le contrôle des mutuelles, unions et fédérations est effectué sur pièces et sur place, dans les conditions prévues aux
-articles L. 951-4, L. 951-5 et L. 951-8 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L951-4
-	  - Code de la sécurité sociale. - art. L951-5
-	  - Code de la sécurité sociale. - art. L951-8
-
-
-###### Article L510-6
-
-L'Autorité de contrôle peut demander aux commissaires aux comptes d'une mutuelle, d'une union ou d'une fédération tout
-renseignement sur l'activité de celle-ci. Les commissaires aux comptes sont alors déliés, à son égard, du secret
-professionnel.
-
-L'Autorité de contrôle peut également transmettre aux commissaires aux comptes des personnes mentionnées au premier alinéa
-les informations nécessaires à l'accomplissement de leur mission. Ces informations sont couvertes par le secret
-professionnel.
-
-L'Autorité de contrôle peut en outre transmettre des observations écrites aux commissaires aux comptes qui sont alors tenus
-d'apporter des réponses en cette forme.
-
-Les commissaires aux comptes sont tenus de signaler, dans les meilleurs délais, à l'Autorité tout fait ou décision concernant
-la mutuelle, l'union ou la fédération mentionnée au premier alinéa, dont ils ont eu connaissance dans l'exercice de leur
-mission, de nature :
-
-a) A constituer une violation des dispositions législatives et réglementaires qui leur sont applicables et susceptible
-d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
-
-b) A porter atteinte à la continuité de son exploitation ;
-
-c) A entraîner le refus de la certification de ses comptes ou l'émission de réserves.
-
-La même obligation s'applique aux faits et aux décisions dont ils viendraient à avoir connaissance dans l'exercice de leur
-mission de commissaires aux comptes dans un organisme subordonné à la mutuelle, à l'union, à la fédération, ou dans un
-organisme relevant de l'article L. 212-7 ou dans une mutuelle, une union appartenant à un conglomérat financier dont la
-surveillance est coordonnée par l'Autorité de contrôle mentionnée à l'article L. 510-1 dans les conditions prévues à
-l'article L. 212-7-9.
-
-La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
-ils procèdent en exécution des obligations imposées par le présent article.
-
-L'Autorité de contrôle est saisie pour avis de toute proposition de désignation ou de renouvellement du mandat des
-commissaires aux comptes dans les organismes soumis à son contrôle dans des conditions fixées par décret.
-
-L'Autorité de contrôle peut en outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux
-comptes supplémentaire.
-
-Lorsqu'elle a connaissance d'une infraction aux dispositions du présent article ainsi que de celles de l'article L. 114-39,
-commises par un commissaire aux comptes, l'Autorité de contrôle peut demander au tribunal compétent de relever ce commissaire
-aux comptes de ses fonctions selon les modalités définies à l'article L. 823-7 du code de commerce.
-
-L'Autorité peut également dénoncer cette infraction à l'autorité disciplinaire compétente et communiquer, à cette fin, les
-informations qu'elle estime nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de commerce - art. L823-7
-	  - Code de la mutualité - art. L114-39
-	  - Code de la mutualité - art. L212-7
-	  - Code de la mutualité - art. L212-7-9
-	  - Code de la mutualité - art. L510-1
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. R951-3-3 (V)
-	  - Code des assurances - art. R310-16 (VT)
-
-
-###### Article L510-7
-
-Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, l'Autorité de contrôle peut décider
-d'étendre le contrôle sur place d'une mutuelle, d'une union ou d'une fédération à toute personne morale liée directement ou
-indirectement avec cette mutuelle, union ou fédération par une convention susceptible d'altérer son autonomie de
-fonctionnement ou de décision et concernant l'un quelconque de ses domaines d'activité et, notamment, à toute mutuelle ou
-union régie par le livre III, ainsi qu'à toute personne morale qui constitue avec l'organisme contrôlé un groupe au sens de
-l'article L. 212-7. 
-
-Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la situation financière réelle de la mutuelle
-ou de l'union contrôlée, le respect par cette mutuelle ou cette union des engagements qu'elle a contractés auprès des membres
-participants et bénéficiaires et des organismes réassurés ou la capacité des personnes morales qui lui sont apparentées à
-participer à d'éventuelles mesures de redressement ou de sauvegarde de cette mutuelle ou union. 
-
-Les contrôles sur place peuvent également, dans le cadre de conventions internationales, être étendus aux succursales ou
-filiales de mutuelles ou d'unions pratiquant l'assurance ou la réassurance.
-
-L'Autorité de contrôle peut procéder à la vérification sur place des informations nécessaires à la surveillance
-complémentaire instituée à l'article L. 212-7-2 auprès de la mutuelle ou l'union d'assurance ou de réassurance et de ses
-organismes apparentés. 
-
-Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L. 212-7-2, l'Autorité souhaite vérifier des
-informations utiles à l'exercice de sa surveillance concernant une entreprise située dans un Etat membre de la Communauté
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, elle demande aux autorités compétentes
-de cet Etat qu'il soit procédé à cette vérification. Lorsque les autorités d'un Etat membre de la Communauté européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitent, dans des cas déterminés, vérifier des
-informations utiles à l'exercice de leur surveillance concernant une mutuelle ou union apparentée à une entreprise
-d'assurance ou de réassurance soumise à leur surveillance complémentaire, l'Autorité de contrôle doit répondre à leur demande
-soit en procédant elle-même à cette vérification, soit en permettant à des personnes désignées par ces autorités d'y
-procéder.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-14 (V)
-	  - Code de la mutualité - art. R211-19 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7
-	  - Code de la mutualité - art. L212-7-2
-
-
-###### Article L510-8
-
-L'Autorité de contrôle peut adresser à tout organisme ou toute personne soumis à son contrôle une recommandation de prendre
-toutes les mesures appropriées pour restaurer ou renforcer sa situation financière, améliorer ses méthodes de gestion ou
-assurer l'adéquation de son organisation à ses activités ou à ses objectifs de développement. L'organisme est tenu de
-répondre dans un délai de deux mois en précisant les mesures prises à la suite de cette recommandation.
-
-Lorsqu'un rapport lui est transmis dans les conditions de l'article L. 212-4, et qu'elle estime que la solvabilité d'une
-mutuelle ou d'une union régie par le livre II est mise en cause ou est susceptible, à terme, d'être mise en cause par des
-transferts financiers vers une mutuelle ou une union régie par le livre III, l'Autorité de contrôle peut adresser à cette
-mutuelle ou à cette union une recommandation tendant à faire cesser les transferts en cause. L'organisme est tenu de répondre
-dans les conditions prévues à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L114-18 (V)
-	  - Code de la mutualité - art. L212-27 (V)
-	  - Code de la mutualité - art. L510-10 (Ab)
-	  - Code de la mutualité - art. L510-4 (Ab)
-	  - Code de la mutualité - art. R211-10 (V)
-	  - Code de la mutualité - art. R510-4 (V)
-	  - Code de la mutualité - art. R510-5 (V)
-	  - Code de la sécurité sociale. - art. R951-2 (M)
-	  - Code des assurances - art. R310-12 (Ab)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-4
-
-
-###### Article L510-9
-
-Lorsque la situation financière d'une mutuelle ou d'une union ou ses conditions de fonctionnement sont telles que les
-intérêts des membres participants et des bénéficiaires et de leurs ayants droit sont compromis ou susceptibles de l'être,
-l'Autorité de contrôle prend les mesures d'urgence nécessaires à la sauvegarde de ces intérêts.
-
-Elle peut, à ce titre, mettre la mutuelle ou l'union sous surveillance spéciale.
-
-Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de la mutuelle ou de l'union,
-limiter ou suspendre temporairement certaines opérations ou désigner un ou plusieurs administrateurs provisoires à qui sont
-transférés les pouvoirs nécessaires à l'administration et à la direction de la mutuelle ou de l'union. Cette désignation est
-faite soit à la demande des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit
-à l'initiative de l'Autorité de contrôle lorsque la gestion de la mutuelle ou de l'union ne peut plus être assurée dans des
-conditions normales, ou lorsque l'Autorité a pris une mesure de suspension en application de l'article L. 510-11. A la date
-de cette désignation, les pouvoirs du conseil d'administration et des dirigeants salariés ayant reçu délégation de pouvoirs
-sont suspendus.
-
-L'Autorité de contrôle peut exiger de l'entreprise une marge de solvabilité plus importante que celle prescrite par la
-réglementation afin que l'entreprise soit rapidement en mesure de satisfaire à l'ensemble des exigences de solvabilité. Le
-niveau de cette exigence supplémentaire de marge de solvabilité est déterminé selon des modalités définies par décret en
-Conseil d'Etat.
-
-L'Autorité de contrôle peut, par entreprise, revoir à la baisse les éléments admis à constituer la marge de solvabilité dans
-des conditions fixées par décret en Conseil d'Etat.
-
-Les mesures mentionnées au troisième alinéa du présent article sont levées ou confirmées par l'Autorité de contrôle, après
-procédure contradictoire, dans un délai prévu par décret en Conseil d'Etat. Ce même décret précise les modalités
-d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cité par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 22 (V)
-	  - Code de la mutualité - art. L212-27 (V)
-	  - Code de la mutualité - art. L510-10 (Ab)
-	  - Code de la mutualité - art. L510-4 (Ab)
-	  - Code de la mutualité - art. R211-10 (V)
-	  - Code de la mutualité - art. R211-18 (V)
-	  - Code de la mutualité - art. R510-3 (V)
-	  - Code de la mutualité - art. R510-7 (Ab)
-	  - Code de la sécurité sociale. - art. R951-2 (M)
-	  - Code des assurances - art. R310-12 (Ab)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-11
-
-
-###### Article L510-10
-
-Lorsque les conditions de fonctionnement des établissements et services gérés par des mutuelles ou des unions régies par le
-livre III ou, à titre accessoire, par des mutuelles relevant du livre II présentent les irrégularités ou les difficultés
-mentionnées aux articles L. 510-8 et L. 510-9, les pouvoirs détenus par le conseil d'administration en ce qui concerne la
-gestion de ces établissements ou services peuvent être transférés à un ou plusieurs administrateurs provisoires selon les
-procédures prévues à ces articles.
-
-En cas d'irrégularité grave ou lorsque le fonctionnement de l'établissement ou du service est gravement compromis, la
-commission peut, soit prononcer la liquidation de l'établissement ou du service après consultation de l'assemblée générale
-dans les conditions fixées par l'article L. 113-4, soit déterminer les modalités de son transfert à une autre mutuelle ou
-union régie par le livre III.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L113-4
-	  - Code de la mutualité - art. L510-8
-	  - Code de la mutualité - art. L510-9
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L114-18 (V)
-	  - Code de la mutualité - art. R414-3 (V)
-
-
-###### Article L510-11
-
-Lorsqu'une mutuelle, une union exerçant des activités d'assurance ou de réassurance ou une fédération a enfreint une
-disposition législative ou réglementaire dans le domaine relevant du contrôle de l'Autorité ou a des pratiques qui mettent en
-péril sa marge de solvabilité ou l'exécution des engagements qu'elle a contractés envers les membres participants, ayants
-droit ou bénéficiaires, l'Autorité peut prononcer à son encontre, ou celle de ses dirigeants, l'une ou plusieurs des
-sanctions disciplinaires suivantes en fonction de la gravité du manquement : 
-
-1° L'avertissement ; 
-
-2° Le blâme ; 
-
-3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ; 
-
-4° La suspension temporaire d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
-
-5° La démission d'office d'un ou plusieurs dirigeants de la mutuelle, de l'union ou de la fédération ; 
-
-6° Le retrait total ou partiel d'agrément ; 
-
-7° Le transfert d'office, après organisation d'un appel d'offres fructueux, de tout ou partie de portefeuille de contrats de
-la mutuelle ou de l'union.
-
-L'Autorité de contrôle peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la mutuelle, l'union ou
-la fédération pour prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa. 
-
-En outre, l'Autorité de contrôle peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire. Le
-montant de cette sanction doit être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % des cotisations
-perçues au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à 5 % en cas de
-nouvelle violation de la même obligation. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées
-comme des créances de l'Etat étrangères à l'impôt et au domaine. 
-
-Pour les mutuelles et unions qui ont la qualité d'organisme de référence au sens de l'article L. 212-7-1, le montant maximum
-de la sanction pécuniaire est défini par référence aux cotisations de celle des mutuelles et unions incluses par intégration
-globale dans la consolidation dont le total des cotisations émises au cours du dernier exercice clos est le plus élevé.
-
-L'autorité de contrôle peut rendre publique sa décision dans les journaux, publications ou supports qu'elle désigne. Les
-frais sont supportés par la personne sanctionnée. 
-
-Dans tous les cas prévus au présent article, l'Autorité de contrôle statue après une procédure contradictoire. Elle informe
-obligatoirement les intéressés de leur droit à être entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se faire
-représenter ou assister. Les mutuelles, les unions ou les fédérations sanctionnées peuvent, dans un délai de deux mois qui
-suit la notification de la décision, former un recours de pleine juridiction devant le Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 9
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L211-5 (M)
-	  - Code de la mutualité - art. L212-27 (V)
-	  - Code de la mutualité - art. L212-7-16 (V)
-	  - Code de la mutualité - art. L431-2 (V)
-	  - Code de la mutualité - art. L431-7 (V)
-	  - Code de la mutualité - art. L510-14 (Ab)
-	  - Code de la mutualité - art. L510-2 (Ab)
-	  - Code de la mutualité - art. L510-4 (Ab)
-	  - Code de la mutualité - art. L510-9 (Ab)
-	  - Code de la mutualité - art. R211-17 (M)
-	  - Code de la mutualité - art. R212-11 (V)
-	  - Code de la mutualité - art. R212-15 (V)
-	  - Code de la mutualité - art. R212-62 (V)
-	  - Code de la mutualité - art. R414-3 (V)
-	  - Code de la sécurité sociale. - art. L951-5 (Ab)
-	  - Code de la sécurité sociale. - art. R951-2 (M)
-	  - Code de la sécurité sociale. - art. R951-2-2 (Ab)
-	  - Code des assurances - art. R*310-18 (M)
-	  - Code des assurances - art. R*310-19 (V)
-	  - Code des assurances - art. R310-12 (Ab)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-1
+	  - Code monétaire et financier - art. L612-2
 
 
 ###### Article L510-12
 
-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait pour tout président administrateur ou dirigeant
-ayant reçu délégation de pouvoirs d'une mutuelle, union ou fédération régie par le présent code : 
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour tout président administrateur ou dirigeant ayant
+reçu délégation de pouvoirs d'une mutuelle, union ou fédération régie par le présent code : 
 
-1° Après mise en demeure, de ne pas répondre aux demandes d'information de l'Autorité de contrôle ou de mettre obstacle de
-quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
-renseignements inexacts ; 
+1° Après mise en demeure, de ne pas répondre aux demandes d'information de l'Autorité de contrôle prudentiel ou de mettre
+obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment
+des renseignements inexacts ; 
 
-2° De faire entrave à l'action de l'Autorité de contrôle exercée en application des articles L. 510-1 à L. 510-15 ; 
+2° De faire entrave à l'action de l'Autorité de contrôle prudentiel exercée en application de l'article L. 510-1 ; 
 
 3° De faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses dans tout document produit au
 ministre chargé de la mutualité ou porté à la connaissance du public et des membres adhérents ou participants.
@@ -9532,7 +8381,7 @@ ministre chargé de la mutualité ou porté à la connaissance du public et des 
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
 
 	**Cite**:
 
@@ -9544,107 +8393,6 @@ ministre chargé de la mutualité ou porté à la connaissance du public et des 
 
 	  - Code de la mutualité - art. A114-4 (Ab)
 	  - Code de la mutualité - art. L510-12 (V)
-
-
-###### Article L510-13
-
-Les membres de l'Autorité de contrôle et les personnes qui participent ou ont participé à ses travaux sont tenus au secret
-professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions dans
-les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable à
-l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
-
-L'Autorité de contrôle peut transmettre des informations aux autorités chargées de la surveillance des entreprises
-d'assurance dans d'autres Etats. Pour les Etats qui ne sont pas partie à l'accord sur l'Espace économique européen, la
-transmission d'information ne peut se faire que sous réserve de réciprocité, et à condition que ces autorités soient elles-
-mêmes soumises au secret professionnel avec les mêmes garanties qu'en France.
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 peut transmettre aux banques centrales des Etats membres ou des autres
-Etats parties à l'accord sur l'Espace économique européen, au Système européen de banques centrales, à la Banque centrale
-européenne et aux autres organismes agissant au titre de leurs compétences monétaires, et, le cas échéant, à d'autres
-autorités publiques chargées de la surveillance des systèmes de paiement, des informations destinées à l'accomplissement de
-leur mission. Les informations reçues dans ce cadre sont soumises au secret professionnel.
-
-L'Autorité de contrôle peut, en outre, conclure avec les autorités de contrôle des assurances des pays qui ne sont pas partie
-à l'accord sur l'Espace économique européen, sous condition de réciprocité et dans le respect du secret professionnel, des
-conventions bilatérales ayant pour objet, outre les échanges d'information prévus à l'alinéa précédent, d'étendre les
-contrôles sur place de l'Autorité aux succursales ou filiales de mutuelles ou d'unions soumis à son contrôle qui sont situés
-sur le territoire de compétence de l'autorité cocontractante. Les contrôles sur place peuvent être effectués, au choix de
-l'Autorité de contrôle, par celle-ci ou par l'autorité cocontractante. Seule l'Autorité de contrôle peut prononcer des
-sanctions à l'égard de la filiale ou de la succursale contrôlée en France. L'assistance demandée par une autorité étrangère à
-l'Autorité de contrôle est refusée par celle-ci lorsque l'exécution de la demande est de nature à porter atteinte à la
-souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre public ou lorsqu'une procédure pénale
-quelconque a été engagée en France sur la base des mêmes faits et contre les mêmes personnes, ou lorsque celles-ci ont déjà
-été sanctionnées par une décision définitive pour les mêmes faits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13
-	  - Code pénal - art. 226-14
-	  - Code de la mutualité - art. L510-1
-
-
-###### Article L510-14
-
-Lorsque l'Autorité de contrôle relève des faits de nature à justifier des poursuites pénales, elle transmet le dossier au
-procureur de la République territorialement compétent, sans préjudice des sanctions qu'elle peut prononcer en application de
-l'article L. 510-11.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-11
-
-
-###### Article L510-15
-
-Lorsque l'Autorité de contrôle relève des pratiques anticoncurrentielles au sens des articles L. 420-1 et L. 420-2 du code de
-commerce, elle en informe le ministre chargé de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de commerce - art. L420-1
-	  - Code de commerce - art. L420-2
 
 
 ## Livre VI : Dispositions d'application.
@@ -11615,8 +10363,8 @@ qui sont considérés comme des fonds propres pour le calcul des exigences de fo
 établissements mentionnés ci-dessus. 
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
-détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de contrôle des
-assurances et des mutuelles peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux a et b. 
+détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de contrôle
+prudentiel peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux a et b. 
 
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions mentionnées au a et au b lorsqu'elle est soumise
 à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle présente une
@@ -11646,7 +10394,7 @@ du report cumulé effectivement constaté.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
@@ -11689,8 +10437,8 @@ prévue à l'alinéa précédent par le rapport existant, pour les trois dernier
 demeurant à charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce
 rapport puisse être inférieur à 50 %. 
 
-Sous réserve de l'accord de l'Autorité de contrôle des assurances et des mutuelles, l'affectation des cotisations peut être
-effectuée par des méthodes statistiques. 
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel, l'affectation des cotisations peut être effectuée par des
+méthodes statistiques. 
 
 b) Deuxième méthode (calcul par rapport à la charge moyenne des sinistres pour les trois derniers exercices) : 
 
@@ -11751,7 +10499,7 @@ assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
@@ -11936,8 +10684,8 @@ considérés comme des fonds propres pour le calcul des exigences de fonds propr
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
 détenue temporairement par une mutuelle ou une union en vue de faciliter l'assainissement et la sauvegarde de cette entité,
-l'Autorité de contrôle des assurances et des mutuelles peut autoriser la mutuelle ou l'union à ne pas effectuer les
-déductions prévues aux deux alinéas précédents. 
+l'Autorité de contrôle prudentiel peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux deux
+alinéas précédents. 
 
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions mentionnées au a et au b lorsqu'elle est soumise
 à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle présente une
@@ -11965,7 +10713,7 @@ du report cumulé effectivement constaté.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
@@ -12068,7 +10816,7 @@ L'exigence minimale de marge est égale à un nombre représentant 4 % de la pro
 R. 222-8, dans la limite de la provision mathématique théorique mentionnée à l'article R. 222-16. 
 
 En outre, pour la prise en compte de la réassurance financière limitée dans le ratio de réassurance mentionné au premier
-alinéa, l'Autorité de contrôle des assurances et des mutuelles se fonde sur le transfert de risque effectif. 
+alinéa, l'Autorité de contrôle prudentiel se fonde sur le transfert de risque effectif. 
 
 Sur demande et justification de la mutuelle ou union auprès de l'Autorité de contrôle, et avec l'accord de celle-ci, les
 montants récupérables au titre des risques transférés à un véhicule de titrisation peuvent être assimilés à des cessions en
@@ -12082,7 +10830,7 @@ compte de la capacité de ce véhicule à respecter à tout moment ses engagemen
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
@@ -12283,9 +11031,9 @@ de capitalisation ;
 
 3. Le report des excédents ; 
 
-4.L'emprunt ou les emprunts pour fonds de développement : toutefois, à partir de la moitié de la durée d'un emprunt, celui-ci
-n'est retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant égal
-au double du montant total de cet emprunt divisé par le nombre d'années de sa durée ; 
+4. L'emprunt ou les emprunts pour fonds de développement : toutefois, à partir de la moitié de la durée d'un emprunt, celui-
+ci n'est retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant
+égal au double du montant total de cet emprunt divisé par le nombre d'années de sa durée ; 
 
 5. Les titres et prêts subordonnés mentionnés au II de l'article R. 212-11 ou de l'article R. 212-15 dans les conditions et
 limites fixées par ces articles ; 
@@ -12306,12 +11054,12 @@ qui sont considérés comme des fonds propres pour le calcul des exigences de fo
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
 détenue temporairement par une mutuelle ou une union de réassurance en vue de faciliter l'assainissement et la sauvegarde de
-cette entité, l'Autorité de contrôle des assurances et des mutuelles peut autoriser la mutuelle ou l'union à ne pas effectuer
-les déductions prévues aux deux alinéas précédents. 
+cette entité, l'Autorité de contrôle prudentiel et de résolution peut autoriser la mutuelle ou l'union à ne pas effectuer les
+déductions prévues aux deux alinéas précédents. 
 
 En outre, la mutuelle ou union n'est pas tenue d'effectuer ces déductions lorsqu'elle présente une solvabilité ajustée
 positive calculée selon les modalités précisées à l'article R. 213-8 et R. 213-9. La méthode définie à l'article R. 213-8
-n'est applicable que si l'autorité de contrôle des assurances et des mutuelles estime que la gestion intégrée et le contrôle
+n'est applicable que si l'Autorité de contrôle prudentiel et de résolution estime que la gestion intégrée et le contrôle
 interne des entités entrant dans le périmètre de consolidation sont satisfaisants. 
 
 III. ― Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3 du I est susceptible d'être faussée par
@@ -12322,9 +11070,10 @@ du report cumulé effectivement constaté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 	**Cite**:
 
@@ -14349,8 +13098,8 @@ mentionnés au troisième alinéa du 1° de l'article R. 212-45, avec celle des 
 212-45 est limitée à 30 % ; 
 
 3° Rapportée à ce même montant, la valeur au bilan des actifs émis, prêtés ou garantis par un même organisme ou un même
-groupe ne peut excéder respectivement 5 % et 10 %, sauf dérogation accordée au cas par cas par l'Autorité de contrôle des
-assurances et des mutuelles. 
+groupe ne peut excéder respectivement 5 % et 10 %, sauf dérogation accordée au cas par cas par l'Autorité de contrôle
+prudentiel. 
 
 Toutefois, le ratio de 5 % susmentionné peut atteindre 10 %, à condition que la valeur totale des titres émis et des prêts
 obtenus ou garantis par les organismes ou groupes dont les émissions, prêts ou garanties de prêt sont admis au-delà de 5 %
@@ -14362,9 +13111,9 @@ peuvent également être représentées sans condition par une créance sur cet 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
@@ -14807,37 +13556,34 @@ d'exercice ou ultérieurement, les limitations du présent article ne s'applique
 
 ###### Article R212-78
 
-Une mutuelle ou union ne peut souscrire d'instruments financiers à terme que :
+Une mutuelle ou union ne peut souscrire d'instruments financiers à terme que : 
 
-1. Sur les marchés reconnus au sens du dernier alinéa du A de l'article R. 212-31 ;
+1. Sur les marchés reconnus au sens du dernier alinéa du A de l'article R. 212-31 ; 
 
-2. De gré à gré, auprès :
+2. De gré à gré, auprès : 
 
 a) Des établissements de crédit et entreprises d'investissement ayant leur siège social sur le territoire de l'un des Etats
-membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen ;
+membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen ; 
 
-b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financier ;
+b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financier ; 
 
 c) Des établissements de crédit ou entreprises d'investissement de pays tiers assujettis à des règles prudentielles
-considérées comme équivalentes par la Commission bancaire ;
+considérées comme équivalentes par l'Autorité de contrôle prudentiel ; 
 
 d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de l'Autorité de contrôle mentionnée à
 l'article L. 510-1.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31, L510-1
-	  - Code monétaire et financier - art. L518-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-1 (V)
+	  - Code de la mutualité - art. L510-1 (V)
+	  - Code de la mutualité - art. R212-31 (V)
 
 
 ###### Article R212-79
@@ -15282,8 +14028,8 @@ instruments détenus sur des établissements de crédit, des entreprises d'inves
 mentionnés au I de l'article R. 212-11.
 
 Lorsque la mutuelle ou l'union est un organisme participant d'un établissement de crédit, d'une entreprise d'investissement
-ou d'un établissement financier, l'Autorité de contrôle des assurances et des mutuelles est également autorisée à appliquer,
-en alternative à ces deux méthodes, les méthodes définies aux articles R. 213-9 et R. 213-10.
+ou d'un établissement financier, l'Autorité de contrôle prudentiel est également autorisée à appliquer, en alternative à ces
+deux méthodes, les méthodes définies aux articles R. 213-9 et R. 213-10.
 
 **Liens relatifs à cet article**
 
@@ -15291,25 +14037,21 @@ en alternative à ces deux méthodes, les méthodes définies aux articles R. 21
 
 	  - Code de la mutualité (nouveau) R213-3, L510-1, L212-7-1, L212-7, R212-11, R213-9, R213-10
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 
 ###### Article R213-5
 
 Les mutuelles ou unions dont l'organisme de référence mentionné au 1° de l'article L. 212-7-1 est une société de groupe
-d'assurance, une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle des assurances et des
-mutuelles, une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 du code des assurances ou une
-entreprise d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou
-partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée positive selon des modalités
-définies aux articles R. 213-2 à R. 213-4. Dans ce but, elles procèdent à un calcul de la solvabilité ajustée de leur
-organisme de référence dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité d'une mutuelle
-ou union participante agréée en France et pratiquant les mêmes opérations.
+d'assurance, une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle prudentiel, une
+entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 du code des assurances ou une entreprise
+d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à
+l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée positive selon des modalités définies
+aux articles R. 213-2 à R. 213-4. Dans ce but, elles procèdent à un calcul de la solvabilité ajustée de leur organisme de
+référence dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité d'une mutuelle ou union
+participante agréée en France et pratiquant les mêmes opérations.
 
 L'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une mutuelle ou une union d'assurance ou de
 réassurance : 
@@ -15320,10 +14062,10 @@ mutualité, ou une institution de prévoyance ou union régie par le titre III d
 elle est apparentée ; 
 
 b) Si cette mutuelle ou cette union a pour organisme de référence une entreprise d'assurance ou de réassurance ou une société
-de groupe d'assurance ou une compagnie financière holding mixte dont le coordonnateur est l'autorité de contrôle des
-assurances et des mutuelles ayant son siège dans un Etat non partie à l'accord sur l'Espace économique européen qui est
-également l'organisme de référence d'un ou plusieurs autres organismes d'assurance ou de réassurance et qu'elle est prise en
-compte dans le calcul de la marge de solvabilité de l'un de ces autres organismes d'assurance ou de réassurance ; 
+de groupe d'assurance ou une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle prudentiel
+ayant son siège dans un Etat non partie à l'accord sur l'Espace économique européen qui est également l'organisme de
+référence d'un ou plusieurs autres organismes d'assurance ou de réassurance et qu'elle est prise en compte dans le calcul de
+la marge de solvabilité de l'un de ces autres organismes d'assurance ou de réassurance ; 
 
 c) Si cette mutuelle ou cette union a pour organisme de référence une entreprise d'assurance ou de réassurance ou une société
 de groupe d'assurance ou une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle, et dont le
@@ -15339,7 +14081,7 @@ prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabil
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 17
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
@@ -15447,11 +14189,11 @@ conglomérat. Cette différence doit être positive.
 
 ###### Article R213-9
 
-Lorsqu'elle est coordonnateur, l'Autorité de contrôle des assurances et des mutuelles peut, après consultation des autres
-autorités compétentes concernées et du conglomérat financier considéré, faire appliquer, à la place de la méthode prévue à
-l'article R. 213-8 pour le calcul des exigences complémentaires, l'une des trois méthodes suivantes, si elle lui apparaît
-plus pertinente au regard des impératifs de la surveillance complémentaire, en raison notamment de la structure du
-conglomérat financier considéré, ou à la demande de ce dernier.
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle prudentiel peut, après consultation des autres autorités compétentes
+concernées et du conglomérat financier considéré, faire appliquer, à la place de la méthode prévue à l'article R. 213-8 pour
+le calcul des exigences complémentaires, l'une des trois méthodes suivantes, si elle lui apparaît plus pertinente au regard
+des impératifs de la surveillance complémentaire, en raison notamment de la structure du conglomérat financier considéré, ou
+à la demande de ce dernier.
 
 1° Méthode n° 1 : déduction et agrégation.
 
@@ -15485,9 +14227,9 @@ La différence doit être positive.
 
 3° Méthode n° 3 : combinaison des trois méthodes.
 
-Lorsqu'elle est coordonnateur, l'Autorité de contrôle des assurances et des mutuelles peut, sous les conditions mentionnées
-au premier alinéa, permettre au conglomérat financier de combiner deux ou trois des méthodes mentionnées à l'article R. 213-8
-et au présent article.
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle prudentiel peut, sous les conditions mentionnées au premier alinéa,
+permettre au conglomérat financier de combiner deux ou trois des méthodes mentionnées à l'article R. 213-8 et au présent
+article.
 
 Un arrêté du ministre chargé de la mutualité détermine les modalités de calcul des fonds propres et des exigences de
 solvabilité d'une entité qui doivent être retenues dans le cadre de l'application des méthodes n°s 1 à 3.
@@ -15498,13 +14240,9 @@ solvabilité d'une entité qui doivent être retenues dans le cadre de l'applica
 
 	  - Code de la mutualité (nouveau) R213-8
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cité par**:
 
@@ -15514,10 +14252,10 @@ solvabilité d'une entité qui doivent être retenues dans le cadre de l'applica
 
 ###### Article R213-10
 
-Sans préjudice des dispositions de l'article L. 212-7-16, l'Autorité de contrôle des assurances et des mutuelles peut,
-lorsqu'elle est désignée comme coordonnateur et si la situation du conglomérat financier en matière d'adéquation des fonds
-propres le justifie, demander que les exigences complémentaires soient couvertes par des éléments prudentiels admis à la fois
-par la réglementation applicable au secteur des assurances et par celle applicable au secteur bancaire et des services
+Sans préjudice des dispositions de l'article L. 212-7-16, l'Autorité de contrôle prudentiel peut, lorsqu'elle est désignée
+comme coordonnateur et si la situation du conglomérat financier en matière d'adéquation des fonds propres le justifie,
+demander que les exigences complémentaires soient couvertes par des éléments prudentiels admis à la fois par la
+réglementation applicable au secteur des assurances et par celle applicable au secteur bancaire et des services
 d'investissement dans les limites propres aux réglementations sectorielles.
 
 **Liens relatifs à cet article**
@@ -15526,13 +14264,9 @@ d'investissement dans les limites propres aux réglementations sectorielles.
 
 	  - Code de la mutualité (nouveau) L212-7-16
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 
 ###### Article R213-11
@@ -20017,8 +18751,8 @@ cinquante salariés en équivalent temps plein.
 ###### Article A114-1
 
 Les opérations effectuées par les mutuelles et unions mentionnées au 1° du I de l'article L. 111-1 du présent code et
-soumises au contrôle de l'Autorité de contrôle des assurances et des mutuelles en vertu de l'article L. 510-1 sont réparties
-entre les catégories d'opérations suivantes :
+soumises au contrôle de l'Autorité de contrôle prudentiel en vertu de l'article L. 510-1 sont réparties entre les catégories
+d'opérations suivantes :
 
 - 1 Opérations de capitalisation à cotisation unique (ou versements libres) ;
 
@@ -20046,21 +18780,21 @@ entre les catégories d'opérations suivantes :
 
 - 19 Acceptations en réassurance (vie) ;
 
-- 20  Dommages corporels (opérations individuelles) (y compris garanties accessoires aux opérations d'assurance vie
+- 20 Dommages corporels (opérations individuelles) (y compris garanties accessoires aux opérations d'assurance vie
 individuelles) ;
 
-- 21  Dommages corporels (opérations collectives) (y compris garanties accessoires aux opérations d'assurance vie
+- 21 Dommages corporels (opérations collectives) (y compris garanties accessoires aux opérations d'assurance vie
 collectives) ;
 
-- 29  Protection juridique ;
+- 29 Protection juridique ;
 
-- 30  Assistance ;
+- 30 Assistance ;
 
-- 31  Pertes pécuniaires diverses ;
+- 31 Pertes pécuniaires diverses ;
 
-- 38  Caution ;
+- 38 Caution ;
 
-- 39  Acceptations en réassurance (non-vie).
+- 39 Acceptations en réassurance (non-vie).
 
 Les mutuelles et unions qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par
 exercice et par catégorie les éléments suivants de leurs opérations brutes de cessions et de leurs opérations cédées :
@@ -20082,22 +18816,18 @@ prestations, commissions et provisions techniques par état de situation du risq
 	  - Code de la mutualité (nouveau) L111-1, L510-1, L222-1
 	  - Loi n°2003-275 2003-08-21 art. 108
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 
 ###### Article A114-2
 
 I.-Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions soumises au contrôle de
-l'Autorité de contrôle des assurances et des mutuelles en application de l'article L. 510-1 remettent chaque année à cette
-dernière leurs comptes annuels dans les trente jours qui suivent leur approbation par l'assemblée générale. Elles joignent à
-cet envoi le rapport de gestion du conseil d'administration ainsi que les rapports des commissaires aux comptes et, pour
-celles qui y sont astreintes, le bilan social. 
+l'Autorité de contrôle prudentiel en application de l'article L. 510-1 remettent chaque année à cette dernière leurs comptes
+annuels dans les trente jours qui suivent leur approbation par l'assemblée générale. Elles joignent à cet envoi le rapport de
+gestion du conseil d'administration ainsi que les rapports des commissaires aux comptes et, pour celles qui y sont
+astreintes, le bilan social. 
 
 II.-Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions régies par le livre II du
 présent code et n'ayant pas conclu de convention de substitution pour l'intégralité de leurs opérations pratiquées en vertu
@@ -20143,7 +18873,7 @@ rendu détaillé annuel et des résultats du test d'exigibilité relatifs à l'e
 
 	**Modifié par**:
 
-	  - Arrêté du 21 décembre 2009 - art. 1
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 
@@ -20349,9 +19079,8 @@ décaissement sont calculées à partir des engagements comptabilisés. Les enga
 sur la base de prestations majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux
 annuel moyen des rachats constatés au cours des années passées. 
 
-Les mutuelles et unions transmettent les résultats du test chaque année à l'Autorité de contrôle des assurances et des
-mutuelles dans les quatre mois suivant la clôture de l'exercice, dans la forme de l'état C 6 bis défini dans l'annexe à
-l'article A. 114-5.
+Les mutuelles et unions transmettent les résultats du test chaque année à l'Autorité de contrôle prudentiel dans les quatre
+mois suivant la clôture de l'exercice, dans la forme de l'état C 6 bis défini dans l'annexe à l'article A. 114-5.
 
 **Nota:**
 
@@ -20366,13 +19095,13 @@ rendu détaillé annuel et des résultats du test d'exigibilité relatifs à l'e
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté du 21 décembre 2009 - art. 4
-
 	**Cité par**:
 
 	  - Arrêté du 21 décembre 2009 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cite**:
 

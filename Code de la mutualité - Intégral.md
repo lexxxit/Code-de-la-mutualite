@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-01-23
+Version Consolidée au 2010-03-04
 
 # Partie législative
 
@@ -8533,53 +8533,57 @@ encaissé au moins un million d'euros de cotisations ou ont employé au moins di
 
 Le montant total des indemnités versées par un même organisme mutualiste en application des dispositions du deuxième alinéa
 de l'article L. 114-26 ne peut excéder celui du total des dix plus hautes rémunérations versées à ses salariés par cet
-organisme.
+organisme. 
+
+Pour un organisme qui, en moyenne annuelle au cours des trois derniers exercices, compte au moins cinquante mille membres
+participants, a encaissé au moins dix millions d'euros de cotisations ou a employé au moins cent salariés en équivalent temps
+plein, le montant total des indemnités mentionné au premier alinéa ne peut excéder celui du total des quinze plus hautes
+rémunérations versées à ses salariés par cet organisme.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-212 du 1er mars 2010 - art. 1
+
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L114-26
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-132 du 10 février 2004 - art. 1 () JORF 12 février 2004
+	  - Code de la mutualité - art. L114-26
 
 
 ###### Article R114-6
 
-I. - Le montant annuel de l'indemnité, attribuée à un autre titre que le remboursement des rémunérations ou de la perte de
+I.-Le montant annuel de l'indemnité, attribuée à un autre titre que le remboursement des rémunérations ou de la perte de
 gains et les remboursements de frais mentionnés au sixième alinéa de l'article L. 114-26, ne peut excéder le plafond prévu au
-premier alinéa de l'article L. 241-3 du code de la sécurité sociale pour l'année considérée.
+premier alinéa de l'article L. 241-3 du code de la sécurité sociale pour l'année considérée. 
 
-Ce montant est toutefois porté à deux fois le montant du plafond mentionné au premier alinéa pour les organismes qui, en
-moyenne annuelle au cours des trois derniers exercices, comptent au moins vingt-cinq mille membres participants, ont encaissé
-au moins cinq millions d'euros de cotisations ou ont employé au moins cinquante salariés en équivalent temps plein.
+Ce montant est toutefois porté à : 
 
-II. - Chacune des personnes mentionnées au deuxième alinéa de l'article L. 114-26 et bénéficiant d'une indemnité présente au
+a) Deux fois le montant du plafond mentionné au premier alinéa pour les organismes qui, en moyenne annuelle au cours des
+trois derniers exercices, comptent au moins vingt-cinq mille membres participants, ont encaissé au moins cinq millions
+d'euros de cotisations ou ont employé au moins cinquante salariés en équivalent temps plein. 
+
+b) Trois fois le montant du plafond mentionné au premier alinéa pour les organismes qui, en moyenne annuelle au cours des
+trois derniers exercices, comptent au moins cinquante mille membres participants, ont encaissé au moins dix millions d'euros
+de cotisations ou ont employé au moins cent salariés en équivalent temps plein. 
+
+II.-Chacune des personnes mentionnées au deuxième alinéa de l'article L. 114-26 et bénéficiant d'une indemnité présente au
 conseil d'administration de l'organisme un compte rendu annuel des activités qu'elle exerce et du temps passé au service de
-la mutuelle.
+la mutuelle. 
 
 Ce compte rendu est annexé au rapport prévu au c de l'article L. 114-17.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-212 du 1er mars 2010 - art. 1
+
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L114-26, L114-17
-	  - Code de la sécurité sociale. - art. L241-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-132 du 10 février 2004 - art. 1 () JORF 12 février 2004
+	  - Code de la sécurité sociale. - art. L241-3
+	  - Code de la mutualité - art. L114-17
+	  - Code de la mutualité - art. L114-26
 
 	**Cité par**:
 
@@ -8592,22 +8596,23 @@ Le total des indemnités attribuées à un autre titre que le remboursement des 
 les remboursements des frais mentionnés au sixième alinéa de l'article L. 114-26 que les présidents de conseil
 d'administration et les administrateurs, quel que soit le nombre de leurs mandats, peuvent recevoir au cours d'une année
 civile, ne peut excéder deux fois le montant du plafond prévu au premier alinéa de l'article L. 241-3 du code de la sécurité
-sociale de l'année considérée.
+sociale de l'année considérée. 
+
+Ce montant peut être porté à trois fois le montant du plafond prévu au premier alinéa de l'article L. 241-3 du code de la
+sécurité sociale de l'année considérée lorsque les intéressés exercent au moins un de leurs mandats dans un organisme
+mentionné au b de l'article R. 114-6 ;
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-212 du 1er mars 2010 - art. 1
+
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L114-26
-	  - Code de la sécurité sociale. - art. L241-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-132 du 10 février 2004 - art. 1 () JORF 12 février 2004
+	  - Code de la sécurité sociale. - art. L241-3 (V)
+	  - Code de la mutualité - art. L114-26 (V)
+	  - Code de la mutualité - art. R114-6 (V)
 
 
 ###### Article R114-8
@@ -8722,9 +8727,8 @@ intéressées par lettre recommandée avec accusé de réception.A défaut d'opp
 
 a) Fixer, sans être tenus par un minimum, le montant de leur fonds d'établissement ; 
 
-b) Prévoir que l'assemblée générale est composée de tous les organismes affiliés, représentés chacun exclusivement par un de
-ses dirigeants, administrateurs ou par un représentant directement nommé soit par l'assemblée générale, soit par des délégués
-eux-mêmes nommés par l'assemblée générale de l'organisme affilié ; 
+b) Prévoir que l'assemblée générale est composée de tous les organismes affiliés, représentés par au moins un de leurs
+dirigeants ou administrateurs ou par un représentant directement nommé par l'assemblée générale ; 
 
 c) Déterminer le nombre de voix dont dispose chacun de ces organismes. 
 
@@ -8748,9 +8752,9 @@ prévoir le mode d'indemnisation des administrateurs dans les conditions prévue
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-790 du 23 juin 2009 - art. 1
+	  - Décret n°2010-212 du 1er mars 2010 - art. 1
 
 	**Cité par**:
 

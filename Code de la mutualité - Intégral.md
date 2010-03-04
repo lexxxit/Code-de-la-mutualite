@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-03-04
+Version Consolidée au 2010-03-05
 
 # Partie législative
 
@@ -14098,16 +14098,21 @@ prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabil
 ###### Article R213-6
 
 Les opérations qu'une mutuelle ou union effectue avec ses organismes apparentés sont soumises au contrôle de l'Autorité de
-contrôle mentionnée à l'article L. 510-1, notamment celles qui portent sur les prêts, les garanties et les opérations hors
-bilan, les éléments admissibles pour la marge de solvabilité, les investissements, les opérations de réassurance et les
-accords de répartition des coûts. La mutuelle ou l'union déclare au moins une fois par an à cette Autorité les opérations
-importantes mentionnées ci-dessus. La mutuelle ou l'union dispose en outre de procédures de gestion des risques et de
-dispositifs de contrôle interne destinés à détecter, mesurer, encadrer et contrôler ces opérations. Un arrêté du ministre
-chargé de la mutualité précise les conditions dans lesquelles ces opérations doivent être déclarées.
+contrôle prudentiel, notamment celles qui portent sur les prêts, les garanties et les opérations hors bilan, les éléments
+admissibles pour la marge de solvabilité, les investissements, les opérations de réassurance et les accords de répartition
+des coûts. La mutuelle ou l'union déclare au moins une fois par an à cette Autorité les opérations importantes mentionnées
+ci-dessus. La mutuelle ou l'union dispose en outre de procédures de gestion des risques et de dispositifs de contrôle interne
+destinés à détecter, mesurer, encadrer et contrôler ces opérations. Une décision de l'Autorité de contrôle prudentiel précise
+les conditions dans lesquelles ces opérations doivent être déclarées.
 
-Si l'Autorité de contrôle mentionnée à l'article L. 510-1 estime, à partir de l'examen de ces déclarations, que la
-solvabilité de la mutuelle ou de l'union est compromise ou susceptible de l'être, elle exige de cette mutuelle ou union
-qu'elle prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
+Si l'Autorité de contrôle prudentiel estime, à partir de l'examen de ces déclarations, que la solvabilité de la mutuelle ou
+de l'union est compromise ou susceptible de l'être, elle exige de cette mutuelle ou union qu'elle prenne les mesures
+nécessaires au rétablissement ou au maintien de sa solvabilité.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -14115,13 +14120,9 @@ qu'elle prenne les mesures nécessaires au rétablissement ou au maintien de sa 
 
 	  - Code de la mutualité (nouveau) L510-1
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 	**Cité par**:
 
@@ -16776,10 +16777,9 @@ d'exécution des dépenses correspondantes.
 
 Les décisions relatives à l'attribution des prêts et des subventions mentionnés à l'article L. 421-1 sont prises par le
 Conseil supérieur de la mutualité, qui peut déléguer sa compétence à la commission mentionnée à l'article R. 411-3, laquelle
-est composée de membres désignés en son sein. Ces décisions sont adoptées après avis du directeur régional des affaires
-sanitaires et sociales et, en ce qui concerne les établissements relevant de sa compétence, après avis du directeur de
-l'agence régionale de l'hospitalisation territorialement compétente. Leur avis est réputé rendu dans un délai de deux mois à
-compter de leur saisine.
+est composée de membres désignés en son sein. Ces décisions sont adoptées, en ce qui concerne les établissements relevant de
+sa compétence, après avis du directeur de l'agence régionale de santé. Leur avis est réputé rendu dans un délai de deux mois
+à compter de leur saisine.
 
 Le silence gardé par le Conseil supérieur de la mutualité ou sa commission spécialisée pendant quatre mois à compter de la
 demande vaut décision implicite de rejet.
@@ -16806,13 +16806,9 @@ consignations peut préciser les modalités de gestion financière du Fonds nati
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2003-499 du 13 juin 2003 - art. 1 () JORF 14 juin 2003
+	  - Décret n°2010-217 du 3 mars 2010 - art. 4
 
 	**Cité par**:
 
@@ -16820,8 +16816,8 @@ consignations peut préciser les modalités de gestion financière du Fonds nati
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L421-1 (V)
-	  - Code de la mutualité - art. R411-3 (V)
+	  - Code de la mutualité - art. L421-1
+	  - Code de la mutualité - art. R411-3
 
 
 ###### Article R421-4

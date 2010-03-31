@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-03-09
+Version Consolidée au 2010-04-01
 
 # Partie législative
 
@@ -16821,29 +16821,29 @@ d'exécution des dépenses correspondantes.
 
 Les décisions relatives à l'attribution des prêts et des subventions mentionnés à l'article L. 421-1 sont prises par le
 Conseil supérieur de la mutualité, qui peut déléguer sa compétence à la commission mentionnée à l'article R. 411-3, laquelle
-est composée de membres désignés en son sein. Ces décisions sont adoptées, en ce qui concerne les établissements relevant de
-sa compétence, après avis du directeur de l'agence régionale de santé. Leur avis est réputé rendu dans un délai de deux mois
-à compter de leur saisine.
+est composée de membres désignés en son sein. Ces décisions sont adoptées après avis du directeur général de l'agence
+régionale de santé territorialement compétente. Son avis est réputé rendu à l'issue d'un délai de deux mois à compter de sa
+saisine. 
 
 Le silence gardé par le Conseil supérieur de la mutualité ou sa commission spécialisée pendant quatre mois à compter de la
-demande vaut décision implicite de rejet.
+demande vaut décision implicite de rejet. 
 
 Un relevé des décisions d'attribution de prêt ou de subvention prises au cours de la séance est signé par le président du
-Conseil supérieur de la mutualité ou de la commission spécialisée, ou son représentant.
+Conseil supérieur de la mutualité ou de la commission spécialisée, ou son représentant. 
 
 Ce relevé est notifié à la Caisse des dépôts et consignations qui procède au versement des fonds selon l'échéancier joint à
-la demande et accepté par le Conseil supérieur de la mutualité ou par la commission spécialisée.
+la demande et accepté par le Conseil supérieur de la mutualité ou par la commission spécialisée. 
 
 Sur la base des informations contenues dans ce relevé, un registre central des prêts et subventions accordés à chaque
-organisme est tenu par la Caisse des dépôts et consignations aux fins du respect des dispositions du règlement CE n° 69/2001
-de la Commission européenne en date du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité instituant la
-Communauté européenne aux aides de minimis.
+organisme est tenu par la Caisse des dépôts et consignations aux fins du respect des dispositions du règlement CE n° 69 /
+2001 de la Commission européenne en date du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité
+instituant la Communauté européenne aux aides de minimis. 
 
 Le directeur général de la Caisse des dépôts et consignations adresse deux fois par an au Conseil supérieur de la mutualité
 le relevé des opérations effectuées et l'état du compte au 30 juin et au 31 décembre, un extrait du registre central, ainsi
 qu'un état des dépôts en numéraires et titres aux mêmes dates. En fin d'année, ces documents sont accompagnés d'une note
 présentant les résultats et perspectives de la gestion financière du fonds. Ces documents sont présentés à la prochaine
-séance du Conseil supérieur de la mutualité ou de sa commission spécialisée.
+séance du Conseil supérieur de la mutualité ou de sa commission spécialisée. 
 
 Une convention entre le président du Conseil supérieur de la mutualité et le directeur général de la Caisse des dépôts et
 consignations peut préciser les modalités de gestion financière du Fonds national de solidarité et d'action mutualistes.
@@ -16852,7 +16852,7 @@ consignations peut préciser les modalités de gestion financière du Fonds nati
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2010-344 du 31 mars 2010 - art. 345
 
 	**Cité par**:
 
@@ -16860,8 +16860,8 @@ consignations peut préciser les modalités de gestion financière du Fonds nati
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L421-1
-	  - Code de la mutualité - art. R411-3
+	  - Code de la mutualité - art. L421-1 (V)
+	  - Code de la mutualité - art. R411-3 (V)
 
 
 ###### Article R421-4
@@ -16892,7 +16892,29 @@ et d'action mutualistes au cours de l'année considérée, en distinguant ces d�
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.
 
-### Chapitre Ier : Autorité de contrôle.
+### Chapitre Ier : Autorité de contrôle prudentiel
+
+###### Article R510-1
+
+Pour l'exercice du contrôle des mutuelles et unions mentionnées à l'article L. 612-2 du code monétaire et financier,
+l'Autorité de contrôle prudentiel exerce sa mission dans les conditions prévues au chapitre II du titre Ier du livre VI de la
+partie réglementaire du code monétaire et financier.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-2 (M)
+
 
 #### Section 2 : Mesures de sauvegarde et d'assainissement.
 
@@ -17272,32 +17294,6 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 	  - Code monétaire et financier - art. L612-33 (V)
 
-
-### Chapitre Ier : Autorité de contrôle prudentiel
-
-###### Article R510-1
-
-Pour l'exercice du contrôle des mutuelles et unions mentionnées à l'article L. 612-2 du code monétaire et financier,
-l'Autorité de contrôle prudentiel exerce sa mission dans les conditions prévues au chapitre II du titre Ier du livre VI de la
-partie réglementaire du code monétaire et financier.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-2 (M)
-
-
-#### Section 2 : Mesures de sauvegarde et d'assainissement.
 
 ### Chapitre III : Dispositions pénales.
 

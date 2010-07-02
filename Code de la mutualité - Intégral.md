@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-03
 
 # Partie législative
 
@@ -3447,11 +3447,11 @@ mutuelles, ainsi que sur leurs dispositions statutaires.
 
 Le rapport de solvabilité établi par le conseil d'administration conformément à l'article L. 114-17 expose les conditions
 dans lesquelles l'organisme garantit, par la constitution des provisions techniques suffisantes dont les modalités de calcul
-et les hypothèses retenues sont explicitées et justifiées, les engagements qu'il prend à l'égard des membres participants et
-de leurs ayants droit, rappelle les orientations retenues en matière de placements, présente et analyse les résultats obtenus
-et indique si la marge de solvabilité est constituée conformément à la réglementation applicable. Le rapport de solvabilité
-contient obligatoirement une analyse des conditions dans lesquelles l'organisme est en mesure, à moyen et long terme, de
-faire face à l'ensemble de ses engagements. 
+et les hypothèses retenues sont explicitées et justifiées, les engagements qu'il prend à l'égard des membres participants, de
+leurs ayants droit ou des organismes réassurés, rappelle les orientations retenues en matière de placements, présente et
+analyse les résultats obtenus et indique si la marge de solvabilité est constituée conformément à la réglementation
+applicable. Le rapport de solvabilité contient obligatoirement une analyse des conditions dans lesquelles l'organisme est en
+mesure, à moyen et long terme, de faire face à l'ensemble de ses engagements. 
 
 Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de contrôle prudentiel.
 
@@ -3459,7 +3459,7 @@ Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 32
 
 	**Cité par**:
 
@@ -3470,10 +3470,6 @@ Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité
 	  - Code de la mutualité - art. R211-28-2 (VT)
 	  - Code de la mutualité - art. R211-29 (VT)
 	  - Code de la mutualité - art. R212-73 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L212-3-1
@@ -4236,33 +4232,56 @@ exécutés de la même façon que les engagements résultant des autres contrats
 ###### Article L212-15
 
 Par dérogation aux articles L. 631-4, L. 631-5, L. 640-4 et L. 640-5 du code de commerce, une procédure de redressement ou de
-liquidation judiciaire ne peut être ouverte à l'égard des mutuelles et unions, régies par le présent livre qu'à la requête de
-la commission mentionnée à l'article L. 510-1 ; le tribunal peut également se saisir d'office ou, après avis conforme de la
-commission, être saisi d'une demande d'ouverture de cette procédure par le procureur de la République.
+liquidation judiciaire ne peut être ouverte à l'égard des mutuelles et unions mentionnées à l'article L. 211-7 qu'à la
+requête de la commission mentionnée à l'article L. 510-1 ; le tribunal peut également se saisir d'office ou, après avis
+conforme de la commission, être saisi d'une demande d'ouverture de cette procédure par le procureur de la République. 
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture d'une procédure de conciliation instituée par l'article
 L. 611-4 du code de commerce ou d'une procédure de sauvegarde visée à l'article L. 620-1 du même code, à l'égard d'une
-mutuelle ou d'une union régie par le présent livre, qu'après avis conforme de l'Autorité de contrôle prudentiel.
+mutuelle ou d'une union mentionnée à l'article L. 211-7, qu'après avis conforme de l'Autorité de contrôle prudentiel.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 32
 
 	**Cite**:
 
 	  - Code de commerce - art. L611-4
 	  - Code de commerce - art. L620-1
 	  - Code de commerce - art. L631-4
-	  - Code de commerce - art. L631-5
-	  - Code de commerce - art. L640-4
-	  - Code de commerce - art. L640-5
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L211-5 (MMN)
 	  - Code de la mutualité - art. R414-3 (V)
+
+
+###### Article L212-15-1
+
+Les procédures de sauvegarde, de redressement ou de liquidation judiciaires instituées par les titres II, III et IV du livre
+VI du code de commerce ne peuvent être ouvertes à l'égard d'une mutuelle ou d'une union mentionnée au I de l'article L.
+211-7-2 du présent code qu'après avis de l'Autorité de contrôle prudentiel. 
+
+Le président du tribunal ne peut être saisi d'une demande d'ouverture de la procédure de conciliation instituée par le
+chapitre Ier du titre Ier du livre VI du code de commerce à l'égard d'une mutuelle ou d'une union mentionnée au I de
+l'article L. 211-7-2 du présent code qu'après avis de l'Autorité de contrôle prudentiel. 
+
+Un décret en Conseil d'Etat précise les modalités selon lesquelles sont donnés les avis prévus aux premier et deuxième
+alinéas du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 32
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-7-2
 
 
 ###### Article L212-16
@@ -6918,21 +6937,15 @@ loi au Journal officiel.
 
 ###### Article L223-25-2
 
-Toutes les informations, y compris les communications à caractère promotionnel, relatives à une opération individuelle
-comportant des valeurs de rachat, à une opération de capitalisation ou à une opération collective mentionnée à l'article L.
-222-1 ou à l'article L. 223-1, présentent un contenu exact, clair et non trompeur. Les communications à caractère
-promotionnel sont clairement identifiées comme telles.
+Toutes les informations, y compris les communications à caractère promotionnel, relatives à une opération sur la vie ou à une
+opération de capitalisation présentent un contenu exact, clair et non trompeur. Les communications à caractère promotionnel
+sont clairement identifiées comme telles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 7
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L222-1
-	  - Code de la mutualité - art. L223-1
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 35 (V)
 
 
 ###### Article L223-25-3

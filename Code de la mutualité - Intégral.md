@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-11-11
+Version Consolidée au 2010-12-22
 
 # Partie législative
 
@@ -15955,23 +15955,47 @@ Le ministre désigne deux fonctionnaires comme secrétaire général et secréta
 	  - Code de la mutualité - art. R413-5 (V)
 
 
-###### Article R411-3
+###### Article R411-2-1
 
-Le Conseil supérieur de la mutualité établit un règlement intérieur approuvé par le ministre chargé de la mutualité. Des
-commissions spécialisées peuvent être créées par le règlement intérieur, notamment pour assurer la gestion du Fonds national
-de solidarité et d'action mutualistes et émettre un avis sur les demandes d'agrément.
+Le Conseil supérieur de la mutualité comprend trois commissions spécialisées chargées, respectivement, d'émettre un avis sur
+les demandes d'agrément, de donner un avis sur tout projet de texte mentionné au deuxième alinéa de l'article L. 411-1, et
+d'assurer la gestion du Fonds national de solidarité et d'action mutualistes. Un arrêté du ministre chargé de la mutualité
+prévoit le nombre de membres, choisis parmi ceux du conseil supérieur, et les modalités de fonctionnement de chacune de ces
+commissions. 
 
-Ces commissions peuvent s'adjoindre des experts qui ont voix consultative.
+Les commissions prévues au présent article et celles prévues en application de l'article R. 411-3 peuvent entendre des
+experts.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Créé par**:
 
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Décret n°2010-1596 du 20 décembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A411-1 (V)
+	  - Code de la mutualité - art. A411-3 (V)
+	  - Code de la mutualité - art. A411-6 (V)
+	  - Code de la mutualité - art. R411-1 (V)
+	  - Code de la mutualité - art. R411-3 (V)
+	  - Code de la mutualité - art. R421-3 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L411-1
+
+
+###### Article R411-3
+
+Le Conseil supérieur de la mutualité établit un règlement intérieur approuvé par le ministre chargé de la mutualité. Ce
+règlement intérieur peut créer des commissions spécialisées, autres que celles mentionnées à l'article R. 411-2-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1596 du 20 décembre 2010 - art. 1
 
 	**Cité par**:
 
@@ -17009,10 +17033,10 @@ d'exécution des dépenses correspondantes.
 ###### Article R421-3
 
 Les décisions relatives à l'attribution des prêts et des subventions mentionnés à l'article L. 421-1 sont prises par le
-Conseil supérieur de la mutualité, qui peut déléguer sa compétence à la commission mentionnée à l'article R. 411-3, laquelle
-est composée de membres désignés en son sein. Ces décisions sont adoptées après avis du directeur général de l'agence
-régionale de santé territorialement compétente. Son avis est réputé rendu à l'issue d'un délai de deux mois à compter de sa
-saisine. 
+Conseil supérieur de la mutualité, qui peut déléguer sa compétence à la commission mentionnée à l'article R. 411-2-1. Ces
+décisions sont adoptées, en ce qui concerne les établissements relevant de sa compétence, après avis du directeur général de
+l'agence régionale de santé territorialement compétente. Cet avis est réputé rendu à l'issue d'un délai de deux mois à
+compter de la saisine. 
 
 Le silence gardé par le Conseil supérieur de la mutualité ou sa commission spécialisée pendant quatre mois à compter de la
 demande vaut décision implicite de rejet. 
@@ -17024,9 +17048,9 @@ Ce relevé est notifié à la Caisse des dépôts et consignations qui procède 
 la demande et accepté par le Conseil supérieur de la mutualité ou par la commission spécialisée. 
 
 Sur la base des informations contenues dans ce relevé, un registre central des prêts et subventions accordés à chaque
-organisme est tenu par la Caisse des dépôts et consignations aux fins du respect des dispositions du règlement CE n° 69 /
-2001 de la Commission européenne en date du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité
-instituant la Communauté européenne aux aides de minimis. 
+organisme est tenu par la Caisse des dépôts et consignations aux fins du respect des dispositions du règlement CE n° 69/2001
+de la Commission européenne en date du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité instituant la
+Communauté européenne aux aides de minimis. 
 
 Le directeur général de la Caisse des dépôts et consignations adresse deux fois par an au Conseil supérieur de la mutualité
 le relevé des opérations effectuées et l'état du compte au 30 juin et au 31 décembre, un extrait du registre central, ainsi
@@ -17041,7 +17065,7 @@ consignations peut préciser les modalités de gestion financière du Fonds nati
 
 	**Modifié par**:
 
-	  - Décret n°2010-344 du 31 mars 2010 - art. 345
+	  - Décret n°2010-1596 du 20 décembre 2010 - art. 2
 
 	**Cité par**:
 
@@ -17049,8 +17073,8 @@ consignations peut préciser les modalités de gestion financière du Fonds nati
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L421-1 (V)
-	  - Code de la mutualité - art. R411-3 (V)
+	  - Code de la mutualité - art. L421-1
+	  - Code de la mutualité - art. R411-2-1 (V)
 
 
 ###### Article R421-4

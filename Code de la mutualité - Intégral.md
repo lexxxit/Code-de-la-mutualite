@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-12-22
+Version Consolidée au 2010-12-31
 
 # Partie législative
 
@@ -19196,45 +19196,45 @@ provision pour charges ou une dette à l'égard du réassureur.
 
 ###### Article A212-9
 
-Les provisions techniques des prestations d'incapacité et d'invalidité sont la somme :
+Les provisions techniques des prestations d'incapacité et d'invalidité sont la somme : 
 
 1° Des provisions correspondant aux prestations d'incapacité de travail à verser après le 31 décembre de l'exercice, au titre
 des sinistres en cours à cette date majorées des provisions dites pour rentes en attente relatives aux rentes d'invalidité
-susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ;
+susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ; 
 
 2° Des provisions correspondant aux prestations d'invalidité à verser après le 31 décembre de l'exercice au titre des
-sinistres d'invalidité en cours à cette date ;
+sinistres d'invalidité en cours à cette date ; 
 
 Le calcul des provisions techniques de prestations d'incapacité de travail et d'invalidité est effectué à partir des éléments
-suivants :
+suivants : 
 
-1° Les lois de maintien en incapacité de travail et invalidité indiquées en annexe au présent article.
+1° Les lois de maintien en incapacité de travail et invalidité indiquées en annexe au présent article. 
 
 Toutefois, il est possible pour une mutuelle et union d'utiliser une loi de maintien établie par ses soins et certifiée par
 un actuaire indépendant de cette mutuelle et union, agréé à cet effet par l'une des associations d'actuaires reconnues par
-l'Autorité de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ;
+l'Autorité de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ; 
 
-2° Un taux d'actualisation qui ne peut excéder 75 % du taux moyen des emprunts de l'Etat français calculé sur base
-semestrielle, sans pouvoir dépasser 4,5 %.
+2° Un taux d'actualisation qui ne peut excéder 75 % du taux moyen au cours des deux derniers exercices des emprunts de l'Etat
+français, sans pouvoir dépasser 4,5 %.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2006-12-08 art. 1 JORF 30 décembre 2006
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Arrêté du 22 décembre 2010 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 24 décembre 2010 (V)
 	  - Arrêté du 24 décembre 2010 - art. 1 (V)
 
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L510-1
 
 
 ##### Section 3 
@@ -19671,60 +19671,70 @@ quinze jours à compter de la réception de l'état des vacations.
 
 ###### Article A212-19
 
-I. - En cas de vente de valeurs évaluées conformément à l'article R. 212-52, à l'exception des obligations à taux variable,
-des versements ou des prélèvement et versements sont effectués sur la réserve de capitalisation prévue au 3° de l'article R.
-212-26.
+I.-En cas de vente de valeurs évaluées conformément à l'article R. 212-52, à l'exception des obligations à taux variable, des
+versements ou des prélèvement et versements sont effectués sur la réserve de capitalisation prévue au 3° de l'article R.
+212-26. 
 
-Le montant de ces versements ou prélèvements, calculé dans les conditions fixées au II et au III du présent article, est tel
-que le rendement actuariel des titres soit après prélèvement et versement, égal à celui qui en était attendu lors de
-l'acquisition de ces mêmes titres.
+Le montant de ces versements ou prélèvements est calculé dans les conditions prévues au présent article. 
 
-II. - Lors de l'entrée en portefeuille des titres soumis à la réserve de capitalisation, leur taux actuariel de rendement est
+II.-Lors de l'entrée en portefeuille des titres soumis à la réserve de capitalisation, leur taux actuariel de rendement est
 calculé en tenant compte du prix d'acquisition, des probabilités, dates d'échéances et montants, nets de tous impôts, des
-coupons, des lots et autres avantages accessoires attachés à ces titres, et des valeurs de remboursement.
+coupons, des lots et autres avantages accessoires attachés à ces titres, et des valeurs de remboursement. 
 
 Pour les obligations visées au II de l'article R. 212-52, le calcul s'effectue en prenant pour valeur de remboursement la
 valeur de remboursement initiale multipliée par le rapport entre l'indice de référence à la date considérée et ce même indice
-à la date d'émission du titre.
+à la date d'émission du titre. 
 
-III. - Lors de la vente ou de la conversion d'une obligation, l'opération est appliquée au titre le plus ancien du
-portefeuille.
+III.-Lors de la vente ou de la conversion d'une obligation, l'opération est appliquée au titre le plus ancien du
+portefeuille. 
 
 En cas de vente ou de conversion d'un titre, on se réfère à la date d'acquisition de ce titre pour calculer, en fonction de
-son taux actuariel de rendement, sa valeur actuelle au jour de la vente ou de la conversion.
+son taux actuariel de rendement, sa valeur actuelle au jour de la vente ou de la conversion. 
 
 Pour les obligations visées au II de l'article R. 212-52, la valeur actuelle ainsi calculée est multipliée par le rapport
-entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition.
+entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition. 
 
 Lorsque le prix de vente est supérieur à la valeur actuelle, diminuée, le cas échéant, de la dépréciation mentionnée au
 dernier alinéa du I de l'article R. 212-52, l'excédent est versé à la réserve de capitalisation ; lorsqu'il est inférieur à
 la valeur actuelle, diminuée, le cas échéant, de la dépréciation mentionnée au dernier alinéa du I du même article, la
-différence est prélevée sur la réserve de capitalisation, dans la limite du montant de celle-ci.
+différence est prélevée sur la réserve de capitalisation, dans la limite du montant de celle-ci. 
 
-IV. - Les mutuelles ou unions, dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 750
-000 Euros à la date de l'inventaire, peuvent ne pas appliquer les dispositions du II et du III (2e et 3e alinéas) du présent
+La charge ou le produit théorique d'impôts lié à la non-prise en compte, dans le résultat imposable de la mutuelle ou de
+l'union, des versements ou prélèvements mentionnées à l'alinéa précédent donne lieu à respectivement une reprise non
+technique sur la réserve de capitalisation ou à une dotation non technique à la réserve de capitalisation, pour un montant
+équivalent. Cette reprise ou cette dotation contribue au résultat non technique de l'organisme. 
+
+IV.-Les mutuelles ou unions, dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 750 000
+Euros à la date de l'inventaire, peuvent ne pas appliquer les dispositions du II et du III (2e et 3e alinéas) du présent
 article. Elles sont alors tenues de porter à la réserve de capitalisation 10 % de l'excédent résultant de la comparaison
 entre le montant du prix de vente et le prix d'entrée en portefeuille des titres mentionnés au I du présent article vendus
 dans l'exercice, ou de prélever sur celle-ci la totalité de l'insuffisance résultant de la même comparaison. Une fois
 exercée, l'option prévue au présent paragraphe ne peut être remise en cause.
 
+**Nota:**
+
+Arrêté du 22 décembre 2010 JORF du 30 décembre 2010 art. 3 : 
+
+Les dispositions du présent arrêté s'appliquent aux comptes des mutuelles et des institutions de prévoyance, y compris celles
+pratiquant de la réassurance, à compter de l'exercice comptable 2010 .
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2006-12-21 art. 1 JORF 11 janvier 2007
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-52, R212-26
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2004 - art. 14 (Ab)
+
+	**Modifié par**:
+
+	  - Arrêté du 22 décembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R212-52
 
 
 ###### Article A212-20

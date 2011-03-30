@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2010-12-31
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -8597,6 +8597,17 @@ déroger aux dispositions du présent code. Cette nullité n'est pas opposable a
 	**Codifié par**:
 
 	  - Ordonnance 2001-350 2001-04-19
+
+
+###### Article L610-1-1
+
+Le présent code est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 16
 
 
 ###### Article L610-2

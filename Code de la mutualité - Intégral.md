@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-04-30
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -1584,61 +1584,61 @@ confidentialité des informations données comme telles par le président ou les
 
 ###### Article L114-21
 
-I. - Nul ne peut directement ou indirectement administrer ou diriger un organisme mutualiste :
+I.-Nul ne peut directement ou indirectement administrer ou diriger un organisme mutualiste : 
 
-1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive pour crime ;
+1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive pour crime ; 
 
 2° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à une peine d'au moins trois mois
-d'emprisonnement sans sursis pour :
+d'emprisonnement sans sursis pour : 
 
-a) L'un des délits prévus aux articles 432-11, 433-1, 433-2, 433-3, 441-1, 441-8 du code pénal, L. 152-6 du code du travail
-et L. 443-2 du code de commerce ;
+a) L'un des délits prévus aux articles 432-11,433-1,433-2,433-3,441-1    du code pénal, L. 152-6 du code du travail et L.
+443-2 du code de commerce ; 
 
-b) Vol, escroquerie, abus de confiance ;
+b) Vol, escroquerie, abus de confiance ; 
 
 c) L'un des délits prévus par des lois spéciales et punis des peines prévues en matière d'escroquerie, d'abus de confiance ou
-prévus par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
+prévus par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ; 
 
-d) Soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute ;
+d) Soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute ; 
 
 e) L'un des délits prévus à l'article L. 313-5 du code de la consommation, aux articles L. 353-1, L. 353-4 et L. 573-8 du
-code monétaire et financier ;
+code monétaire et financier ; 
 
-f) Recel des choses provenant des crimes ou délits visés ci-dessus ou des choses qui en sont le produit ;
+f) Recel des choses provenant des crimes ou délits visés ci-dessus ou des choses qui en sont le produit ; 
 
 g) L'un des délits prévus aux articles 75 et 77 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle
-des établissements de crédit et aux articles L. 571-3 à L. 571-9 et L. 571-14 et L. 571-16 du code monétaire et financier ;
+des établissements de crédit et aux articles L. 571-3 à L. 571-9 et L. 571-14 et L. 571-16 du code monétaire et financier ; 
 
-h) L'un des délits prévus aux articles 222-34 à 222-41 du code pénal et 415 du code des douanes ;
+h) L'un des délits prévus aux articles 222-34 à 222-41 du code pénal et 415 du code des douanes ; 
 
-i) L'un des délits prévus aux articles L. 163-2 à L. 163-8, L. 163-11 et L. 163-12 du code monétaire et financier ;
+i) L'un des délits prévus aux articles L. 163-2 à L. 163-8, L. 163-11 et L. 163-12 du code monétaire et financier ; 
 
 j) L'un des délits à la législation ou à la réglementation relative aux institutions de prévoyance régies par le titre III du
 livre IX du code de la sécurité sociale, aux entreprises régies par le code des assurances et aux mutuelles, unions et
-fédérations régies par le présent code ;
+fédérations régies par le présent code ; 
 
 3° Si une mesure définitive de faillite personnelle ou une autre mesure définitive d'interdiction prévue aux articles L.
 625-1 à L. 653-11 du code de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967
 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes a été prononcée à son
 égard ou s'il a été déclaré pour une décision définitive de moins de dix ans en état de faillite par une juridiction
-étrangère quand le jugement déclaratif a été déclaré exécutoire en France, et s'il n'a pas été réhabilité ;
+étrangère quand le jugement déclaratif a été déclaré exécutoire en France, et s'il n'a pas été réhabilité ; 
 
 4° S'il a fait l'objet d'une mesure de destitution de fonction d'officier ministériel en vertu d'une décision judiciaire
 définitive de moins de dix ans ; la juridiction qui a prononcé la destitution peut, à la demande de l'officier ministériel
-destitué, soit le relever de l'incapacité précitée, soit réduire la durée de l'incapacité ;
+destitué, soit le relever de l'incapacité précitée, soit réduire la durée de l'incapacité ; 
 
 5° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive prononcée par une juridiction étrangère et
 passée en force de chose jugée, constituant d'après la loi française une condamnation pour l'un des crimes ou délits
-mentionnés au présent article.
+mentionnés au présent article. 
 
 Le tribunal correctionnel du domicile du condamné apprécie à la requête du ministère public la régularité et la légalité de
-cette décision et statue en chambre du conseil, l'intéressé dûment appelé, sur l'application en France de l'interdiction.
+cette décision et statue en chambre du conseil, l'intéressé dûment appelé, sur l'application en France de l'interdiction. 
 
-II. - Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense
-d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation.
+II.-Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense
+d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation. 
 
-III. - Les personnes exerçant l'une des activités mentionnées au I du présent article doivent cesser leur activité dans un
-délai de trois mois à compter de la date à laquelle la décision de justice est devenue définitive.
+III.-Les personnes exerçant l'une des activités mentionnées au I du présent article doivent cesser leur activité dans un
+délai de trois mois à compter de la date à laquelle la décision de justice est devenue définitive. 
 
 Lorsque l'autorité administrative compétente en matière d'agrément est amenée à se prononcer sur l'honorabilité, la
 compétence et l'expérience de dirigeants et d'administrateurs qui exercent également ces mêmes fonctions au sein d'entités
@@ -1650,36 +1650,32 @@ l'exercice de leurs missions.
 
 	**Cite**:
 
-	  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
-	  - Loi n°83-628 1983-07-12
-	  - Loi n°84-46 1984-01-24 art. 75, art. 77
-	  - Loi n°84-46 du 24 janvier 1984 - art. 77 (M)
-	  - Code de commerce L625-1 à L653-11
-	  - Code de la consommation - art. L313-5 (M)
-	  - Code pénal - art. 432-11 (M)
-	  - Code pénal - art. 433-1 (M)
-	  - Code pénal - art. 433-2 (M)
-	  - Code pénal - art. 433-3 (M)
-	  - Code pénal - art. 441-1 (M)
-	  - Code pénal - art. 441-8 (M)
-	  - Code pénal 432-11, 433-1, 433-2, 433-3, 441-1, 441-8, 222-34 à 222-41
-	  - Code monétaire et financier - art. L163-11 (M)
-	  - Code monétaire et financier - art. L163-12 (V)
-	  - Code monétaire et financier - art. L353-1 (M)
-	  - Code monétaire et financier - art. L353-4 (M)
-	  - Code monétaire et financier - art. L571-14 (M)
-	  - Code monétaire et financier - art. L571-16 (M)
-	  - Code monétaire et financier - art. L573-8 (M)
-	  - Code monétaire et financier L353-1, L353-4, L573-8, L571-3 à L571-9, L571-14, L571-16, L163-2 à L163-8, L163-11, L163-12
-	  - Code de la mutualité - art. L212-7-1 (M)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 108
+	  - Loi n°83-628 du 12 juillet 1983
+	  - Loi n°84-46 du 24 janvier 1984
+	  - Loi n°84-46 du 24 janvier 1984 - art. 77
+	  - Code de commerce
+	  - Code de la consommation - art. L313-5
+	  - Code pénal
+	  - Code pénal - art. 432-11
+	  - Code pénal - art. 433-1
+	  - Code pénal - art. 433-2
+	  - Code pénal - art. 433-3
+	  - Code pénal - art. 441-1
+	  - Code pénal - art. 441-8
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L163-11
+	  - Code monétaire et financier - art. L163-12
+	  - Code monétaire et financier - art. L353-1
+	  - Code monétaire et financier - art. L353-4
+	  - Code monétaire et financier - art. L571-14
+	  - Code monétaire et financier - art. L571-16
+	  - Code monétaire et financier - art. L573-8
+	  - Code de la mutualité - art. L212-7-1
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
@@ -1691,6 +1687,10 @@ l'exercice de leurs missions.
 	  - Code de la mutualité - art. L431-4 (V)
 	  - Code de la mutualité - art. R114-9 (VD)
 	  - Code des assurances - art. L356-18 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 152
 
 
 ###### Article L114-22
@@ -2855,28 +2855,21 @@ mutualité mettent leurs statuts en conformité avec les dispositions du présen
 ###### Article L116-4
 
 Le conseil d'administration établit, chaque année, un rapport qu'il présente à l'assemblée générale et dans lequel il rend
-compte des opérations d'intermédiation et de délégation de gestion visées aux articles L. 116-1 à L. 116-3. Les informations
-contenues dans ce rapport sont déterminées par  décret.
-
-**Nota:**
-
-Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
-titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
-mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
+compte des opérations d'intermédiation et de délégation de gestion visées aux articles L. 116-1 à L. 116-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+	  - Loi n°2011-525 du 17 mai 2011 - art. 140
 
 	**Cite**:
 
-	  - Code de la mutualité L116-1 à L116-3
+	  - Code de la mutualité
 
 
 ###### Article L116-5
@@ -17726,8 +17719,6 @@ articles D. 114-4 et D. 114-6 sont majorés en proportion de l'augmentation de c
 	  - Décret n°2002-1383 du 21 novembre 2002 - art. 1 () JORF 28 novembre 2002
 	  - Décret n°2002-1383 du 21 novembre 2002 - art. 2 () JORF 28 novembre 2002
 
-
-#### Section 6 : Dispositions financières et comptables.
 
 #### Section 6 : Dispositions financières et comptables et états statistiques
 

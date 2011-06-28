@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-29
 
 # Partie législative
 
@@ -8619,6 +8619,138 @@ d'Etat.
 
 ## Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.
 
+### Chapitre Ier : Objet des mutuelles, unions et fédérations
+
+#### Section 1 : Système fédéral de garantie 
+
+
+
+
+###### Article R111-1
+
+L'agrément d'un système fédéral de garantie mentionné à l'article L. 111-6 est accordé, sur demande de l'union chargée de le
+gérer, par l'Autorité de contrôle prudentiel. 
+
+Pour accorder l'agrément, l'Autorité de contrôle prudentiel s'assure : 
+
+a) Que les moyens administratifs, notamment d'encadrement, et les moyens techniques et financiers sont compatibles avec les
+missions que l'union se propose de remplir ; 
+
+b) De l'honorabilité et la qualification ou l'expérience professionnelle des personnes chargées de gérer le système fédéral
+de garantie ; 
+
+c) Que les statuts de l'union chargée de gérer le système fédéral de garantie sont conformes aux dispositions de l'article L.
+114-4. 
+
+La décision délivrant l'agrément est publiée au Journal officiel de la République française et dans les conditions prévues à
+l'article R. 612-20 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R612-20
+	  - Code de la mutualité - art. L111-6
+	  - Code de la mutualité - art. L114-4
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R432-1 (VD)
+
+
+###### Article R111-2
+
+L'Autorité de contrôle prudentiel statue sur la demande d'agrément dans les conditions prévues à l'article R. 211-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R211-9
+
+
+###### Article R111-3
+
+L'Autorité de contrôle prudentiel refuse ou retire l'agrément lorsque le système fédéral de garantie ne satisfait pas aux
+obligations législatives et réglementaires prévues par le présent code. 
+
+Préalablement au retrait de l'agrément, l'Autorité de contrôle prudentiel notifie à l'union concernée, par lettre recommandée
+avec demande d'avis de réception ou remise contre récépissé, les faits justifiant le retrait et l'invite à présenter ses
+observations écrites dans un délai de quinze jours. 
+
+Si elle décide d'engager la procédure de retrait d'agrément, l'Autorité de contrôle prudentiel transmet au Conseil supérieur
+de la mutualité une demande d'avis, accompagnée d'un rapport explicatif ainsi que des observations présentées par l'union. 
+
+L'avis du Conseil supérieur de la mutualité est réputé rendu dans un délai de trois mois à compter de sa saisine par
+l'Autorité de contrôle prudentiel. 
+
+La décision de retrait de l'agrément doit être motivée et notifiée, par lettre recommandée avec demande d'avis de réception,
+ou remise contre récépissé à l'union intéressée. 
+
+La décision de retrait de l'agrément est publiée au Journal officiel de la République française et dans les conditions
+prévues à l'article R. 612-20 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R612-20
+
+
+###### Article R111-4
+
+Les mutuelles et unions affiliées ont obligation de se soumettre au contrôle sur pièces et sur place du système fédéral de
+garantie et de lui transmettre tous les documents nécessaires à son contrôle. 
+
+Le système fédéral de garantie, dans les conditions et limites définies par son règlement, peut demander aux mutuelles ou
+unions qui lui sont affiliées de prendre des mesures de redressement lorsque leur situation financière ou administrative le
+justifie. Il peut, dans les conditions et limites prévues dans son règlement, exclure une mutuelle ou union qui ne se
+conforme pas aux obligations prévues au premier alinéa ou ne prend pas les mesures de redressement demandées. 
+
+Le système fédéral de garantie informe sans délai le fonds national de garantie et l'Autorité de contrôle prudentiel de toute
+intervention financière et de toute mesure d'exclusion qu'il décide.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 1
+
+
+###### Article R111-5
+
+Le système fédéral de garantie établit un rapport de gestion annuel qu'il transmet à l'Autorité de contrôle prudentiel et au
+ministre chargé de la mutualité. 
+
+Ce rapport fait notamment mention des interventions financières effectuées au profit d'un adhérent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R432-13 (VD)
+
+
 ### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.
 
 #### Section 3 : Assemblée générale.
@@ -17105,6 +17237,519 @@ et d'action mutualistes au cours de l'année considérée, en distinguant ces d�
 	**Cite**:
 
 	  - Code de la mutualité - art. L411-1 (Ab)
+
+
+### Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance
+
+#### Chapitre unique : Le fonds de garantie
+
+
+
+
+###### Article R432-1
+
+Le fonds de garantie institué par l'article L. 431-1 ne peut refuser l'adhésion d'une mutuelle ou union mentionnée au même
+article, agréée dans les conditions prévues aux articles L. 211-7 à L. 211-8 ou à laquelle un autre organisme s'est substitué
+au sens de l'article L. 211-5. 
+
+L'adhésion au fonds ne prend fin qu'en cas de retrait, de cessation ou de caducité de l'agrément ou bien de retrait ou
+d'abrogation de la dispense d'agrément mentionnée à l'article L. 211-5. 
+
+Pour les mutuelles ou unions qui adhèrent à un système fédéral de garantie prévu à l'article L. 111-6 agréé dans les
+conditions prévues à l'article R. 111-1, le fonds de garantie intervient à hauteur de la différence entre les limites fixées
+par l'article R. 432-7 et le montant pris en charge par le système fédéral conformément à son règlement. Lorsque la limite
+fixée par l'article R. 432-7 est inférieure au montant pris en charge par le système fédéral de garantie, le fonds de
+garantie n'intervient pas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-6
+	  - Code de la mutualité - art. L211-5
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L431-1
+	  - Code de la mutualité - art. R111-1
+	  - Code de la mutualité - art. R432-7
+
+
+###### Article R432-2
+
+Les membres participants de mutuelles ou unions adhérentes, ainsi que leurs ayants droit et bénéficiaires, bénéficient du
+fonds de garantie, au titre des prestations relevant des branches 1,2,20 à 26 définies à l'article R. 211-2. 
+
+Il est interdit d'utiliser à des fins publicitaires le fait que des bulletins d'adhésion à des règlements ou des contrats
+sont couverts par le mécanisme de garantie institué à l'article L. 431-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-1
+	  - Code de la mutualité - art. R211-2
+
+
+###### Article R432-3
+
+Le collège institué à l'article L. 431-2 est composé du directeur de la sécurité sociale, du président de l'Autorité de
+contrôle prudentiel et du président du conseil de surveillance du fonds de garantie, ou de leurs représentants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-2
+
+
+###### Article R432-4
+
+L'Autorité de contrôle prudentiel peut retenir un taux de réduction différent par ensemble de bulletins d'adhésion à un
+règlement ou de contrats présentant les mêmes caractéristiques. Tous les bulletins d'adhésion à un règlement ou les contrats
+d'un même ensemble ont le même taux de réduction. 
+
+Si l'Autorité de contrôle prudentiel décide le transfert de tout ou partie des bulletins d'adhésion à un règlement ou des
+contrats à un ou plusieurs organismes assureurs, elle fait procéder, aux frais de la mutuelle ou de l'union défaillante, à
+l'évaluation des actifs de cette dernière, afin de procéder à leur attribution. L'Autorité de contrôle prudentiel notifie à
+chaque organisme cessionnaire la liste des actifs accompagnant le transfert de portefeuille. 
+
+Si l'Autorité de contrôle prudentiel estime que les taux de réduction proposés sont excessifs, elle peut, sur le fondement de
+l'évaluation mentionnée à l'alinéa précédent, demander aux organismes ayant répondu à l'appel d'offres d'améliorer leur offre
+dans un délai qu'elle fixe. En l'absence de réponse satisfaisante, elle peut rejeter leur candidature. 
+
+Si la mutuelle ou l'union défaillante pratiquait les opérations relevant de l'article L. 222-1, les actifs affectés à ces
+opérations sont attribués aux cessionnaires des engagements correspondants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L222-1
+
+
+###### Article R432-5
+
+L'organisme cessionnaire présente au fonds de garantie la demande de versement prévue au premier alinéa de l'article L.
+431-3, dont il calcule le montant sur la base des engagements arrêtés à la date de publication au Journal officiel de la
+République française du transfert de portefeuille et des actifs accompagnant ce transfert. Lorsque la mutuelle ou l'union
+défaillante est garantie par un système fédéral de garantie, le fonds informe celui-ci sans délai de la demande de versement.
+Le système fédéral de garantie dispose d'un délai d'un mois à compter de la date de réception de la demande pour verser au
+fonds la part à sa charge conformément à son règlement. Dans un délai de deux mois à compter de la date de réception de la
+demande, le fonds, après avoir vérifié que les bulletins d'adhésion à un règlement ou les contrats sont couverts par la
+garantie et contrôlé le montant garanti par bulletin d'adhésion à un règlement ou par contrat, verse en une seule fois à
+l'organisme cessionnaire le montant de la somme qui lui est due en précisant, le cas échéant, la part prise en charge par le
+système fédéral de garantie. 
+
+A titre exceptionnel, l'Autorité de contrôle prudentiel peut, sur la demande du fonds de garantie, accorder au fonds et au
+système fédéral de garantie une prolongation, qui ne saurait excéder au total trois mois, des délais prévus aux alinéas
+précédents. 
+
+Les sommes dues par le fonds de garantie et, le cas échéant, par le système fédéral de garantie et non versées portent
+intérêt aux taux éventuellement prévus dans les bulletins d'adhésion à un règlement ou dans les contrats transférés, à
+compter de la date d'expiration du délai imparti au fonds pour en effectuer le versement. 
+
+Pour les membres participants, leurs ayants droit et les bénéficiaires de prestations qui, en vertu des clauses du règlement
+auquel ils ont adhéré, ont un droit sur la provision mathématique du bulletin d'adhésion au règlement ou du contrat,
+l'organisme cessionnaire informe chaque membre participant, ayant droit ou bénéficiaire de prestations du montant de la
+reconstitution, effectuée par le fonds de garantie et, le cas échéant, par le système fédéral de garantie, de la provision
+attachée à son bulletin d'adhésion ou son contrat. Pour les autres opérations, l'organisme cessionnaire informe les
+bénéficiaires de prestations à la date d'intervention du fonds de garantie du montant de la reconstitution, effectuée
+respectivement par le fonds de garantie et, le cas échéant, le système fédéral de garantie, des prestations auxquelles ils
+ont droit. 
+
+Le fonds de garantie dispose d'un délai de deux mois à compter de la date de versement prévue au présent article pour
+présenter à l'organisme cessionnaire, en son nom ou, le cas échéant, en celui du système fédéral de garantie, une demande de
+reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-3
+
+
+###### Article R432-6
+
+Le liquidateur demande au fonds de garantie le versement prévu au deuxième alinéa de l'article L. 431-3, qu'il calcule sur la
+base des engagements arrêtés à la date de cessation des effets des bulletins d'adhésion à un règlement ou des contrats,
+déterminée dans les conditions prévues aux articles L. 212-20 et L. 212-21. Lorsque la mutuelle ou l'union défaillante est
+garantie par un système fédéral de garantie, le fonds informe celui-ci sans délai de la demande de versement. Le système
+fédéral de garantie dispose d'un délai d'un mois à compter de la date de réception de la demande pour verser au fonds la part
+à sa charge conformément à son règlement. Dans un délai de deux mois à compter de la date de réception de la demande, le
+fonds, après avoir vérifié que les bulletins d'adhésion à un règlement ou les contrats sont couverts par la garantie et après
+avoir contrôlé le montant garanti par bulletin d'adhésion à un règlement ou par contrat, procède à un versement en une seule
+fois, en précisant, le cas échéant, la part prise en charge par le système fédéral de garantie, au profit de chaque membre
+participant, ayant droit ou bénéficiaire de prestations contre la remise par celui-ci d'un récépissé du versement. 
+
+A titre exceptionnel, l'Autorité de contrôle prudentiel peut, sur la demande du fonds de garantie, accorder au fonds et au
+système fédéral de garantie une prolongation, qui ne saurait excéder au total trois mois, des délais prévus à l'alinéa
+précédent. 
+
+Le fonds met en œuvre la garantie, selon la même procédure, si le liquidateur présente une demande complémentaire de
+versement en apportant la preuve que des membres participants, ayants droit ou bénéficiaires de prestations concernés n'ont
+pas été en mesure de présenter à temps les bulletins d'adhésion à un règlement ou les contrats susceptibles de bénéficier de
+la garantie. 
+
+Les sommes dues par le fonds de garantie et, le cas échéant, par le système fédéral de garantie et non versées portent
+intérêt au taux légal, à compter de la date d'expiration du délai imparti au fonds pour en effectuer le versement. 
+
+Le fonds de garantie dispose d'un délai de deux mois à compter de la date de versement prévue au premier alinéa du présent
+article pour présenter au membre participant, ayant droit ou bénéficiaire de prestations concerné, en son nom ou, le cas
+échéant, en celui du système fédéral de garantie, une demande de reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-20
+	  - Code de la mutualité - art. L431-3
+
+
+###### Article R432-7
+
+L'ensemble des provisions représentatives des droits à prestations résultant d'un même bulletin d'adhésion à un règlement ou
+contrat dont bénéficie un membre participant au titre d'une opération collective ou d'une opération individuelle est
+reconstitué : 
+
+1° Intégralement pour les prestations dues et échues à la date de notification mentionnée au I de l'article L. 431-2 ; 
+
+2° Intégralement pour les prestations des bulletins d'adhésion à un règlement ou contrats des branches 1 et 2 mentionnées à
+l'article R. 211-2 dues et échues entre la date de notification prévue au I de l'article L. 431-2 et la date de publication
+du transfert des bulletins d'adhésion à un règlement ou contrats ou de cessation de leurs effets ; 
+
+3° Jusqu'à concurrence d'un montant de provisions techniques de 70 000 euros pour les prestations déterminées par le ou les
+bulletins d'adhésion à un règlement ou contrats à devoir ou à échoir après la date de notification prévue au I de l'article
+L. 431-2, sauf pour les prestations mentionnées au 4° ; 
+
+4° Jusqu'à concurrence d'un montant de provisions techniques de 90 000 euros pour les rentes d'incapacité ou d'invalidité et
+les rentes résultant de bulletins d'adhésion à un règlement ou contrat en cas de décès, à devoir ou à échoir après la date de
+notification prévue au I de l'article L. 431-2, sans préjudice des dispositions prévues au 2°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-2
+	  - Code de la mutualité - art. R211-2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R432-1 (VD)
+
+
+###### Article R432-8
+
+Dès la notification prévue au I de l'article L. 431-2, la mutuelle ou l'union défaillante informe chaque membre participant,
+ayant droit ou bénéficiaire de prestations de la procédure en cours. 
+
+Les formalités à remplir par l'organisme cessionnaire du portefeuille de bulletins d'adhésion à un règlement ou de contrats
+pour bénéficier du versement par le fonds prévu au premier alinéa de l'article L. 431-3 sont précisées par le règlement du
+fonds de garantie. Celles qui devront être accomplies par le liquidateur en vue de permettre le versement prévu au deuxième
+alinéa du même article aux membres participants, ayants droit ou bénéficiaires de prestations sont également précisées par ce
+même règlement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-2
+	  - Code de la mutualité - art. L431-3
+
+
+###### Article R432-9
+
+Le membre participant, l'ayant droit, le bénéficiaire de prestations ou l'organisme cessionnaire qui conteste une décision du
+fonds de garantie saisit la juridiction compétente du lieu de son domicile ou de son siège social.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+
+###### Article R432-10
+
+Pour l'élection des membres du conseil de surveillance du fonds de garantie, chaque mutuelle ou union adhérente dispose d'un
+nombre de voix proportionnel à la part de ses cotisations dans le montant global prévu au premier alinéa de l'article R.
+432-13. 
+
+Les membres du conseil de surveillance du fonds sont élus pour une durée de cinq ans renouvelable. En cas de démission ou de
+décès d'un membre, il est procédé à une nouvelle désignation pour la durée du mandat restant à courir. 
+
+Les statuts du fonds de garantie précisent en tant que de besoin les dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R432-13
+
+
+###### Article R432-11
+
+Les statuts du fonds de garantie déterminent la composition du directoire, la durée du mandat de ses membres, les conditions
+de leur remplacement ainsi que les modalités de convocation et de réunion des membres des organes dirigeants du fonds. 
+
+Son règlement intérieur fixe les conditions de fonctionnement du fonds, de versement des sommes dues aux membres
+participants, ayants droit ou bénéficiaires ou aux organismes cessionnaires, de recouvrement des cotisations des mutuelles ou
+unions adhérentes et des pénalités de retard prévues à l'article L. 431-7, ainsi que les règles relatives à la tenue de la
+comptabilité du fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-7
+
+
+###### Article R432-12
+
+Les décisions du fonds de garantie sont communiquées sans délai au ministre chargé de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+
+###### Article R432-13
+
+I. ― Sous réserve des dispositions de l'article R. 432-15 et des dispositions du présent article relatives aux mutuelles ou
+unions se soumettant aux obligations prévues au premier alinéa de l'article R. 111-5 et prenant les mesures de redressement
+demandées par le système fédéral de garantie, le fonds doit disposer en permanence d'un montant global de ressources égal à
+0,05 % du total des provisions mathématiques constatées au 31 décembre de l'année précédente pour l'ensemble des mutuelles et
+unions mentionnées à l'article L. 431-1. Le montant global est constitué par les mutuelles et unions adhérentes, après
+déduction des ressources propres du fonds qui comprennent les produits financiers, pour moitié par des cotisations versées au
+fonds et pour moitié par des cotisations non versées prenant la forme de réserves pour fonds de garantie. 
+
+II. ― Le fonds de garantie notifie à chaque mutuelle ou union adhérente le montant de sa cotisation annuelle qui correspond à
+sa quote-part du montant global prévu au premier alinéa. 
+
+Cette quote-part est égale au pourcentage que représentent ses provisions techniques constatées au 31 décembre de l'année
+précédente, après un abattement des trois quarts pour les provisions des contrats en unités de compte, dans les provisions
+techniques de l'ensemble des mutuelles et unions adhérentes calculées avec le même abattement. Pour les opérations faisant
+l'objet d'une convention de substitution au sens de l'article L. 211-5, les provisions techniques prises en compte dans le
+calcul sont celles constituées dans la mutuelle ou l'union garante. 
+
+La cotisation annuelle d'une mutuelle ou union agréée dans les conditions prévues aux articles L. 211-7 et L. 211-8 ne peut
+être inférieure à 1 000 euros. 
+
+III. ― Si le montant de sa cotisation de l'année est supérieur à celui de l'année précédente, chaque mutuelle ou union
+procède en une seule fois au versement au fonds et à la dotation à la réserve pour un montant identique, égal à cette
+différence. Lorsque cette différence est négative, elle donne lieu, la même année, pour moitié à sa restitution par le fonds
+à la mutuelle ou union concernée et pour moitié à une reprise par la mutuelle ou union sur la réserve pour fonds de garantie.
+Sous réserve du respect des dispositions du premier alinéa de l'article R. 432-13 concernant le montant global de ressources,
+lorsque cette différence est inférieure à 400 euros, le fonds peut ne pas ajuster la cotisation annuelle de la mutuelle ou
+union. 
+
+Les mutuelles ou unions adhérentes disposent d'un délai de dix jours ouvrés à compter de la réception de la notification
+prévue au premier alinéa du II pour verser au fonds les cotisations. 
+
+Le fonds de garantie informe sans délai l'Autorité de contrôle prudentiel de tout retard de versement de plus d'un mois ou de
+tout refus de versement d'une mutuelle ou d'une union, afin que l'autorité mette en œuvre, le cas échéant, les pouvoirs
+qu'elle tire du chapitre II du titre Ier du livre VI du code monétaire et financier. 
+
+Les cotisations versées au fonds de garantie par les mutuelles ou unions dont l'adhésion au fonds a pris fin ne peuvent faire
+l'objet d'un reversement par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-5
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L431-1
+	  - Code de la mutualité - art. R111-5
+	  - Code de la mutualité - art. R432-15
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R432-10 (V)
+	  - Code de la mutualité - art. R432-13 (V)
+	  - Code de la mutualité - art. R432-14 (V)
+
+
+###### Article R432-14
+
+Si le fonds de garantie intervient dans les conditions prévues à l'article L. 431-3, il utilise par priorité ses ressources
+disponibles, avant d'appeler, en tant que de besoin, les réserves pour fonds de garantie prévues à l'article R. 432-13. 
+
+Si la mise en jeu de la garantie du fonds excède le montant global prévu au premier alinéa de l'article R. 432-13, le fonds
+emprunte les sommes nécessaires à la préservation des droits des membres participants, de leurs ayants droit ou bénéficiaires
+de prestations, dans la limite d'une fois ce montant global.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-3
+	  - Code de la mutualité - art. R432-13
+
+
+###### Article R432-15
+
+En cas d'intervention du fonds de garantie dans les conditions prévues à l'article L. 431-3, les mutuelles ou unions
+reconstituent, au cours des trois années suivantes, le montant des sommes versées par le fonds par un versement
+complémentaire au fonds égal, pour chacune de ces trois années, au tiers des ressources disponibles utilisées par le fonds
+et, le cas échéant, par une dotation complémentaire de leur réserve pour fonds de garantie égale, pour chacune des trois
+années, au tiers du montant de cette réserve appelé par le fonds. 
+
+Selon les branches définies à l'article R. 211-2 dont relèvent les droits ayant fait l'objet de l'intervention du fonds, la
+reconstitution des sommes versées par le fonds s'effectue sur la base d'une quote-part égale au pourcentage que représentent
+dans chaque mutuelle ou union les provisions techniques afférentes soit aux branches 1 et 2, soit aux branches 20 à 26 dans
+les provisions techniques de même nature de l'ensemble des mutuelles et unions adhérentes, telles que constatées au 31
+décembre de l'année précédente. 
+
+Pour les mutuelles ou unions qui adhèrent à un système fédéral de garantie, le versement complémentaire est effectué pour
+leur compte par l'intermédiaire du système fédéral de garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-3
+	  - Code de la mutualité - art. R211-2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R432-13 (VD)
+
+
+###### Article R432-16
+
+Les réserves pour fonds de garantie sont admises comme éléments constitutifs de la marge de solvabilité des mutuelles ou
+unions adhérentes tel que prévu aux articles R. 212-11, R. 212-15 et R. 212-18, à hauteur de la part de cotisation versée par
+la mutuelle ou union et non utilisée par le fonds. 
+
+Les certificats d'association éventuellement émis dans les conditions prévues à l'article L. 431-7 viennent en diminution de
+la marge de solvabilité des mutuelles ou unions qui les souscrivent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L431-7
+	  - Code de la mutualité - art. R212-11
+	  - Code de la mutualité - art. R212-15
+	  - Code de la mutualité - art. R212-18
+
+
+###### Article R432-17
+
+Le règlement du fonds de garantie détermine les conditions dans lesquelles celui-ci emprunte auprès de ses adhérents.
+
+Chaque emprunt doit être remboursé dans un délai maximal de six ans à compter de la date de sa souscription.
+
+La quote-part de chaque mutuelle ou union adhérente dans les emprunts du fonds vient en diminution de sa marge de
+solvabilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+
+
+###### Article R432-18
+
+Une provision est constituée dans la comptabilité du fonds de garantie pour enregistrer les cotisations versées par les
+mutuelles ou unions adhérentes, les produits financiers générés par ces cotisations et toutes autres ressources du fonds,
+sous déduction de ses frais de gestion.
+
+Le montant de cette provision est investi dans :
+
+1° Des valeurs cotées sur un marché réglementé d'instruments financiers d'un Etat membre de l'Union européenne, à l'exclusion
+des valeurs émises par une mutuelle ou union adhérente au fonds de garantie ou par un système fédéral de garantie ;
+
+2° Des valeurs émises ou garanties par un Etat membre de l'Union européenne ;
+
+3° Des liquidités ;
+
+4° Des actions de sociétés d'investissement à capital variable et des parts de fonds communs de placement détenant
+exclusivement des actifs relevant des 1°, 2° et 3° sans que soient prohibées les valeurs émises par des mutuelles ou unions
+adhérentes au fonds de garantie ou par un système fédéral de garantie dès lors que le montant total de ces valeurs n'excède
+pas 15 % de la valeur d'actif de chacun des instruments financiers de gestion collective visés ci-dessus.
+
+Les placements sont comptabilisés au prix d'achat et les moins-values provisionnées ligne par ligne.
+
+La provision ne peut être investie à hauteur de plus de 5 % dans des valeurs émises par un même organisme, à l'exception des
+valeurs émises ou garanties par un Etat membre de l'Union européenne.
+
+Les liquidités doivent représenter à tout instant au moins 20 % des actifs du fonds.
+
+Les valeurs et liquidités du fonds de garantie sont déposées auprès d'établissements de crédit ou d'entreprises
+d'investissement régulièrement habilités par un Etat membre de l'Union européenne. Aucun de ces établissements ou entreprises
+ne peut détenir plus de 25 % du montant de la provision.
+
+La comptabilité du fonds doit permettre de distinguer le montant des cotisations versées par les mutuelles ou unions
+adhérentes, le montant cumulé des produits financiers des cotisations et les autres ressources du fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-733 du 27 juin 2011 - art. 2
 
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.

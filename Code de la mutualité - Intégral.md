@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-06-29
+Version Consolidée au 2011-08-04
 
 # Partie législative
 
@@ -12180,7 +12180,7 @@ A.-Valeurs mobilières et titres assimilés :
 
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'Organisation de coopération et de
 développement économique (OCDE) ainsi que les titres émis par la caisse d'amortissement de la dette sociale instituée par
-l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises ou garanties par un organisme international à
+l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996; obligations émises ou garanties par un organisme international à
 caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
 par les collectivités publiques territoriales d'un Etat membre de l'OCDE ; 
 
@@ -12214,21 +12214,21 @@ institutions de prévoyance régies par le titre III du livre IX du code de la s
 territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 5°, 6°, 7°, 8°, 10° bis, 12° et
 14° ; 
 
-10° Parts des fonds communs de placement à risques de l'article L. 214-36 du code monétaire et financier, parts des fonds
-communs de placement dans l'innovation de l'article L. 214-41 du même code et parts des fonds d'investissement de proximité
-de l'article L. 214-41-1 du même code ; 
+10° Parts des fonds communs de placement à risques de l'article L. 214-28 du code monétaire et financier, parts des fonds
+communs de placement dans l'innovation de l'article L. 214-30 du même code et parts des fonds d'investissement de proximité
+de l'article L. 214-31 du même code ; 
 
 10° bis Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement des articles L.
-214-37 et L. 214-38 du code monétaire et financier, actions ou parts d'organisme de placement collectif en valeurs mobilières
-relevant de l'article L. 214-35-2 du code monétaire et financier, actions ou parts d'organismes de placement collectif en
-valeurs mobilières relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août
-2003 ; 
+214-38 et L. 214-38-1 du code monétaire et financier, actions ou parts d'organisme de placement collectif en valeurs
+mobilières relevant de l'article L. 214-36 du code monétaire et financier, actions ou parts d'organismes de placement
+collectif en valeurs mobilières relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction antérieure
+au 2 août 2003 ; 
 
-10° ter Parts ou actions d'organismes de placement collectif en levier mentionnés au R. 214-29 ou d'organismes de placement
-collectif en valeurs mobilières à règles d'investissement allégées à effet de levier mentionnés au R. 214-32 ; 
+10° ter Parts ou actions d'organismes de placement collectif en valeurs mobilières à règles d'investissement allégées
+mentionnés à l'article R. 214-83 du code monétaire et financier  ; 
 
-11° Parts ou actions d'organismes de placement collectifs en valeur mobilières de fonds alternatifs mentionnés au R.
-214-36 ; 
+11° Parts ou actions d'organismes de placement collectifs en valeur mobilières de fonds alternatifs mentionnés     à
+l'article R. 214-86 du code monétaire et financier  ; 
 
 12° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
 mentionnées aux 5°, 10°, 10° bis, 10° ter et 11°, dans les conditions fixées par l'article R. 212-46. 
@@ -12237,7 +12237,7 @@ Les marchés reconnus mentionnée aux 2°, 3°, 4° et 6° du présent article s
 Communauté européenne ou des Etats parties à l'accord sur l'Espace économique européen ou les marchés de pays tiers membres
 de l'OCDE en fonctionnement régulier. Les autorités compétentes de ces pays doivent avoir défini les conditions de
 fonctionnement du marché, d'accès à ce marché et d'admission aux négociations, et imposé le respect d'obligations de
-déclaration et de transparence.
+déclaration et de transparence. 
 
 B.-Actifs immobiliers : 
 
@@ -12258,7 +12258,7 @@ la section 5 du chapitre IV du titre Ier du livre II du code monétaire et finan
 
 14° quinquies Parts ou actions d'organismes de placement collectif immobilier mentionnés au sous-paragraphe 7 du paragraphe 1
 de la sous-section 1 de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et financier, lorsqu'ils
-exercent la dérogation prévue à l'article R. 214-200 du même code.
+exercent la dérogation prévue à l'article R. 214-200 du même code. 
 
 C.-Prêts et dépôts : 
 
@@ -12272,7 +12272,7 @@ des Etats membres de l'OCDE, dans les conditions fixées par l'article R. 212-44
 leur siège social sur le territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R.
 212-45 ; 
 
-18° Dépôts, dans les conditions fixées par l'article R. 212-49.
+18° Dépôts, dans les conditions fixées par l'article R. 212-49. 
 
 D.-Dispositions communes : 
 
@@ -12297,18 +12297,12 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 	**Cite**:
 
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1
+	  - Code monétaire et financier - art. L214-28
 	  - Code monétaire et financier - art. L214-35
-	  - Code monétaire et financier - art. L214-35-2
 	  - Code monétaire et financier - art. L214-36
-	  - Code monétaire et financier - art. L214-37
-	  - Code monétaire et financier - art. R214-200
-	  - Code de la mutualité - art. R212-21
-	  - Code de la mutualité - art. R212-28
-	  - Code de la mutualité - art. R212-35
-	  - Code de la mutualité - art. R212-44
-	  - Code de la mutualité - art. R212-47
-	  - Code de la mutualité - art. R212-48
-	  - Code de la mutualité - art. R212-70
+	  - Code monétaire et financier - art. L214-38
+	  - Code monétaire et financier - art. R214-83
+	  - Code monétaire et financier - art. R214-86
 
 	**Cité par**:
 
@@ -12330,7 +12324,7 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2011-922 du 1er août 2011 - art. 24
 
 
 ###### Article R212-31-1
@@ -12818,26 +12812,19 @@ répondant aux conditions fixées par l'article R. 212-50.
 ###### Article R212-46
 
 En application des dispositions des 5° et 12° de l'article R. 212-31, sont admissibles en représentation des engagements
-réglementés les parts ou actions d'organismes de placement collectif en valeurs mobilières relevant des sous-sections 1 à 8
-de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et financier (partie réglementaire) ; sont
-également admissibles les parts ou actions des organismes de placement collectif en valeurs mobilières régis par les
-réglementations des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique
-européen, pour autant que ces règles soient conformes à la directive communautaire n° 85/611/CEE du 20 décembre 1985 modifiée
-relative aux organismes de placement collectif en valeurs mobilières.
+réglementés les parts ou actions d'organismes de placement collectif en valeurs mobilières relevant de la sous-section 1 et
+de l'article L. 214-27 de la sous-section 2 de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et
+financier (partie réglementaire) ; sont également admissibles les parts ou actions des organismes de placement collectif en
+valeurs mobilières régis par les réglementations des Etats membres de l'Union européenne  et des autres Etats parties à
+l'accord sur l'Espace économique européen, pour autant que ces règles soient conformes à la                      directive n°
+2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives,
+réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilière.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Décret n°2006-1577 2006-12-11 art. 1 6° JORF 13 décembre 2006
+	  - Décret n°2011-922 du 1er août 2011 - art. 24
 
 	**Cité par**:
 

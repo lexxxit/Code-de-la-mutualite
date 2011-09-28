@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-09-09
+Version Consolidée au 2011-09-29
 
 # Partie législative
 
@@ -8972,13 +8972,14 @@ mutualiste. Elles sont régies par les dispositions du présent code qui s'appli
 des règles particulières du présent chapitre. Elles se forment dans les conditions propres aux unions énoncées à l'article L.
 113-1. 
 
-Elles sont tenues de s'immatriculer au registre national des mutuelles dans les conditions prévues à l'article R. 414-2. 
+Elles sont tenues de s'immatriculer auprès du secrétaire général du Conseil supérieur de la mutualité dans les conditions
+prévues à l'article R. 414-2. 
 
 Préalablement à la tenue de l'assemblée générale constitutive de l'union mutualiste de groupe, les membres fondateurs
-procèdent au dépôt des éléments constitutifs du fonds d'établissement dans les conditions prévues à l'article R. 212-2.
+procèdent au dépôt des éléments constitutifs du fonds d'établissement dans les conditions prévues à l'article R. 212-2. 
 
-II.-Dans le mois de la constitution de toute union mutualiste de groupe, sont déposés auprès du préfet de région dans
-laquelle est situé le siège de l'organisme les éléments suivants : 
+II.-Dans le mois de la constitution de toute union mutualiste de groupe, sont déposés auprès du secrétaire général du Conseil
+supérieur de la mutualité les éléments suivants : 
 
 a) La liste dûment certifiée des membres fondateurs mentionnant, pour chacun d'eux, leur dénomination, leur siège social, le
 montant de leurs engagements techniques et leurs chiffres d'affaires par branche ; 
@@ -8996,38 +8997,31 @@ Ces mêmes documents doivent être déposés, dans le même délai, auprès de l
 
 III.-Dans le même délai d'un mois, un extrait des documents mentionnés ci-dessus est publié dans l'un des journaux habilités
 à recevoir les annonces légales dans le département du siège social. Il est justifié de l'insertion par un exemplaire du
-journal certifié par l'imprimeur.
+journal certifié par l'imprimeur. 
 
 L'extrait doit contenir la dénomination adoptée par l'union mutualiste de groupe et l'indication de son siège, la désignation
 des personnes autorisées à gérer, administrer et signer pour l'union et, en outre, la date à laquelle l'union a été
-constituée, celle où elle doit finir et la date du dépôt auprès du préfet de région. 
+constituée, celle où elle doit finir et la date du dépôt auprès du secrétaire général du Conseil supérieur de la mutualité. 
 
 Il indique également le montant et le mode de constitution du fonds d'établissement et, s'il y a lieu, le montant du droit
-d'entrée.
+d'entrée. 
 
 L'extrait des actes et pièces déposés est signé par le président de l'union. 
 
 Sont soumis aux formalités ci-dessus prescrites tous actes et délibérations ayant pour objet la modification des statuts ou
 la continuation de l'union au-delà du terme fixé pour sa durée, ou la dissolution de l'union avant ce terme. 
 
-Toute personne a le droit de prendre communication des pièces déposées auprès du préfet de région ou même de s'en faire
-délivrer à ses frais un extrait par le préfet. 
+Toute personne a le droit de prendre communication des pièces déposées auprès du secrétaire général du Conseil supérieur de
+la mutualité ou même de s'en faire délivrer à ses frais un extrait par le secrétaire général du Conseil supérieur de la
+mutualité. 
 
-Toute personne peut obtenir, au siège de l'union, une copie certifiée des statuts. 
-
-IV.-Dans la collectivité territoriale de Corse, les formalités prévues au présent chapitre sont accomplies auprès du préfet
-de Corse.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+Toute personne peut obtenir, au siège de l'union, une copie certifiée des statuts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2011-1192 du 26 septembre 2011 - art. 1
 
 	**Cite**:
 
@@ -9047,10 +9041,10 @@ I.-1° Les statuts des unions mutualistes de groupe doivent fixer les conditions
 organismes affiliés à l'union mutualiste de groupe. 
 
 Ils doivent prévoir que l'admission ou l'exclusion d'un organisme affilié fait l'objet d'une déclaration préalable auprès de
-l'Autorité de contrôle prudentiel, accompagnée d'un dossier dont la composition est fixée par arrêté de ce ministre.
-L'Autorité de contrôle prudentiel peut, dans un délai de trois mois à compter de la réception du dossier, s'opposer à
-l'opération, si celle-ci apparaît contraire aux intérêts des assurés des organismes affiliés, par une décision motivée
-adressée à la ou aux personnes intéressées par lettre recommandée avec accusé de réception. A défaut d'opposition de
+l'Autorité de contrôle prudentiel, accompagnée d'un dossier dont la composition est     fixée par l'Autorité de contrôle
+prudentiel. L'Autorité de contrôle prudentiel peut, dans un délai de trois mois à compter de la réception du dossier,
+s'opposer à l'opération, si celle-ci apparaît contraire aux intérêts des assurés des organismes affiliés, par une décision
+motivée adressée à la ou aux personnes intéressées par lettre recommandée avec accusé de réception. A défaut d'opposition de
 l'Autorité de contrôle prudentiel, l'opération peut être réalisée à l'expiration de ce délai. 
 
 2° Les statuts des unions mutualistes de groupe doivent également : 
@@ -9077,19 +9071,14 @@ préalable ses propres statuts afin de reconnaître à l'union mutualiste de gro
 l'assemblée générale dudit organisme et de proposer lors de celle-ci l'élection de nouveaux candidats au poste
 d'administrateur. 
 
-III.-Les projets de statuts doivent indiquer le mode de rémunération de la direction.S'il y a lieu, ils peuvent également
+III.-Les projets de statuts doivent indiquer le mode de rémunération de la direction. S'il y a lieu, ils peuvent également
 prévoir le mode d'indemnisation des administrateurs dans les conditions prévues à l'article L. 114-26.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2011-1192 du 26 septembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -16791,20 +16780,18 @@ dispositions des articles 999 à 1008 du code de procédure civile sont applicab
 
 #### Chapitre IV : Registre national des mutuelles.
 
+#### Chapitre IV : Immatriculation et obligations déclaratives des mutuelles, des unions et des fédérations
+
 ###### Article R414-1
 
 Les organismes qui envisagent d'acquérir la qualité de mutuelle et les unions ou fédérations demandent leur immatriculation
-au registre national des mutuelles prévu à l'article L. 411-1.
+auprès du secrétaire général du Conseil supérieur de la mutualité prévu à l'article L. 411-1.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Décret n°2011-1192 du 26 septembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -16813,58 +16800,60 @@ au registre national des mutuelles prévu à l'article L. 411-1.
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L411-1 (V)
+	  - Code de la mutualité - art. L411-1
 
 
 ###### Article R414-2
 
 La demande d'immatriculation conforme à un modèle fixé par arrêté du ministre chargé de la mutualité est signée par le
-président de l'organisme et déposée auprès du préfet de la région dans laquelle est situé le siège de l'organisme.
+président de l'organisme et déposée auprès du secrétaire général du Conseil supérieur de la mutualité. 
 
-La demande comporte les renseignements suivants :
+La demande comporte les renseignements suivants : 
 
-1° La dénomination de l'organisme suivie, le cas échéant, du sigle représentatif de ce dernier ;
+1° La dénomination de l'organisme suivie, le cas échéant, du sigle représentatif de ce dernier ; 
 
 2° La nature des activités envisagées par les mutuelles et unions selon la nomenclature fixée par arrêté du ministre chargé
-de la mutualité qui précise notamment la liste des activités figurant à l'article L. 111-1 du présent code ;
+de la mutualité qui précise notamment la liste des activités figurant à l'article L. 111-1 du présent code ; 
 
-3° L'adresse du siège ;
+3° L'adresse du siège ; 
 
-4° La liste des sections de mutuelles mentionnées aux articles L. 115-1 et L. 115-4 ;
+4° La liste des sections de mutuelles mentionnées aux articles L. 115-1 et L. 115-4 ; 
 
 5° Les noms, noms d'usage, prénoms, domiciles personnels du président, des administrateurs et des dirigeants salariés
-mentionnés à l'article L. 114-19 ;
+mentionnés à l'article L. 114-19 ; 
 
 6° Lorsque les organismes envisagent d'acquérir la qualité de mutuelles, les noms et adresses des personnes physiques ayant
-participé à leur création ;
+participé à leur création ; 
 
 7° Lorsque les organismes sont des unions ou des fédérations, la dénomination et l'adresse du siège des mutuelles et unions
-ainsi que, pour les unions, celles des membres honoraires ayant participé à leur création ;
+ainsi que, pour les unions, celles des membres honoraires ayant participé à leur création ; 
 
 8° Pour les organismes résultant d'une fusion ou d'une scission, la dénomination de tous les organismes mutualistes qui y ont
-participé ;
+participé ; 
 
 9° Pour ceux créés suivant les modalités définies aux articles L. 111-3 et L. 111-4, la dénomination des organismes ayant
-participé à leur création.
+participé à leur création. 
 
-La demande est accompagnée des statuts et du procès-verbal de l'assemblée générale constitutive.
+La demande est accompagnée des statuts et du procès-verbal de l'assemblée générale constitutive. 
 
-Le préfet de région la transmet immédiatement au secrétaire général du Conseil supérieur de la mutualité qui procède, sans
-délai, à l'immatriculation de la mutuelle, de l'union ou de la fédération.
+Le secrétaire général du Conseil supérieur de la mutualité accuse sans délai réception de la demande. Il s'assure que le
+dossier est complet et que cette demande satisfait aux dispositions du présent code. Lorsque le dossier est incomplet, il
+demande dans le délai de cinq jours ouvrables les renseignements ou pièces manquants qui sont fournis dans un délai de quinze
+jours à compter de cette réclamation. 
 
-Le préfet de région délivre aux organismes régis par le présent chapitre un récépissé de la demande d'immatriculation dans
-les cinq jours ouvrables suivant le dépôt d'un dossier complet. Ce récépissé comporte le numéro d'immatriculation au registre
-national des mutuelles.
+Dans un délai de quinze jours francs suivant le dépôt du dossier complet, il délivre un certificat d'immatriculation portant
+mention du numéro d'identité visé par les dispositions de l'article R. 123-220 du code de commerce ou notifie le refus
+d'immatriculation. 
+
+Le délai prévu à l'alinéa précédent peut être prolongé d'un même délai lorsque la complexité de cette demande exige un examen
+approfondi. 
+
+Le secrétaire général du Conseil supérieur de la mutualité informe l'Autorité de contrôle prudentiel de l'immatriculation ou
+du refus d'immatriculation des organismes ayant demandé leur immatriculation, lorsque ceux-ci envisagent d'effectuer des
+opérations entrant dans le champ de compétence de cette autorité, tel que défini au A du III de l'article L. 612-1 du code
+monétaire et financier.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 	**Cité par**:
 
@@ -16875,14 +16864,38 @@ national des mutuelles.
 	  - Code de la mutualité - art. R414-2-1 (V)
 	  - Code de la mutualité - art. R414-8 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1192 du 26 septembre 2011 - art. 5
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L111-3 (M)
-	  - Code de la mutualité - art. L111-4 (V)
-	  - Code de la mutualité - art. L114-19 (V)
-	  - Code de la mutualité - art. L115-1 (V)
-	  - Code de la mutualité - art. L115-4 (V)
+	  - Code de commerce - art. R123-220
+	  - Code monétaire et financier - art. L612-1
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L111-3
+	  - Code de la mutualité - art. L114-19
+	  - Code de la mutualité - art. L115-1
+	  - Code de la mutualité - art. L115-4
+
+
+###### Article R414-2-1
+
+Le secrétaire général du Conseil supérieur de la mutualité procède également, selon les modalités prévues à l'article R.
+414-2, aux radiations des organismes qui le demandent. 
+
+En cas de fusion d'organismes, le secrétaire général du Conseil supérieur de la mutualité procède, selon les modalités
+prévues à l'article R. 414-2, aux demandes de radiations et changements de nom qui lui sont adressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1192 du 26 septembre 2011 - art. 6
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R414-2
 
 
 ###### Article R414-3
@@ -17029,44 +17042,6 @@ région.
 	  - Décret n°2012-596 du 27 avril 2012 - art. 9
 
 
-###### Article R414-7
-
-Le secrétaire général du Conseil supérieur de la mutualité et les préfets de région sont seuls habilités à délivrer à toute
-personne qui en fait la demande des copies ou extraits des mentions portées au registre mentionné à l'article L. 411-1 et des
-pièces déposées auprès des préfets de région.
-
-Toutefois, pour les documents comptables antérieurs à ceux établis au titre des trois derniers exercices, ces renseignements
-ne sont délivrés que sous forme d'extraits.
-
-La copie de l'extrait ou les renseignements demandés peuvent être délivrés par voie électronique.
-
-La copie, l'extrait ou le certificat est établi aux frais du demandeur, sans que, lorsqu'une reproduction est délivrée et
-envoyée, ces frais puissent excéder le coût de la reproduction et de l'envoi, et dans des conditions fixées par arrêté du
-ministre chargé de la mutualité.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Cité par**:
-
-	  - Arrêté du 18 avril 2005 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1192 du 26 septembre 2011 - art. 7
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L411-1
-
-
 ###### Article R414-8
 
 Toute mutuelle, union ou fédération indique le numéro d'immatriculation mentionné à l'article R. 414-2 dans ses statuts,
@@ -17101,26 +17076,6 @@ présent chapitre est puni d'une contravention de cinquième classe.
 	**Créé par**:
 
 	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-
-###### Article R414-10
-
-Le préfet rend compte au comité régional de coordination de la mutualité des immatriculations et des radiations des
-mutuelles, unions et fédérations ayant leur siège dans la région.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1192 du 26 septembre 2011 - art. 7
 
 
 ### Titre II : Incitation à l'action mutualiste.

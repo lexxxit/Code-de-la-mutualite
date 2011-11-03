@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2011-09-29
+Version Consolidée au 2011-11-04
 
 # Partie législative
 
@@ -12169,12 +12169,13 @@ A.-Valeurs mobilières et titres assimilés :
 
 1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'Organisation de coopération et de
 développement économique (OCDE) ainsi que les titres émis par la caisse d'amortissement de la dette sociale instituée par
-l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996; obligations émises ou garanties par un organisme international à
+l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises ou garanties par un organisme international à
 caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
 par les collectivités publiques territoriales d'un Etat membre de l'OCDE ; 
 
-2° Obligations, titres participatifs et parts ou actions émises par des véhicules de titrisation négociés sur un marché
-reconnu, autres que celles ou ceux visés au 1° ; 
+2° Obligations, parts ou actions émises par un organisme de titrisation régi par la section 2 du chapitre IV du titre Ier du
+livre II du code monétaire et financier ou par un organisme de droit étranger ayant un objet équivalent et titres
+participatifs, autres que celles et ceux visés au 1°, et négociés sur un marché reconnu ; 
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et billets de trésorerie) rémunérés à taux fixe ou
 indexé sur un taux usuel sur les marchés interbancaires, monétaires ou obligataires et émis par les personnes morales autres
@@ -12184,6 +12185,10 @@ un marché reconnu ;
 4° Bons à moyen terme négociables répondant aux conditions mentionnées à l'article R. 212-47, et émis par des personnes
 morales autres que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont les titres sont
 négociés sur un marché reconnu ; 
+
+4° bis Obligations, parts ou actions répondant aux conditions mentionnées aux a, b et c de l'article R. 212-47, émises par un
+organisme de titrisation régi par la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ou par
+un organisme de droit étranger ayant un objet équivalent, respectant les règles prévues à l'article R. 212-47-1 ; 
 
 5° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
 la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2°, 3° et 4° du présent article, dans les conditions fixées par
@@ -12200,8 +12205,8 @@ des Etats membres de l'OCDE ;
 9° Actions, parts et droits émis par des sociétés commerciales et obligations, titres participatifs et titres subordonnés
 émis par les sociétés d'assurances mutuelles, les mutuelles, unions et fédérations régies par le présent code et les
 institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale, ayant leur siège social sur le
-territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 5°, 6°, 7°, 8°, 10° bis, 12° et
-14° ; 
+territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 4° bis , 5°, 6°, 7°, 8°, 10°
+bis, 12° et 14° ; 
 
 10° Parts des fonds communs de placement à risques de l'article L. 214-28 du code monétaire et financier, parts des fonds
 communs de placement dans l'innovation de l'article L. 214-30 du même code et parts des fonds d'investissement de proximité
@@ -12214,10 +12219,10 @@ collectif en valeurs mobilières relevant de l'article L. 214-35 du code monéta
 au 2 août 2003 ; 
 
 10° ter Parts ou actions d'organismes de placement collectif en valeurs mobilières à règles d'investissement allégées
-mentionnés à l'article R. 214-83 du code monétaire et financier  ; 
+mentionnés à l'article R. 214-83 du code monétaire et financier ; 
 
-11° Parts ou actions d'organismes de placement collectifs en valeur mobilières de fonds alternatifs mentionnés     à
-l'article R. 214-86 du code monétaire et financier  ; 
+11° Parts ou actions d'organismes de placement collectifs en valeur mobilières de fonds alternatifs mentionnés à l'article R.
+214-86 du code monétaire et financier ; 
 
 12° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
 mentionnées aux 5°, 10°, 10° bis, 10° ter et 11°, dans les conditions fixées par l'article R. 212-46. 
@@ -12292,6 +12297,11 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 	  - Code monétaire et financier - art. L214-38
 	  - Code monétaire et financier - art. R214-83
 	  - Code monétaire et financier - art. R214-86
+	  - Code de la mutualité - art. R212-29
+	  - Code de la mutualité - art. R212-35
+	  - Code de la mutualité - art. R212-47
+	  - Code de la mutualité - art. R212-48
+	  - Code de la mutualité - art. R212-70
 
 	**Cité par**:
 
@@ -12313,25 +12323,27 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 
 	**Modifié par**:
 
-	  - Décret n°2011-922 du 1er août 2011 - art. 24
+	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
 
 
 ###### Article R212-31-1
 
 Lorsqu'une mutuelle ou union investit, directement ou indirectement, dans des obligations, des parts ou actions visées au 2°
 de l'article R. 212-31 ainsi que dans des titres de créance négociables visés au 2° bis du même article, émis par un véhicule
-de titrisation supportant des risques d'assurance transférés par cette même mutuelle ou union ou une mutuelle ou union
-appartenant au même périmètre de combinaison ou de consolidation tel que défini par l'article L. 212-7, le montant de ces
-investissements est déduit des actifs admis en représentation des engagements réglementés.
+de titrisation mentionné à l'article L. 310-1-2 du code des assurances, supportant des risques d'assurance transférés par
+cette même mutuelle ou union ou une mutuelle ou union appartenant au même périmètre de combinaison ou de consolidation tel
+que défini par l'article L. 212-7, le montant de ces investissements est déduit des actifs admis en représentation des
+engagements réglementés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-1-2
 	  - Code de la mutualité - art. L212-7
 	  - Code de la mutualité - art. R212-31
 
@@ -12354,9 +12366,13 @@ troisième alinéa du I de l'article R. 212-45, dont 10 % au maximum pour l'ense
 3° 10 % pour l'ensemble des valeurs mentionnées aux 15°, 16° et 17° de l'article R. 212-31 à l'exception des prêts mentionnés
 au 1° du présent article ; 
 
-4° 5 % pour l'ensemble des valeurs constituées par les obligations, les parts ou actions visées au 2° de l'article R. 212-31
-ainsi que les titres de créance visés au 2° bis du même article, émis par des véhicules de titrisation supportant des risques
-d'assurance.
+4° 5 % pour l'ensemble des valeurs constituées par :
+
+- les obligations, parts ou actions mentionnées au 2° du A de l'article R. 212-31 ainsi que les titres de créances
+négociables mentionnés au 3° du A du même article, émis par un véhicule de titrisation mentionné à l'article L. 310-1-2 du
+code des assurances ;
+
+- les obligations, parts ou actions mentionnées au 4° bis du A de l'article R. 212-31.
 
 **Liens relatifs à cet article**
 
@@ -12368,10 +12384,11 @@ d'assurance.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
 
 	**Cite**:
 
+	  - Code des assurances - art. L310-1-2
 	  - Code de la mutualité - art. L510-1
 	  - Code de la mutualité - art. R212-21
 	  - Code de la mutualité - art. R212-31
@@ -12860,6 +12877,45 @@ dates de publication du cours et de transaction.
 	  - Code de la mutualité - art. R212-31 (V)
 
 
+###### Article R212-47-1
+
+I. ― L'actif d'un organisme mentionné au 4° bis du A de l'article R. 212-31 doit être composé, à l'exclusion de tout autre
+élément : 
+
+1° De titres émis ou garantis par un Etat membre de l'OCDE ou un établissement public d'un tel Etat ; 
+
+2° D'actions de sociétés d'investissement à capital variable ou de parts de fonds communs de placement dont le portefeuille
+est exclusivement composé de titres mentionnés au 1° ; 
+
+3° De créances dont le principal et les intérêts sont intégralement couverts par un acte d'acceptation dans les conditions
+prévues à l'article L. 313-29-1 du code monétaire et financier, ou par un engagement irrévocable ayant des effets
+équivalents, signé par un Etat membre de l'OCDE ou un établissement public d'un tel Etat ; 
+
+4° De sommes momentanément disponibles et en instance d'affectation ou des valeurs conservées à titre de réserve ou de
+garantie. 
+
+II. ― L'organisme peut conclure des contrats financiers ayant pour objet unique la gestion de l'écart de périodicité entre
+les flux engendrés, d'une part, par les titres et créances détenus et, d'autre part, par les obligations, parts ou actions
+émises, le cas échéant, pour chaque compartiment concerné. 
+
+L'organisme ne peut, en dehors des obligations qu'il a émises, recourir à l'emprunt ni effectuer d'opérations de cession
+temporaire d'instruments financiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L313-29-1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R212-31 (V)
+
+
 ###### Article R212-48
 
 Pour l'application des dispositions du 14° de l'article R. 212-31, les mutuelles et unions sont autorisées à détenir les
@@ -12941,8 +12997,8 @@ d'une personne désignée par celui-ci à cet effet.
 ###### Article R212-50
 
 La garantie des créances sur les réassureurs mentionnée à l'article R. 212-35 est constituée par le nantissement des valeurs
-visées aux 1°, 2°, 3°, 4°, 5°, 6°, 12° et 14° de l'article R. 212-31. Ces valeurs sont déposées sur un compte gagé au sens de
-l'article L. 211-20 du code monétaire et financier.
+visées aux 1°, 2°, 3°, 4°, 4° bis, 5°, 6°, 12° et 14° de l'article R. 212-31. Ces valeurs sont déposées sur un compte gagé au
+sens de l'article L. 211-20 du code monétaire et financier.
 
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions de l'article R. 212-54. Pour l'estimation des
 valeurs mentionnées au 1° de l'article R. 212-31, la fraction courue du coupon est prise en compte.
@@ -12958,13 +13014,17 @@ sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cé
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-20 (V)
-	  - Code de la mutualité - art. L510-1 (V)
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-32 (V)
-	  - Code de la mutualité - art. R212-54 (V)
+	  - Code monétaire et financier - art. L211-20
+	  - Code de la mutualité - art. L510-1
+	  - Code de la mutualité - art. R212-31
+	  - Code de la mutualité - art. R212-32
+	  - Code de la mutualité - art. R212-54
 
 	**Cité par**:
 
@@ -13001,45 +13061,45 @@ perte, celle-ci doit être provisionnée pour son montant prévisible.
 
 ###### Article R212-52
 
-I. - Les valeurs amortissables énumérées aux 1°, 2°, 3° et 4° de l'article R. 212-31, autres que les obligations indexées,
-les parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date
-d'acquisition.
+I.-Les valeurs amortissables énumérées aux 1°, 2°, 3°, 4° et 4° bis de l'article R. 212-31, autres que les obligations
+indexées, les parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date
+d'acquisition. 
 
 Lorsqu'un instrument financier à terme est utilisé dans les conditions définies à l'article R. 212-71 et qu'il est lié à
 l'achat d'un titre ou d'un groupe de titres de même nature, la valeur de réalisation de l'instrument est prise en compte dans
-le prix d'achat de ce titre ou de ce groupe de titres.
+le prix d'achat de ce titre ou de ce groupe de titres. 
 
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de remboursement, la différence est amortie sur la durée de
-vie résiduelle des titres.
+vie résiduelle des titres. 
 
 Lorsque le prix d'achat de ces titres est inférieur à leur prix de remboursement, la différence est portée en produits sur la
 durée de vie résiduelle des titres. La mutuelle ou l'union peut décider de ne pas appliquer les dispositions du présent
 alinéa aux titres acquis aux cours des exercices clos avant l'entrée en vigueur du décret n° 2002-720 du 2 mai 2002 relatif
 aux règles prudentielles applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. Le
-choix ainsi effectué par la mutuelle ou l'union s'applique à l'ensemble des titres acquis avant cette date.
+choix ainsi effectué par la mutuelle ou l'union s'applique à l'ensemble des titres acquis avant cette date. 
 
-Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru.
+Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru. 
 
 Lors de l'arrêté comptable, les moins-values latentes ressortant de la différence entre la valeur comptable, diminuée des
 amortissements et majorée des produits mentionnés aux troisième et quatrième alinéas, et la valeur de réalisation des titres
-correspondants évaluée conformément à l'article R. 212-54, ne font pas l'objet d'une provision.
+correspondants évaluée conformément à l'article R. 212-54, ne font pas l'objet d'une provision. 
 
 Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
-paiement des intérêts, soit pour le remboursement du principal, une dépréciation doit être constatée à l'inventaire.
+paiement des intérêts, soit pour le remboursement du principal, une dépréciation doit être constatée à l'inventaire. 
 
-II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix d'un pays ou d'un
+II.-Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix d'un pays ou d'un
 ensemble de pays dont la devise est celle dans laquelle sont libellées ces obligations, avec garantie de remboursement au
 pair. Ces obligations sont soit émises par une personne morale de droit privé ayant son siège social sur le territoire d'un
 Etat membre de l'OCDE et négociées sur un marché reconnu, soit émises ou garanties par un Etat, un organisme ou une
 collectivité publics mentionnés au 1° du A de l'article R. 212-31, soit celles dont le débiteur est un établissement public
-national de l'un des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen.
+national de l'un des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen. 
 
 Pour le calcul de la différence à amortir entre le prix d'achat d'une obligation indexée sur le niveau général des prix et
 son prix de remboursement, celui-ci est le prix de remboursement initial du titre multiplié par le rapport entre l'indice des
-prix de référence à la date d'acquisition et ce même indice à la date d'émission.
+prix de référence à la date d'acquisition et ce même indice à la date d'émission. 
 
 A chaque arrêté comptable, le gain ou la perte lié à l'indexation depuis le dernier arrêté comptable ou depuis l'achat, s'il
-est plus récent, est enregistré en produits ou en charges.
+est plus récent, est enregistré en produits ou en charges. 
 
 Sans préjudice des dispositions du I, les obligations indexées sur le niveau général des prix donnent lieu à la constatation
 d'une dépréciation si une situation de déflation durable est envisagée. Pour la détermination du montant de cette provision,
@@ -13052,13 +13112,9 @@ application de l'article R. 332-19 du code des assurances.
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-31, R212-71, R212-54
-	  - Décret n°2002-720 2002-05-02
-	  - Code des assurances - art. R*332-19 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Décret n°2002-720 du 2 mai 2002
+	  - Code des assurances - art. R332-19
+	  - Code de la mutualité - art. R212-71
 
 	**Cité par**:
 
@@ -13073,7 +13129,7 @@ application de l'article R. 332-19 du code des assurances.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1724 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
+	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
 
 
 ###### Article R212-53
@@ -16777,8 +16833,6 @@ dispositions des articles 999 à 1008 du code de procédure civile sont applicab
 
 	  - Code de procédure civile - art. 999
 
-
-#### Chapitre IV : Registre national des mutuelles.
 
 #### Chapitre IV : Immatriculation et obligations déclaratives des mutuelles, des unions et des fédérations
 

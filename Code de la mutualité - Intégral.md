@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-03-16
 
 # Partie législative
 
@@ -7944,27 +7944,32 @@ Il gère pour le compte de l'Etat le fonds national de solidarité et d'action m
 Le Conseil supérieur de la mutualité est présidé par le ministre chargé de la mutualité ou, en son absence, par son
 représentant qui en est membre de droit.
 
-Le Conseil supérieur de la mutualité est composé en majorité de représentants des mutuelles, unions et fédérations. qui sont
-élus par les comités régionaux de coordination de la mutualité.
+Le Conseil supérieur de la mutualité est composé en majorité de représentants des mutuelles, unions et fédérations désignés
+par les fédérations les plus représentatives du secteur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
 	  - Rapport - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-355 du 14 mars 2012 - art. 3 (V)
 
 
 ###### Article L411-3
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre et notamment :
 
-a) La composition du Conseil supérieur de la mutualité et les modalités d'élection de ses membres ;
+a) La composition du Conseil supérieur de la mutualité et les modalités de désignation de ses membres ;
 
-b) Les obligations déclaratives auxquelles sont soumises les mutuelles, unions et fédérations.
+b) Les obligations déclaratives auxquelles sont soumises les mutuelles, unions et fédérations ainsi que les critères
+d'attribution du statut d'organisme professionnel représentatif à une fédération.
 
 **Liens relatifs à cet article**
 
@@ -7976,50 +7981,11 @@ b) Les obligations déclaratives auxquelles sont soumises les mutuelles, unions 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+	  - Loi n°2012-355 du 14 mars 2012 - art. 3 (V)
 
 	**Cite**:
 
 	  - Code de la mutualité - art. L411-1
-
-
-#### Chapitre II : Comités régionaux de coordination de la mutualité.
-
-###### Article L412-1
-
-Les frais de fonctionnement des comités régionaux de coordination de la mutualité siégeant auprès des préfets de région sont
-répartis entre les mutuelles, unions et fédérations de la région et recouvrés dans des conditions fixées par décret.
-
-L'avance en est faite par une mutuelle, union ou fédération désignée par chaque comité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2001-350 du 19 avril 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2012-355 du 14 mars 2012 - art. 3 (V)
-
-
-###### Article L412-2
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre, et notamment :
-
-a) La composition et les modalités d'élection des comités régionaux de coordination de la mutualité ;
-
-b) Les attributions de ces comités ainsi que leurs conditions de fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Loi n°2012-355 du 14 mars 2012 - art. 3 (V)
 
 
 ### Titre II : Incitation à l'action mutualiste.

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2012-04-07
+Version Consolidée au 2012-04-30
 
 # Partie législative
 
@@ -8977,17 +8977,13 @@ L'extrait des actes et pièces déposés est signé par le président de l'union
 Sont soumis aux formalités ci-dessus prescrites tous actes et délibérations ayant pour objet la modification des statuts ou
 la continuation de l'union au-delà du terme fixé pour sa durée, ou la dissolution de l'union avant ce terme. 
 
-Toute personne a le droit de prendre communication des pièces déposées auprès du secrétaire général du Conseil supérieur de
-la mutualité ou même de s'en faire délivrer à ses frais un extrait par le secrétaire général du Conseil supérieur de la
-mutualité. 
-
 Toute personne peut obtenir, au siège de l'union, une copie certifiée des statuts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1192 du 26 septembre 2011 - art. 1
+	  - Décret n°2012-596 du 27 avril 2012 - art. 1
 
 	**Cite**:
 
@@ -16019,64 +16015,59 @@ autre support durable à sa disposition et auquel il a facilement accès.
 
 ###### Article R411-1
 
-Le Conseil supérieur de la mutualité est présidé par le ministre chargé de la mutualité ou son représentant. Il comprend : 
+I. ― Le Conseil supérieur de la mutualité comprend, outre le ministre chargé de la mutualité, ou son représentant : 
 
-Trente-cinq représentants des mutuelles, unions et fédérations élus par les comités régionaux de coordination de la
-mutualité ; 
+1° Un député et un sénateur ; 
 
-Un député et un sénateur, élus par leur assemblée respective ; 
+2° Vingt représentants des mutuelles, unions et fédérations nommés par arrêté du ministre chargé de la mutualité dans les
+conditions définies au chapitre III ; 
 
-Le vice-président de l'Autorité de contrôle prudentiel ou son représentant ; 
+3° Le vice-président de l'Autorité de contrôle prudentiel ou son représentant ; 
 
-Un membre du Conseil d'Etat, désigné par le vice-président ; 
+4° Le président du directoire du fonds de garantie institué à l'article L. 431-4 ou son représentant ; 
 
-Un représentant du ministre chargé de la mutualité ; 
+5° Un membre des professions de santé désigné par arrêté du ministre chargé de la mutualité ; 
 
-Un représentant du ministre chargé de la sécurité sociale ; 
+6° Un représentant de chaque confédération syndicale désignée ci-après : 
 
-Un représentant du ministre chargé du travail ; 
+a) Confédération française démocratique du travail ; 
 
-Un représentant du ministre chargé de la santé ; 
+b) Confédération française des travailleurs chrétiens ; 
 
-Un représentant du ministre chargé de l'économie et des finances ; 
+c) Confédération française de l'encadrement-CGC ; 
 
-Un représentant du ministre chargé de l'intérieur ; 
+d) Confédération générale du travail ; 
 
-Un représentant du ministre chargé de l'économie sociale ; 
+e) Confédération générale du travail-Force ouvrière ; 
 
-Le directeur général de la Caisse des dépôts et consignations ou son représentant ; 
+7° Un représentant du Mouvement des entreprises de France ; 
 
-Le président du directoire du fonds de garantie institué à l'article L. 431-4 ou son représentant ; 
+8° Une personnalité qualifiée dans le domaine de l'activité des mutuelles, désignée par arrêté du ministre chargé de la
+mutualité. 
 
-Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux désignées par le ministre chargé de la
-mutualité et une par le ministre de la défense ; 
+II. ― Le Conseil supérieur de la mutualité siège soit en formation plénière, soit en commissions spécialisées. 
 
-Un représentant de chaque confédération syndicale désignée ci-après : 
+Lorsqu'il siège en formation plénière, le Conseil supérieur de la mutualité est présidé par le ministre chargé de la
+mutualité ou son représentant. 
 
-Confédération française démocratique du travail ; 
+Les commissions spécialisées comprennent des membres titulaires et des membres suppléants, choisis parmi les membres
+mentionnés au I, dont le nombre et le mode de désignation sont définis par arrêté du ministre chargé de la mutualité. Cet
+arrêté précise également les conditions de désignation des présidents de ces commissions ainsi que leurs règles de
+fonctionnement. 
 
-Confédération française des travailleurs chrétiens ; 
+III. ― Le directeur général de la Caisse des dépôts et consignations ou son représentant assiste, sans voix délibérative, aux
+séances de la formation plénière du conseil supérieur et de la commission chargée d'assurer la gestion du Fonds national de
+solidarité et d'action mutualistes instituée par l'article R. 411-2-1. 
 
-Confédération française de l'encadrement-CGC ; 
-
-Confédération générale du travail ; 
-
-Confédération générale du travail-Force ouvrière ; 
-
-Un représentant du Mouvement des entreprises de France ; 
-
-Un membre des professions de santé désigné par le ministre chargé de la santé.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+IV. ― Pour l'examen des projets de texte soumis à l'avis du conseil en application du deuxième alinéa de l'article L. 411-1
+et sur l'invitation du secrétaire général du Conseil supérieur de la mutualité, les représentants des autres ministres
+compétents peuvent participer, sans voix délibérative, aux séances de la formation plénière ou de la commission spécialisée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2012-596 du 27 avril 2012 - art. 2
 
 	**Cité par**:
 
@@ -16088,29 +16079,26 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L431-4 (V)
+	  - Code de la mutualité - art. L411-1
+	  - Code de la mutualité - art. L431-4
 
 
 ###### Article R411-2
 
-La durée du mandat des membres du conseil est de six ans. Les fonctions de membre du Conseil supérieur de la mutualité sont
-gratuites.
+La durée du mandat des membres du conseil est de quatre ans. Les fonctions de membre du Conseil supérieur de la mutualité
+sont gratuites.
 
 Le conseil choisit, parmi ses membres, deux vice-présidents et un trésorier.
 
-Il est convoqué par le ministre chargé de la mutualité au moins une fois par an.
+Il est convoqué par le ministre chargé de la mutualité.
 
 Le ministre désigne deux fonctionnaires comme secrétaire général et secrétaire général adjoint du conseil supérieur.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Décret n°2012-596 du 27 avril 2012 - art. 3
 
 	**Cité par**:
 
@@ -16119,20 +16107,16 @@ Le ministre désigne deux fonctionnaires comme secrétaire général et secréta
 
 ###### Article R411-2-1
 
-Le Conseil supérieur de la mutualité comprend trois commissions spécialisées chargées, respectivement, d'émettre un avis sur
-les demandes d'agrément, de donner un avis sur tout projet de texte mentionné au deuxième alinéa de l'article L. 411-1, et
-d'assurer la gestion du Fonds national de solidarité et d'action mutualistes. Un arrêté du ministre chargé de la mutualité
-prévoit le nombre de membres, choisis parmi ceux du conseil supérieur, et les modalités de fonctionnement de chacune de ces
-commissions. 
-
-Les commissions prévues au présent article et celles prévues en application de l'article R. 411-3 peuvent entendre des
-experts.
+Les commissions spécialisées mentionnées au II de l'article R. 411-1 sont au nombre de trois. Entre les séances plénières du
+Conseil supérieur de la mutualité, elles sont chargées, respectivement, d'émettre les avis sur les demandes d'agrément, de
+donner les avis sur tout projet de texte mentionné au deuxième alinéa de l'article L. 411-1 et d'assurer la gestion du Fonds
+national de solidarité et d'action mutualistes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1596 du 20 décembre 2010 - art. 1
+	  - Décret n°2012-596 du 27 avril 2012 - art. 4
 
 	**Cité par**:
 
@@ -16166,151 +16150,58 @@ règlement intérieur peut créer des commissions spécialisées, autres que cel
 	  - Code de la mutualité - art. R421-3 (V)
 
 
-#### Chapitre II : Comités régionaux de coordination de la mutualité.
-
-###### Article R412-1
-
-Un comité régional de coordination de la mutualité est placé auprès du préfet de région. 
-
-Le comité régional est élu pour six ans. Le collège électoral est composé des mutuelles, unions et fédérations immatriculées,
-à la date de publication de l'arrêté fixant la date des élections, au registre national des mutuelles mentionné à l' article
-L. 411-1. 
-
-Le nombre des membres de ce comité est fixé par arrêté du préfet de région à raison de cinq sièges par tranche de 500 voix du
-corps électoral régional déterminé conformément aux dispositions de l' article R. 413-3 sans pouvoir être inférieur à 5 ni
-supérieur à 30.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2008-486 du 22 mai 2008 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 5
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L411-1
-	  - Code de la mutualité - art. R413-3
-
-
-###### Article R412-2
-
-Sans préjudice des autres attributions qui lui sont conférées par le présent code, le comité régional de coordination de la
-mutualité :
-
-Procède aux enquêtes et donne les avis qui lui sont demandés par le préfet de région ;
-
-Présente, chaque année, au préfet de région un rapport sur le fonctionnement de l'ensemble des mutuelles, unions et
-fédérations de son ressort, qui est également transmis au Conseil supérieur de la mutualité ;
-
-Est habilité à rechercher et signaler au préfet de région les manquements aux dispositions de l'article L. 112-2 ;
-
-Développe l'idée mutualiste et favorise les initiatives locales, notamment en matière de prévoyance et d'action sociale ;
-
-Peut proposer toutes mesures de fusion ou de transfert de services ou établissements sociaux en vue de coordonner l'action
-mutualiste dans sa région ;
-
-Organise dans le cadre de sa circonscription l'affiliation des membres participants ayant changé de résidence ou provenant de
-mutuelles dissoutes ;
-
-Peut régler à l'amiable les différends survenus entre les mutuelles, unions et fédérations exerçant leur activité dans sa
-circonscription.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 5
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L112-2
-
-
-###### Article R412-3
-
-Lors de sa première réunion, le comité régional de coordination de la mutualité procède à l'élection de son président et de
-son bureau.
-
-Le comité est convoqué par le préfet de région ou son représentant au moins une fois par an. Le comité peut se doter d'un
-règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 5
-
-
-#### Chapitre III : Elections au Conseil supérieur de la mutualité et aux comités régionaux de coordination de la mutualité.
-
-##### Section 1 : Elections aux comités régionaux de coordination de la mutualité.
+#### Chapitre III : Modalités de désignation au Conseil supérieur de la mutualité
 
 ###### Article R413-1
 
-Le ministre chargé de la mutualité fixe la date des élections des membres des comités régionaux de coordination de la
-mutualité par un arrêté publié au Journal officiel trois mois au moins avant cette date.
+Les représentants des mutuelles, unions et fédérations mentionnés au deuxième alinéa de l'article R. 411-1 sont nommés par
+arrêté du ministre chargé de la mutualité, sur proposition des fédérations, selon les modalités définies par le présent
+chapitre.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 	**Cité par**:
 
 	  - Décret n°2008-486 du 22 mai 2008 - art. 4 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R411-1
+
 
 ###### Article R413-2
 
-Sont éligibles au comité régional de coordination de la mutualité les personnes qui, à la date de publication de l' arrêté
-fixant celle des élections, sont : 
+Seules peuvent être représentées au Conseil supérieur de la mutualité les fédérations de mutuelles qui satisfont, à la date
+de publication de l'arrêté mentionné au premier alinéa de l'article R. 413-5, à l'ensemble des conditions suivantes : 
 
-a) Membres du conseil d' administration des mutuelles, unions et fédérations ayant leur siège dans la région ; 
+1° La fédération justifie d'un nombre de membres participants des mutuelles adhérentes à la fédération, à jour de leurs
+cotisations au 31 décembre de l'avant-dernière année précédant l'année de la désignation, au moins égal à 1 million. 
 
-b) Membres du conseil d' administration des mutuelles ayant, dans la région, une section au sens du troisième alinéa de l'
-article L. 115- 1 et du I de l' article L. 115- 4 ; 
+Toutefois, lorsqu'une mutuelle a été créée dans les conditions prévues par l'article L. 111-3 et si ses statuts définissent
+ses membres participants comme étant ceux de la mutuelle fondatrice, ces membres participants ne sont pas comptabilisés ;
+dans le cas contraire, ils sont comptabilisés à hauteur de 50 % ; 
 
-c) Ou membres élus des organes de gestion de ces sections.
+2° L'ancienneté de la fédération est au minimum de deux ans à compter de son immatriculation prévue à l'article R. 414-1 ; 
+
+3° La fédération est financée pour au moins 70 % par des cotisations des mutuelles et unions adhérentes ; 
+
+4° Les comptes de la fédération pour l'avant-dernière année connue ont été certifiés par un commissaire aux comptes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-486 du 22 mai 2008 - art. 2
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L115-1
-	  - Code de la mutualité - art. L115-4
+	  - Code de la mutualité - art. L111-3
+	  - Code de la mutualité - art. R413-5
+	  - Code de la mutualité - art. R414-1
 
 	**Cité par**:
 
@@ -16321,19 +16212,14 @@ c) Ou membres élus des organes de gestion de ces sections.
 
 ###### Article R413-3
 
-I.- Chaque mutuelle composant le collège électoral dispose : 
+Le nombre de représentants dont bénéficie chaque fédération respectant les conditions définies à l'article R. 413-2 est
+déterminé comme suit : 
 
-a) D' une voix dans la région dans laquelle elle a son siège ; 
+1° Chaque fédération dispose d'un siège ; 
 
-b) D' une voix par tranche de 2 000 membres participants ayant leur domicile dans chacune des régions. L' effectif des
-membres participants à retenir est celui mentionné, par région, sur le registre national des mutuelles à la date de
-publication de l' arrêté fixant celle des élections. 
-
-Les personnes qui sont membres participants, à la fois, d' une mutuelle créée en application de l' article L. 111- 3 et de la
-mutuelle fondatrice, sont comptabilisées en totalité pour la détermination des voix dont dispose cette dernière, et à hauteur
-de 50 % pour la détermination des voix dont dispose la mutuelle créée. 
-
-II.- Chaque union et chaque fédération dispose d' une voix dans la région dans laquelle elle a son siège.
+2° Les sièges restants sont répartis entre les fédérations, proportionnellement au nombre de membres participants,
+comptabilisés dans les conditions prévues à l'article R. 413-2 des mutuelles adhérentes aux fédérations, selon la règle de la
+plus forte moyenne.
 
 **Liens relatifs à cet article**
 
@@ -16346,76 +16232,80 @@ II.- Chaque union et chaque fédération dispose d' une voix dans la région dan
 
 	**Modifié par**:
 
-	  - Décret n°2008-486 du 22 mai 2008 - art. 2
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-3
+	  - Code de la mutualité - art. R413-2
 
 
 ###### Article R413-4
 
-Aucune déclaration de candidature ne peut être enregistrée après le quarante-cinquième jour qui précède la date des
-élections.
+Les  mutuelles, unions et fédérations disposant de représentants au Conseil  supérieur de la mutualité sont régulièrement
+immatriculées. 
 
-Aucun retrait de candidature n'est admis après le trentième jour qui précède le scrutin.
+Leurs représentants sont choisis parmi les membres de leurs conseils d'administration respectifs. 
 
-Les candidatures sont déclarées à la préfecture de région sous forme de listes comportant les noms des candidats. Le nombre
-de candidats figurant sur chaque liste ne peut être inférieur au nombre de sièges à pourvoir et ne peut excéder le double de
-ce nombre. Les listes doivent être signées par tous les candidats qui y sont inscrits.
-
-Nul ne peut figurer sur plusieurs listes ou être candidat dans plusieurs circonscriptions.
-
-Le préfet de région fait connaître aux électeurs les candidatures déclarées.
+En cas de décès ou de perte de la qualité de membre du conseil  d'administration de la mutuelle, union ou fédération d'un
+membre  représentant au Conseil supérieur de la mutualité, il est pourvu à son  remplacement, pour la durée du mandat restant
+à courir, par arrêté du  ministre, sur proposition de la mutuelle, union ou fédération concernée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
 
 
 ###### Article R413-5
 
-Les membres du comité régional de coordination de la mutualité sont élus, au scrutin de liste, à la représentation
-proportionnelle au plus fort reste et sans panachage.
+Au moins quatre-vingt-quinze jours avant la date d'expiration des mandats des membres du conseil définie à l'article R.
+411-2, le ministre chargé de la mutualité publie un arrêté invitant les fédérations à adresser, dans un délai de quarante-
+cinq jours, leur candidature au secrétaire général du Conseil supérieur de la mutualité. 
+
+Un arrêté du ministre chargé de la mutualité précise les pièces qui doivent accompagner la candidature et les modalités de
+présentation de celles-ci.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
 
 	**Cité par**:
 
 	  - Arrêté du 27 avril 2012 - art. 1 (V)
 	  - Code de la mutualité - art. R413-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R411-2
+
 
 ###### Article R413-6
 
-Le vote a lieu par correspondance.
+Dans les vingt jours suivant l'expiration du délai de présentation des candidatures, le secrétaire général du Conseil
+supérieur de la mutualité fait connaître à chaque fédération si elle satisfait aux conditions prévues à l'article R. 413-2
+et, le cas échéant, au nombre de représentants dont elle dispose en application de l'article R. 413-3. 
 
-Le conseil d'administration de chaque mutuelle, union, fédération ou l'organe de gestion de chaque section de mutuelle vote
-pour une liste. Ces délibérations doivent parvenir à la préfecture de région au plus tard à la date fixée pour les élections.
+Lorsque le secrétaire général du Conseil supérieur de la mutualité constate qu'une mutuelle est adhérente à deux fédérations,
+il lui demande de lui notifier, dans un délai de quinze jours, le nom de la fédération candidate au titre de laquelle le
+nombre de ses membres participants est pris en compte pour l'application du présent chapitre. Le délai mentionné au premier
+alinéa est alors prolongé de quinze jours. 
+
+A défaut de réponse de la mutuelle mentionnée à l'alinéa précédent dans le délai de quinze jours, ses adhérents ne sont pas
+comptabilisés.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Décret n°2012-596 du 27 avril 2012 - art. 6
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Code de la mutualité - art. R413-2
+	  - Code de la mutualité - art. R413-3
 
 	**Cité par**:
 
@@ -16424,380 +16314,24 @@ pour une liste. Ces délibérations doivent parvenir à la préfecture de régio
 
 ###### Article R413-7
 
-Une commission présidée par le préfet de région ou son représentant et composée de trois présidents de mutuelle, union ou
-fédération désignés par arrêté du préfet de région procède au recensement des envois effectués dans les trois jours qui
-suivent l'élection.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R413-8 (Ab)
-
-
-###### Article R413-8
-
-La commission instituée à l'article R. 413-7 totalise le nombre de suffrages obtenus par chaque liste, détermine le quotient
-électoral, calcule le nombre de sièges obtenus par chaque liste et proclame les résultats.
-
-Elle établit sans délai le procès-verbal des opérations auxquelles elle a procédé. Ce procès-verbal est affiché au siège de
-la préfecture de région. L'original de ce procès-verbal est remis au préfet de région et conservé par celui-ci.
-
-Le préfet de région publie la liste des membres du comité régional.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R413-7
-
-
-###### Article R413-9
-
-Les membres du comité régional de coordination de la mutualité sont déclarés démissionnaires d'office par le préfet de région
-lorsque, au cours de leur mandat, ils cessent de remplir les conditions exigées par l'article R. 413-2 pour être éligibles.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R413-2
-
-
-###### Article R413-10
-
-Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le membre du comité régional de
-coordination de la mutualité élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
-
-Le préfet de région désigne le nom de ce remplaçant par arrêté.
-
-Le mandat de la personne ayant remplacé un membre du comité régional de coordination de la mutualité dont le siège était
-devenu vacant expire lors du renouvellement du comité régional de coordination de la mutualité qui suit son entrée en
-fonction.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-###### Article R413-10-1
-
-Sont appelés à siéger au comité régional de coordination de la mutualité, en tant que membres suppléants des membres
-titulaires, les candidats venant après le dernier élu sur la liste des membres de ce comité, dans la limite de cinq. 
-
-La liste des membres suppléants est constatée par un arrêté du préfet de région. Les suppléants sont appelés à siéger suivant
-l' ordre de cette liste.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-486 du 22 mai 2008 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-##### Section 2 : Elections au Conseil supérieur de la mutualité.
-
-###### Article R413-11
-
-Le ministre chargé de la mutualité fixe la date des élections des représentants des mutuelles, unions et fédérations au
-Conseil supérieur par un arrêté publié au Journal officiel trois mois au moins avant cette date.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2008-486 du 22 mai 2008 - art. 4 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-###### Article R413-12
-
-Sont éligibles au Conseil supérieur de la mutualité les personnes qui, à la date de publication de l'arrêté fixant la date
-des élections, sont membres du conseil d'administration des mutuelles, unions et fédérations inscrites, à la même date, au
-registre national prévu à l'article L. 411-1.
-
-Les représentants qui, au cours de leur mandat, cessent de remplir les conditions d'éligibilité sont déclarés démissionnaires
-d'office par le ministre chargé de la mutualité.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L411-1
-
-
-###### Article R413-13
-
-Les représentants des mutuelles, unions et fédérations sont élus par les membres des comités régionaux. Les élections ont
-lieu au scrutin de liste, à la représentation proportionnelle au plus fort reste et sans panachage. Le nombre de candidats
-figurant sur chaque liste ne peut être inférieur au nombre de sièges à pourvoir et ne peut excéder le double de ce nombre.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-###### Article R413-14
-
-Les listes sont adressées au ministre chargé de la mutualité au plus tard le quarante-cinquième jour qui précède la date des
-élections, ainsi que les bulletins de vote correspondants en nombre suffisant pour être proposés aux électeurs.
-
-Les bulletins comportent, à l'exclusion de toute autre mention :
-
-La mention "Election au Conseil supérieur de la mutualité" ;
-
-Les noms des candidats ;
-
-Leurs qualités au titre de leurs activités mutualistes.
-
-Aucun retrait de candidature n'est admis après le trentième jour qui précède le scrutin.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-###### Article R413-15
-
-Les membres de chaque comité régional de coordination de la mutualité sont convoqués par le préfet de région huit jours
-francs au moins avant la date de l'élection. La convocation doit mentionner l'objet de la réunion et être accompagnée des
-bulletins de vote.
-
-Chaque membre composant le comité régional dispose d'une voix.
-
-L'élection a lieu à bulletin secret.
-
-Chaque bulletin est placé sous enveloppe close ne portant aucun signe ni inscription et déposé dans une urne. Le vote de
-chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-###### Article R413-16
-
-Une commission présidée par le préfet de région ou son représentant et composée de trois membres du comité régional de
-coordination de la mutualité désignés par arrêté du préfet de région procède au dépouillement des votes, dans les conditions
-prévues aux articles L. 65 et L. 66 du code électoral.
-
-Le préfet de région adresse, dans les vingt-quatre heures, au ministre chargé de la mutualité le procès-verbal consignant les
-résultats du scrutin.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. L65
-	  - Code électoral - art. L66
-
-
-###### Article R413-17
-
-La liste des membres du Conseil supérieur de la mutualité est publiée au Journal officiel par arrêté du ministre chargé de la
-mutualité.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-###### Article R413-18
-
-Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le membre du Conseil supérieur de
-la mutualité élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
-
-Le ministre chargé de la mutualité désigne le nom de ce remplaçant par arrêté.
-
-Le mandat de la personne ayant remplacé un membre du Conseil supérieur de la mutualité dont le siège était devenu vacant
-expire lors du renouvellement du Conseil supérieur de la mutualité qui suit son entrée en fonction.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1108 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-###### Article R413-18-1
-
-Sont appelés à siéger au Conseil supérieur de la mutualité, en tant que membres suppléants de membres titulaires, les
-candidats venant après le dernier élu sur la liste des membres de ce conseil, dans la limite de dix. 
-
-La liste des membres suppléants est constatée par un arrêté du ministre chargé de la mutualité. Les suppléants sont appelés à
-siéger suivant l' ordre de cette liste.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-486 du 22 mai 2008 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 6
-
-
-##### Section 3 : Contentieux des opérations électorales.
-
-###### Article R413-19
-
-La régularité des opérations électorales destinées à la désignation des membres du Conseil supérieur de la mutualité et des
-membres des comités de coordination de la mutualité peut être contestée, dans le délai de quinze jours à dater de l'
-élection, devant le tribunal d' instance du lieu de proclamation des résultats. 
-
-La contestation est formée par déclaration orale ou écrite faite, remise ou dressée au greffe du tribunal d' instance. Dans
-les dix jours du recours, le tribunal d' instance statue en dernier ressort, sans frais ni forme de procédure et sur simple
-avertissement donné trois jours à l' avance à toutes les parties intéressées. 
-
-La décision prise par ce tribunal est notifiée dans les trois jours par le greffe aux parties par lettre recommandée avec
-demande d' avis de réception. 
-
-Un pourvoi en cassation peut être formé dans les dix jours de la notification de la décision du tribunal d' instance. Les
-dispositions des articles 999 à 1008 du code de procédure civile sont applicables.
+Chaque fédération concernée dispose à l'expiration du délai prévu au premier alinéa de l'article R. 413-6 d'un délai de
+quinze jours pour proposer au secrétaire général du Conseil supérieur de la mutualité la liste des mutuelles, unions et
+fédérations qu'elle souhaite voir représentées ainsi que leurs représentants, qui sont désignés sans délai par arrêté du
+ministre chargé de la mutualité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-	**Abrogé par**:
-
 	  - Décret n°2012-596 du 27 avril 2012 - art. 6
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 999
+	  - Code de la mutualité - art. R413-6
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R413-8 (Ab)
 
 
 #### Chapitre IV : Immatriculation et obligations déclaratives des mutuelles, des unions et des fédérations
@@ -16920,42 +16454,20 @@ prévues à l'article R. 414-2, aux demandes de radiations et changements de nom
 
 ###### Article R414-3
 
-Outre les mentions prévues à l'article L. 612-39 du code monétaire et financier, sont mentionnées d'office au registre
-national des mutuelles : 
-
-1° Les décisions d'agrément et de retrait d'agrément prises en application des articles L. 211-7 et L. 211-9 ; 
-
-2° Les mesures mentionnées aux articles L. 212-15 et L. 212-16 du présent code ainsi que celles prises en application du
-titre II du livre VI du code de commerce et mentionnées à l'article 36-1 du décret n° 84-406 du 30 mai 1984 relatif au
-registre du commerce et des sociétés ; 
-
-3° Les mesures d'incapacité et d'interdiction de diriger un organisme mutualiste prises à l'encontre d'un de ses dirigeants à
-la suite d'une décision juridictionnelle passée en force de chose jugée ; 
-
-4° Les décisions prononçant la dissolution ou la nullité d'un organisme mutualiste ; 
-
-5° Les décisions de dispense d'agrément et l'existence de conventions de substitution mentionnées à l'article L. 211-5 ; 
-
-Le préfet de région est informé par le ministère public des décisions judiciaires prises en application des 2 à 4 ci-dessus.
-Dès réception de ces informations, il en avise, sans délai, le secrétaire général du Conseil supérieur de la mutualité.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+Les mesures d'incapacité et d'interdiction de diriger un organisme mutualiste prises à l'encontre de ses dirigeants à la
+suite d'une décision juridictionnelle passée en force de chose jugée doivent être communiquées, s'agissant des mutuelles
+entrant dans le champ d'application de l'article L. 612-2 du code monétaire et financier, à l'Autorité de contrôle
+prudentiel, et, s'agissant des mutuelles relevant du livre III, au ministre chargé de la mutualité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°84-406 du 30 mai 1984 - art. 36-1
-	  - Code monétaire et financier - art. L612-39
-	  - Code de la mutualité - art. L211-7 (V)
-	  - Code de la mutualité - art. L211-9 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2012-596 du 27 avril 2012 - art. 7
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-2
 
 	**Cité par**:
 
@@ -16964,102 +16476,22 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 ###### Article R414-4
 
-Le liquidateur d'une mutuelle, union ou fédération dépose auprès du préfet de région pour le compte de l'organisme une
-déclaration constatant la clôture de la liquidation dans un délai d'un mois à compter de la clôture.
+Le liquidateur d'une mutuelle, union ou fédération dépose auprès du secrétaire général du Conseil supérieur de la mutualité
+pour le compte de l'organisme une déclaration constatant la clôture de la liquidation dans un délai d'un mois à compter de la
+clôture.
 
-Le préfet de région en avise, sans délai, le secrétaire général du Conseil supérieur de la mutualité qui procède à la
-radiation de la mutuelle, de l'union ou de la fédération.
+Le  secrétaire général du Conseil supérieur de la mutualité procède, sans  délai, à la radiation de la mutuelle, de l'union
+ou de la fédération.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
+	  - Décret n°2012-596 du 27 avril 2012 - art. 8
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. R414-6 (Ab)
-
-
-###### Article R414-5
-
-Sont retirées d'office les mentions relatives aux mesures prononcées en application du 4° de l'article R. 414-3 :
-
-- lorsque intervient une décision de réhabilitation, de relevé d'incapacité ou d'amnistie faisant disparaître l'incapacité ou
-l'interdiction ;
-
-- ou lorsque arrive le terme de l'interdiction fixée par la juridiction en application de l'article L. 625-10 du code de
-commerce.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2001-1109 du 23 novembre 2001 - art. 1 () JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 9
-
-	**Cite**:
-
-	  - Code de commerce - art. L625-10
-	  - Code de la mutualité - art. R414-3
-
-
-###### Article R414-6
-
-Après leur immatriculation au registre national des mutuelles, les organismes régis par le présent chapitre sont tenus de
-déposer auprès du préfet de la région dans laquelle est situé leur siège les éléments modificatifs suivants : 
-
-1° Les actes, délibérations ou décisions modifiant la déclaration ou les pièces déposées lors de leur constitution dans le
-délai d' un mois à compter de la date de modification ; 
-
-2° Un exemplaire mis à jour des statuts dans le délai d' un mois à compter de toute approbation d' une modification des
-statuts par l' assemblée générale ; 
-
-3° La répartition, par région, des membres participants affiliés à l' organisme au 31 décembre de chaque année en fonction de
-leur lieu de domicile dans chacune des régions ainsi que le nombre de membres bénéficiaires correspondant ; 
-
-4° Les documents comptables mentionnés aux j, k, l et m de l' article L. 114- 9 dans le délai d' un mois à compter de leur
-présentation à l' assemblée générale ; 
-
-5° La déclaration signée par le liquidateur et visée à l' article R. 414- 4 ; 
-
-6° Le numéro d' identité attribué par l' Institut national de la statistique et des études économiques conformément aux
-dispositions du décret n° 73- 314 du 14 mars 1973 portant création d' un système national d' identification et d' un
-répertoire des entreprises et de leurs établissements. 
-
-Le préfet de région en informe, sans délai, le secrétaire général du Conseil supérieur de la mutualité. 
-
-Pour la mise en œuvre du 3°, une mutuelle créée en application de l' article L. 111- 3 déclare le nombre de membres
-participants qui sont également membres de sa mutuelle fondatrice, ainsi que la répartition de ces membres participants par
-région.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°73-314 du 14 mars 1973
-	  - Code de la mutualité - art. L111-3
-	  - Code de la mutualité - art. L114-9
-	  - Code de la mutualité - art. R414-4
-
-	**Modifié par**:
-
-	  - Décret n°2008-486 du 22 mai 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2012-596 du 27 avril 2012 - art. 9
 
 
 ###### Article R414-8

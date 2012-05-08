@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2012-04-30
+Version Consolidée au 2012-05-09
 
 # Partie législative
 
@@ -10785,7 +10785,7 @@ au cours du dernier exercice.
 De cette somme sont déduits, d'une part, le total des cotisations annulées au cours du dernier exercice, d'autre part, le
 total des impôts et taxes afférents aux cotisations précitées. 
 
-Le montant obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 57 500 000 euros (1) A 18 % de la
+Le montant obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 61 300 000 euros. A 18 % de la
 première tranche sont ajoutés 16 % de la seconde. 
 
 Le résultat déterminé par application de la première méthode est obtenu en multipliant la somme des deux termes de l'addition
@@ -10807,8 +10807,8 @@ De cette somme sont déduits, d'une part, les recours encaissés au cours des tr
 provisions pour prestations à payer constituées au commencement du deuxième exercice précédant le dernier exercice, tant pour
 les opérations directes que pour les acceptations en réassurance. 
 
-Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 40 3000 000 euros
-(1) A 26 % de la première tranche sont ajoutés 23 % de la seconde. 
+Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 42 9000 000 euros. A
+26 % de la première tranche sont ajoutés 23 % de la seconde. 
 
 Le résultat déterminé par application de la deuxième méthode est obtenu en multipliant la somme des deux termes de l'addition
 prévue à l'alinéa précédent par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres
@@ -10846,16 +10846,11 @@ L'Autorité de contrôle tient compte du transfert de risque effectif pour appr�
 marge de solvabilité autorisée au titre de chaque opération réalisée avec un véhicule de titrisation. Elle tient également
 compte de la capacité de ce véhicule à respecter à tout moment ses engagements.
 
-**Nota:**
-
-(1) Ces montants, applicables au 1er janvier 2010, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
-assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0900070V).
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+	  - Avis du , v. init.
 
 	**Cite**:
 
@@ -10880,11 +10875,11 @@ et h), 17, 18 de l'article R. 211-2 est égal au tiers de l'exigence minimale de
 
 Ce fonds ne peut être inférieur au montant minimal suivant : 
 
-2, 6 millions d'euros (1) lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 15
-de l'article R. 211-2 ; 
+2 800 00 euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 15 de
+l'article R. 211-2 ; 
 
-1, 8 million d'euros (1) lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 1,
-2, 16 (a et h), 17, 18 de l'article R. 211-2. 
+1 900 000 euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 1, 2, 16 (a
+et h), 17, 18 de l'article R. 211-2. 
 
 Lorsqu'une mutuelle ou union est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en
 considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé. 
@@ -10899,14 +10894,17 @@ Le fonds est constitué par les éléments mentionnés aux 1, 2 et 3 du I, au 1 
 
 **Nota:**
 
-(1) Ces montants, applicables au 1er janvier 2010, ont été modifiés conformément à l'avis pris par l'Autorité de contrôle des
-assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0900069V).
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Avis du , v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -10916,6 +10914,7 @@ assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0
 
 	**Cité par**:
 
+	  - Code de la mutualité - art. R212-14 (VT)
 	  - Code de la mutualité - art. R510-5 (VT)
 
 
@@ -11207,11 +11206,11 @@ Le fonds de garantie des mutuelles ou unions agréées pour pratiquer des opéra
 mentionnées aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égal au tiers de l'exigence minimale de marge de solvabilité
 définie à l'article R. 212-16. 
 
-Ce fonds ne peut être inférieur à 2, 6 millions d'euros (1). Ce montant est révisé annuellement en fonction de l'évolution de
-l'indice européen des prix à la consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque année,
-l'Autorité de contrôle communique le nouveau montant en euros calculé en fonction de l'évolution de cet indice et arrondi au
-multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ce
-montant n'est pas révisé. 
+Ce fonds ne peut être inférieur à 2 800 000 euros. Ce montant est révisé annuellement en fonction de l'évolution de l'indice
+européen des prix à la consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque année, l'Autorité de
+contrôle communique le nouveau montant en euros calculé en fonction de l'évolution de cet indice et arrondi au multiple de
+100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ce montant n'est pas
+révisé. 
 
 Le fonds est constitué par les éléments mentionnés au 1, 2 et 3 du I, au 1 du II et au 1 du III de l'article R. 212-15. 
 
@@ -11235,27 +11234,30 @@ annuellement.
 
 **Nota:**
 
-(1) Ce montant, applicable au 1er janvier 2010, a été modifié conformément à l'avis pris par l'Autorité de contrôle des
-assurances et des mutuelles paru au Journal officiel du 17 décembre 2009 (ACAX0900069V).
+
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°2007-706 du 4 mai 2007 - art. 2 (V)
-	  - Code de la mutualité - art. R212-1 (V)
+	  - Code de la mutualité - art. R212-1 (VD)
 	  - Code de la mutualité - art. R212-20 (VT)
 	  - Code de la mutualité - art. R510-5 (VT)
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Avis du , v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
 	  - Code de la mutualité - art. R211-2
 	  - Code de la mutualité - art. R212-15
-	  - Code de la mutualité - art. R212-16
+	  - Code de la mutualité - art. R212-16 (VT)
 	  - Code de la mutualité - art. R212-9
 
 

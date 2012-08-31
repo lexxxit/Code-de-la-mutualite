@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2012-05-09
+Version Consolidée au 2012-09-01
 
 # Partie législative
 
@@ -20983,6 +20983,183 @@ duquel vous pouvez liquider votre retraite obligatoire à taux plein. "
 
 	  - Code de la sécurité sociale. - art. L161-17-2
 	  - Code de la mutualité - art. L223-21
+
+
+## Livre IV : Relations avec l'Etat et les autres collectivités publiques
+
+### Titre Ier : Organes administratifs de la mutualité
+
+#### Chapitre Ier : Conseil supérieur de la mutualité
+
+###### Article A411-1
+
+Les commissions spécialisées mentionnées à l'article R. 411-2-1 du code de la mutualité sont composées comme suit : 
+
+1° La commission chargée d'émettre les avis sur les demandes d'agrément est composée de six membres titulaires et six membres
+suppléants choisis parmi les membres mentionnés au 2° du I de l'article R. 411-1 du même code. Le vice-président de
+l'Autorité de contrôle prudentiel ou son représentant assiste, sans voix délibérative, à la commission ; 
+
+2° La commission chargée de donner un avis sur les projets de texte est composée de huit membres : 
+
+a) Six membres titulaires et six membres suppléants choisis parmi les membres mentionnés au 2° du I de l'article R. 411-1 ; 
+
+b) La personnalité qualifiée mentionnée au 8° du I de l'article R. 411-1 ; 
+
+c) Le vice-président de l'Autorité de contrôle prudentiel ou son représentant ; 
+
+3° La commission chargée d'assurer la gestion du Fonds national de solidarité et d'action mutualistes est composée de six
+membres titulaires et six membres suppléants choisis parmi les membres mentionnés au 2° du I de l'article R. 411-1.
+
+**Nota:**
+
+Arrêté du 13 août 2012 article 3 : Les présentes dispositions sont applicables à compter de la date du prochain
+renouvellement des membres du Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 13 août 2012 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 30 janvier 2013 - art. (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R411-1
+	  - Code de la mutualité - art. R411-2-1
+
+
+###### Article A411-2
+
+Les membres des commissions spécialisées devant être choisis parmi les membres mentionnés au 2° du I de l'article R. 411-1
+sont désignés par une délibération du Conseil supérieur de la mutualité siégeant en formation plénière, pour la durée de leur
+mandat au Conseil supérieur de la mutualité. 
+
+Après chaque renouvellement du Conseil supérieur de la mutualité et dans l'attente de la délibération mentionnée à l'alinéa
+précédent, les membres des commissions spécialisées sont désignés à titre provisoire par arrêté du ministre chargé de la
+mutualité, sur proposition des fédérations de mutuelles. Il est attribué un siège de membre titulaire et un siège de membre
+suppléant à chacune des fédérations disposant, en application de l'article R. 413-3 du même code, d'au moins quatre sièges au
+conseil supérieur de la mutualité. Les sièges restants sont répartis entre ces mêmes fédérations, proportionnellement aux
+effectifs adhérents des mutuelles adhérentes aux fédérations, selon la règle de la plus forte moyenne.
+
+**Nota:**
+
+Arrêté du 13 août 2012 article 3 : Les présentes dispositions sont applicables à compter de la date du prochain
+renouvellement des membres du Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 13 août 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R411-1
+	  - Code de la mutualité - art. R413-3
+
+
+###### Article A411-3
+
+Les commissions spécialisées prévues à l'article R. 411-2-1 du code de la mutualité sont présidées par le ministre chargé de
+la mutualité. En cas d'absence ou d'empêchement du ministre, la présidence est assurée par un représentant des mutuelles,
+unions et fédérations élu en début de séance parmi les membres de la commission spécialisée. Chaque fois que nécessaire, ces
+commissions se réunissent sur convocation du secrétaire général du Conseil supérieur de la mutualité. Le secrétaire général
+assiste aux réunions des commissions.
+
+**Nota:**
+
+Arrêté du 13 août 2012 article 3 : Les présentes dispositions sont applicables à compter de la date du prochain
+renouvellement des membres du Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 13 août 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A411-7 (V)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R411-2-1
+
+
+###### Article A411-4
+
+Le relevé de décisions et le procès-verbal de chaque séance des commissions spécialisées sont établis par le secrétaire
+général du Conseil supérieur de la mutualité et signés par le président de séance.
+
+**Nota:**
+
+Arrêté du 13 août 2012 article 3 : Les présentes dispositions sont applicables à compter de la date du prochain
+renouvellement des membres du Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 13 août 2012 - art. 1
+
+
+###### Article A411-5
+
+En début de séance, le nombre de présents doit être au moins égal à la moitié des membres de la commission spécialisée ayant
+voix délibérative plus un. 
+
+Les membres empêchés peuvent donner pouvoir à un membre présent. Nul ne peut détenir plus d'un pouvoir. Les membres ayant
+donné pouvoir ne sont pas pris en compte dans le calcul du quorum défini au premier alinéa. 
+
+Si le quorum n'est pas atteint, une nouvelle séance est convoquée par le secrétaire général du Conseil supérieur de la
+mutualité dans un délai compris entre huit et quinze jours. Toutefois, en cas d'urgence, ce délai peut être réduit à trois
+jours. Lors de cette deuxième séance, le quorum n'est plus obligatoire.
+
+**Nota:**
+
+Arrêté du 13 août 2012 article 3 : Les présentes dispositions sont applicables à compter de la date du prochain
+renouvellement des membres du Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 13 août 2012 - art. 1
+
+
+###### Article A411-6
+
+Le recours à des moyens de télécommunication, et notamment à la visioconférence, est autorisé lors des réunions des
+commissions spécialisées prévues à l'article R. 411-2-1 du code de la mutualité. 
+
+Les moyens de visioconférence et de télécommunication utilisés doivent satisfaire à des caractéristiques techniques
+garantissant une participation effective à la réunion de la commission spécialisée concernée, dont les délibérations doivent
+être retransmises à la ou aux personnes non présentes physiquement de façon continue. Ces moyens doivent permettre, en temps
+simultané, réel et continu, la transmission de la voix et de l'image des membres de la commission spécialisée concernée. 
+
+Sont réputés présents pour le calcul du quorum et de la majorité les membres qui participent à la réunion de la commission
+spécialisée par des moyens de visioconférence ou de télécommunication dont la nature et les conditions d'application sont
+conformes aux dispositions des deux précédents alinéas. Toutefois, la commission spécialisée ne peut siéger valablement si le
+nombre des membres physiquement présents est inférieur à la moitié des membres de la commission spécialisée ayant voix
+délibérative moins un.
+
+**Nota:**
+
+Arrêté du 13 août 2012 article 3 : Les présentes dispositions sont applicables à compter de la date du prochain
+renouvellement des membres du Conseil supérieur de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 13 août 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R411-2-1
 
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.

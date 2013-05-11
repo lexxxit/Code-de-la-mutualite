@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2012-12-21
+Version Consolidée au 2013-05-12
 
 # Partie législative
 
@@ -14659,7 +14659,10 @@ politiques conduites pour l'ensemble des risques encourus ;
 
 3° Des procédures permettant de garantir que les dispositifs de surveillance des risques sont adaptés à l'organisation du
 conglomérat financier et que les mesures mises en place au sein de chaque entité, en vue de s'assurer que les risques
-puissent être mesurés, surveillés et maîtrisés au niveau du conglomérat, sont cohérentes.
+puissent être mesurés, surveillés et maîtrisés au niveau du conglomérat, sont cohérentes ;
+
+4° Des procédures permettant de participer à la réalisation et, le cas échéant, au développement de mécanismes et de plans de
+sauvetage appropriés. Ces procédures sont mises à jour au moins une fois par an. 
 
 III. - Les dispositifs de contrôle interne mis en place doivent permettre :
 
@@ -14674,13 +14677,13 @@ production des données ou informations destinées à permettre leur surveillanc
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Décret n°2013-388 du 10 mai 2013 - art. 12
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-1266 2005-10-07 art. 2 7° JORF 11 octobre 2005
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2013-05-12
+Version Consolidée au 2013-05-30
 
 # Partie législative
 
@@ -8795,6 +8795,24 @@ b) Un mandat donné pour une assemblée vaut pour les assemblées tenues sur deu
 	**Cite**:
 
 	  - Code de la mutualité - art. L114-12 (V)
+
+
+###### Article R114-3
+
+L'assemblée générale des mutuelles et des unions soumises au contrôle de l'Autorité de contrôle prudentiel, en application du
+3° du B du I de l'article L. 612-2 du code monétaire et financier, est réunie dans un délai de sept mois suivant la clôture
+de l'exercice afin de procéder à l'examen des comptes, sauf prolongation de ce délai, à la demande motivée du conseil
+d'administration, par ordonnance du tribunal de grande instance statuant sur requête.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-434 du 27 mai 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-2
 
 
 #### Section 5 : Dispositions relatives aux fonctions d'administrateur.

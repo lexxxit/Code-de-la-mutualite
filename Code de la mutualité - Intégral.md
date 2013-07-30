@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-07-31
 
 # Partie législative
 
@@ -12140,9 +12140,9 @@ l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises
 caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
 par les collectivités publiques territoriales d'un Etat membre de l'OCDE ; 
 
-2° Obligations, parts ou actions émises par un organisme de titrisation régi par la section 2 du chapitre IV du titre Ier du
-livre II du code monétaire et financier ou par un organisme de droit étranger ayant un objet équivalent et titres
-participatifs, autres que celles et ceux visés au 1°, et négociés sur un marché reconnu ; 
+2° Obligations, parts ou actions émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
+chapitre IV du titre Ier du livre II du code monétaire et financier ou par un organisme de droit étranger ayant un objet
+équivalent et titres participatifs, autres que celles et ceux visés au 1°, et négociés sur un marché reconnu ; 
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et billets de trésorerie) rémunérés à taux fixe ou
 indexé sur un taux usuel sur les marchés interbancaires, monétaires ou obligataires et émis par les personnes morales autres
@@ -12154,8 +12154,9 @@ morales autres que les Etats membres de l'OCDE ayant leur siège social sur le t
 négociés sur un marché reconnu ; 
 
 4° bis Obligations, parts ou actions répondant aux conditions mentionnées aux a, b et c de l'article R. 212-47, émises par un
-organisme de titrisation régi par la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ou par
-un organisme de droit étranger ayant un objet équivalent, respectant les règles prévues à l'article R. 212-47-1 ; 
+organisme de titrisation régi par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire
+et financier ou par un organisme de droit étranger ayant un objet équivalent, respectant les règles prévues à l'article R.
+212-47-1 ; 
 
 5° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
 la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2°, 3° et 4° du présent article, dans les conditions fixées par
@@ -12172,7 +12173,7 @@ des Etats membres de l'OCDE ;
 9° Actions, parts et droits émis par des sociétés commerciales et obligations, titres participatifs et titres subordonnés
 émis par les sociétés d'assurances mutuelles, les mutuelles, unions et fédérations régies par le présent code et les
 institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale, ayant leur siège social sur le
-territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 4° bis , 5°, 6°, 7°, 8°, 10°
+territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 4° bis, 5°, 6°, 7°, 8°, 10°
 bis, 12° et 14° ; 
 
 10° Parts des fonds communs de placement à risques de l'article L. 214-28 du code monétaire et financier, parts des fonds
@@ -12180,16 +12181,15 @@ communs de placement dans l'innovation de l'article L. 214-30 du même code et p
 de l'article L. 214-31 du même code ; 
 
 10° bis Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement des articles L.
-214-38 et L. 214-38-1 du code monétaire et financier, actions ou parts d'organisme de placement collectif en valeurs
-mobilières relevant de l'article L. 214-36 du code monétaire et financier, actions ou parts d'organismes de placement
-collectif en valeurs mobilières relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction antérieure
-au 2 août 2003 ; 
+214-160 et L. 214-161 du code monétaire et financier, actions ou parts de placements collectifs relevant de l'article L.
+214-154 du code monétaire et financier, actions ou parts d'organismes de placement collectif en valeurs mobilières relevant
+de l'article L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août 2003 ; 
 
-10° ter Parts ou actions d'organismes de placement collectif en valeurs mobilières à règles d'investissement allégées
-mentionnés à l'article R. 214-83 du code monétaire et financier ; 
+10° ter Parts ou actions de fonds professionnels à vocation générale mentionnés à l'article R. 214-190 du code monétaire et
+financier ; 
 
-11° Parts ou actions d'organismes de placement collectifs en valeur mobilières de fonds alternatifs mentionnés à l'article R.
-214-86 du code monétaire et financier ; 
+11° Parts ou actions de fonds de fonds alternatifs mentionnés à l'article R. 214-186 du code monétaire et financier et des
+placements collectifs mentionnés au III de l'article L. 214-24 du même code ; 
 
 12° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
 mentionnées aux 5°, 10°, 10° bis, 10° ter et 11°, dans les conditions fixées par l'article R. 212-46. 
@@ -12202,24 +12202,25 @@ déclaration et de transparence.
 
 B.-Actifs immobiliers : 
 
-13° Droits réels immobiliers afférents à des immeubles situés sur le territoire de l'un des Etats membres de l'OCDE ; 
+13° Droits réels immobiliers afférents à des immeubles situés sur le territoire de l'un des Etats membres de l'OCDE et
+actions de sociétés d'épargne forestière relevant du paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du
+titre Ier du livre II du code monétaire et financier ; 
 
 14° Parts ou actions des sociétés à objet strictement immobilier, parts des sociétés civiles à objet strictement foncier,
 ayant leur siège social sur le territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R.
 212-48 ; 
 
-14° bis Parts ou actions d'organismes de placement collectif immobilier relevant de la section 5 du chapitre IV du titre Ier
-du livre II du code monétaire et financier, autres que ceux mentionnés aux 14 ter à 14 quinquies ; 
+14° bis Parts ou actions d'organismes de placement collectif immobilier relevant du paragraphe 3 de la sous-section 2 de la
+section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier, autres que ceux mentionnés au 14
+quinquies ; 
 
-14° ter Parts ou actions d'organismes de placement collectif immobilier relevant du paragraphe 2 de la sous-section 4 de la
-section 5 du chapitre IV du titre Ier du livre II du code monétaire et financier ; 
+14° ter (Abrogé) ; 
 
-14° quater Parts ou actions d'organismes de placement collectif immobilier relevant du paragraphe 3 de la sous-section 4 de
-la section 5 du chapitre IV du titre Ier du livre II du code monétaire et financier ; 
+14° quater Parts ou actions d'organismes professionnels de placement collectif immobilier relevant du sous-paragraphe 2 du
+paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ; 
 
-14° quinquies Parts ou actions d'organismes de placement collectif immobilier mentionnés au sous-paragraphe 7 du paragraphe 1
-de la sous-section 1 de la section 5 du chapitre IV du titre Ier du livre II du code monétaire et financier, lorsqu'ils
-exercent la dérogation prévue à l'article R. 214-200 du même code. 
+14° quinquies Parts ou actions d'organismes de placement collectif immobilier mentionnés à l'article R. 214-120 du code
+monétaire et financier, lorsqu'ils exercent la dérogation prévue à ce même article. 
 
 C.-Prêts et dépôts : 
 
@@ -12258,12 +12259,11 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 	**Cite**:
 
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1
+	  - Code monétaire et financier - art. L214-154
+	  - Code monétaire et financier - art. L214-160
 	  - Code monétaire et financier - art. L214-28
 	  - Code monétaire et financier - art. L214-35
-	  - Code monétaire et financier - art. L214-36
-	  - Code monétaire et financier - art. L214-38
-	  - Code monétaire et financier - art. R214-83
-	  - Code monétaire et financier - art. R214-86
+	  - Code monétaire et financier - art. R214-190
 	  - Code de la mutualité - art. R212-29
 	  - Code de la mutualité - art. R212-35
 	  - Code de la mutualité - art. R212-47
@@ -12290,7 +12290,7 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 
 	**Modifié par**:
 
-	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
 
 
 ###### Article R212-31-1
@@ -12328,7 +12328,7 @@ troisième alinéa du I de l'article R. 212-45, dont 10 % au maximum pour l'ense
 étrangères d'assurance et de réassurance mentionnées au 8° de l'article R. 212-31 et par les actions et parts mentionnées aux
 9°, 10°, 10° bis, 10 ter, 11° et 14° quater du même article et par les prêts mentionnés ci-dessus ; 
 
-2° 40 % pour les actifs immobiliers mentionnés aux 13°, 14° ter et 14° quinquies de l'article R. 212-31 ; 
+2° 40 % pour les actifs immobiliers mentionnés aux 13° et 14° quinquies de l'article R. 212-31 ; 
 
 3° 10 % pour l'ensemble des valeurs mentionnées aux 15°, 16° et 17° de l'article R. 212-31 à l'exception des prêts mentionnés
 au 1° du présent article ; 
@@ -12351,7 +12351,7 @@ code des assurances ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
 
 	**Cite**:
 
@@ -12383,7 +12383,7 @@ capital variable et des parts de fonds communs de placement doivent être en mes
 présent article si elles détenaient elles-mêmes directement, au prorata de leur participation, les valeurs détenues par ces
 organismes ; 
 
-2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° ter et 14° quinquies de l'article R. 212-31 ; 
+2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° bis et 14° quinquies de l'article R. 212-31 ; 
 
 3° 1 % pour les valeurs mentionnées aux 9°, 10°, 10° bis, 10° ter et 14° quater de l'article R. 212-31 et les prêts
 mentionnés au troisième alinéa du I de l'article R. 212-45, respectivement émises ou obtenus par une même société ou un même
@@ -12408,7 +12408,7 @@ de ses engagements réglementés plus de 50 % des actions émises par une même 
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
 
 
 ###### Article R212-34
@@ -12785,19 +12785,23 @@ répondant aux conditions fixées par l'article R. 212-50.
 ###### Article R212-46
 
 En application des dispositions des 5° et 12° de l'article R. 212-31, sont admissibles en représentation des engagements
-réglementés les parts ou actions d'organismes de placement collectif en valeurs mobilières relevant de la sous-section 1 et
-de l'article L. 214-27 de la sous-section 2 de la section 1 du chapitre IV du titre Ier du livre II du code monétaire et
-financier (partie réglementaire) ; sont également admissibles les parts ou actions des organismes de placement collectif en
-valeurs mobilières régis par les réglementations des Etats membres de l'Union européenne  et des autres Etats parties à
-l'accord sur l'Espace économique européen, pour autant que ces règles soient conformes à la                      directive n°
-2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives,
-réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilière.
+réglementés les parts ou actions d'organismes de placement collectif en valeurs mobilières relevant de la section 1 et de
+placements collectifs relevant du paragraphe 1 de la sous-section 2 de la section 2 du chapitre IV du titre Ier du livre II
+du code monétaire et financier ; sont également admissibles les parts ou actions des organismes de placement collectif en
+valeurs mobilières régis par les réglementations des Etats membres de l'Union européenne et des autres Etats parties à
+l'accord sur l'Espace économique européen, pour autant que ces règles soient conformes à la directive n° 2009/65/ CE du
+Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et
+administratives concernant certains organismes de placement collectif en valeurs mobilière.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-922 du 1er août 2011 - art. 24
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
@@ -13731,7 +13735,8 @@ b) L'opération a pour objet de diminuer l'aléa des conditions de placement fut
 mutuelle ou union.
 
 Sont assimilées à des liquidités détenues les actions des sociétés d'investissement à capital variable et parts de fonds
-communs de placement mentionnés aux 3° et 8° de l'article R. 212-31 et classés dans la catégorie des OPCVM monétaires.
+communs de placement mentionnés aux 3° et 8° de l'article R. 212-31 et classés dans la catégorie des OPCVM et des FIA
+monétaires.
 
 Lorsque les liquidités sont à recevoir à une échéance supérieure à un an, les créances découlant de l'opération à terme
 doivent être intégralement garanties dans les conditions prévues à l'article R. 212-81.
@@ -13742,13 +13747,13 @@ doivent être intégralement garanties dans les conditions prévues à l'article
 
 	  - Code de la mutualité (nouveau) R212-31, R212-81
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
@@ -14039,8 +14044,8 @@ b) Elle prévoit de façon explicite la compensation entre valeurs de réalisati
 
 c) Elle prévoit que la garantie prend la forme de remises en pleine propriété, opposables aux tiers sans formalité,
 d'espèces, de valeurs mentionnées au 1° du A de l'article R. 212-31, ou de parts ou d'actions d'organismes de placement
-collectif en valeurs mobilières mentionnés au 3° de cet article dont le portefeuille est exclusivement composé des valeurs
-mentionnées au 1° de cet article ; 
+collectif en valeurs mobilières ou de placements collectifs  mentionnés au 3° de cet article dont le portefeuille est
+exclusivement composé des valeurs mentionnées au 1° de cet article ; 
 
 d) Elle prévoit que les lois ou règlements régissant la contrepartie, notamment en cas d'insolvabilité, ne font pas obstacle
 à la mise en oeuvre des modalités de résiliation, d'évaluation et de compensation, en application notamment des articles L.
@@ -14053,7 +14058,11 @@ mutualité.
 
 	**Modifié par**:
 
-	  - Décret n°2009-295 du 16 mars 2009 - art. 7
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -17199,7 +17208,28 @@ adhérentes, le montant cumulé des produits financiers des cotisations et les a
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.
 
-### Chapitre Ier : Autorité de contrôle prudentiel
+### Chapitre Ier : Autorité de contrôle prudentiel et de résolution
+
+###### Article R510-1
+
+Pour l'exercice du contrôle des mutuelles et unions mentionnées à l'article L. 612-2 du code monétaire et financier,
+l'Autorité de contrôle prudentiel et de résolution exerce sa mission dans les conditions prévues au chapitre II du titre Ier
+du livre VI de la partie réglementaire du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-2
+
 
 #### Section 2 : Mesures de sauvegarde et d'assainissement.
 
@@ -17573,31 +17603,6 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 	  - Code monétaire et financier - art. L612-33 (V)
 
-
-### Chapitre Ier : Autorité de contrôle prudentiel et de résolution
-
-###### Article R510-1
-
-Pour l'exercice du contrôle des mutuelles et unions mentionnées à l'article L. 612-2 du code monétaire et financier,
-l'Autorité de contrôle prudentiel et de résolution exerce sa mission dans les conditions prévues au chapitre II du titre Ier
-du livre VI de la partie réglementaire du code monétaire et financier.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-2
-
-
-#### Section 2 : Mesures de sauvegarde et d'assainissement.
 
 ### Chapitre III : Dispositions pénales.
 

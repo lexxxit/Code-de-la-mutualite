@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2013-07-31
+Version Consolidée au 2013-12-08
 
 # Partie législative
 
@@ -6649,23 +6649,37 @@ n'aient été manifestement exagérées eu égard à ses facultés.
 
 ###### Article L223-15
 
-Le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être réclamés par les créanciers du
-cotisant. Ces derniers ont seulement droit au remboursement des cotisations, dans le cas indiqué par le second alinéa de
-l'article L. 223-14, en vertu soit de l'article 1167 du code civil, soit des articles L. 621-107 et L. 621-108 du code de
-commerce.
+Sous réserve des dispositions des articles L. 263-0 A et L. 273 A du livre des procédures fiscales, de l'article L. 1617-5 du
+code général des collectivités territoriales et du II de l'article 128 de la loi n° 2004-1485 du 30 décembre 2004 de finances
+rectificative pour 2004, le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être réclamés par
+les créanciers du cotisant. Ces derniers ont seulement droit au remboursement des cotisations, dans le cas indiqué par le
+second alinéa de l'article L. 223-14, en vertu soit de l'article 1167 du code civil, soit des articles L. 621-107 et L.
+621-108 du code de commerce.
+
+**Nota:**
+
+Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
+saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
+2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-107 (M)
-	  - Code de commerce. - art. L621-108 (M)
-	  - Code civil - art. 1167 (V)
-	  - Code de la mutualité - art. L223-14 (V)
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 128
+	  - Code de commerce - art. L621-107
+	  - Livre des procédures fiscales - art. L263-0 A
+	  - Livre des procédures fiscales - art. L273 A
+	  - Code général des collectivités territoriales - art. L1617-5
+	  - Code civil - art. 1167 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
 
 
 ###### Article L223-16
@@ -7191,6 +7205,21 @@ Il est également indiqué que les comptes de la convention sont tenus à la dis
 
 	  - Code de la mutualité - art. L221-6
 	  - Code de la mutualité - art. L223-8
+
+
+##### Section 4 : Effet sur les contrats d'assurance sur la vie de la confiscation pénale.
+
+###### Article L223-29
+
+La décision définitive de confiscation d'une somme ou d'une créance figurant sur un contrat d'assurance sur la vie, prononcée
+par une juridiction pénale, entraîne de plein droit la résolution judiciaire du contrat et le transfert des fonds confisqués
+à l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 22
 
 
 #### Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé.

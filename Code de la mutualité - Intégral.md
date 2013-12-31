@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2013-12-08
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -642,19 +642,20 @@ génétiques avant que ne soit conclu le contrat et pendant toute la durée de c
 
 " Art.L. 1141-2.-Une convention nationale relative à l'accès au crédit des personnes présentant, du fait de leur état de
 santé ou de leur handicap, un risque aggravé est conclue entre l'Etat, les organisations professionnelles représentant les
-établissements de crédit, les entreprises d'assurance, les mutuelles et les institutions de prévoyance ainsi que des
-organisations nationales représentant les malades et les usagers du système de santé agréées en vertu de l'article L. 1114-1
-ou représentant les personnes handicapées. Cette convention a pour objet :
+établissements de crédit, les sociétés de financement, les entreprises d'assurance, les mutuelles et les institutions de
+prévoyance ainsi que des organisations nationales représentant les malades et les usagers du système de santé agréées en
+vertu de l'article L. 1114-1 ou représentant les personnes handicapées. Cette convention a pour objet :
 
 - de faciliter l'assurance des prêts demandés par les personnes présentant un risque aggravé en raison de leur état de santé
 ou d'un handicap ;
 
-- d'assurer la prise en compte complète par les établissements de crédit des garanties alternatives à l'assurance ;
+- d'assurer la prise en compte complète par les établissements de crédit ou les sociétés de financement des garanties
+alternatives à l'assurance ;
 
 - de définir des modalités particulières d'information des demandeurs, d'instruction de leur dossier et de médiation. 
 
 Toute personne présentant, du fait de son état de santé ou de son handicap, un risque aggravé bénéficie de plein droit de
-cette convention ". 
+cette convention. "
 
 " Art.L. 1141-2-1.-La convention prévue à l'article L. 1141-2 définit notamment : 
 
@@ -670,10 +671,10 @@ d'assurance, y compris pour un bien différent de celui visé par cette offre ;
 
 5° Les garanties de confidentialité des données à caractère personnel et de nature médicale ; 
 
-6° Un mécanisme de mutualisation, mis en oeuvre par les entreprises d'assurance, les mutuelles et institutions de prévoyance
-et les établissements de crédit, permettant, sous condition de ressources des demandeurs d'emprunt, de limiter le coût
-additionnel résultant du risque aggravé pour l'assurance décès et invalidité des crédits professionnels et des crédits
-destinés à l'acquisition de la résidence principale ; 
+6° Un mécanisme de mutualisation, mis en oeuvre par les entreprises d'assurance, les mutuelles, les institutions de
+prévoyance, les établissements de crédit et les sociétés de financement, permettant, sous condition de ressources des
+demandeurs d'emprunt, de limiter le coût additionnel résultant du risque aggravé pour l'assurance décès et invalidité des
+crédits professionnels et des crédits destinés à l'acquisition de la résidence principale ; 
 
 7° Les dispositifs d'études et de recherche permettant de recueillir, d'analyser et de publier les données disponibles sur la
 mortalité et la morbidité résultant des principales pathologies, en vue de fournir les éléments statistiques nécessaires à la
@@ -683,10 +684,10 @@ tarification du risque ;
 des refus d'assurance ; 
 
 9° Un dispositif de médiation entre, d'une part, les personnes présentant un risque aggravé de santé et, d'autre part, les
-organismes d'assurance et les établissements de crédit ; 
+organismes d'assurance, les établissements de crédit et les sociétés de financement ; 
 
 10° La composition et les modalités de fonctionnement d'une instance de suivi et de propositions associant les parties et
-chargée d'évaluer régulièrement la réalisation des objectifs et engagements de la convention. " 
+chargée d'évaluer régulièrement la réalisation des objectifs et engagements de la convention. "
 
 " Art.L. 1141-3.-La convention prévue à l'article L. 1141-2 est conclue pour une durée de trois ans. 
 
@@ -719,19 +720,13 @@ d'expiration de la convention. "
 	  - Code de la santé publique - art. L1141-2-1 (V)
 	  - Code de la santé publique L1141-1 à L1141-3, L1141-2, L1141-2-1
 
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2007-131 du 31 janvier 2007 - art. 1 () JORF 1er février 2007
-	  - Loi n°2007-131 du 31 janvier 2007 - art. 3 () JORF 1er février 2007
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 14
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1141-1 (V)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1141-2 (V)
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1141-2-1 (V)
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1141-3 (V)
 
@@ -7096,27 +7091,31 @@ certains risques et pour les contrats collectifs de capitalisation, la personne 
 contrat que pour l'exécution de celui-ci, réputée agir, à l'égard du membre participant ou du bénéficiaire, en tant que
 mandataire de la mutuelle ou de l'union auprès de laquelle le contrat a été souscrit, à l'exception des actes dont le membre
 participant ou le bénéficiaire a été préalablement informé, dans des conditions fixées par arrêté du ministre chargé de la
-mutualité, que le souscripteur n'a pas le pouvoir de les accomplir.
+mutualité, que le souscripteur n'a pas le pouvoir de les accomplir. 
 
 En cas de dissolution ou de liquidation de l'organisme souscripteur, le bulletin d'adhésion ou le contrat collectif se
-poursuit de plein droit entre la mutuelle ou l'union et les personnes antérieurement adhérentes au contrat collectif.
+poursuit de plein droit entre la mutuelle ou l'union et les personnes antérieurement adhérentes au contrat collectif. 
 
 Les dispositions du présent article ne sont pas applicables aux opérations dépendant de la durée de la vie humaine dont les
 prestations sont liées à la cessation d'activité professionnelle, souscrites par une entreprise ou un groupe d'entreprises au
 profit de leurs salariés ou par un groupement professionnel représentatif d'entreprises au profit des salariés de celles-ci
 ou par une organisation représentative d'une profession non salariée ou d'agents d'une collectivité publique au profit de ses
-membres. Elles ne s'appliquent pas non plus aux contrats collectifs souscrits par un établissement de crédit, ayant pour
-objet la garantie de remboursement d'un emprunt.
+membres. Elles ne s'appliquent pas non plus aux contrats collectifs souscrits par un établissement de crédit ou une société
+de financement, ayant pour objet la garantie de remboursement d'un emprunt.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°89-1009 1989-12-31
+	  - Loi n°89-1009 du 31 décembre 1989
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 12
 
 
 ##### Section 3 : Dispositions particulières aux opérations dépendant de la durée de la vie humaine comportant une clause de rachat.
@@ -8151,30 +8150,30 @@ Conseil d'Etat détermine les modalités de fonctionnement et de gestion du fond
 ###### Article L431-1
 
 Les mutuelles et les unions relevant du livre II adhèrent à un fonds de garantie destiné à préserver les droits de leurs
-membres participants et honoraires, de leurs ayants droit et des bénéficiaires des prestations.
+membres participants et honoraires, de leurs ayants droit et des bénéficiaires des prestations. 
 
-Le fonds de garantie intervient après, le cas échéant, les systèmes fédéraux de garantie mentionnés à l'article L. 111-6.
+Le fonds de garantie intervient après, le cas échéant, les systèmes fédéraux de garantie mentionnés à l'article L. 111-6. 
 
-Sont exclues de toute indemnisation par le fonds de garantie les personnes suivantes :
+Sont exclues de toute indemnisation par le fonds de garantie les personnes suivantes : 
 
 a) Administrateurs et dirigeants de la mutuelle ou de l'union, commissaire aux comptes et membres participants et ayants
 droit de la mutuelle ou de l'union ayant les mêmes qualités dans une autre mutuelle ou union relevant des dispositions des
-articles L. 111-3 et L. 111-4 ;
+articles L. 111-3 et L. 111-4 ; 
 
-b) Tiers agissant pour le compte des personnes citées au a ci-dessus ;
+b) Tiers agissant pour le compte des personnes citées au a ci-dessus ; 
 
 c) Mutuelles ou unions relevant du présent code, entreprises régies par le code des assurances, institutions de prévoyance
 régies par le code de la sécurité sociale ou le code rural et de la pêche maritime, sauf lorsqu'il s'agit de contrats
-souscrits au profit de leurs salariés ou de leurs membres participants ou de leurs clients ;
+souscrits au profit de leurs salariés ou de leurs membres participants ou de leurs clients ; 
 
 d) Organismes entrant dans le périmètre de consolidation ou de combinaison des comptes défini à l'article L. 212-7, sauf s'il
 s'agit de contrats souscrits au profit de leurs salariés ou de leurs membres participants, et administrateurs et dirigeants
-de ces organismes ;
+de ces organismes ; 
 
-e) Etablissements de crédit et personnes mentionnées à l'article L. 518-1 du code monétaire et financier, sauf pour les
-contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
+e) Etablissements de crédit, sociétés de financement et personnes mentionnées à l'article L. 518-1 du code monétaire et
+financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ; 
 
-f) Organismes de placements collectifs ;
+f) Organismes de placements collectifs ; 
 
 g) Organismes de retraite, sauf lorsqu'il s'agit de contrats souscrits pour le compte des salariés ou retraités de leurs
 adhérents.
@@ -8205,15 +8204,13 @@ adhérents.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 12
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-1 (M)
-	  - Code de la mutualité - art. L111-3 (M)
-	  - Code de la mutualité - art. L111-4 (V)
-	  - Code de la mutualité - art. L212-7 (M)
+	  - Code monétaire et financier - art. L518-1
+	  - Code de la mutualité - art. L111-3
+	  - Code de la mutualité - art. L212-7
 
 
 ###### Article L431-2

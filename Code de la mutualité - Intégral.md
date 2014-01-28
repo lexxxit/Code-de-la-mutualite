@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-01-04
+Version Consolidée au 2014-01-29
 
 # Partie législative
 
@@ -516,22 +516,28 @@ président du fonds mentionné à l'article L. 431-1.
 Les mutuelles et les unions qui mènent des activités de prévention ou d'action sociale ou qui gèrent des réalisations
 sanitaires, sociales ou culturelles ne peuvent moduler le montant des cotisations qu'en fonction du revenu ou de la durée
 d'appartenance à la mutuelle ou du régime de sécurité sociale d'affiliation ou du lieu de résidence ou du nombre d'ayants
-droit ou de l'âge des membres participants.
+droit ou de l'âge des membres participants. 
 
 Les mutuelles et les unions exerçant une activité d'assurance sont soumises aux dispositions de l'alinéa précédent pour les
 opérations individuelles et collectives à adhésion facultative relatives au remboursement ou à l'indemnisation des frais
 occasionnés par une maladie, une maternité ou un accident. Pour ces opérations, les mutuelles et les unions ne peuvent en
 aucun cas recueillir des informations médicales auprès de leurs membres ou des personnes souhaitant bénéficier d'une
-couverture, ni fixer les cotisations en fonction de l'état de santé.
+couverture, ni fixer les cotisations en fonction de l'état de santé. 
 
 Les mutuelles et les unions visées au présent article ne peuvent instaurer de différences dans le niveau des prestations
-qu'en fonction des cotisations payées ou de la situation de famille des intéressés.
+qu'en fonction des cotisations payées ou de la situation de famille des intéressés ou lorsque l'assuré choisit de recourir à
+un professionnel de santé, un établissement de santé ou un service de santé avec lequel les mutuelles, unions ou fédérations
+ont conclu une convention dans les conditions mentionnées à l'article L. 863-8 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-57 du 27 janvier 2014 - art. 1
 
 	**Cité par**:
 
@@ -539,6 +545,18 @@ qu'en fonction des cotisations payées ou de la situation de famille des intére
 	  - Code de la mutualité - art. L221-10 (V)
 	  - Code de la mutualité - art. L221-13 (V)
 	  - Code de la mutualité - art. L227-1 (M)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2017-734 du 4 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L863-8
+
+	**Nouveaux textes**:
+
+	  - Code de la mutualité - art. L110-2 (V)
 
 
 ###### Article L112-1-1

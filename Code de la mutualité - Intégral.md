@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-02-22
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -3421,6 +3421,29 @@ chacune des deux catégories d'opérations ;
 	  - Code de la sécurité sociale. - art. L931-16 (VD)
 
 
+###### Article L211-11
+
+Les mutuelles et unions régies par le présent code qui réalisent des opérations relatives aux remboursements de frais de
+soins doivent faire figurer dans les documents de communication à leurs adhérents ou destinés à faire leur publicité les
+conditions de prise en charge, de façon simple et normalisée, chiffrée en euros, pour les frais de soins parmi les plus
+courants ou pour ceux pour lesquels le reste à charge est le plus important, selon des modalités précisées par arrêté du
+ministre chargé de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 64
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
+	  - Code de commerce - art. L820-1 (V)
+	  - Code de la mutualité - art. D223-5 (V)
+	  - Code de la sécurité sociale. - art. L931-16 (VD)
+	  - Code des assurances - art. R341-9 (VD)
+
+
 #### Chapitre II : Fonctionnement.
 
 ##### Section 1 : Régime financier et comptable.
@@ -5100,11 +5123,38 @@ recommandée à la mutuelle ou à l'union au moins deux mois avant la date d'éc
 conditions identiques, résilier le contrat collectif, à l'exception des opérations mentionnées au deuxième alinéa de
 l'article L. 112-1.
 
+Lorsque le contrat a pour objet de garantir, en cas de survenance d'un des risques que ce contrat définit, soit le
+remboursement total ou partiel du montant restant dû au titre d'un prêt mentionné à l'article L. 312-2 du code de la
+consommation, soit le paiement de tout ou partie des échéances dudit prêt, le membre participant peut résilier son contrat
+dans un délai de douze mois à compter de la signature de l'offre de prêt. Le membre participant notifie à la mutuelle ou à
+l'union, ou à son représentant, sa demande en envoyant une lettre recommandée au plus tard quinze jours avant le terme de la
+période de douze mois susmentionnée. Le membre participant notifie également à la mutuelle ou à l'union par lettre
+recommandée la décision du prêteur prévue au sixième alinéa de l'article L. 312-9 du même code ainsi que la date de prise
+d'effet du contrat d'assurance accepté en substitution par le prêteur. En cas d'acceptation par le prêteur, la résiliation du
+contrat d'assurance prend effet dix jours après la réception par la mutuelle ou l'union de la décision du prêteur ou à la
+date de prise d'effet du contrat accepté en substitution par le prêteur si celle-ci est postérieure. En cas de refus par le
+prêteur, le contrat d'assurance n'est pas résilié.
+
+Ce droit de résiliation appartient exclusivement au membre participant.
+
+Pendant toute la durée du contrat d'assurance, la mutuelle ou l'union ne peut pas résilier ce contrat d'assurance pour cause
+d'aggravation du risque, sauf dans certaines conditions définies par décret en Conseil d'Etat, résultant d'un changement de
+comportement volontaire de l'assuré.
+
+**Nota:**
+
+Conformément à l'article 54 VI de la loi n° 2014-344 du 17 mars 2014, ces dispositions sont applicables aux contrats
+souscrits à compter du 26 juillet 2014.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 54 (V)
 
 	**Cité par**:
 
@@ -5115,7 +5165,7 @@ l'article L. 112-1.
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L112-1 (V)
+	  - Code de la mutualité - art. L112-1
 
 
 ###### Article L221-10-1

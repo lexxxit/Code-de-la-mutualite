@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-06-14
+Version Consolidée au 2014-07-07
 
 # Partie législative
 
@@ -15956,6 +15956,31 @@ autre support durable à sa disposition et auquel il a facilement accès.
 
 	  - Code de la mutualité - art. L221-18
 	  - Code de la mutualité - art. L223-25-3
+
+
+## Livre III : Ouverture des services des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.
+
+### Titre II : Champ d'intervention.
+
+###### Article R320-1
+
+Sans préjudice des dispositions législatives et réglementaires applicables à l'activité en cause et définissant les
+conditions d'ouverture au public, les statuts des mutuelles et unions régies par le présent livre peuvent prévoir que tout ou
+partie de leurs services, à l'exception des pharmacies mutualistes mentionnées à l'article L. 5125-19 du code de la santé
+publique, est ouvert à toute personne, en plus de leurs membres participants ou les personnes mentionnées aux articles L.
+320-1 et L. 320-3, qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-768 du 4 juillet 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L5125-19
+	  - Code de la mutualité - art. L320-1
+	  - Code de la mutualité - art. L320-3
 
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.

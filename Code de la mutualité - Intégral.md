@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-07-07
+Version Consolidée au 2014-08-02
 
 # Partie législative
 
@@ -418,6 +418,71 @@ Les conditions de fonctionnement de l'union mutualiste de groupe sont fixées pa
 	  - Code monétaire et financier - art. L517-4
 	  - Code des assurances - art. L310-1
 	  - Code des assurances - art. L310-1-1
+
+
+###### Article L111-4-3
+
+I. - Des mutuelles ou unions régies par le livre III du présent code peuvent créer entre elles ou avec des mutuelles ou
+unions régies par le livre II une union régie par le livre III ayant pour objet de faciliter et de développer, en les
+coordonnant, des activités sanitaires, sociales et culturelles.
+
+Cette union peut admettre parmi ses adhérents les organismes relevant des catégories suivantes :
+
+1° Institutions de prévoyance ou unions régies par le titre III du livre IX du code de la sécurité sociale ;
+
+2° Sociétés d'assurance mutuelles relevant du code des assurances ;
+
+3° Entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire dont le siège social est
+situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+4° Coopératives régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
+
+5° Associations régies par la loi du 1er juillet 1901 relative au contrat d'association ou, le cas échéant, par le code civil
+local applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;
+
+6° Fondations régies par la loi n° 87-571 du 23 juillet 1987 sur le développement du mécénat.
+
+II. - Chaque membre est tenu d'effectuer à l'union un apport en numéraire ou en nature, à la création de celle-ci ou lors de
+son adhésion.
+
+Des apports complémentaires peuvent être réalisés en cours d'exercice.
+
+La responsabilité de chaque membre est limitée au montant de son apport. L'apport d'une mutuelle ou union régie par le livre
+II du présent code ne peut excéder le montant de son patrimoine libre.
+
+III. - L'assemblée générale est composée de tous les membres de l'union, représentés par au moins un de leurs dirigeants ou
+administrateurs.
+
+Toutefois, les mutuelles et unions régies par le présent code disposent de la majorité des droits de vote à l'assemblée
+générale ainsi que des sièges au conseil d'administration. Toute clause contraire des statuts entraîne la nullité de la
+constitution de l'union.
+
+IV. - Les statuts de l'union peuvent prévoir que celle-ci dispose de pouvoirs lui permettant d'exercer un contrôle du
+fonctionnement, notamment dans le domaine financier, des activités sanitaires, sociales et culturelles de ses membres. Ces
+pouvoirs sont définis dans les statuts.
+
+V. - Les conditions de fonctionnement de l'union sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Loi n°87-571 du 23 juillet 1987
+	  - Code civil
+	  - Code des assurances
+
+	**Créé par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 55
+
+	**Cité par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 48 (V)
+	  - Décret n°2016-1715 du 13 décembre 2016 - art. 1
+	  - Code de la mutualité - art. R116-1 (V)
+	  - Code de la mutualité - art. R116-3 (V)
+	  - Code de la mutualité - art. R116-4 (V)
 
 
 ###### Article L111-5
@@ -873,25 +938,31 @@ net sur le passif est affecté au fonds de garantie mentionné à l'article L. 4
 
 ###### Article L114-1
 
-Les statuts définissent les règles de participation des membres au fonctionnement de la mutuelle ou de l'union.
+Les statuts définissent les règles de participation des membres au fonctionnement de la mutuelle ou de l'union. 
 
 Les membres participants d'une mutuelle sont les personnes physiques qui bénéficient des prestations de la mutuelle à
 laquelle elles ont adhéré et en ouvrent le droit à leurs ayants droit. Les conditions dans lesquelles une personne est
-considérée comme ayant droit d'un membre participant sont définies par les statuts.
+considérée comme ayant droit d'un membre participant sont définies par les statuts. 
 
-Les mutuelles peuvent admettre des membres honoraires, personnes physiques, qui versent des cotisations, des contributions ou
-leur font des dons sans bénéficier de leurs prestations.
+Les mutuelles peuvent admettre des membres honoraires, personnes physiques, qui versent des cotisations, des contributions,
+leur font des dons ou leur ont rendu des services équivalents dans des conditions définies par les statuts sans bénéficier de
+leurs prestations. 
 
-Les mutuelles et les unions peuvent admettre des membres honoraires, personnes morales souscrivant des contrats collectifs.
+Les unions, à l'exception des unions régies par le livre II et des unions mentionnées à l'article L. 111-4-2, peuvent
+admettre des membres honoraires, personnes morales, qui versent des cotisations, des contributions, leur font des dons ou
+leur ont rendu des services équivalents, sans bénéficier de leurs prestations. 
+
+Les mutuelles et les unions régies par le livre II peuvent admettre des membres honoraires, personnes morales souscrivant des
+contrats collectifs. 
 
 Les règlements définissent le contenu des engagements contractuels existant entre chaque membre participant ou honoraire et
 la mutuelle ou l'union en ce qui concerne les prestations et les cotisations. Les règlements sont adoptés par l'assemblée
-générale sur proposition du conseil d'administration.
+générale sur proposition du conseil d'administration. 
 
 Toute personne qui souhaite être membre d'une mutuelle fait acte d'adhésion, dans des conditions définies par décret en
 Conseil d'Etat, et reçoit gratuitement copie des statuts et règlements de la mutuelle. La signature du bulletin d'adhésion
 emporte acceptation des dispositions des statuts et des droits et obligations définis par le règlement. Tous actes ou
-délibérations ayant pour objet une modification des statuts sont portés à la connaissance de chacun des adhérents.
+délibérations ayant pour objet une modification des statuts sont portés à la connaissance de chacun des adhérents. 
 
 Par dérogation aux alinéas précédents, les droits et obligations résultant d'opérations collectives font l'objet d'un contrat
 écrit entre la personne morale souscriptrice et la mutuelle ou l'union. Un décret en Conseil d'Etat détermine les mentions
@@ -901,7 +972,15 @@ que doivent impérativement comporter les règlements et contrats collectifs.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 56
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-4-2 (V)
 
 	**Cité par**:
 
@@ -1084,8 +1163,11 @@ générale, ou que le délégué unique élu par la section dispose, dans les vo
 
 ###### Article L114-7
 
-L'assemblée générale des unions et des fédérations est constituée, dans des conditions déterminées par leurs statuts, par la
-réunion des délégués des mutuelles ou des unions adhérentes.
+L'assemblée générale des unions est constituée, dans des conditions déterminées par leurs statuts, par la réunion des
+délégués des mutuelles ou des unions adhérentes et de leurs membres honoraires.
+
+L'assemblée générale des fédérations est constituée, dans les conditions déterminées par leurs statuts, par la réunion des
+délégués des mutuelles ou des unions adhérentes.
 
 Les décisions régulièrement prises par l'assemblée générale d'une mutuelle, d'une union ou d'une fédération s'imposent à
 l'organisme et à ses membres sous réserve de leur conformité aux dispositions du présent code.
@@ -1097,7 +1179,11 @@ adhérents.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 56
 
 
 ###### Article L114-8
@@ -1166,9 +1252,9 @@ c) Le montant des droits d'adhésion, lorsqu'ils sont prévus par les statuts ; 
 fixées par décret ; en tout état de cause, il est fixé une fois par an et est le même pour toutes les adhésions de
 l'exercice ; 
 
-d) Les montants ou taux de cotisations ; 
+d) Les montants ou taux de cotisations, dans le cadre des opérations individuelles mentionnées au II de l'article L. 221-2 ; 
 
-e) Les prestations offertes ; 
+e) Les prestations offertes, dans le cadre des opérations individuelles mentionnées au II de l'article L. 221-2 ; 
 
 f) L'adhésion à une union ou une fédération, la conclusion d'une convention de substitution, la fusion avec une autre
 mutuelle ou union, la scission ou la dissolution de la mutuelle ou de l'union, ainsi que sur la création d'une autre mutuelle
@@ -1176,8 +1262,8 @@ ou union, conformément aux articles L. 111-3 et L. 111-4 ;
 
 g) Les règles générales auxquelles doivent obéir les opérations de cession de réassurance ; 
 
-h) L'émission des titres participatifs, de titres subordonnés et d'obligations dans les conditions fixées aux articles L.
-114-44 et L. 114-45 ; 
+h) L'émission des titres participatifs, de titres subordonnés, de certificats mutualistes et d'obligations dans les
+conditions fixées aux articles L. 114-44 et L. 114-45 ; 
 
 i) Le transfert de tout ou partie du portefeuille de contrats, que l'organisme soit cédant ou cessionnaire ; 
 
@@ -1191,13 +1277,20 @@ l) Le rapport spécial du commissaire aux comptes sur les conventions réglement
 m) Le rapport du conseil d'administration relatif aux transferts financiers entre mutuelles ou unions régies par les livres
 II et III auquel est joint le rapport du commissaire aux comptes prévu à l'article L. 114-39 ; 
 
-n) Le plan prévisionnel de financement prévu à l'article L. 310-3.
+n) Le plan prévisionnel de financement prévu à l'article L. 310-3 ; 
+
+o) Les règles générales auxquelles doivent obéir les opérations collectives mentionnées au III de l'article L. 221-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 53
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 54
 
 	**Cité par**:
 
@@ -1207,14 +1300,15 @@ n) Le plan prévisionnel de financement prévu à l'article L. 310-3.
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-3 (V)
-	  - Code de la mutualité - art. L111-4 (V)
-	  - Code de la mutualité - art. L114-18 (V)
-	  - Code de la mutualité - art. L114-34 (V)
-	  - Code de la mutualité - art. L114-39 (V)
-	  - Code de la mutualité - art. L114-44 (V)
-	  - Code de la mutualité - art. L114-45 (V)
-	  - Code de la mutualité - art. L310-3 (V)
+	  - Code de la mutualité - art. L111-3
+	  - Code de la mutualité - art. L111-4
+	  - Code de la mutualité - art. L114-18
+	  - Code de la mutualité - art. L114-34
+	  - Code de la mutualité - art. L114-39
+	  - Code de la mutualité - art. L114-44
+	  - Code de la mutualité - art. L114-45
+	  - Code de la mutualité - art. L221-2
+	  - Code de la mutualité - art. L310-3
 
 
 ###### Article L114-10
@@ -1261,30 +1355,40 @@ Elle statue sur la scission, la fusion avec une autre fédération ou la dissolu
 
 ###### Article L114-11
 
-L'assemblée générale des mutuelles, unions et fédérations peut déléguer tout ou partie de ses pouvoirs de détermination des
-montants ou des taux de cotisations et de prestations au conseil d'administration. Cette délégation n'est valable que pour un
-an.
+Pour les opérations individuelles mentionnées au II de l'article L. 221-2, l'assemblée générale des mutuelles, unions et
+fédérations peut déléguer tout ou partie de ses pouvoirs de détermination des montants ou des taux de cotisations et de
+prestations au conseil d'administration. Cette délégation n'est valable que pour un an.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 53
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L114-12 (V)
 	  - Code de la mutualité - art. L114-9 (V)
 
+	**Cite**:
+
+	  - Code de la mutualité - art. L221-2 (V)
+
 
 ###### Article L114-12
 
-I.-Lorsqu'elle se prononce sur la modification des statuts, les activités exercées, les montants ou taux de cotisation, la
-délégation de pouvoir prévue à l'article L. 114-11, les prestations offertes, le transfert de portefeuille, les principes
-directeurs en matière de réassurance, la fusion, la scission, la dissolution ou la création d'une mutuelle ou d'une union,
-l'assemblée générale des mutuelles, unions et fédérations ne délibère valablement que si le nombre de ses membres présents,
-représentés ou ayant fait usage de la faculté de vote par correspondance dans les conditions prévues par l'article L. 114-13,
-est au moins égal à la moitié du total des membres. 
+I.-Lorsqu'elle se prononce sur la modification des statuts, les activités exercées, les montants ou taux de cotisation des
+opérations individuelles mentionnées au II de l'article L. 221-2, la délégation de pouvoir prévue à l'article L. 114-11, les
+prestations offertes dans le cadre des opérations individuelles mentionnées au II de l'article L. 221-2, le transfert de
+portefeuille, les principes directeurs en matière de réassurance, les règles générales en matière d'opérations collectives la
+fusion, la scission, la dissolution ou la création d'une mutuelle ou d'une union, l'assemblée générale des mutuelles, unions
+et fédérations ne délibère valablement que si le nombre de ses membres présents, représentés ou ayant fait usage de la
+faculté de vote par correspondance dans les conditions prévues par l'article L. 114-13, est au moins égal à la moitié du
+total des membres. 
 
 Si, lors de la première convocation, l'assemblée générale n'a pas réuni le quorum fixé à l'alinéa précédent, une seconde
 assemblée générale peut être convoquée qui délibère valablement si le nombre de ses membres présents, représentés ou ayant
@@ -1318,12 +1422,13 @@ adoptées à la majorité simple des membres, ou des suffrages exprimés, selon 
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 169
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 53
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-11
+	  - Code de la mutualité - art. L114-11 (M)
 	  - Code de la mutualité - art. L114-13
+	  - Code de la mutualité - art. L221-2
 
 
 ###### Article L114-13
@@ -1391,21 +1496,24 @@ concernée, ordonner à la mutuelle, union ou fédération, sous astreinte, de l
 Les mutuelles sont administrées par un conseil d'administration composé d'administrateurs élus à bulletin secret par les
 membres de l'assemblée générale dans les conditions fixées par les statuts, parmi les membres participants âgés de dix-huit
 ans révolus et les membres honoraires. Les membres participants représentent au moins les deux tiers du conseil
-d'administration.
+d'administration. 
 
-Les administrateurs des unions et fédérations sont élus parmi les délégués siégeant à l'assemblée générale.
+Les administrateurs des unions sont élus parmi les délégués et les membres honoraires siégeant à l'assemblée générale. Les
+délégués des organismes adhérents représentent au moins les deux tiers du conseil d'administration. 
+
+Les administrateurs des fédérations sont élus parmi les délégués siégeant à l'assemblée générale. 
 
 Le conseil d'administration d'une mutuelle, union ou fédération ne peut être composé pour plus de la moitié d'administrateurs
 exerçant des fonctions d'administrateurs, de dirigeants ou d'associés dans une personne morale de droit privé à but lucratif
 appartenant au même groupe au sens de l'article L. 212-7. Toute élection ou nomination intervenant en méconnaissance de ces
-dispositions est nulle.
+dispositions est nulle. 
 
 Le nombre de membres du conseil d'administration est fixé par les statuts. Il ne peut toutefois être inférieur à dix. Dans le
 cas où le nombre d'administrateurs est inférieur au minimum légal du fait d'une ou plusieurs vacances, une assemblée générale
-est convoquée par le président. A défaut de convocation, les dispositions prévues au I de l'article L. 114-8 s'appliquent.
+est convoquée par le président. A défaut de convocation, les dispositions prévues au I de l'article L. 114-8 s'appliquent. 
 
 La durée des fonctions d'administrateur fixée par les statuts ne peut être supérieure à six ans. Cette fonction est
-renouvelable sauf stipulation statutaire contraire.
+renouvelable sauf stipulation statutaire contraire. 
 
 Dans les mutuelles, unions et fédérations employant au moins cinquante salariés, deux représentants de ceux-ci, élus dans les
 conditions fixées par les statuts, assistent avec voix consultative aux séances du conseil d'administration.
@@ -1414,7 +1522,11 @@ conditions fixées par les statuts, assistent avec voix consultative aux séance
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 56
 
 	**Cité par**:
 
@@ -1428,8 +1540,8 @@ conditions fixées par les statuts, assistent avec voix consultative aux séance
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-8 (M)
-	  - Code de la mutualité - art. L212-7 (M)
+	  - Code de la mutualité - art. L114-8 (V)
+	  - Code de la mutualité - art. L212-7 (V)
 
 
 ###### Article L114-17
@@ -1438,7 +1550,7 @@ Le conseil d'administration détermine les orientations de l'organisme et veille
 
 Le conseil d'administration opère les vérifications et contrôles qu'il juge opportuns et se saisit de toute question
 intéressant la bonne marche de l'organisme. Chaque administrateur reçoit toutes les informations nécessaires à
-l'accomplissement de sa mission et se fait communiquer les documents qu'il estime utiles.
+l'accomplissement de sa mission et se fait communiquer les documents qu'il estime utiles. 
 
 A la clôture de chaque exercice, le conseil d'administration arrête les comptes annuels et établit un rapport de gestion
 qu'il présente à l'assemblée générale et dans lequel il rend compte : 
@@ -1461,22 +1573,23 @@ g) Pour les mutuelles ou leurs unions relevant du livre II, le montant et les mo
 de la participation aux excédents ; 
 
 h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du code de commerce lorsque les conditions
-prévues au sixième alinéa du même article sont  remplies. Les mutuelles, unions ou fédérations qui font partie d'un  groupe,
-au sens de l'article L. 212-7 du présent code, ne sont pas  tenues de publier ces informations lorsque celles-ci sont
-publiées dans  le rapport de gestion du groupe de manière détaillée et individualisée  par mutuelle, union ou fédération, et
-que ces mutuelles, unions ou  fédérations indiquent comment y accéder dans leur propre rapport de  gestion. 
+prévues au sixième alinéa du même article sont remplies. Ces informations font l'objet d'une vérification par un organisme
+tiers indépendant, dans les conditions prévues au même article. Les mutuelles, unions ou fédérations qui font partie d'un
+groupe, au sens de l'article L. 212-7 du présent code, ne sont pas tenues de publier ces informations lorsque celles-ci sont
+publiées dans le rapport de gestion du groupe de manière détaillée et individualisée par mutuelle, union ou fédération, et
+que ces mutuelles, unions ou fédérations indiquent comment y accéder dans leur propre rapport de gestion. 
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les comptes consolidés ou combinés, lorsque la
 mutuelle, l'union ou la fédération fait partie d'un groupe au sens de l'article L. 212-7, ainsi qu'un rapport sur la gestion
 du groupe qu'il communique à l'assemblée générale. 
 
 Il établit également, lorsque la mutuelle ou l'union relève du livre II, le rapport de solvabilité visé à l'article L. 212-3
-et un état annuel annexé aux comptes et relatif aux plus-values latentes, visé à l'article L. 212-6.
+et un état annuel annexé aux comptes et relatif aux plus-values latentes, visé à l'article L. 212-6. 
 
-**Nota:**
-
-Loi n° 2010-788 du 13 juillet 2010 article 225  VII : Ces présentes dispositions sont applicables aux exercices clos à
-compter du 1er janvier 2011.
+Le conseil d'administration fixe les montants ou les taux de cotisation et les prestations des opérations collectives
+mentionnées au III de l'article L. 221-2, dans le respect des règles générales fixées par l'assemblée générale. Il rend
+compte devant l'assemblée générale des décisions qu'il prend en la matière. Il peut déléguer tout ou partie de cette
+compétence, pour une durée maximale d'un an, au président du conseil d'administration ou au dirigeant.
 
 **Liens relatifs à cet article**
 
@@ -1492,13 +1605,14 @@ compter du 1er janvier 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1 du 2 janvier 2014 - art. 9
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 53
 
 	**Cite**:
 
 	  - Code de la mutualité - art. L114-26
 	  - Code de la mutualité - art. L212-6
 	  - Code de la mutualité - art. L212-7
+	  - Code de la mutualité - art. L221-2
 
 
 ###### Article L114-17-1
@@ -2382,6 +2496,30 @@ prévues par les articles L. 228-1 à L. 228-97 du code de commerce.
 
 	  - Code de la mutualité - art. L114-10 (V)
 	  - Code de la mutualité - art. L114-9 (V)
+
+
+###### Article L114-45-1
+
+Les conditions d'émission, notamment le contrôle exercé par l'Autorité de contrôle prudentiel et de résolution, des titres
+mentionnés aux articles L. 114-44 et L. 114-45 émis par les mutuelles et unions soumises au contrôle de l'Autorité de
+contrôle prudentiel et de résolution en application du 3° du B du I de l'article L. 612-2 du code monétaire et financier sont
+déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 54
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-2
+	  - Code de la mutualité - art. L114-44 (V)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L221-19 (VD)
+	  - Code de la mutualité - art. R114-10 (V)
 
 
 ###### Article L114-46
@@ -4915,9 +5053,13 @@ relatives à l'information des membres participants ainsi que des mutuelles et u
 
 Pour les opérations individuelles prévues au II de l'article L. 221-2, la mutuelle ou l'union doit avoir remis au membre
 participant ou futur membre participant, avant la signature du contrat, un bulletin d'adhésion, les statuts et règlements ou
-une fiche d'information sur le contrat qui décrit précisément leurs droits et obligations réciproques.
+une fiche d'information sur le contrat qui décrit précisément leurs droits et obligations réciproques. 
 
-Les statuts et règlements précisent les modalités de modification du contrat.
+Les statuts et règlements précisent les modalités de modification du contrat. 
+
+Pour les opérations collectives mentionnées au III de l'article L. 221-2, avant la signature du bulletin d'adhésion ou la
+souscription du contrat, la mutuelle ou l'union remet obligatoirement à la personne morale souscriptrice la proposition de
+bulletin d'adhésion ou de contrat. 
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles est constatée la remise de ces documents, ainsi que le
 délai qui doit s'être écoulé entre la remise de ces documents et la signature du bulletin d'adhésion.
@@ -4926,7 +5068,11 @@ délai qui doit s'être écoulé entre la remise de ces documents et la signatur
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 51
 
 	**Cite**:
 
@@ -5043,8 +5189,10 @@ frais de poursuites et de recouvrement.
 ###### Article L221-8
 
 I. - Lorsque, dans le cadre des opérations collectives, l'employeur ou la personne morale assure le précompte de la
-cotisation, à défaut de paiement d'une cotisation dans les dix jours de son échéance, la garantie ne peut être suspendue que
-trente jours après la mise en demeure de l'employeur ou de la personne morale.
+cotisation, à défaut de paiement d'une cotisation dans les dix jours de son échéance et indépendamment du droit pour la
+mutuelle ou l'union d'appliquer des majorations de retard à la charge exclusive de l'employeur et de poursuivre en justice
+l'exécution du contrat collectif, la garantie ne peut être suspendue que trente jours après la mise en demeure de l'employeur
+ou de la personne morale.
 
 Dans la lettre de mise en demeure qu'elle adresse à l'employeur ou à la personne morale, la mutuelle ou l'union l'informe des
 conséquences que ce défaut de paiement est susceptible d'entraîner sur la poursuite de la garantie. Le membre participant est
@@ -5055,9 +5203,9 @@ s'il entreprend de se substituer à l'employeur ou à la personne morale souscri
 La mutuelle ou l'union a le droit de résilier le contrat collectif dix jours après le délai de trente jours mentionné au
 premier alinéa du présent I.
 
-Le contrat collectif non résilié reprend effet à midi le lendemain du jour où, sauf décision différente de la mutuelle ou de
-l'union, ont été payées à celles-ci les cotisations arriérées et celles venues à échéance pendant la période de suspension
-ainsi que, éventuellement, les frais de poursuite et de recouvrement.
+Le contrat collectif non résilié reprend effet à midi le lendemain du jour où ont été payées à celles-ci les cotisations
+arriérées et celles venues à échéance pendant la période de suspension ainsi que, éventuellement, les frais de poursuite et
+de recouvrement.
 
 II. - Lorsque dans le cadre des opérations collectives facultatives, l'employeur ou la personne morale n'assure pas le
 précompte des cotisations, le membre participant qui ne paie pas sa cotisation dans les dix jours de son échéance peut être
@@ -5091,14 +5239,30 @@ poursuit en justice l'exécution du contrat.
 	**Modifié par**:
 
 	  - Loi n°2013-504 du 14 juin 2013 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L912-1
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 51
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L223-27 (V)
+
+
+###### Article L221-8-1
+
+Dans le cadre des opérations collectives mentionnées au 2° du III de l'article L. 221-2, la garantie subsiste en cas de
+procédure de sauvegarde ou de redressement ou de liquidation judiciaires de l'employeur. En cas de résiliation du bulletin
+d'adhésion ou du contrat en application de l'article L. 622-13 du code de commerce, la portion de cotisation afférente au
+temps pendant lequel la mutuelle ou l'union ne couvre plus le risque est restituée au débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 51
+
+	**Cite**:
+
+	  - Code de commerce - art. L622-13
+	  - Code de la mutualité - art. L221-2 (V)
 
 
 ###### Article L221-9
@@ -5206,40 +5370,44 @@ défaut de remboursement dans ces conditions, les sommes dues sont productives d
 ###### Article L221-11
 
 Toutes actions dérivant des opérations régies par le présent titre sont prescrites par deux ans à compter de l'événement qui
-y donne naissance.
+y donne naissance. 
 
-Toutefois, ce délai ne court :
+Toutefois, ce délai ne court : 
 
 1° En cas de réticence, omission, déclaration fausse ou inexacte sur le risque couru, du fait du membre participant, que du
-jour où la mutuelle ou l'union en a eu connaissance ;
+jour où la mutuelle ou l'union en a eu connaissance ; 
 
 2° En cas de réalisation du risque, que du jour où les intéressés en ont eu connaissance, s'ils prouvent qu'ils l'ont ignoré
-jusque-là.
+jusque-là. 
 
 Quand l'action du participant, du bénéficiaire ou de l'ayant droit contre la mutuelle ou l'union a pour cause le recours d'un
 tiers, le délai de prescription ne court que du jour où ce tiers a exercé une action en justice contre le membre participant
-ou l'ayant droit, ou a été indemnisé par celui-ci.
+ou l'ayant droit, ou a été indemnisé par celui-ci. 
+
+Dans le cadre des opérations collectives mentionnées au III de l'article L. 221-2, la prescription est portée à cinq ans en
+ce qui concerne l'incapacité de travail. 
 
 La prescription est portée à dix ans lorsque, pour les opérations mentionnées au b du 1° du I de l'article L. 111-1, le
 bénéficiaire n'est pas le membre participant et, dans les opérations relatives aux accidents atteignant les personnes,
-lorsque les bénéficiaires sont les ayants droit du membre participant décédé.
+lorsque les bénéficiaires sont les ayants droit du membre participant décédé. 
 
-Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2° , les actions du bénéficiaire sont prescrites au
+Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2°, les actions du bénéficiaire sont prescrites au
 plus tard trente ans à compter du décès du membre participant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Modifié par**:
 
-	  - Loi n°2006-1640 du 21 décembre 2006 - art. 18 (V) JORF 22 décembre 2006
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 51
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
+	  - Code de la mutualité - art. L111-1 (V)
+	  - Code de la mutualité - art. L221-2 (V)
 
 
 ###### Article L221-12
@@ -5306,11 +5474,18 @@ omis ou dénaturé par le membre participant a été sans influence sur la réal
 Les cotisations acquittées demeurent alors acquises à la mutuelle ou à l'union qui a droit au paiement de toutes les
 cotisations échues à titre de dommages et intérêts.
 
+Lorsque l'adhésion à la mutuelle ou à l'union résulte d'une obligation prévue dans une convention de branche ou dans un
+accord professionnel ou interprofessionnel, les deux premiers alinéas ne s'appliquent pas.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 51
 
 	**Cité par**:
 
@@ -5532,6 +5707,145 @@ juin 2014.
 	  - Code de la mutualité - art. R221-1 (V)
 	  - Code de la mutualité - art. R221-2 (V)
 	  - Code de la mutualité - art. R223-6 (V)
+
+
+##### Section 4 : Certificats mutualistes
+
+###### Article L221-19
+
+I.-En vue de l'alimentation de leur fonds d'établissement, les mutuelles et unions mentionnées à l'article L. 211-1 ainsi que
+les unions mutualistes de groupe mentionnées à l'article L. 111-4-2 peuvent émettre des certificats mutualistes auprès : 
+
+1° De leurs membres participants ou honoraires ; 
+
+2° Des membres participants ou assurés des organismes appartenant au même groupe, défini à l'article L. 212-7, ainsi
+qu'auprès desdits organismes ; 
+
+3° De mutuelles et unions régies par le présent livre II, d'unions mentionnées à l'article L. 111-4-2 du présent code,
+d'institutions, d'unions ou de groupements paritaires de prévoyance régis par le livre IX du code de la sécurité sociale, de
+sociétés d'assurance mutuelles régies par le code des assurances et de sociétés de groupe d'assurance mutuelles mentionnées
+au dernier alinéa de l'article L. 322-1-3 du même code. 
+
+II.-Lors de l'émission de certificats mutualistes, les mutuelles et unions respectent les conditions et les modalités prévues
+aux articles L. 114-44 et L. 114-45-1 du présent code. 
+
+Toutes les informations, y compris les communications à caractère publicitaire, relatives à des certificats mutualistes
+présentent un contenu exact, clair et non trompeur. Les communications à caractère publicitaire sont clairement identifiées
+comme telles. 
+
+Les personnes mentionnées au I reçoivent, préalablement à la souscription, les informations leur permettant raisonnablement
+de comprendre la nature des certificats mutualistes proposés ainsi que les risques et inconvénients y afférents, afin d'être
+en mesure de prendre leurs décisions d'investissement en connaissance de cause. 
+
+Lorsque les certificats mutualistes sont placés auprès de personnes relevant des 1° ou 2° du I du présent article, les
+mutuelles et unions précisent les exigences et les besoins exprimés par ces personnes ainsi que les raisons qui motivent le
+conseil fourni quant à l'investissement proposé. Ces précisions, qui reposent en particulier sur les éléments d'information
+communiqués par ces personnes sur leur situation financière et leurs objectifs de souscription, sont adaptées aux
+spécificités des certificats mutualistes. Pour l'application de ces obligations, les mutuelles et unions s'enquièrent des
+connaissances et de l'expérience en matière financière de ces personnes. Lorsque ces dernières ne communiquent pas l'ensemble
+des éléments d'information susmentionnés, les mutuelles et unions les mettent en garde préalablement à la souscription. 
+
+III.-Les certificats mutualistes sont inscrits sous forme nominative dans un registre tenu par l'émetteur et dans un compte-
+titres tenu soit par l'émetteur, soit par l'un des intermédiaires mentionnés aux 
+2° à 7° de l'article L. 542-1 du code monétaire et financier
+. 
+
+Le compte-titres est ouvert au nom d'un ou de plusieurs titulaires, propriétaires des certificats mutualistes qui y sont
+inscrits. 
+
+IV.-Par exception à la règle fixée au troisième alinéa de l'article L. 114-44 du présent code pour les titres participatifs,
+la rémunération des certificats mutualistes est variable et fixée annuellement par l'assemblée générale lors de l'examen des
+comptes. La part maximale des résultats du dernier exercice clos et des précédents exercices susceptible d'être affectée
+annuellement à la rémunération des certificats mutualistes est fixée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 54
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L542-1
+	  - Code des assurances - art. L322-1-3 (V)
+	  - Code de la mutualité - art. L. 114-45-1 (V)
+	  - Code de la mutualité - art. L111-4-2 (V)
+	  - Code de la mutualité - art. L114-44 (V)
+	  - Code de la mutualité - art. L211-1 (V)
+	  - Code de la mutualité - art. L212-7 (V)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L221-20 (V)
+	  - Code de la mutualité - art. R114-10 (V)
+
+
+###### Article L221-20
+
+I.-Les certificats mutualistes ne sont remboursables qu'en cas de liquidation de l'émetteur et après désintéressement complet
+de tous les créanciers privilégiés, chirographaires et subordonnés. Le remboursement est effectué à la valeur nominale du
+certificat, réduite, le cas échéant, à due concurrence de l'imputation des pertes sur le fonds d'établissement. Les statuts
+peuvent prévoir, préalablement à cette réduction, l'imputation des pertes sur les réserves. 
+
+II.-Les certificats mutualistes ne peuvent être cédés que dans les conditions décrites au III et ne peuvent faire l'objet ni
+d'un prêt ni d'opérations de mise en pension. 
+
+III.-L'assemblée générale peut autoriser le conseil d'administration à racheter à leur valeur nominale des certificats
+mutualistes émis par la mutuelle ou l'union, afin de les offrir à l'achat, dans un délai de deux ans à compter de leur
+rachat, aux personnes mentionnées au I de l'article L. 221-19, dans les conditions et selon les modalités suivantes : 
+
+1° Le montant de certificats mutualistes détenus par l'émetteur ne peut excéder 10 % du montant total émis, sauf dérogation
+accordée par l'Autorité de contrôle prudentiel et de résolution ; 
+
+2° Lorsque l'assemblée générale les autorise, les rachats de certificats mutualistes sont effectués selon l'ordre d'arrivée
+des demandes des titulaires de certificats mutualistes. Les demandes formulées dans les cas suivants sont toutefois
+prioritaires : 
+
+a) Liquidation du titulaire ; 
+
+b) Demande d'un ayant droit en cas de décès du titulaire ; 
+
+c) Cas prévus au troisième à septième alinéa de l'article L. 132-23 du code des assurances. Pour l'application de ces mêmes
+alinéas, la référence à l'assuré est remplacée par la référence au titulaire du certificat mutualiste ; 
+
+d) Perte par le titulaire du certificat de sa qualité de membre participant ou honoraire de l'émetteur, ou de membre
+participant, de membre adhérent ou assuré des organismes appartenant au même groupe défini à l'article L. 212-7 du présent
+code ; 
+
+3° L'assemblée générale arrête un programme annuel de rachats, qui fait l'objet d'une résolution spéciale dont la teneur est
+préalablement soumise à l'approbation de l'Autorité de contrôle prudentiel et de résolution. Le programme définit la
+politique de la mutuelle ou de l'union en matière de rachat, les modalités des opérations de rachat et le nombre maximal de
+certificats mutualistes pouvant être rachetés et précise l'impact des rachats sur la solvabilité de la mutuelle ou de
+l'union ; 
+
+4° A défaut d'avoir été cédés dans les deux ans à compter de leur rachat, les certificats mutualistes sont annulés.
+L'annulation est compensée par une reprise d'un montant équivalent sur le fonds d'établissement. Cette reprise est constatée
+par le conseil d'administration, qui procède à la modification du montant du fonds d'établissement mentionné dans les
+statuts. Cette modification est mentionnée dans le rapport annuel présenté à l'assemblée générale ; 
+
+5° Les commissaires aux comptes présentent à l'assemblée générale d'approbation des comptes un rapport spécial sur les
+conditions dans lesquelles les certificats mutualistes ont été rachetés et utilisés au cours du dernier exercice clos ; 
+
+6° Les certificats mutualistes détenus par l'émetteur ne donnent pas droit à rémunération ; 
+
+7° Une nouvelle émission de certificats mutualistes ne peut être autorisée que si l'émetteur place de manière prioritaire les
+certificats mutualistes qu'il détient en propre ; 
+
+8° Le conseil d'administration peut déléguer au président du conseil d'administration ou au dirigeant salarié les pouvoirs
+nécessaires pour réaliser les opérations de rachat. Le président du conseil d'administration ou le dirigeant salarié rend
+compte au conseil d'administration, dans les conditions prévues par ce dernier, de l'utilisation faite de ce pouvoir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 54
+
+	**Cite**:
+
+	  - Code des assurances - art. L132-23 (V)
+	  - Code de la mutualité - art. L212-7 (V)
+	  - Code de la mutualité - art. L221-19 (V)
 
 
 #### Chapitre II : Dispositions relatives à certaines opérations de retraite.
@@ -7663,6 +7977,67 @@ au e du 1° du I de l'article L. 111-1.
 	**Cite**:
 
 	  - Code de la mutualité - art. L111-1 (Ab)
+
+
+#### Chapitre VII : Dispositions relatives à la coassurance
+
+###### Article L227-1
+
+I.-Pour les opérations collectives obligatoires couvrant le risque décès, les risques portant atteinte à l'intégrité physique
+de la personne ou liés à la maternité, les risques d'incapacité de travail ou d'invalidité et pour les opérations collectives
+facultatives couvrant ces mêmes risques, à l'exception de celles visées par arrêté des ministres chargés de l'économie, de la
+sécurité sociale et de la mutualité, les mutuelles et unions mentionnées à l'article L. 211-1 du présent code peuvent
+conclure un contrat de coassurance entre elles, avec des institutions de prévoyance ou unions régies par le titre III du
+livre IX du code de la sécurité sociale et avec des entreprises d'assurance mentionnées à l'article L. 310-2 du code des
+assurances. En application de ce contrat, tout membre participant est garanti pendant une même durée et par un même contrat
+collectif par au moins deux organismes assureurs, chacun d'eux proportionnellement à la part, prévue au contrat de
+coassurance, qu'il accepte de couvrir. 
+
+Par dérogation à l'article L. 112-1 du présent code, lorsqu'un contrat collectif à adhésion facultative relatif au
+remboursement ou à l'indemnisation des frais occasionnés par une maladie, une maternité ou un accident est coassuré par au
+moins une mutuelle ou union régie par le présent livre, le montant des cotisations ne peut être modulé en fonction de la
+durée d'appartenance à la mutuelle ou à l'union. 
+
+Par dérogation à l'article L. 221-2, lorsque le contrat collectif est coassuré par plusieurs mutuelles et unions, il
+détermine la mutuelle auprès de laquelle chaque personne physique adhérant au contrat collectif coassuré devient membre.
+Cette répartition s'effectue en fonction de critères préalablement déterminés par les organismes coassureurs et précisés dans
+le contrat coassuré. Les critères sont fondés sur des éléments objectifs. Dans ce cadre et par dérogation à l'article L.
+111-1, les mutuelles et unions peuvent mener une action de prévoyance au profit des bénéficiaires du contrat collectif
+coassuré non membres participants de l'organisme et de leurs ayants droit. 
+
+II.-Les organismes coassureurs désignent parmi eux un apériteur, dont ils précisent les missions dans le contrat de
+coassurance. L'apériteur assure le rôle d'interlocuteur unique du souscripteur pour la négociation des conditions du contrat
+mentionné au I et de son renouvellement. Il peut encaisser la totalité des cotisations et verser les prestations. 
+
+Le contrat prévoit les conditions dans lesquelles est assuré le respect de la garantie des droits des membres participants en
+cas de modification ou de cessation de la coassurance. 
+
+Pour l'application des articles L. 211-2, L. 212-18, L. 212-23 et L. 223-8, dans le cas d'un contrat collectif coassuré,
+l'ensemble des personnes physiques ayant adhéré au contrat collectif coassuré et leurs ayants droit sont traités comme s'ils
+étaient membres participants ou ayants droit d'un membre participant de l'ensemble des mutuelles ou unions coassureurs. 
+
+III.-Par dérogation aux articles L. 114-1 et L. 114-4, les conditions dans lesquelles une personne est considérée comme ayant
+droit d'une personne physique ayant adhéré au contrat collectif coassuré sont déterminées par ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 51
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-2
+	  - Code de la mutualité - art. L111-1 (V)
+	  - Code de la mutualité - art. L112-1 (V)
+	  - Code de la mutualité - art. L114-1 (V)
+	  - Code de la mutualité - art. L114-4 (V)
+	  - Code de la mutualité - art. L211-1 (V)
+	  - Code de la mutualité - art. L211-2 (V)
+	  - Code de la mutualité - art. L212-18 (V)
+	  - Code de la mutualité - art. L212-23 (V)
+	  - Code de la mutualité - art. L221-2 (V)
+	  - Code de la mutualité - art. L223-8 (V)
 
 
 ## Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.

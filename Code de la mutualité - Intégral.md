@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-08-24
+Version Consolidée au 2014-11-06
 
 # Partie législative
 
@@ -10490,25 +10490,24 @@ après avis du ministre chargé de l'économie.
 ###### Article R211-28-1
 
 Les organismes chargés d'établir et de publier les comptes consolidés ou combinés d'un groupe au sens de l'article L. 212-7
-ou d'un conglomérat financier au sens de l'article L. 212-7-5 soumis à la surveillance complémentaire de l'Autorité de
-contrôle prudentiel et de résolution fournissent en outre un rapport décrivant également le dispositif de contrôle interne du
-groupe ou du conglomérat financier. 
+fournissent en outre un rapport décrivant également le dispositif de contrôle interne du groupe. 
 
-Ce rapport contient notamment une description des éléments mentionnés à l'article R. 213-1, à l'article R. 213-6 et aux III
-et IV de l'article R. 213-11.
+Ce rapport contient notamment une description des éléments mentionnés à l'article R. 213-1 et à l'article R. 213-6.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-7 (V)
-	  - Code de la mutualité - art. L212-7-5
+	  - Code de la mutualité - art. L211-7
 	  - Code de la mutualité - art. R213-1
-	  - Code de la mutualité - art. R213-11
 	  - Code de la mutualité - art. R213-6
 
 
@@ -11023,10 +11022,9 @@ détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de
 prudentiel et de résolution peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux a et b. 
 
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions mentionnées au a et au b lorsqu'elle est soumise
-à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle présente une
-solvabilité ajustée positive calculée selon les modalités précisées à l'article R. 213-8 et R. 213-9. La méthode définie à
-l'article R. 213-8 n'est applicable que si l'Autorité de contrôle estime que la gestion intégrée et le contrôle interne des
-entités entrant dans le périmètre de consolidation sont satisfaisants. 
+à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle respecte les
+exigences complémentaires en fonds propres calculées selon les modalités fixées par l'arrêté des ministres chargés de
+l'économie, de la sécurité sociale et de la mutualité prévu à l'article L. 517-8 du code monétaire et financier. 
 
 V.-Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3 du I est susceptible d'être faussée par
 l'existence d'un contrat de réassurance financière limitée souscrit par la mutuelle ou l'union, l'Autorité de contrôle peut
@@ -11050,10 +11048,11 @@ du report cumulé effectivement constaté.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L517-8
 	  - Code de la mutualité - art. L111-6
 	  - Code de la mutualité - art. L212-7-1
 	  - Code de la mutualité - art. L212-7-2
@@ -11064,7 +11063,6 @@ du report cumulé effectivement constaté.
 	  - Code de la mutualité - art. R212-12
 	  - Code de la mutualité - art. R212-70
 	  - Code de la mutualité - art. R212-81
-	  - Code de la mutualité - art. R213-8
 
 
 ###### Article R212-12
@@ -11339,10 +11337,9 @@ l'Autorité de contrôle prudentiel et de résolution peut autoriser la mutuelle
 prévues aux deux alinéas précédents. 
 
 En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions mentionnées au a et au b lorsqu'elle est soumise
-à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle présente une
-solvabilité ajustée positive calculée selon les modalités précisées à l'article R. 213-8 et R. 213-9. La méthode définie à
-l'article R. 213-8 n'est applicable que si l'Autorité de contrôle estime que la gestion intégrée et le contrôle interne des
-entités entrant dans le périmètre de consolidation sont satisfaisants. 
+à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle respecte les
+exigences complémentaires en fonds propres calculées selon les modalités fixées par l'arrêté des ministres chargés de
+l'économie, de la sécurité sociale et de la mutualité prévu à l'article L. 517-8 du code monétaire et financier. 
 
 V.-Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3 du I est susceptible d'être faussée par
 l'existence d'un contrat de réassurance financière limitée souscrit par la mutuelle et l'union, l'autorité de contrôle peut
@@ -11364,10 +11361,11 @@ du report cumulé effectivement constaté.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L517-8
 	  - Code de la mutualité - art. L111-6
 	  - Code de la mutualité - art. L212-7-1
 	  - Code de la mutualité - art. L212-7-2
@@ -11377,7 +11375,6 @@ du report cumulé effectivement constaté.
 	  - Code de la mutualité - art. R212-10
 	  - Code de la mutualité - art. R212-70
 	  - Code de la mutualité - art. R212-81
-	  - Code de la mutualité - art. R213-8
 
 
 ###### Article R212-16
@@ -11721,9 +11718,9 @@ cette entité, l'Autorité de contrôle prudentiel et de résolution peut autori
 déductions prévues aux deux alinéas précédents. 
 
 En outre, la mutuelle ou union n'est pas tenue d'effectuer ces déductions lorsqu'elle présente une solvabilité ajustée
-positive calculée selon les modalités précisées à l'article R. 213-8 et R. 213-9. La méthode définie à l'article R. 213-8
-n'est applicable que si l'Autorité de contrôle prudentiel et de résolution estime que la gestion intégrée et le contrôle
-interne des entités entrant dans le périmètre de consolidation sont satisfaisants. 
+positive calculée selon les modalités précisées, pour le calcul des exigences complémentaires en fonds propres des
+conglomérats financiers, par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu à
+l'article L. 517-8 du code monétaire et financier. 
 
 III. ― Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3 du I est susceptible d'être faussée par
 l'existence d'un contrat de réassurance financière limitée souscrit par l'institution ou l'union, l'Autorité de contrôle peut
@@ -11735,18 +11732,22 @@ du report cumulé effectivement constaté.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L517-8
 	  - Code de la mutualité - art. L211-7-2
 	  - Code de la mutualité - art. R212-11
-	  - Code de la mutualité - art. R212-15
-	  - Code de la mutualité - art. R213-8
+	  - Code de la mutualité - art. R212-15 (VT)
 
 	**Cité par**:
 
+	  - Code de la mutualité - art. R212-20-3 (VT)
 	  - Code de la mutualité - art. R510-3-3 (VT)
 	  - Code de la mutualité - art. R510-3-4 (VT)
 
@@ -11867,23 +11868,28 @@ l'indice depuis la dernière adaptation est inférieure à 5 %, ce montant n'est
 
 Toutefois, cette limite est fixée à 1 million d'euros s'agissant du fonds de garantie des mutuelles et unions de réassurance
 n'appartenant pas à un groupe d'assurance au sens du I de l'article L. 212-7, détenues par un établissement de crédit, une
-entreprise d'investissement, une compagnie financière holding mixte ou par une entreprise non financière, et qui ont pour
-objet exclusif la réassurance des risques d'un ou plusieurs organismes, autres que des entreprises d'assurance, du groupe au
-sens du 7° de l'article L. 334-2 du code des assurances auquel elles appartiennent. 
+société de financement, une entreprise d'investissement, une compagnie financière holding mixte ou par une entreprise non
+financière, et qui ont pour objet exclusif la réassurance des risques d'un ou plusieurs organismes, autres que des
+entreprises d'assurance, du groupe au sens du 7° de l'article L. 334-2 du code des assurances auquel elles appartiennent. 
 
 Le fonds de garantie est composé des éléments mentionnés au I de cet article, après déduction des éléments mentionnés au II
 du même article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
 	  - Code des assurances - art. L334-2
 	  - Code de la mutualité - art. L212-7
+	  - Code de la mutualité - art. R212-20-1 (VT)
 
 
 ##### Section 3 : Engagements réglementés.
@@ -13038,39 +13044,40 @@ garantie du prêt, estimée au jour de la conclusion du contrat.
 
 ###### Article R212-45
 
-I. - Les prêts mentionnés au 17° de l'article R. 212-31 doivent avoir une durée totale d'au moins deux ans et satisfaire aux
-conditions suivantes.
+I.-Les prêts mentionnés au 17° de l'article R. 212-31 doivent avoir une durée totale d'au moins deux ans et satisfaire aux
+conditions suivantes. 
 
-Ils doivent être garantis par une caution donnée par un établissement de crédit ou une entreprise d'assurances n'appartenant
-pas au même groupe que le prêteur ou l'emprunteur et agréés par l'un des Etat membres de la Communauté européenne ou par l'un
-des Etats parties à l'accord sur l'Espace économique européen, ou un nantissement de valeurs répondant aux conditions fixées
-par l'article R. 212-50, dans la limite de 75 % du montant nominal desdites valeurs. Sont considérés comme appartenant au
-même groupe, au sens du présent article, les organismes entrant dans le même périmètre de consolidation ou d'établissements
-des comptes combinés mentionnés à l'article L. 212-7.
+Ils doivent être garantis par une caution donnée par un établissement de crédit, une société de financement ou une entreprise
+d'assurances n'appartenant pas au même groupe que le prêteur ou l'emprunteur et agréés par l'un des Etat membres de la
+Communauté européenne ou par l'un des Etats parties à l'accord sur l'Espace économique européen, ou un nantissement de
+valeurs répondant aux conditions fixées par l'article R. 212-50, dans la limite de 75 % du montant nominal desdites valeurs.
+Sont considérés comme appartenant au même groupe, au sens du présent article, les organismes entrant dans le même périmètre
+de consolidation ou d'établissements des comptes combinés mentionnés à l'article L. 212-7. 
 
 Toutefois, les prêts peuvent ne pas être assortis de garantie, lorsque l'emprunteur est soit une société dont l'un des Etats
 membres de l'OCDE ou un de ses établissements publics détient plus de la moitié du capital, soit une société dont les actions
-sont négociées sur un marché reconnu tel que défini au dernier alinéa du A de l'article R. 212-31.
+sont négociées sur un marché reconnu tel que défini au dernier alinéa du A de l'article R. 212-31. 
 
-II. - Les créances représentatives des prêts de titres sont admises en représentation des engagements réglementés si elles
-ont fait l'objet d'un cautionnement en espèces ou d'une caution donnée par un établissement de crédit ou une entreprise
-d'assurance agréés par l'un des Etats membres de la Communauté économique européenne, ou d'un nantissement de valeurs
-répondant aux conditions fixées par l'article R. 212-50.
+II.-Les créances représentatives des prêts de titres sont admises en représentation des engagements réglementés si elles ont
+fait l'objet d'un cautionnement en espèces ou d'une caution donnée par un établissement de crédit, une société de financement
+ou une entreprise d'assurance agréés par l'un des Etats membres de la Communauté économique européenne, ou d'un nantissement
+de valeurs répondant aux conditions fixées par l'article R. 212-50.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-31, R212-50, L212-7
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
+	  - Code de la mutualité - art. L212-7
+	  - Code de la mutualité - art. R212-31
+	  - Code de la mutualité - art. R212-50
 
 	**Cité par**:
 
@@ -13274,8 +13281,8 @@ valeurs mentionnées au 1° de l'article R. 212-31, la fraction courue du coupon
 A la demande d'une mutuelle ou union, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut, par dérogation aux
 dispositions du premier alinéa du présent article, l'autoriser, pour une durée déterminée, à constituer la garantie
 mentionnée à l'article R. 212-35 dans des limites fixées par arrêté du ministre chargé de la mutualité, par une caution ou un
-engagement équivalent pris par un établissement de crédit, dès lors que la nature et la forme de l'engagement ainsi que la
-qualité du garant répondent aux conditions fixées par le même arrêté. 
+engagement équivalent pris par un établissement de crédit ou une société de financement, dès lors que la nature et la forme
+de l'engagement ainsi que la qualité du garant répondent aux conditions fixées par le même arrêté. 
 
 Pour l'application des dispositions des articles R. 212-32 et R. 212-33, les valeurs reçues en nantissement des réassureurs
 sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cédante.
@@ -13284,7 +13291,11 @@ sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cé
 
 	**Modifié par**:
 
-	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -13894,7 +13905,7 @@ les ayants droit figurant au bilan de la mutuelle ou de l'union.
 
 ###### Article R212-62
 
-Lorsqu'en application du 5 de l'article L. 612-33 du code monétaire et financier, l'Autorité de contrôle prudentiel et de
+Lorsqu'en application du 8° de l'article L. 612-33 du code monétaire et financier, l'Autorité de contrôle prudentiel et de
 résolution décide le transfert d'office d'un portefeuille de bulletins d'adhésion ou de contrats collectifs conclus sur le
 territoire d'un ou plusieurs Etats parties à l'accord sur l'Espace économique européen, elle en avise les autorités
 compétentes de ces différents Etats. 
@@ -13910,11 +13921,15 @@ diligence de l'Autorité de contrôle.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L612-33 (V)
+	  - Code monétaire et financier - art. L612-33
 
 
 ###### Article R212-63
@@ -14551,7 +14566,9 @@ dispositions de l'article L. 212-7.
 
 Toutefois, lorsque ces mutuelles et unions sont des organismes participants d'un établissement de crédit, d'une entreprise
 d'investissement ou d'un établissement financier, elles peuvent, alternativement, présenter une solvabilité ajustée positive
-selon les modalités précisées aux articles R. 213-9 et R. 213-10. 
+selon les modalités précisées, pour le calcul des exigences complémentaires en fonds propres applicables aux conglomérats
+financiers, par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu à l'article L.
+517-8 du code monétaire et financier. 
 
 En outre, l'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une mutuelle ou union : 
 
@@ -14582,22 +14599,26 @@ mesures nécessaires au rétablissement d'une solvabilité ajustée positive.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 17
-
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code de la mutualité - art. R212-9-1 (VD)
 	  - Code de la mutualité - art. R213-5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L517-8
 	  - Code de la mutualité - art. L212-7
 	  - Code de la mutualité - art. R213-1
 	  - Code de la mutualité - art. R213-3
-	  - Code de la mutualité - art. R213-9
 
 
 ###### Article R213-3
@@ -14713,21 +14734,28 @@ mentionnés au I de l'article R. 212-11.
 
 Lorsque la mutuelle ou l'union est un organisme participant d'un établissement de crédit, d'une entreprise d'investissement
 ou d'un établissement financier, l'Autorité de contrôle prudentiel et de résolution est également autorisée à appliquer, en
-alternative à ces deux méthodes, les méthodes définies aux articles R. 213-9 et R. 213-10.
+alternative à ces deux méthodes, les méthodes définies, pour le calcul des exigences complémentaires en fonds propres des
+conglomérats financiers, par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu à
+l'article L. 517-8 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-7-1 (V)
-	  - Code de la mutualité - art. L510-1 (V)
-	  - Code de la mutualité - art. R212-11 (V)
-	  - Code de la mutualité - art. R213-3 (V)
-	  - Code de la mutualité - art. R213-9 (V)
+	  - Code monétaire et financier - art. L517-8
+	  - Code de la mutualité - art. L212-7 (V)
+	  - Code de la mutualité - art. L212-7-1
+	  - Code de la mutualité - art. L510-1
+	  - Code de la mutualité - art. R212-11
+	  - Code de la mutualité - art. R213-3
 
 
 ###### Article R213-5
@@ -14845,27 +14873,25 @@ l'expérience de ses dirigeants. La liste de ces informations est fixée par arr
 
 ###### Article R213-8
 
-Les exigences complémentaires en matière d'adéquation des fonds propres mentionnées à l'article L. 212-7-8 sont déterminées
-sur la base des comptes consolidés ou combinés du conglomérat financier établis conformément aux dispositions de l'article L.
-212-7.
-
-Elles résultent de la différence, calculée selon des modalités précisées par arrêté du ministre chargé de la mutualité, entre
-les fonds propres du conglomérat financier et les exigences de solvabilité relatives aux différents secteurs financiers du
-conglomérat. Cette différence doit être positive.
+Les modalités de la surveillance complémentaire des conglomérats financiers mentionnée à l'article L. 212-7-4 sont précisées
+par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu aux articles L. 517-3 et L.
+517-8 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L212-7-8, L212-7
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2005-1266 2005-10-07 art. 2 7° JORF 11 octobre 2005
+	  - Code monétaire et financier - art. L517-3
+	  - Code monétaire et financier - art. L517-8
+	  - Code de la mutualité - art. L212-7-4
 
 	**Cité par**:
 
@@ -14873,142 +14899,6 @@ conglomérat. Cette différence doit être positive.
 	  - Code de la mutualité - art. R212-15 (M)
 	  - Code de la mutualité - art. R212-20-1 (M)
 	  - Code de la mutualité - art. R213-9 (Ab)
-
-
-###### Article R213-9
-
-Lorsqu'elle est coordonnateur, l'Autorité de contrôle prudentiel et de résolution peut, après consultation des autres
-autorités compétentes concernées et du conglomérat financier considéré, faire appliquer, à la place de la méthode prévue à
-l'article R. 213-8 pour le calcul des exigences complémentaires, l'une des trois méthodes suivantes, si elle lui apparaît
-plus pertinente au regard des impératifs de la surveillance complémentaire, en raison notamment de la structure du
-conglomérat financier considéré, ou à la demande de ce dernier. 
-
-1° Méthode n° 1 : déduction et agrégation. 
-
-Les exigences complémentaires résultent de la différence entre : 
-
-a) D'une part, la somme des fonds propres de toutes les entités du secteur financier ; 
-
-b) Et, d'autre part, la somme des exigences de solvabilité de toutes les entités du secteur financier et de la valeur
-comptable des participations dans d'autres entités du groupe. 
-
-L'exigence de solvabilité d'une entité non réglementée est une exigence notionnelle calculée en application des règles
-sectorielles qui s'appliqueraient si elle était une entité réglementée du secteur considéré. 
-
-La différence doit être positive. 
-
-2° Méthode n° 2 : valeur comptable/ déduction d'une exigence. 
-
-Les exigences complémentaires résultent de la différence entre : 
-
-a) D'une part, les fonds propres de l'organisme de référence ou de l'entité qui se trouve à la tête du conglomérat
-financier ; 
-
-b) Et, d'autre part, la somme de l'exigence de solvabilité de l'organisme visé au a et de la valeur comptable des
-participations de celle-ci dans d'autres entités du groupe financier ou des exigences de solvabilité de ces entités, le
-montant le plus élevé des deux étant retenu. 
-
-L'exigence de solvabilité d'une entité non réglementée est une exigence notionnelle calculée en application des règles
-sectorielles qui s'appliqueraient si elle était une entité réglementée du secteur considéré. 
-
-La différence doit être positive. 
-
-3° Méthode n° 3 : combinaison des trois méthodes. 
-
-Lorsqu'elle est coordonnateur, l'Autorité de contrôle prudentiel et de résolution peut, sous les conditions mentionnées au
-premier alinéa, permettre au conglomérat financier de combiner deux ou trois des méthodes mentionnées à l'article R. 213-8 et
-au présent article. 
-
-Un arrêté du ministre chargé de la mutualité détermine les modalités de calcul des fonds propres et des exigences de
-solvabilité d'une entité qui doivent être retenues dans le cadre de l'application des méthodes n° s 1 à 3.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R213-2 (M)
-	  - Code de la mutualité - art. R213-4 (M)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R213-8
-
-
-###### Article R213-10
-
-Sans préjudice des dispositions de l'article L. 212-7-16, l'Autorité de contrôle prudentiel et de résolution peut,
-lorsqu'elle est désignée comme coordonnateur et si la situation du conglomérat financier en matière d'adéquation des fonds
-propres le justifie, demander que les exigences complémentaires soient couvertes par des éléments prudentiels admis à la fois
-par la réglementation applicable au secteur des assurances et par celle applicable au secteur bancaire et des services
-d'investissement dans les limites propres aux réglementations sectorielles.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-16
-
-
-###### Article R213-11
-
-I. - Les entités réglementées appartenant à un conglomérat financier se dotent de procédures coordonnées de gestion des
-risques et de contrôle interne.
-
-II. - Les procédures de gestion des risques mentionnées à l'alinéa précédent portent sur :
-
-1° L'approbation et l'examen périodique, par les organes dirigeants au niveau du conglomérat financier, des stratégies et
-politiques conduites pour l'ensemble des risques encourus ;
-
-2° La satisfaction des exigences réglementaires en matière d'adéquation des fonds propres et l'existence de procédures visant
-à anticiper l'impact des stratégies de développement sur le profil de risques et les exigences en matière de fonds propres ;
-
-3° Des procédures permettant de garantir que les dispositifs de surveillance des risques sont adaptés à l'organisation du
-conglomérat financier et que les mesures mises en place au sein de chaque entité, en vue de s'assurer que les risques
-puissent être mesurés, surveillés et maîtrisés au niveau du conglomérat, sont cohérentes ;
-
-4° Des procédures permettant de participer à la réalisation et, le cas échéant, au développement de mécanismes et de plans de
-sauvetage appropriés. Ces procédures sont mises à jour au moins une fois par an. 
-
-III. - Les dispositifs de contrôle interne mis en place doivent permettre :
-
-1° D'identifier et de mesurer tous les risques importants encourus et de déterminer un niveau des fonds propres adapté aux
-risques ;
-
-2° D'identifier, de mesurer, d'encadrer et de contrôler, par des procédures d'information et de comptabilité appropriées, les
-transactions intragroupe ainsi que la concentration des risques.
-
-IV. - Les entités réglementées appartenant à un conglomérat financier disposent d'un système de contrôle interne pour la
-production des données ou informations destinées à permettre leur surveillance complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-388 du 10 mai 2013 - art. 12
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R211-28-1 (M)
 
 
 ### Titre II : Opération des mutuelles et des unions.
@@ -16755,8 +16645,8 @@ approfondi.
 
 Le secrétaire général du Conseil supérieur de la mutualité informe l'Autorité de contrôle prudentiel et de résolution de
 l'immatriculation ou du refus d'immatriculation des organismes ayant demandé leur immatriculation, lorsque ceux-ci envisagent
-d'effectuer des opérations entrant dans le champ de compétence de cette autorité, tel que défini au A du III de l'article L.
-612-1 du code monétaire et financier.
+d'effectuer des opérations relevant de la compétence de cette autorité, conformément aux 3° et 4° du B du I de l'article L.
+612-2 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -16771,12 +16661,13 @@ d'effectuer des opérations entrant dans le champ de compétence de cette autori
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-220
 	  - Code monétaire et financier - art. L612-1
+	  - Code monétaire et financier - art. L612-2
 	  - Code de la mutualité - art. L111-1
 	  - Code de la mutualité - art. L111-3
 	  - Code de la mutualité - art. L114-19
@@ -17973,25 +17864,24 @@ présent code.
 
 ###### Article R510-10-1
 
-Les mesures prévues à la présente section, au 1 à 4 de l'article L. 612-33 du code monétaire et financier et à l'article L.
-612-34 du même code peuvent être appliquées à une mutuelle ou union soumise à la surveillance complémentaire lorsqu'elle
-présente une situation de solvabilité ajustée négative ou que la surveillance complémentaire a révélé que la solvabilité de
-cette entreprise apparaît compromise ou susceptible de l'être.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+Les mesures prévues à la présente section,            aux 1° à 7° de l'article L. 612-33  du code monétaire et financier et à
+l'article L. 612-34 du même code peuvent être appliquées à une mutuelle ou union soumise à la surveillance complémentaire
+lorsqu'elle présente une situation de solvabilité ajustée négative ou que la surveillance complémentaire a révélé que la
+solvabilité de cette entreprise apparaît compromise ou susceptible de l'être.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L612-33 (V)
+	  - Code monétaire et financier - art. L612-33
 
 
 ### Chapitre III : Dispositions pénales.
@@ -18445,8 +18335,8 @@ c) 50 salariés en équivalent temps plein.
 
 ###### Article D114-11
 
-I.-Les données relatives à la protection sociale complémentaire, mentionnées au troisième alinéa de l'article L. 612-24 du
-code monétaire et financier, sont regroupées dans les états suivants : 
+I.-Les données relatives à la protection sociale complémentaire, mentionnées           au cinquième alinéa de l'article L.
+612-24 du code monétaire et financier, sont regroupées dans les états suivants : 
 
 E 1 Personnes assurées, couvertes et bénéficiaires par type de garanties ; 
 
@@ -18469,8 +18359,7 @@ III.-Les données collectées ne peuvent être communiquées que dans les condit
 
 **Nota:**
 
-Décret n° 2012-454 du 4 avril 2012, article 3 : Les dispositions du présent décret sont applicables à compter de la remise,
-au 30 avril 2012, des états statistiques relatifs à l'exercice 2011.
+
 
 **Liens relatifs à cet article**
 
@@ -18479,15 +18368,14 @@ au 30 avril 2012, des états statistiques relatifs à l'exercice 2011.
 	  - Loi n°51-711 du 7 juin 1951 - art. 7 bis
 	  - Code monétaire et financier - art. L612-24
 
-	**Modifié par**:
-
-	  - Décret n°2012-454 du 4 avril 2012 - art. 1
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
 	**Cité par**:
 
 	  - Décret n°2012-454  du 4 avril 2012 - art. 2 (V)
 	  - Code de la mutualité - art. A114-4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 11
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
@@ -19352,39 +19240,6 @@ arrêté est portée au " 15 mai " pour la remise du dossier relatif aux opérat
 
 	  - Code de la mutualité - art. Annexe 1 à l'article A114-10
 	  - Code de la mutualité - art. Annexe 2 à l'article A114-10
-
-
-###### Article A114-11
-
-Lorsque, en application de l'article L. 212-7-9, l'Autorité de contrôle est coordonnateur de la surveillance complémentaire
-des entités réglementées appartenant à un conglomérat financier, l'entité réglementée placée à la tête du conglomérat
-financier fournit chaque année à l'Autorité de contrôle, avant le 30 avril, un dossier constitué conformément à l'annexe au
-présent article. 
-
-Lorsque le conglomérat financier n'a pas d'entité réglementée placée à sa tête, le dossier est transmis par la compagnie
-financière holding mixte ou par l'entité réglementée désignée par l'Autorité de contrôle après consultation des autres
-autorités compétentes définies au 11° de l'article L. 212-7-1 et du conglomérat financier. 
-
-Le dossier est certifié par le représentant légal de l'entité transmettant le dossier, sous la formule suivante : 
-
-" Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
-l'article L. 510-12 du code de la mutualité, conforme aux écritures des entités appartenant au conglomérat financier, et aux
-dispositions du chapitre IV, du livre Ier du même code ".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7-9, L212-7-1
-	  - Code de la mutualité - art. Annexe à l'article A114-11
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
@@ -20627,379 +20482,22 @@ sont apparentées ou subordonnées sont déclarés sans délai par la mutuelle o
 
 ###### Article A213-3
 
-Les activités d'un groupe financier s'exercent principalement dans le secteur financier au sens de l'article L. 212-7-5
-lorsque le rapport entre le total du bilan des entités du groupe appartenant au secteur financier et le total du bilan du
-groupe est supérieur à 40 %.
+Les modalités de la surveillance complémentaire des conglomérats financiers mentionnée à l'article L. 212-7-4 sont précisées
+par arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7-5
-
-
-###### Article A213-4
-
-I. - Les activités d'un groupe financier dans un secteur financier sont importantes au sens de l'article L. 212-7-5 lorsque
-la valeur moyenne des deux rapports mentionnés ci-dessous dépasse 10 % :
-
-- le rapport entre le total du bilan dudit secteur et le total du bilan des entités du secteur financier du groupe ;
-
-- le rapport entre les exigences de solvabilité dudit secteur et l'exigence de solvabilité totale des entités du secteur
-financier du groupe.
-
-Pour ce calcul, les exigences de solvabilité sont calculées conformément aux dispositions des règles sectorielles prévues :
-
-- pour les entreprises relevant du secteur des assurances, par le chapitre IV du titre III du livre III du code des
-assurances, le chapitre Ier du titre III du livre IX du code de la sécurité sociale, et le chapitre II du titre Ier du livre
-II du présent code ;
-
-- pour les entreprises relevant du secteur bancaire et des services d'investissement, par les règlements n°s 91-05, 95-02 et
-97-04 du Comité de la réglementation bancaire et financière ;
-
-- pour les sociétés de gestion de portefeuille qui ne sont pas déjà reprises dans les exigences du secteur bancaire et des
-services d'investissement, par l'article 322-8 du règlement général de l'Autorité des marchés financiers.
-
-Le secteur financier qui présente la moyenne la plus basse est considéré comme le secteur financier le moins important.
-
-II. - Les activités d'un groupe financier dans un secteur financier sont également importantes au sens de l'article L.
-212-7-5 lorsque le total du bilan du secteur financier le moins important au sein du groupe dépasse 6 milliards d'euros.
-
-III. - Si un groupe financier remplissant les conditions mentionnées au 1° et au 2° de l'article L. 212-7-5 n'atteint pas le
-seuil visé au I, mais atteint le seuil visé au II du présent article, les autorités compétentes concernées définies à
-l'article L. 212-7-1 peuvent décider d'un commun accord de ne pas considérer ce groupe comme un conglomérat financier ou de
-ne lui appliquer que les dispositions relatives à l'adéquation des fonds propres définies aux articles R. 213-8 à R. 213-11.
-Les décisions prises conformément au présent paragraphe sont notifiées aux autres autorités compétentes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7-5, L212-7-1, R213-8 à R213-11
-
-
-###### Article A213-5
-
-I. - Pour le calcul des ratios mentionnés à l'article A. 213-3 et au I de l'article A. 213-4, les autorités compétentes
-concernées peuvent, d'un commun accord :
-
-a. Exclure une entité de ce calcul, dans les cas mentionnés à l'article A. 213-12 ;
-
-b. Décider qu'un groupe peut ne pas être identifié comme un conglomérat si les seuils mentionnés aux articles A. 213-3 et A.
-213-4 n'ont pas été respectés pendant trois années consécutives et ne pas tenir compte de ce respect en cas de modification
-importante de la structure du groupe ;
-
-c. Dans des circonstances exceptionnelles, soit remplacer le critère fondé sur le total du bilan par le critère de la
-structure des revenus ou le critère des activités hors bilan ou ces deux critères, soit intégrer l'un de ces critères ou les
-deux, si elles estiment que ceux-ci présentent un intérêt particulier aux fins de la surveillance complémentaire des
-conglomérats financiers.
-
-Lorsqu'un conglomérat financier a été identifié, les décisions mentionnées au a et au b sont prises sur la base d'une
-proposition faite par le coordonnateur du conglomérat financier considéré.
-
-II. - Lorsque, pour un conglomérat financier soumis à la surveillance complémentaire, les seuils mentionnés à l'article A.
-213-3 et au I de l'article A. 213-4 deviennent inférieurs respectivement à 40 % et 10 %, des seuils fixés respectivement à 35
-% et 8 % s'appliquent pendant les trois années qui suivent.
-
-De même, lorsque le seuil mentionné au II de l'article A. 213-4 devient inférieur à 6 milliards d'euros, un seuil inférieur
-fixé à 5 milliards d'euros s'applique pendant les trois années qui suivent.
-
-Pendant cette période, le coordonnateur peut, avec l'accord des autorités compétentes concernées, décider que la surveillance
-complémentaire ne s'applique plus au conglomérat financier considéré, dans la mesure où les ratios ou montants ne remontent
-pas au-dessus des seuils normaux.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A213-3, A213-4, A213-12
-
-
-###### Article A213-6
-
-Les calculs relatifs au bilan mentionnés aux articles A. 213-4 à A. 213-5 sont effectués sur la base des comptes consolidés
-ou combinés du groupe.
-
-Si ces comptes ne sont pas disponibles, le coordonnateur peut autoriser le conglomérat à utiliser les comptes agrégés. Dans
-ce cas, les entreprises dans lesquelles une participation est détenue sont prises en compte à concurrence du montant du total
-de leur bilan correspondant à la part proportionnelle agrégée détenue par le groupe.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A213-4 à A213-5
-
-
-###### Article A213-7
-
-Conformément au III de l'article L. 212-7-5, l'Autorité de contrôle, en tant que coordonnateur, peut décider d'assujettir un
-sous-groupe d'un conglomérat financier à la surveillance complémentaire, dès lors que le conglomérat financier auquel ce
-sous-groupe appartient ne respecte pas les exigences de la surveillance complémentaire ou que la répartition de ses fonds
-propres n'est pas adaptée aux objectifs de la surveillance complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7-5
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-
-###### Article A213-8
-
-En application de l'article L. 212-7-9, le coordonnateur est désigné parmi les autorités compétentes des Etats parties à
-l'accord sur l'Espace économique européen selon les critères suivants :
-
-1. Lorsqu'une entité réglementée est placée à la tête du conglomérat financier, le coordonnateur est l'autorité responsable
-de la surveillance prudentielle de cette entité.
-
-2. Lorsqu'une compagnie financière holding mixte est placée à la tête du conglomérat financier, le coordonnateur est
-l'autorité responsable de la surveillance prudentielle de l'entité réglementée filiale de la compagnie financière holding
-mixte, et qui remplit les conditions suivantes :
-
-a) Lorsque la compagnie financière holding mixte est l'organisme de référence de plusieurs entités réglementées ayant leur
-siège social dans des Etats parties à l'accord sur l'Espace économique européen, l'entité est agréée dans l'Etat dans lequel
-la compagnie financière holding mixte a son siège social ;
-
-b) Lorsque les entités réglementées subordonnées de la compagnie financière holding mixte ont leur siège dans le même Etat
-que celle-ci et exercent leurs activités dans différents secteurs financiers, l'entité exerce ses activités dans le secteur
-financier le plus important ;
-
-c) Lorsque aucune entité réglementée subordonnée de la compagnie financière holding mixte n'a été agréée dans l'Etat où
-celle-ci a son siège social, l'entité possède le total de bilan le plus élevé dans le secteur financier le plus important.
-
-3. Lorsque plusieurs compagnies financières holding mixtes ayant leur siège dans différents Etats parties à l'accord sur
-l'Espace économique européen sont placées à la tête du conglomérat financier et ont chacune au moins une entité réglementée
-subordonnée agréée dans l'Etat de leur siège, le coordonnateur est l'autorité responsable de la surveillance prudentielle de
-l'entité réglementée exerçant ses activités dans le secteur financier le plus important ou de l'entité réglementée qui
-possède le total de bilan le plus élevé si ces entités exercent leur activité dans le même secteur financier.
-
-4. Dans tous les autres cas, le coordonnateur est l'autorité responsable de la surveillance prudentielle de l'entité
-réglementée qui possède le total de bilan le plus élevé dans le secteur financier le plus important.
-
-Les autorités compétentes concernées peuvent, d'un commun accord et après avoir recueilli l'avis du conglomérat financier,
-déroger à ces critères et désigner une autre autorité compétente comme coordonnateur s'il apparaît inapproprié de les
-appliquer, compte tenu de la structure du conglomérat financier et de l'importance relative de ses activités dans les
-différents Etats.
-
-**Liens relatifs à cet article**
+	  - Arrêté du 3 novembre 2014 - art. 18
 
 	**Abrogé par**:
 
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L212-7-9
-
-
-###### Article A213-9
-
-La coopération entre autorités compétentes prévue à l'article L. 212-7-13 s'exerce dans les conditions suivantes :
-
-1° Sans préjudice de leurs responsabilités respectives, toute autorité compétente communique, de sa propre initiative ou à la
-demande d'une autre autorité compétente, toute information utile permettant à cette dernière d'exercer ses fonctions
-prudentielles, au titre de la surveillance complémentaire des conglomérats financiers.
-
-Les autorités compétentes collectent et s'échangent des informations concourant à l'exercice de cette surveillance
-complémentaire. Ces informations portent notamment sur la structure du groupe financier, les principales entités faisant
-partie du conglomérat financier et les autorités compétentes de ces entités réglementées, la stratégie du conglomérat
-financier et sa situation financière ainsi que ses principaux actionnaires et dirigeants, le dispositif de gestion des
-risques et le système de contrôle interne. Elles concernent également les procédures de collecte et de vérification
-d'informations auprès des entités du conglomérat financier, les difficultés éventuellement rencontrées par ces dernières
-ainsi que les principales sanctions et mesures exceptionnelles prises à leur encontre par les autorités compétentes.
-
-2° Sans préjudice de leurs responsabilités respectives, avant de prendre une décision intéressant les fonctions prudentielles
-exercées par d'autres autorités compétentes, les autorités compétentes intéressées se consultent et échangent des
-informations sur la modification de la structure de l'actionnariat, l'organisation ou la direction des entités réglementées
-d'un conglomérat financier requérant l'approbation ou l'autorisation des autorités compétentes, ainsi que sur les principales
-sanctions et mesures exceptionnelles envisagées par les autorités compétentes.
-
-En cas d'urgence, ou lorsque cette consultation risque de compromettre l'efficacité de la décision, une autorité compétente
-peut décider de ne pas consulter ses homologues, sous réserve de les informer sans délai de cette décision.
-
-3° L'Autorité de contrôle coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des
-sanctions ou mesures adoptées conformément aux articles L. 212-7-16 et L. 212-7-17.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7-13, L212-7-16, L212-7-17
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-
-###### Article A213-10
-
-I. - Lorsque l'entité à la tête du conglomérat financier dont l'Autorité de contrôle est le coordonnateur a son siège social
-dans un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, l'Autorité de contrôle
-peut inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes informations
-utiles à l'accomplissement de sa mission de coordination, au sens de l'article L. 212-7-10, d'autre part, à lui communiquer
-lesdites informations.
-
-L'Autorité de contrôle communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen, toutes informations utiles à l'accomplissement de la mission de ce coordonnateur,
-définie à l'article L. 212-7-11.
-
-II. - Lorsque l'Autorité de contrôle est l'autorité en charge de la vérification mentionnée à l'article L. 212-7-18, elle
-consulte les autres autorités compétentes concernées. Elle consulte également, avant de prendre une décision, le comité des
-conglomérats financiers prévu à l'article 21 de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre
-2002, pour tenir compte des lignes directrices élaborées par ce comité.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7-10, L212-7-11, L212-7-18
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-
-###### Article A213-11
-
-I. - Les exigences de solvabilité relatives aux différents secteurs financiers du conglomérat sont la somme :
-
-a) Des exigences applicables aux entités réglementées dont le siège social est situé en France, telles que prévues par le
-chapitre IV du titre II du livre III du code des assurances, le chapitre Ier du titre III du livre IX du code de la sécurité
-sociale, le chapitre II du titre Ier du livre II du présent code, les règlements n° 91-05 et n° 95-02 du Comité de la
-réglementation bancaire et financière et l'article 322-8 du règlement général de l'Autorité des marchés financiers ;
-
-b) Des exigences équivalentes à celles mentionnées au a, pour les entités réglementées dont le siège social est situé hors de
-France et pour les organismes assureurs, les entreprises d'investissement et les établissements de crédit ayant leur siège
-dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen, et
-
-c) Des exigences de solvabilité notionnelles calculées pour les entités non réglementées selon les règles applicables aux
-entités réglementées du secteur financier auquel elles appartiennent.
-
-II. - Pour l'application de l'article R. 213-8, les fonds propres du conglomérat financier sont constitués des éléments
-suivants :
-
-a) Les éléments mentionnés aux articles R. 212-11, R. 212-15, R. 212-18 et R. 213-3, hormis ceux figurant à l'alinéa suivant,
-calculés conformément aux règles précisées par ces dispositions et sur la base des comptes consolidés ou combinés du
-conglomérat financier, et
-
-b) Les éléments inclus, selon des règles spécifiques, dans les fonds propres prudentiels des entités relevant du secteur
-bancaire et des services d'investissement.
-
-Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, l'Autorité de contrôle, en
-tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes
-entités du conglomérat financier.
-
-III. - Pour l'application des méthodes 2 et 3 définies à l'article R. 213-9, les fonds propres et les exigences de
-solvabilité d'une entité sont déterminés à partir de ses comptes annuels conformément aux dispositions de l'arrêté prévu à
-l'article R. 213-8.
-
-Ils sont pris en compte à concurrence de la part de capital souscrit détenue, directement ou indirectement, par les entités
-du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par l'Autorité de contrôle
-mentionnée à l'article L. 510-1, après consultation des autres autorités compétentes concernées, en fonction de la
-responsabilité née de la relation existant entre l'entité et les autres entités du conglomérat financier.
-
-En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est pris en compte en totalité. Toutefois, dans le
-cas où la responsabilité de l'organisme de référence détenant une part de capital est limitée, strictement et sans ambiguïté,
-à cette part de capital, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut décider d'admettre que le déficit de
-l'entité est pris en compte sur une base proportionnelle.
-
-Les opérations intragroupe sont éliminées d'une manière équivalente à celle prévue pour l'établissement des comptes
-consolidés ou combinés mentionnés à l'article L. 212-7.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R213-8, R212-11, R212-15, R212-18, R213-3, R213-9, L510-1, L212-7
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-
-###### Article A213-12
-
-Le coordonnateur peut décider de ne pas inclure une entité particulière dans le périmètre de calcul des exigences
-complémentaires en matière d'adéquation des fonds propres dans les cas suivants :
-
-a) Elle est située dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen où des obstacles juridiques
-empêchent le transfert des informations nécessaires ;
-
-b) Elle présente un intérêt négligeable au regard des objectifs de la surveillance complémentaire ;
-
-c) Son inclusion dans le périmètre de calcul est inopportune au regard des objectifs de cette surveillance complémentaire.
-Dans ce cas, le coordonnateur consulte, sauf urgence, les autres autorités compétentes concernées.
-
-Toutefois, si plusieurs entités sont à exclure sur la base du b, mais que, collectivement, elles présentent un intérêt non
-négligeable, elles sont incluses dans le périmètre de calcul.
-
-Lorsque le coordonnateur n'inclut pas une entité réglementée dans le périmètre de calcul dans l'un des cas visés aux points b
-et c et que cette entité a son siège dans un Etat partie à l'accord sur l'Espace économique européen, l'entité qui se trouve
-à la tête du conglomérat financier doit fournir aux autorités compétentes de cet Etat, à leur demande, toute information de
-nature à faciliter la surveillance de l'entité réglementée.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 15 novembre 2005
+	  - Code de la mutualité - art. L212-7-4
 
 
 ### Titre II : Opérations des mutuelles et des unions.
@@ -39128,351 +38626,6 @@ ou union.
 	**Cité par**:
 
 	  - Code de la mutualité - art. A114-10 (Ab)
-
-
-## Annexe à l'article A114-11 
-
-###### Article Annexe à l'article A114-11
-
-I. - Le dossier est établi sur la base des comptes du dernier exercice. Sous réserve des adaptations prévues au II, il
-comprend les éléments suivants :
-
-a) Les éléments mentionnés à l'annexe I à l'article A. 114-10. Toutefois, lorsqu'il est fait usage de la faculté, prévue à
-l'article R. 213-2, de calculer la marge ajustée de la même façon que les exigences complémentaires de fonds propres d'un
-conglomérat financier, l'état G 2 n'est pas fourni et les informations prévues à cet état sont portées dans l'état G 20
-défini ci-après.
-
-b) 
-  **Etat G 20**. - Exigences complémentaires en matière d'adéquation des fonds propres :
-
-Un premier tableau indique les exigences de solvabilité du secteur financier définies au II de l'article A. 213-11, en
-distinguant au minimum les exigences relatives au secteur des assurances de celles relatives au secteur bancaire et des
-services d'investissement.
-
-Un second tableau indique les fonds propres du conglomérat définis au I de l'article A. 213-11 avec leur décomposition par
-catégorie d'éléments de fonds propres et en distinguant les capitaux transsectoriels, les éléments du secteur des assurances
-et ceux du secteur bancaire et des services d'investissement.
-
-c) 
-  **Etat G 21**. - Concentrations de risques :
-
-**Tableau A** : risque de contrepartie
-
-Le tableau indique, pour chaque contrepartie et conformément au modèle ci-dessous, le montant agrégé des risques sur cette
-contrepartie, provenant notamment d'instruments financiers, de prêts, de garanties et cautions, de contrats d'assurance ou de
-réassurance. Sont toutefois exclus les placements d'assurance pour lesquels le risque de placement est intégralement supporté
-par les assurés, ou dont la contrepartie est un Etat membre de l'OCDE ou un organisme international à caractère public dont
-un ou plusieurs Etats membres de l'Union européenne font partie. En outre, sont seulement indiquées les contreparties pour
-lesquelles le montant brut agrégé excède 300 millions d'euros ou 10 % des fonds propres du conglomérat financier. Une
-contrepartie est soit un organisme isolé, soit plusieurs organismes appartenant au même groupe au sens du 1° de l'article R.
-212-45. Le tableau fait apparaître le montant agrégé des risques de contrepartie pour le secteur de l'assurance d'une part,
-pour le secteur bancaire et des entreprises d'investissement d'autre part. A cette fin, il est considéré que la compagnie
-financière holding mixte appartient au secteur financier le plus important.
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-NOM de la contrepartie
-
-</td>
-      <td width="65">
-
-MONTANTS bruts
-
-</td>
-      <td width="65">
-
-DÉPRÉCIATION
-
-</td>
-      <td width="65">
-
-MONTANTS NETS de provisions
-
-</td>
-      <td width="65">
-
-DÉDUCTIONS
-
-</td>
-      <td width="65">
-
-RISQUES après déduction
-
-</td>
-      <td width="65">
-
-RISQUES NETS
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Contrepartie X
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total du secteur des assurances
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total du secteur bancaire et des services d'investissement
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-TOTAL
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Contrepartie Y
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau B** : risque de placement en actions et en immobilier
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle">
-
-</td>
-      <td width="130">
-
-VALEUR NETTE COMPTABLE des placements en actions
-
-</td>
-      <td width="130">
-
-VALEUR NETTE COMPTABLE des placements immobiliers
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Secteur des assurances
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Secteur bancaire et des services d'investissement
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-d) 
-  **Etat G 22.** - Transactions intragroupes importantes :
-
-Doit être déclarée toute transaction intragroupe dont le montant excède 5 % des exigences de solvabilité relatives au secteur
-financier du conglomérat financier. Pour chaque transaction intragroupe soumise à l'obligation de déclaration, sont indiquées
-les caractéristiques de la transaction, selon le modèle ci-après :
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-
-Type de transaction
-
-</td>
-      <td>
-
-Date
-
-</td>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-Description de l'opération (contreparties, sens, objectifs poursuivis...)
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris
-dans cet états comptables
-
-Doit également être déclaré tout ensemble de transactions intragroupes d'un même type lorsque leur montant total de ces
-transactions excède le même seuil. Pour chaque type de transaction intragroupe soumise à cette obligation de déclaration, est
-indiqué le montant total des transactions.
-
-Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris
-dans ces états comptables
-
-Doit également être déclaré tout ensemble de transactions intragroupes d'un même type lorsque leur montant total de ces
-transactions excède le même seuil. Pour chaque type de transaction intragroupe soumise à cette obligation de déclaration, est
-indiqué le montant total des transactions.
-
-II. - L'Autorité de contrôle définit, après consultation des autres autorités compétentes concernées et du conglomérat
-financier, les seuils de déclaration appropriés.
-
-Après consultation des autres autorités compétentes concernées définies au 11° de l'article L. 212-7-1 et du conglomérat
-financier, elle détermine les autres catégories de risques à inclure dans l'état G 21, compte tenu de la structure du
-conglomérat financier et de sa gestion des risques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A114-10, R213-2, A213-11, R212-45, L212-7-1
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-11 (Ab)
 
 
 ## Annexes à l'article A211-3

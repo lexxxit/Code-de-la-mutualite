@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-11-06
+Version Consolidée au 2014-12-20
 
 # Partie législative
 
@@ -11999,8 +11999,9 @@ maladie et d'invalidité et égale à la différence des valeurs actuelles des e
 l'union et par les membres participants ou les souscripteurs de contrats collectifs ; 
 
 7° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
-l'ensemble des actifs mentionnés à l'article R. 212-53. La provision à constituer est calculée dans les conditions définies
-au I de l'article R. 212-24 ; 
+l'ensemble des actifs mentionnés à l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou l'union a
+la capacité et l'intention de détenir jusqu'à leur maturité. La provision à constituer est calculée dans les conditions
+définies au I de l'article R. 212-24 ; 
 
 8° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
 collectives couvrant les risques de dommages corporels. 
@@ -12011,7 +12012,11 @@ Un arrêté du ministre chargé de la mutualité fixe, en tant que de besoin, le
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -12022,10 +12027,11 @@ Un arrêté du ministre chargé de la mutualité fixe, en tant que de besoin, le
 
 ###### Article R212-24
 
-I. ― La provision pour risque d'exigibilité est constituée lorsque les placements mentionnés à l'article R. 212-53 se
-trouvent en situation de moins-value latente nette globale. Une moins-value latente nette globale des placements mentionnés à
-l'article R. 212-53 est constatée lorsque la valeur nette comptable de ces placements est supérieure à la valeur globale de
-ces mêmes placements évalués de la manière suivante : 
+I. ― La provision pour risque d'exigibilité est constituée lorsque les placements mentionnés à l'article R. 212-53 , à
+l'exception des valeurs amortissables que la mutuelle ou l'union a la capacité et l'intention de détenir jusqu'à leur
+maturité, se trouvent en situation de moins-value latente nette globale. Une moins-value latente nette globale est constatée
+lorsque la valeur nette comptable de ces placements est supérieure à la valeur globale de ces mêmes placements évalués de la
+manière suivante : 
 
 a) Pour les valeurs mobilières cotées et les titres cotés mentionnés au a de l'article R. 212-54, la valeur retenue est le
 cours moyen calculé sur les trente derniers jours précédant le jour de l'inventaire ou, à défaut, le dernier cours coté avant
@@ -12040,17 +12046,17 @@ c) Pour les autres actifs, leur valeur est évaluée selon les règles prévues 
 1° Lorsque la mutuelle ou l'union, avant dotation à la provision pour risque d'exigibilité, satisfait à la représentation de
 ses engagements réglementés et à la couverture de l'exigence minimale de marge de solvabilité, la dotation annuelle à la
 provision pour risque d'exigibilité au titre de l'exercice est égale au tiers du montant de la moins-value latente nette
-globale constatée sur les placements mentionnés à l'article R. 212-53, sans que cette dotation puisse conduire à ce que le
-montant total de la provision inscrite au bilan excède le montant de la moins-value latente nette globale constatée sur les
-placements mentionnés à l'article R. 212-53. 
+globale constatée sur les placements mentionnés au premier alinéa, sans que cette dotation puisse conduire à ce que le
+montant total de la provision inscrite au bilan excède le montant de la moins-value latente nette globale constatée ces
+placements.
 
 2° Dans les autres cas, la provision pour risque d'exigibilité inscrite au bilan au titre de l'exercice est égale à la moins-
-value latente nette globale constatée sur les placements mentionnés à l'article R. 212-53. 
+value latente nette globale constatée sur les placements mentionnés au premier alinéa
 
 Pour les calculs mentionnés aux alinéas précédents, les valeurs mentionnées aux a, b et c prennent en compte les moins-values
 latentes des opérations sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72 ayant comme sous-jacent
-les actifs mentionnés à l'article R. 212-53. Ces moins-values latentes sont prises en compte à hauteur de la partie excédant
-la valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en compte que si elles sont
+les actifs mentionnés au premier alinéa. Ces moins-values latentes sont prises en compte à hauteur de la partie excédant la
+valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en compte que si elles sont
 garanties dans les conditions prévues à l'article R. 212-81. 
 
 II.-La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais
@@ -12064,12 +12070,16 @@ d'acquisitions reportés en application des dispositions de l'article R. 212-59.
 	  - Code de la mutualité - art. R212-23 (VT)
 	  - Code de la mutualité - art. R212-24-1 (VT)
 	  - Code de la mutualité - art. R212-26 (VT)
-	  - Code de la mutualité - art. R212-27-2 (M)
+	  - Code de la mutualité - art. R212-27-2 (VT)
 	  - Code des assurances - art. R335-6 (VD)
 
 	**Modifié par**:
 
-	  - Décret n°2008-1437 du 22 décembre 2008 - art. 7
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -12151,34 +12161,35 @@ déjà inclus dans la provision, doit être suffisante pour liquider tous les si
 
 ###### Article R212-26
 
-Les provisions techniques correspondant aux opérations relatives aux branches 20 à 22 et 24 sont les suivantes :
+Les provisions techniques correspondant aux opérations relatives aux branches 20 à 22 et 24 sont les suivantes : 
 
 1° Provision mathématique : différence entre les valeurs actuelles des engagements pris par la mutuelle ou l'union, d'une
-part, et par les membres participants ou souscripteurs de contrats collectifs, d'autre part ;
+part, et par les membres participants ou souscripteurs de contrats collectifs, d'autre part ; 
 
 2° Provision pour participation aux excédents : montant des participations aux excédents attribuées aux membres participants
 et bénéficiaires de bulletins d'adhésion ou de contrats collectifs lorsque ces excédents ne sont pas payables immédiatement
-après la liquidation de l'exercice qui les a produits ;
+après la liquidation de l'exercice qui les a produits ; 
 
 3° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de la mutuelle
-ou de l'union et à la diminution de leur revenu ;
+ou de l'union et à la diminution de leur revenu ; 
 
 4° Provision de gestion : destinée à couvrir les charges de gestion future des bulletins d'adhésion ou des contrats
-collectifs non couvertes par ailleurs ;
+collectifs non couvertes par ailleurs ; 
 
-5° Provision pour aléas financiers : destinée à compenser la baisse de rendement de l'actif ;
+5° Provision pour aléas financiers : destinée à compenser la baisse de rendement de l'actif ; 
 
 6° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
-l'ensemble des actifs mentionnés à l'article R. 212-53. La provision à constituer est calculée dans les conditions définies
-au I de l'article R. 212-24 ;
+l'ensemble des actifs mentionnés à l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou l'union a
+la capacité et l'intention de détenir jusqu'à leur maturité. La provision à constituer est calculée dans les conditions
+définies au I de l'article R. 212-24 ; 
 
 7° Provision pour frais d'acquisition reportés : provision destinée à couvrir les charges résultant du report des frais
-d'acquisition constaté en application de l'article R. 212-59 ;
+d'acquisition constaté en application de l'article R. 212-59 ; 
 
 8° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
-collectives couvrant le risque décès.
+collectives couvrant le risque décès. 
 
-Un engagement ne peut être provisionné qu'au titre d'une seule des catégories mentionnées au présent article.
+Un engagement ne peut être provisionné qu'au titre d'une seule des catégories mentionnées au présent article. 
 
 Un arrêté du ministre chargé de la mutualité fixe en tant que de besoin les modalités de calcul de ces provisions.
 
@@ -12195,15 +12206,21 @@ Un arrêté du ministre chargé de la mutualité fixe en tant que de besoin les 
 	  - Décret n°2007-706 du 4 mai 2007 - art. 2 (V)
 	  - Arrêté du 22 décembre 2008 (V)
 	  - Code de la mutualité - art. A212-14 (Ab)
-	  - Code de la mutualité - art. R212-16 (V)
+	  - Code de la mutualité - art. R212-16 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) R212-24, R212-53, R212-59
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Code de la mutualité - art. R212-24
+	  - Code de la mutualité - art. R212-53
+	  - Code de la mutualité - art. R212-59
 
 
 ###### Article R212-27
@@ -12304,8 +12321,9 @@ ou de l'union et à la diminution de leur revenu ;
 9° Provision de gestion : destinée à couvrir les charges de gestion future des contrats non couvertes par ailleurs ; 
 
 10° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
-l'ensemble des actifs mentionnés à l'article R. 212-53. La provision à constituer est calculée dans les conditions définies
-au I de l'article R. 212-24 ; 
+l'ensemble des actifs mentionnés à l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou l'union a
+la capacité et l'intention de détenir jusqu'à leur maturité . La provision à constituer est calculée dans les conditions
+définies au I de l'article R. 212-24 ; 
 
 11° Provision pour risques en cours : provisions constituées en sus de la provision pour primes non acquises pour couvrir les
 risques à assumer par l'organisme de réassurance après la clôture de l'exercice, de manière à pouvoir faire face à toutes les
@@ -12319,13 +12337,17 @@ le risque décès.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. R212-24
+	  - Code de la mutualité - art. R212-24 (VT)
 	  - Code de la mutualité - art. R212-53
 
 	**Cité par**:
@@ -12443,23 +12465,29 @@ l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises
 caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
 par les collectivités publiques territoriales d'un Etat membre de l'OCDE ; 
 
-2° Obligations, parts ou actions émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
+2° Les valeurs et titres assimilés, autres que celles et ceux mentionnés au 1° et négociés sur un marché reconnu, qui
+suivent : 
+
+a) Obligations émises par une société commerciale ; 
+
+b) Obligations, parts ou actions émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
 chapitre IV du titre Ier du livre II du code monétaire et financier ou par un organisme de droit étranger ayant un objet
-équivalent et titres participatifs, autres que celles et ceux visés au 1°, et négociés sur un marché reconnu ; 
+équivalent ; 
+
+c) Titres participatifs ; 
 
 3° Titres de créances négociables d'un an au plus (certificats de dépôt et billets de trésorerie) rémunérés à taux fixe ou
 indexé sur un taux usuel sur les marchés interbancaires, monétaires ou obligataires et émis par les personnes morales autres
-que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont des titres sont négociés sur
-un marché reconnu ; 
+que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats ou des organismes de titrisation régis
+par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier et dont des
+titres sont négociés sur un marché reconnu ; 
 
 4° Bons à moyen terme négociables répondant aux conditions mentionnées à l'article R. 212-47, et émis par des personnes
 morales autres que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont les titres sont
 négociés sur un marché reconnu ; 
 
-4° bis Obligations, parts ou actions répondant aux conditions mentionnées aux a, b et c de l'article R. 212-47, émises par un
-organisme de titrisation régi par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire
-et financier ou par un organisme de droit étranger ayant un objet équivalent, respectant les règles prévues à l'article R.
-212-47-1 ; 
+4° bis Obligations, parts ou actions, émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
+chapitre IV du titre Ier du livre II du code monétaire et financier, respectant les règles prévues à l'article R. 212-47-1 ; 
 
 5° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
 la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2°, 3° et 4° du présent article, dans les conditions fixées par
@@ -12473,11 +12501,17 @@ des Etats membres de l'OCDE ;
 
 8° Actions des entreprises d'assurance, de réassurance, de capitalisation autres que celles visées au 7° ; 
 
-9° Actions, parts et droits émis par des sociétés commerciales et obligations, titres participatifs et titres subordonnés
-émis par les sociétés d'assurances mutuelles, les mutuelles, unions et fédérations régies par le présent code et les
-institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale, ayant leur siège social sur le
-territoire de l'un des Etats membres de l'OCDE, autres que les valeurs visées aux 2°, 3°, 4°, 4° bis, 5°, 6°, 7°, 8°, 10°
-bis, 12° et 14° ; 
+9° Les valeurs et titres assimilés autres que les valeurs mentionnées aux 2°, 3°, 4°, 4° bis, 5°, 6°, 7°, 8°, 10° bis, 12°,
+14° et 17° bis qui suivent : 
+
+a) Titres de créances négociables, obligations, actions, parts et droits émis par des sociétés commerciales ; 
+
+b) Titres de créances négociables, obligations, parts ou actions émises par un organisme de titrisation régi par la sous-
+section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ; 
+
+c) Obligations, titres participatifs et titres subordonnés émis par les sociétés d'assurance mutuelles, les mutuelles, unions
+et fédérations régies par le code de la mutualité et les institutions de prévoyance régies par le titre III du livre IX du
+code de la sécurité sociale ayant leur siège social sur le territoire de l'un des Etats membres de l'OCDE ; 
 
 10° Parts des fonds communs de placement à risques de l'article L. 214-28 du code monétaire et financier, parts des fonds
 communs de placement dans l'innovation de l'article L. 214-30 du même code et parts des fonds d'investissement de proximité
@@ -12485,8 +12519,8 @@ de l'article L. 214-31 du même code ;
 
 10° bis Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement des articles L.
 214-160 et L. 214-161 du code monétaire et financier, actions ou parts de placements collectifs relevant de l'article L.
-214-154 du code monétaire et financier, actions ou parts d'organismes de placement collectif en valeurs mobilières relevant
-de l'article L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août 2003 ; 
+214-154 du code monétaire et financier, actions ou parts d'organismes de placement collectif en valeurs mobilières autres que
+celles mentionnées au 11° bis dans sa rédaction antérieure au 2 août 2003 ; 
 
 10° ter Parts ou actions de fonds professionnels à vocation générale mentionnés à l'article R. 214-190 du code monétaire et
 financier ; 
@@ -12494,8 +12528,12 @@ financier ;
 11° Parts ou actions de fonds de fonds alternatifs mentionnés à l'article R. 214-186 du code monétaire et financier et des
 placements collectifs mentionnés au III de l'article L. 214-24 du même code ; 
 
+11° bis Parts ou actions des fonds professionnels spécialisés mentionnés à l'article L. 214-154 du code monétaire et
+financier, respectant les règles prévues à l'article R. 212-47-1, à l'exception de celle figurant au septième alinéa du II de
+l'article R. 332-14-2 du code des assurances ; 
+
 12° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
-mentionnées aux 5°, 10°, 10° bis, 10° ter et 11°, dans les conditions fixées par l'article R. 212-46. 
+mentionnées aux 5°, 10°, 10° bis, 10° ter, 11° et 11° bis, dans les conditions fixées par l'article R. 212-46. 
 
 Les marchés reconnus mentionnée aux 2°, 3°, 4° et 6° du présent article sont les marchés réglementés des Etats membres de la
 Communauté européenne ou des Etats parties à l'accord sur l'Espace économique européen ou les marchés de pays tiers membres
@@ -12525,7 +12563,7 @@ paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du
 14° quinquies Parts ou actions d'organismes de placement collectif immobilier mentionnés à l'article R. 214-120 du code
 monétaire et financier, lorsqu'ils exercent la dérogation prévue à ce même article. 
 
-C.-Prêts et dépôts : 
+C.-Prêts, dépôts et titres assimilés : 
 
 15° Prêts obtenus ou garantis par les Etats membres de l'OCDE, par les collectivités publiques territoriales et les
 établissements publics des Etats membres de l'OCDE ; 
@@ -12536,6 +12574,12 @@ des Etats membres de l'OCDE, dans les conditions fixées par l'article R. 212-44
 17° Autres prêts ou créances représentatives de prêts consentis aux personnes physiques ou morales ayant leur domicile ou
 leur siège social sur le territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R.
 212-45 ; 
+
+17° bis Obligations, parts ou actions émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
+chapitre IV du titre Ier du livre II du code monétaire et financier, dont l'actif est composé exclusivement de valeurs
+mentionnées au 15° ou au 16° du présent article et des actifs mentionnés aux 2°, 3° et 4° du II de l'article R. 332-14-2 du
+code des assurances, et respectant les règles prévues aux III, V, VI et VII de l'article R. 332-14-2 du code des
+assurances ; 
 
 18° Dépôts, dans les conditions fixées par l'article R. 212-49. 
 
@@ -12564,14 +12608,21 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1
 	  - Code monétaire et financier - art. L214-154
 	  - Code monétaire et financier - art. L214-160
+	  - Code monétaire et financier - art. L214-186 (V)
 	  - Code monétaire et financier - art. L214-28
-	  - Code monétaire et financier - art. L214-35
+	  - Code monétaire et financier - art. L214-30 (V)
+	  - Code monétaire et financier - art. L214-31 (V)
 	  - Code monétaire et financier - art. R214-190
+	  - Code des assurances - art. R332-14-2 (V)
+	  - Code de la mutualité - art. R212-21 (V)
+	  - Code de la mutualité - art. R212-28 (V)
 	  - Code de la mutualité - art. R212-29
 	  - Code de la mutualité - art. R212-35
 	  - Code de la mutualité - art. R212-47
 	  - Code de la mutualité - art. R212-48
+	  - Code de la mutualité - art. R212-49 (V)
 	  - Code de la mutualité - art. R212-70
+	  - Code de la mutualité - art. R212-71 (V)
 
 	**Cité par**:
 
@@ -12593,23 +12644,27 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 
 	**Modifié par**:
 
-	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
 
 
 ###### Article R212-31-1
 
-Lorsqu'une mutuelle ou union investit, directement ou indirectement, dans des obligations, des parts ou actions visées au 2°
-de l'article R. 212-31 ainsi que dans des titres de créance négociables visés au 2° bis du même article, émis par un véhicule
-de titrisation mentionné à l'article L. 310-1-2 du code des assurances, supportant des risques d'assurance transférés par
-cette même mutuelle ou union ou une mutuelle ou union appartenant au même périmètre de combinaison ou de consolidation tel
-que défini par l'article L. 212-7, le montant de ces investissements est déduit des actifs admis en représentation des
-engagements réglementés.
+Lorsqu'une mutuelle ou union investit, directement ou indirectement, dans des titres de créances négociables, des
+obligations, des parts ou actions visées au 2°, au 4° bis ou au 9° de l'article R. 212-31 ainsi que dans des titres de
+créance négociables visés au 3° du même article, émis par un véhicule de titrisation mentionné à l'article L. 310-1-2 du code
+des assurances, supportant des risques d'assurance transférés par cette même mutuelle ou union ou une mutuelle ou union
+appartenant au même périmètre de combinaison ou de consolidation tel que défini par l'article L. 212-7, le montant de ces
+investissements est déduit des actifs admis en représentation des engagements réglementés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -12627,43 +12682,62 @@ Rapportée à la base de dispersion constituée par la différence entre le mont
 par l'Autorité de contrôle mentionnée à l'article L. 510-1 : 
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° et 14° quater de l'article R. 212-31 et des prêts mentionnés au
-troisième alinéa du I de l'article R. 212-45, dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises
-étrangères d'assurance et de réassurance mentionnées au 8° de l'article R. 212-31 et par les actions et parts mentionnées aux
-9°, 10°, 10° bis, 10 ter, 11° et 14° quater du même article et par les prêts mentionnés ci-dessus ; 
+troisième alinéa du I de l'article R. 212-45, dont 10 % au maximum pour l'ensemble formé par : 
+
+a) Les actions d'entreprises étrangères d'assurance mentionnées au 8° de l'article R. 212-31 ; 
+
+b) Les actions et parts mentionnées aux 9°, 10° à 10° ter, 11° et au 14° quater de l'article R. 212-31 ; 
+
+c) Les obligations et titres de créances négociables mentionnés au 9° de l'article R. 212-31 lorsqu'ils sont émis par un
+organisme de titrisation ou une société commerciale ; 
+
+d) Les prêts mentionnés au premier alinéa du présent 1° ; 
 
 2° 40 % pour les actifs immobiliers mentionnés aux 13° et 14° quinquies de l'article R. 212-31 ; 
 
-3° 10 % pour l'ensemble des valeurs mentionnées aux 15°, 16° et 17° de l'article R. 212-31 à l'exception des prêts mentionnés
-au 1° du présent article ; 
+3° 10 % pour l'ensemble des valeurs mentionnées, d'une part, aux 15°, 16° et 17° de l'article R. 212-31, à l'exception des
+prêts mentionnés aux troisième et quatrième alinéas du I de l'article R. 212-45, et, d'autre part, au 17° bis de l'article R.
+212-31 ; 
 
-4° 5 % pour l'ensemble des valeurs constituées par :
+4° 5 % pour l'ensemble des valeurs constituées par : 
 
-- les obligations, parts ou actions mentionnées au 2° du A de l'article R. 212-31 ainsi que les titres de créances
+a) Les obligations, parts ou actions mentionnées au 2° du A de l'article R. 212-31 ainsi que les titres de créances
 négociables mentionnés au 3° du A du même article, émis par un véhicule de titrisation mentionné à l'article L. 310-1-2 du
-code des assurances ;
+code des assurances ; 
 
-- les obligations, parts ou actions mentionnées au 4° bis du A de l'article R. 212-31.
+b) Les obligations, parts ou actions mentionnées au 4° bis du A de l'article R. 212-31 ; 
+
+c) Les parts ou actions mentionnées au 11° bis de l'article R. 212-31 ; 
+
+d) Les prêts mentionnés au quatrième alinéa du I de l'article R. 212-45. 
+
+Sur demande de la mutuelle ou de l'union et après accord de l'Autorité de contrôle prudentiel et de résolution, cette limite
+peut être relevée. Un arrêté du ministre chargé de la mutualité fixe la valeur maximale du relèvement que peut accorder
+l'Autorité de contrôle prudentiel et de résolution.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-	  - Code de la mutualité - art. R212-33 (M)
+	  - Code de la mutualité - art. R212-33 (V)
 	  - Code de la mutualité - art. R212-50 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code des assurances - art. L310-1-2
 	  - Code de la mutualité - art. L510-1
 	  - Code de la mutualité - art. R212-21
-	  - Code de la mutualité - art. R212-31
+	  - Code de la mutualité - art. R212-31 (V)
 	  - Code de la mutualité - art. R212-36
-	  - Code de la mutualité - art. R212-45
+	  - Code de la mutualité - art. R212-45 (V)
 
 
 ###### Article R212-33
@@ -12688,9 +12762,9 @@ organismes ;
 
 2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° bis et 14° quinquies de l'article R. 212-31 ; 
 
-3° 1 % pour les valeurs mentionnées aux 9°, 10°, 10° bis, 10° ter et 14° quater de l'article R. 212-31 et les prêts
-mentionnés au troisième alinéa du I de l'article R. 212-45, respectivement émises ou obtenus par une même société ou un même
-organisme. 
+3° 1 % pour les valeurs mentionnées aux 4° bis, 9°, 10°, 10° bis, 10° ter, 11° bis, 14° quater et 17° bis de l'article R.
+212-31 et les prêts mentionnés aux troisième et quatrième alinéas du I de l'article R. 212-45, respectivement émises ou
+obtenus par une même société, un même organisme ou un même compartiment d'une société ou d'un organisme. 
 
 Pour l'application des dispositions du 7° de l'article R. 212-31, une mutuelle ou union ne peut affecter à la représentation
 de ses engagements réglementés plus de 50 % des actions émises par une même société.
@@ -12702,8 +12776,8 @@ de ses engagements réglementés plus de 50 % des actions émises par une même 
 	  - Ordonnance n°96-50 du 24 janvier 1996
 	  - Code de la mutualité - art. L510-1
 	  - Code de la mutualité - art. R212-31
-	  - Code de la mutualité - art. R212-32
-	  - Code de la mutualité - art. R212-45
+	  - Code de la mutualité - art. R212-32 (V)
+	  - Code de la mutualité - art. R212-45 (V)
 
 	**Cité par**:
 
@@ -12711,7 +12785,11 @@ de ses engagements réglementés plus de 50 % des actions émises par une même 
 
 	**Modifié par**:
 
-	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-34
@@ -13154,37 +13232,23 @@ dates de publication du cours et de transaction.
 
 ###### Article R212-47-1
 
-I. ― L'actif d'un organisme mentionné au 4° bis du A de l'article R. 212-31 doit être composé, à l'exclusion de tout autre
-élément : 
-
-1° De titres émis ou garantis par un Etat membre de l'OCDE ou un établissement public d'un tel Etat ; 
-
-2° D'actions de sociétés d'investissement à capital variable ou de parts de fonds communs de placement dont le portefeuille
-est exclusivement composé de titres mentionnés au 1° ; 
-
-3° De créances dont le principal et les intérêts sont intégralement couverts par un acte d'acceptation dans les conditions
-prévues à l'article L. 313-29-1 du code monétaire et financier, ou par un engagement irrévocable ayant des effets
-équivalents, signé par un Etat membre de l'OCDE ou un établissement public d'un tel Etat ; 
-
-4° De sommes momentanément disponibles et en instance d'affectation ou des valeurs conservées à titre de réserve ou de
-garantie. 
-
-II. ― L'organisme peut conclure des contrats financiers ayant pour objet unique la gestion de l'écart de périodicité entre
-les flux engendrés, d'une part, par les titres et créances détenus et, d'autre part, par les obligations, parts ou actions
-émises, le cas échéant, pour chaque compartiment concerné. 
-
-L'organisme ne peut, en dehors des obligations qu'il a émises, recourir à l'emprunt ni effectuer d'opérations de cession
-temporaire d'instruments financiers.
+Les organismes de titrisation mentionnés au 4° bis de l'article R. 212-31 et les fonds professionnels spécialisés mentionnés
+au 11° bis de l'article R. 212-31 sont des fonds de prêts à l'économie. Ces fonds respectent les règles définies à l'article
+R. 332-14-2 du code des assurances.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L313-29-1
+	  - Code des assurances - art. R332-14-2 (V)
 
 	**Cité par**:
 
@@ -13340,7 +13404,7 @@ perte, celle-ci doit être provisionnée pour son montant prévisible.
 
 ###### Article R212-52
 
-I.-Les valeurs amortissables énumérées aux 1°, 2°, 3°, 4° et 4° bis de l'article R. 212-31, autres que les obligations
+I.-Les valeurs amortissables énumérées aux 1°, 2°, 3° et 4° de l'article R. 212-31, autres que les obligations et les parts
 indexées, les parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date
 d'acquisition. 
 
@@ -13408,7 +13472,11 @@ application de l'article R. 332-19 du code des assurances.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1418 du 31 octobre 2011 - art. 2
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-53
@@ -13428,18 +13496,14 @@ une valeur déterminée après expertise effectuée conformément à l'article R
 amortissements pratiqués. Le prix de revient des immeubles est celui qui ressort des travaux de construction et
 d'amélioration, à l'exclusion des travaux d'entretien proprement dits ; 
 
-c) Les prêts sont évalués d'après les actes qui en font foi ; 
+c) Les prêts sont évalués d'après les actes qui en font foi ou, s'ils sont acquis sur un marché secondaire, à leur prix
+d'acquisition ; 
 
 d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre chargé de la
 mutualité. 
 
 Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les dépréciations, lesquelles ne peuvent être
 constatées que lorsqu'il y a lieu de considérer qu'elles ont un caractère durable.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
@@ -13455,7 +13519,11 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -13469,26 +13537,27 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 Les valeurs énumérées à l'article R. 212-31 et les autres placements financiers et immobiliers font l'objet, aux fins
 notamment d'effectuer le calcul prévu au premier alinéa de l'article L. 212-6, d'une évaluation sur la base de leur valeur de
-réalisation, dans les conditions ci-après :
+réalisation, dans les conditions ci-après : 
 
 a) Les valeurs mobilières cotées et les titres cotés de toute nature sont retenus pour le dernier cours coté au jour de
-l'inventaire ;
+l'inventaire ; 
 
-b) Les titres non cotés sont retenus pour leur valeur vénale correspondant au prix qui en serait obtenu dans des conditions
-normales de marché et en fonction de leur utilité pour la mutuelle ou l'union ;
+b) Les titres non cotés et les prêts sont retenus pour leur valeur vénale correspondant au prix qui en serait obtenu dans des
+conditions normales de marché et en fonction de leur utilité pour la mutuelle ou l'union ; 
 
 c) Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement sont retenues pour
-le dernier prix de rachat publié au jour de l'inventaire ;
+le dernier prix de rachat publié au jour de l'inventaire ; 
 
 d) La valeur de réalisation des immeubles et des parts ou actions des sociétés immobilières ou foncières non inscrites à la
 cote d'une bourse de valeurs d'un Etat membre de l'organisation de coopération et de développement économique est déterminée
 sur la base d'une expertise quinquennale effectuée par un expert accepté par l'Autorité de contrôle mentionnée à l'article L.
 510-1. Entre deux expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un expert accepté par cette
-Autorité ;
+Autorité ; 
 
 e) Les autres placements sont retenus pour leur valeur comptable déterminée comme il est prévu aux articles R. 212-52 et R.
 212-53 ci-dessus, sauf dans le cas où une autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à
-l'article R. 212-56, soit d'un accord entre l'Autorité de contrôle mentionnée à l'article L. 510-1 et la mutuelle ou l'union.
+l'article R. 212-56, soit d'un accord entre l'Autorité de contrôle mentionnée à l'article L. 510-1 et la mutuelle ou
+l'union. 
 
 Pour les titres inscrits en comptabilité hors coupon couru en application des articles R. 212-52 et R. 212-53, il y a lieu de
 déduire de l'évaluation prévue au présent article les prorata d'intérêt courus depuis la dernière échéance jusqu'à la date de
@@ -13499,10 +13568,11 @@ l'inventaire.
 	**Cite**:
 
 	  - Code de la mutualité (nouveau) R212-31, L212-6, L510-1, R212-52, R212-53, R212-56
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Code de la mutualité - art. L212-6 (V)
+	  - Code de la mutualité - art. L510-1 (V)
+	  - Code de la mutualité - art. R212-31 (V)
+	  - Code de la mutualité - art. R212-53 (V)
+	  - Code de la mutualité - art. R212-56 (V)
 
 	**Cité par**:
 
@@ -13519,7 +13589,11 @@ l'inventaire.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-54-1

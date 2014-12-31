@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -6253,33 +6253,33 @@ union au titre de la comptabilité auxiliaire faisant l'objet dudit plan. Ce pla
 ###### Article L222-8
 
 La précision qu'il s'agit d'un contrat de retraite professionnelle supplémentaire relevant des dispositions de la présente
-section doit figurer dans le bulletin d'adhésion.
+section doit figurer dans le bulletin d'adhésion. 
 
 La mutuelle ou union établit et arrête, dans les mêmes conditions que ses comptes individuels, le rapport de gestion et les
 comptes annuels relatifs à la ou les comptabilités auxiliaires d'affectation mentionnée à l'article L. 222-6. Le ou les
 commissaires aux comptes de la mutuelle ou union certifient que ces comptes annuels sont réguliers et sincères. Ces documents
 sont remis à leur demande aux souscripteurs dans les six mois qui suivent la clôture de l'exercice précédent, et sont tenus à
-la disposition des membres participants et bénéficiaires.
+la disposition des membres participants et bénéficiaires. 
 
 Lors de la liquidation de ses droits, la mutuelle ou union informe chaque membre participant ou bénéficiaire, dans des
 conditions définies par arrêté du ministre chargé de la sécurité sociale, sur le montant des prestations qui lui sont dues et
-sur les options de paiement correspondantes.
+sur les options de paiement correspondantes. 
 
 Pour chaque contrat, la mutuelle ou union établit et révise au moins tous les trois ans un rapport indiquant sa politique de
 placement et les risques techniques et financiers y afférents. Ce rapport doit être mis à jour dans un délai de trois mois
-après tout changement majeur de la politique de placement. Il est remis, sur demande, au souscripteur. Un arrêté du ministre
-chargé de la sécurité sociale précise les autres informations qui, sur demande ou périodiquement, doivent être remises aux
-membres participants.
+après tout changement majeur de la politique de placement. Il est remis, sur demande, au souscripteur, au membre participant
+et au bénéficiaire. Un arrêté du ministre chargé de la sécurité sociale précise les autres informations qui, sur demande ou
+périodiquement, doivent être remises aux membres participants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
+	  - Loi n°2014-1662 du 30 décembre 2014 - art. 16
 
 	**Cité par**:
 
@@ -6287,7 +6287,7 @@ membres participants.
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L222-6 (M)
+	  - Code de la mutualité - art. L222-6 (V)
 
 
 ###### Article L222-9
@@ -9320,6 +9320,27 @@ inférieure à un tiers des membres du conseil d'administration.
 	**Cite**:
 
 	  - Code de la mutualité - art. L222-2 (V)
+
+
+###### Article R114-9
+
+Lorsque, en application du IV de l'article L. 114-21, l'Autorité de contrôle prudentiel et de résolution tient compte, dans
+l'appréciation portée sur chaque membre du conseil d'administration, de la compétence, de l'expérience et des attributions
+des autres membres de l'organe auquel il appartient, elle s'assure que ceux-ci disposent collectivement des connaissances et
+de l'expérience nécessaires en matière de marchés de l'assurance et de marchés financiers, de stratégie de la mutuelle ou de
+l'union et de son modèle économique, de son système de gouvernance, d'analyse financière et actuarielle et d'exigences
+législatives et réglementaires applicables à la mutuelle ou à l'union, appropriées à l'exercice des responsabilités dévolues
+au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1357 du 13 novembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L114-21
 
 
 ### Chapitre V : Unions mutualistes de groupe. 

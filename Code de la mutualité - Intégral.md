@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-25
 
 # Partie législative
 
@@ -15872,6 +15872,28 @@ d'institution de retraite professionnelle dans les conditions fixées à l'artic
 	**Créé par**:
 
 	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+
+
+###### Article R222-33-1
+
+Lorsque, dans le cadre des opérations mentionnées à l'article L. 222-3, les mutuelles et leurs unions utilisent des
+références à des notations de crédit émises par des agences de notation de crédit au sens de l'article 3, paragraphe 1, point
+b, du règlement (CE) n° 1060/2009 du Parlement européen et du Conseil du 16 septembre 2009 sur les agences de notation de
+crédit dans leurs politiques d'investissement, l'Autorité de contrôle prudentiel et de résolution, en tenant compte de la
+nature, de l'ampleur et de la complexité de ces opérations, surveille l'adéquation des processus d'évaluation du crédit de la
+mutuelle ou de l'union, évalue l'utilisation de références à des notations de crédit et, le cas échéant, encourage
+l'atténuation des effets de telles références, en vue de réduire le recours exclusif et mécanique à de telles notations de
+crédit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-46 du 22 janvier 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L222-3
 
 
 ###### Article R222-34

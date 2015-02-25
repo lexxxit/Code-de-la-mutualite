@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2015-01-25
+Version Consolidée au 2015-02-26
 
 # Partie législative
 
@@ -9343,6 +9343,47 @@ au conseil d'administration.
 	  - Code de la mutualité - art. L114-21
 
 
+#### Section 6 : Emprunts, titres participatifs et certificats mutualistes
+
+###### Article R114-10
+
+Toute émission de titres participatifs, de certificats mutualistes ou de titres subordonnés remboursables effectuée dans les
+conditions prévues à l'article L. 114-45-1 est autorisée par l'assemblée générale. 
+
+Trois mois au moins avant la réunion de l'assemblée générale, la mutuelle ou l'union, lorsqu'elle est soumise au contrôle de
+l'Autorité de contrôle prudentiel et de résolution en application du 3° du B du I de l'article L. 612-2 du code monétaire et
+financier, soumet à l'approbation de cette autorité le texte du projet de délibération autorisant les émissions mentionnées
+au premier alinéa. L'Autorité se prononce en veillant à la sauvegarde des intérêts des membres participants et bénéficiaires
+au vu d'un dossier comprenant une présentation détaillée des objectifs poursuivis, des caractéristiques des titres ou des
+certificats émis, des conséquences de l'émission sur la situation financière de la mutuelle ou de l'union ainsi que, le cas
+échéant, une description précise des cas de remboursement anticipé. A l'expiration d'un délai de deux mois à dater du dépôt
+de ce dossier ainsi que du texte de la délibération, en l'absence de décision expresse de l'Autorité, l'autorisation est
+réputée accordée. En cas de décision expresse, celle-ci est communiquée à l'assemblée générale. 
+
+La délibération de l'assemblée générale fixe les caractéristiques essentielles de l'émission de titres participatifs et,
+notamment, l'assiette de la rémunération pour la partie variable. Pour les titres subordonnés, elle précise la clause de
+subordination et les modalités de remboursement, notamment en cas de liquidation de la mutuelle ou de l'union. Pour les
+certificats mutualistes mentionnés au L. 221-19, elle fixe le montant maximal de l'émission, la ou les monnaies dans laquelle
+ou lesquelles l'émission est libellée, les modalités de remboursement et le montant des frais d'émission. 
+
+L'émission doit être réalisée en une ou plusieurs fois dans un délai de deux ans à compter de l'adoption de la délibération
+par l'assemblée générale. 
+
+Le conseil d'administration rend compte à la plus prochaine assemblée générale de la mise en œuvre de la délibération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-204 du 23 février 2015 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-2
+	  - Code de la mutualité - art. L114-45-1
+	  - Code de la mutualité - art. L221-19
+
+
 ### Chapitre V : Unions mutualistes de groupe. 
 
 
@@ -11055,7 +11096,9 @@ crédit, des entreprises d'investissement ou des établissements financiers ;
 b) Les créances subordonnées et autres instruments financiers que la mutuelle ou l'union détient sur des établissements de
 crédit, des entreprises d'investissement ou des établissements financiers dans lesquels elle détient une participation, et
 qui sont considérés comme des fonds propres pour le calcul des exigences de fonds propres applicables aux entreprises et
-établissements mentionnés ci-dessus. 
+établissements mentionnés ci-dessus ; 
+
+c) Les certificats mutualistes émis et détenus directement par la mutuelle ou l'union. 
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
 détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de contrôle
@@ -11088,7 +11131,7 @@ du report cumulé effectivement constaté.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+	  - Décret n°2015-204 du 23 février 2015 - art. 2
 
 	**Cite**:
 
@@ -11371,6 +11414,8 @@ entreprises d'investissement ou des établissements financiers dans lesquels ell
 considérés comme des fonds propres pour le calcul des exigences de fonds propres applicables aux entreprises et
 établissements mentionnés ci-dessus ; 
 
+c) Les certificats mutualistes émis et détenus directement par la mutuelle ou l'union. 
+
 Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
 détenue temporairement par une mutuelle ou une union en vue de faciliter l'assainissement et la sauvegarde de cette entité,
 l'Autorité de contrôle prudentiel et de résolution peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions
@@ -11396,12 +11441,16 @@ du report cumulé effectivement constaté.
 	  - Code de la mutualité - art. R212-17 (VT)
 	  - Code de la mutualité - art. R212-18 (VT)
 	  - Code de la mutualité - art. R212-20 (VT)
-	  - Code de la mutualité - art. R212-20-1 (M)
+	  - Code de la mutualité - art. R212-20-1 (VT)
 	  - Code de la mutualité - art. R432-16 (VT)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+	  - Décret n°2015-204 du 23 février 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -12549,9 +12598,10 @@ a) Titres de créances négociables, obligations, actions, parts et droits émis
 b) Titres de créances négociables, obligations, parts ou actions émises par un organisme de titrisation régi par la sous-
 section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ; 
 
-c) Obligations, titres participatifs et titres subordonnés émis par les sociétés d'assurance mutuelles, les mutuelles, unions
-et fédérations régies par le code de la mutualité et les institutions de prévoyance régies par le titre III du livre IX du
-code de la sécurité sociale ayant leur siège social sur le territoire de l'un des Etats membres de l'OCDE ; 
+c) Obligations, titres participatifs, certificats mutualistes, le cas échéant certificats paritaires, et titres subordonnés
+émis par les sociétés d'assurance mutuelles, les mutuelles, unions et fédérations régies par le code de la mutualité et les
+institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ayant leur siège social sur le
+territoire de l'un des Etats membres de l'OCDE ; 
 
 10° Parts des fonds communs de placement à risques de l'article L. 214-28 du code monétaire et financier, parts des fonds
 communs de placement dans l'innovation de l'article L. 214-30 du même code et parts des fonds d'investissement de proximité
@@ -12648,21 +12698,21 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1
 	  - Code monétaire et financier - art. L214-154
 	  - Code monétaire et financier - art. L214-160
-	  - Code monétaire et financier - art. L214-186 (V)
+	  - Code monétaire et financier - art. L214-186
 	  - Code monétaire et financier - art. L214-28
-	  - Code monétaire et financier - art. L214-30 (V)
-	  - Code monétaire et financier - art. L214-31 (V)
+	  - Code monétaire et financier - art. L214-30
+	  - Code monétaire et financier - art. L214-31
 	  - Code monétaire et financier - art. R214-190
-	  - Code des assurances - art. R332-14-2 (V)
-	  - Code de la mutualité - art. R212-21 (V)
-	  - Code de la mutualité - art. R212-28 (V)
+	  - Code des assurances - art. R332-14-2
+	  - Code de la mutualité - art. R212-21
+	  - Code de la mutualité - art. R212-28
 	  - Code de la mutualité - art. R212-29
 	  - Code de la mutualité - art. R212-35
 	  - Code de la mutualité - art. R212-47
 	  - Code de la mutualité - art. R212-48
-	  - Code de la mutualité - art. R212-49 (V)
+	  - Code de la mutualité - art. R212-49
 	  - Code de la mutualité - art. R212-70
-	  - Code de la mutualité - art. R212-71 (V)
+	  - Code de la mutualité - art. R212-71
 
 	**Cité par**:
 
@@ -12684,7 +12734,11 @@ R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values 
 
 	**Modifié par**:
 
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
+	  - Décret n°2015-204 du 23 février 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R212-31-1
@@ -15019,6 +15073,8 @@ par l'arrêté des ministres chargés de l'économie, de la sécurité sociale e
 
 #### Chapitre Ier : Dispositions générales.
 
+##### Section 1 : Fourniture à distance d'opérations d'assurance à un consommateur
+
 ###### Article R221-1
 
 Pour l'application de l'article L. 221-18, la mutuelle ou l'union communique au membre participant les informations
@@ -15044,15 +15100,15 @@ lorsqu'elle remplit ses obligations en vertu de l'article L. 121-20-11 du code d
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+	  - DEPLACE: Décret n°2015-204 du 23 février 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L221-18 (V)
+	  - Code de la mutualité - art. L221-18
 
 
 ###### Article R221-2
@@ -15064,15 +15120,37 @@ pour les contraventions de la cinquième classe.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 3 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+	  - DEPLACE: Décret n°2015-204 du 23 février 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L221-18 (V)
+	  - Code de la mutualité - art. L221-18
+
+
+##### Section 2 : Certificats mutualistes
+
+###### Article R221-3
+
+La part maximale des résultats du dernier exercice clos et des précédents exercices susceptible d'être affectée annuellement
+à la rémunération des certificats mutualistes est égale à 10 % de la somme des résultats des trois derniers exercices clos. 
+
+Toutefois, si par application de la règle énoncée ci-dessus, les certificats mutualistes ne peuvent pas être rémunérés alors
+que le résultat du dernier exercice clos est positif, la part maximale des résultats pouvant être affectée à la rémunération
+des certificats est égale à 25 % du résultat du dernier exercice clos. 
+
+Par dérogation aux dispositions qui précèdent, une union mutualiste de groupe peut, dans la limite de 95 % du résultat du
+dernier exercice clos, affecter à la rémunération des certificats mutualistes qu'elle a émis l'intégralité de la rémunération
+qu'elle a reçue au titre des certificats mutualistes ou paritaires souscrits auprès de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-204 du 23 février 2015 - art. 2
 
 
 #### Chapitre II : Dispositions relatives à certaines opérations de retraite.

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2015-04-03
+Version Consolidée au 2015-04-04
 
 # Partie législative
 
@@ -3130,95 +3130,6 @@ nécessaires à l'appréciation de l'ensemble des caractéristiques de l'opérat
 
 #### Chapitre Ier : Champ d'application et conditions d'activité.
 
-###### Article L211-1
-
-Les mutuelles et les unions qui réalisent des opérations relevant du 1° du I de l'article L. 111-1 ou de l'article L. 111-1-1
-sont régies par les dispositions du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 8
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. L111-1-1
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L114-21 (V)
-	  - Code de la mutualité - art. L211-10 (MMN)
-	  - Code de la mutualité - art. L221-19 (VD)
-	  - Code de la mutualité - art. L227-1 (V)
-	  - Code de la sécurité sociale. - art. L932-13-2 (V)
-	  - Code de la sécurité sociale. - art. L932-14-1 (V)
-	  - Code des assurances - art. L145-2 (V)
-
-
-###### Article L211-2
-
-Les mutuelles garantissent à leurs membres participants et aux ayants droit de ceux-ci le règlement intégral des engagements
-qu'elles contractent à leur égard.
-
-Pour les opérations mentionnées au quatrième alinéa de l'article L. 111-2, les unions sont seules responsables des garanties
-qu'elles ont délivrées et des engagements qu'elles ont pris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-2 (M)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L227-1 (V)
-	  - Code de la mutualité - art. R211-1 (V)
-
-
-###### Article L211-3
-
-Les mutuelles et unions soumises aux dispositions du présent livre sont tenues de déclarer à l'Autorité de contrôle
-prudentiel et de résolution toute convention de gestion par laquelle elles participent au financement d'une mutuelle ou d'une
-union soumise aux dispositions du livre III ou disposent avec elle de services communs. Toute modification de la convention
-fait l'objet de la même procédure.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-
-###### Article L211-4
-
-Sous réserve des dispositions de l'article L. 211-5, dans tous les cas où une mutuelle ou une union se réassure contre les
-risques qu'elle a couverts ou les transfère à un véhicule de titrisation mentionné à l'article L. 310-1-2 du code des
-assurances, elle reste seule responsable de ses engagements vis-à-vis des personnes garanties. 
-
-Les statuts des mutuelles et unions déterminent les modalités suivant lesquelles une mutuelle ou une union peut se réassurer
-auprès d'entreprises non régies par le présent code ou transférer des risques à un véhicule de titrisation.
-
-La présence d'opérations relevant de la réassurance financière limitée est explicitement mentionnée dans l'intitulé des
-contrats régissant ce type d'opérations.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1-2
-	  - Code de la mutualité - art. L211-5
-
-
 ###### Article L211-5
 
 Pour l'application du dernier alinéa du I de l'article L. 111-1, les mutuelles ou les unions concluent avec les organismes
@@ -3302,22 +3213,6 @@ monétaire et financier.
 	  - Code de la mutualité - art. L212-11
 	  - Code de la mutualité - art. L212-15
 	  - Code de la mutualité - art. L212-3
-
-
-###### Article L211-6
-
-La direction effective des mutuelles et des unions doit être exercée depuis le territoire de la République française, à
-l'exclusion de la Nouvelle-Calédonie et de la Polynésie française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L212-13 (V)
 
 
 ###### Article L211-7
@@ -3639,6 +3534,123 @@ ministre chargé de la sécurité sociale.
 	  - Code des assurances - art. R341-9 (VD)
 
 
+##### Section 1 : Dispositions générales 
+
+##### Sous-section 1 : Conditions d'exercice 
+
+###### Article L211-1
+
+Les mutuelles et les unions qui réalisent des opérations relevant du 1° du I de l'article L. 111-1 ou de l'article L. 111-1-1
+sont régies par les dispositions du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L111-1-1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L114-21 (V)
+	  - Code de la mutualité - art. L211-10 (MMN)
+	  - Code de la mutualité - art. L221-19 (VD)
+	  - Code de la mutualité - art. L227-1 (V)
+	  - Code de la sécurité sociale. - art. L932-13-2 (V)
+	  - Code de la sécurité sociale. - art. L932-14-1 (V)
+	  - Code des assurances - art. L145-2 (V)
+
+
+###### Article L211-2
+
+Les mutuelles garantissent à leurs membres participants et aux ayants droit de ceux-ci le règlement intégral des engagements
+qu'elles contractent à leur égard.
+
+Pour les opérations mentionnées au quatrième alinéa de l'article L. 111-2, les unions sont seules responsables des garanties
+qu'elles ont délivrées et des engagements qu'elles ont pris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-2
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L227-1 (V)
+	  - Code de la mutualité - art. R211-1 (V)
+
+
+###### Article L211-3
+
+Les mutuelles et unions soumises aux dispositions du présent livre sont tenues de déclarer à l'Autorité de contrôle
+prudentiel et de résolution toute convention de gestion par laquelle elles participent au financement d'une mutuelle ou d'une
+union soumise aux dispositions du livre III ou disposent avec elle de services communs. Toute modification de la convention
+fait l'objet de la même procédure.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+
+###### Article L211-4
+
+Sous réserve des dispositions de l'article L. 211-5, dans tous les cas où une mutuelle ou une union se réassure contre les
+risques qu'elle a couverts ou les transfère à un véhicule de titrisation mentionné à l'article L. 310-1-2 du code des
+assurances, elle reste seule responsable de ses engagements vis-à-vis des personnes garanties. 
+
+Les statuts des mutuelles et unions déterminent les modalités suivant lesquelles une mutuelle ou une union peut se réassurer
+auprès d'entreprises non régies par le présent code ou transférer des risques à un véhicule de titrisation.
+
+La présence d'opérations relevant de la réassurance financière limitée est explicitement mentionnée dans l'intitulé des
+contrats régissant ce type d'opérations.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1-2
+	  - Code de la mutualité - art. L211-5
+
+
+###### Article L211-6
+
+La direction effective des mutuelles et des unions doit être exercée depuis le territoire de la République française, à
+l'exclusion de la Nouvelle-Calédonie et de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L212-13 (V)
+
+
 #### Chapitre II : Fonctionnement.
 
 ##### Section 1 : Régime financier et comptable.
@@ -3759,26 +3771,6 @@ au cours duquel un mandat au sein de l'organe d'administration ou de surveillanc
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L511-46 (Ab)
-
-
-###### Article L212-3-2
-
-Au sein des mutuelles régies par le présent livre, à l'exception de celles mentionnées à l'article L. 212-3-1, le comité
-mentionné à l'article L. 823-19 du code de commerce assure également le suivi de la politique, des procédures et des systèmes
-de gestion des risques. 
-
-Toutefois, sur décision de l'organe chargé de l'administration ou de la surveillance, cette mission peut être confiée à un
-comité distinct, régi par les deuxième et dernier alinéas du même article L. 823-19.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
-
-	**Cite**:
-
-	  - Code de commerce - art. L823-19
 
 
 ###### Article L212-4
@@ -4209,6 +4201,28 @@ l'Autorité européenne des assurances et des pensions professionnelles par l'Au
 	  - Code monétaire et financier - art. L517-4
 	  - Code monétaire et financier - art. L517-8
 	  - Code monétaire et financier - art. L613-20-1
+
+
+##### Section 2 : Régime comptable
+
+###### Article L212-3-2
+
+Au sein des mutuelles régies par le présent livre, à l'exception de celles mentionnées à l'article L. 212-3-1, le comité
+mentionné à l'article L. 823-19 du code de commerce assure également le suivi de la politique, des procédures et des systèmes
+de gestion des risques. 
+
+Toutefois, sur décision de l'organe chargé de l'administration ou de la surveillance, cette mission peut être confiée à un
+comité distinct, régi par les deuxième et dernier alinéas du même article L. 823-19.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
+
+	**Cite**:
+
+	  - Code de commerce - art. L823-19
 
 
 ##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation.

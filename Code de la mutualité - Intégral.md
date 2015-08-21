@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-22
 
 # Partie législative
 
@@ -5222,6 +5222,19 @@ qu'ils ont élaborés en matière de commercialisation de contrats mentionnés �
 	  - Code de la mutualité - art. L223-10-1
 
 
+###### Article L221-6-2
+
+Le règlement mutualiste ou le contrat et la notice d'information précisent les modalités d'examen des réclamations relatives
+aux bulletin d'adhésion, règlement et contrat et de recours à un processus de médiation dans les conditions prévues au titre
+V du livre Ier du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 5
+
+
 ##### Section 2 : Exécution du contrat.
 
 ###### Article L221-7
@@ -5719,10 +5732,9 @@ d'effet de la garantie, à sa demande expresse, avant l'expiration du délai de 
 participant ainsi que la loi applicable au bulletin d'adhésion au règlement et la langue que la mutuelle ou l'union s'engage
 à utiliser, avec l'accord du membre participant, pendant la durée du bulletin d'adhésion au règlement ; 
 
-7° Les modalités d'examen des réclamations que le membre participant peut formuler au sujet du bulletin d'adhésion au
-règlement y compris, le cas échéant, l'existence d'une instance chargée en particulier de cet examen, sans préjudice pour lui
-d'intenter une action en justice ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres mécanismes
-d'indemnisation. 
+7° Les modalités d'examen des réclamations que le membre participant peut formuler au sujet du règlement mutualiste ou du
+contrat et de recours à un processus de médiation dans les conditions prévues au titre V du livre Ier du code de la
+consommation.
 
 Les informations sur les conditions d'adhésion communiquées en phase précontractuelle doivent être conformes à la loi
 applicable au bulletin d'adhésion au règlement. 
@@ -5758,7 +5770,7 @@ juin 2014.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 33 (V)
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 5
 
 	**Cite**:
 

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2015-10-28
+Version Consolidée au 2015-11-21
 
 # Partie législative
 
@@ -386,8 +386,8 @@ L. 931-2-2 du code de la sécurité sociale.
 L'union mutualiste de groupe doit exercer effectivement une influence dominante au moyen d'une coordination centralisée sur
 les décisions, y compris financières, des organismes affiliés.
 
-L'union mutualiste de groupe doit compter au moins deux organismes affiliés dont l'un au moins est une mutuelle ou union
-relevant du livre II du présent code.
+L'union mutualiste de groupe doit compter au moins deux organismes affiliés dont l'un au moins est, soit une mutuelle ou
+union relevant du livre II, soit une union mutualiste de groupe. 
 
 Les mutuelles et unions relevant du présent code disposent d'au moins la moitié des sièges à l'assemblée générale et au
 conseil d'administration. Toute clause contraire des statuts entraîne la nullité de la constitution de l'union mutualiste de
@@ -400,7 +400,7 @@ une convention d'affiliation.
 Un organisme ne peut s'affilier à une union mutualiste de groupe que si ses statuts en prévoient expressément la possibilité
 et qu'il n'est pas déjà affilié à une autre union mutualiste de groupe, à une société de groupe d'assurance définie à
 l'article L. 322-1-2 du code des assurances et à une société de groupe assurantiel de protection sociale définie à l'article
-L. 931-22-1 du code de la sécurité sociale.
+L. 931-2-2 du code de la sécurité sociale.
 
 La conclusion par un organisme d'une convention d'affiliation à une union mutualiste de groupe ou la résiliation de celle-ci
 font l'objet d'une déclaration préalable à l'Autorité de contrôle prudentiel et de résolution. Celle-ci dispose d'un délai
@@ -433,7 +433,6 @@ fonctionnement de ces unions mutualistes de groupe.
 	  - Code des assurances - art. L322-1-5 (M)
 	  - Code des assurances - art. L322-26-8 (V)
 	  - Code des assurances - art. L345-2 (V)
-	  - Code des assurances - art. L356-2 (VD)
 	  - Code des assurances - art. R345-1-1 (V)
 	  - Code des assurances - art. R345-1-3 (V)
 	  - Code des assurances - art. R345-1-4 (V)
@@ -447,7 +446,7 @@ fonctionnement de ces unions mutualistes de groupe.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
 
 	**Cite**:
 

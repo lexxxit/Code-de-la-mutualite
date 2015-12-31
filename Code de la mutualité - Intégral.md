@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2015-11-21
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -38,10 +38,10 @@ l'enfance, de la famille, des personnes âgées, dépendantes ou handicapées ;
 
 3° De mettre en oeuvre une action sociale ou gérer des réalisations sanitaires, sociales ou culturelles ; 
 
-4° De participer à la gestion d'un régime légal d'assurance maladie et maternité en application des articles L. 211-3 à L.
-211-7, L. 381-8, L. 381-9, L. 611-3, L. 712-6 à L. 712-8 du code de la sécurité sociale et des articles L. 723-2, L. 731-30 à
-L. 731-34, L. 741-23 et L. 742-3 du code rural et de la pêche maritime et d'assurer la gestion d'activités et de prestations
-sociales pour le compte de l'Etat ou d'autres collectivités publiques. 
+4° De participer à la gestion d'un régime légal d'assurance maladie et maternité en application des articles L. 160-17, L.
+381-8 et L. 611-3 du code de la sécurité sociale et des articles L. 723-2, L. 731-30 à L. 731-34, L. 741-23 et L. 742-3 du
+code rural et de la pêche maritime et d'assurer la gestion d'activités et de prestations sociales pour le compte de l'Etat ou
+d'autres collectivités publiques. 
 
 Elles peuvent accepter les engagements mentionnés au 1° ci-dessus en réassurance. 
 
@@ -129,47 +129,31 @@ elle, dès lors que les prestations délivrées dans ce cadre découlent directe
 	  - Code monétaire et financier - art. L612-3 (VD)
 	  - Code monétaire et financier - art. L745-1-1 (VT)
 
-	**Cite**:
-
-	  - Arrêté du 18 janvier 2008 (V)
-	  - Code rural - art. L723-2 (V)
-	  - Code rural - art. L731-30 (V)
-	  - Code de la sécurité sociale. - art. L211-3 (V)
-	  - Code de la sécurité sociale. - art. L381-8 (V)
-	  - Code de la sécurité sociale. - art. L611-3 (V)
-	  - Code de la sécurité sociale. - art. L712-6 (V)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 59
+
+	**Cite**:
+
+	  - Code rural - art. L723-2 (V)
+	  - Code rural - art. L731-30 (V)
+	  - Code rural - art. L741-23 (V)
+	  - Code rural - art. L742-3 (V)
+	  - Code de la sécurité sociale. - art. L160-17 (V)
+	  - Code de la sécurité sociale. - art. L381-8 (V)
+	  - Code de la sécurité sociale. - art. L611-3 (V)
 
 
 ###### Article L111-1-1
 
-I.-La réassurance est l'activité d'un organisme, autre qu'un véhicule de titrisation mentionné à l'article L. 310-1-2 du code
-des assurances, qui consiste à accepter des risques d'assurance cédés soit par les mutuelles ou unions régies par le livre II
-du présent code, soit par les institutions de prévoyance régies par les dispositions du titre III du livre IX du code de la
-sécurité sociale, soit par une entreprise d'assurance ou par une entreprise de réassurance. 
+I. - La réassurance est l'activité d'un organisme, autre qu'un véhicule de titrisation mentionné à l'article L. 310-1-2 du
+code des assurances, définie aux I et II de l'article L. 310-1-1 du code des assurances.
 
-La réassurance financière limitée (dite " réassurance finite ") est la réassurance en vertu de laquelle la perte maximale
-potentielle du réassureur, découlant d'un transfert significatif à la fois des risques liés à la souscription et des risques
-liés à l'échéance des paiements, excède, à concurrence d'un montant important mais limité, les primes dues par la cédante sur
-toute la durée du contrat. Cette réassurance présente en outre l'une au moins des deux caractéristiques suivantes : 
-
-1° Elle prend en compte explicitement la valeur temporelle de l'argent ; 
-
-2° Elle prévoit un partage contractuel qui vise à lisser dans le temps les répercussions économiques du transfert du risque
-réassuré en vue d'atteindre un niveau déterminé de transfert de risque. 
-
-II.-Outre les mutuelles mentionnées au 1° de l'article L. 111-1 et unions exerçant la même activité, sont autorisées à
+II. - Outre les mutuelles mentionnées au 1° de l'article L. 111-1 et unions exerçant la même activité, sont autorisées à
 exercer en France l'activité de réassurance les mutuelles et unions ayant la réassurance pour activité exclusive, dont le
-siège social est situé en France et qui sont agréées dans les conditions définies à l'article L. 211-7-2.
+siège social est situé en France et qui sont agréées dans les conditions définies à l'article L. 211-8-1.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 7
 
 	**Cité par**:
 
@@ -182,9 +166,14 @@ siège social est situé en France et qui sont agréées dans les conditions dé
 	  - Code des assurances - art. R354-8 (VD)
 	  - Code monétaire et financier - art. L517-2 (V)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1
+	  - Code des assurances - art. L310-1-1
+	  - Code des assurances - art. L310-1-2
 
 
 ###### Article L111-2
@@ -232,7 +221,7 @@ décide de créer une union dans les mêmes conditions, le conseil d'administrat
 la mutuelle ou de l'union créée ne peuvent être composés des mêmes membres dans une proportion supérieure aux deux tiers. 
 
 Les commissaires aux comptes des deux organismes sont différents. Lorsqu'ils sont salariés ou associés au sein de personnes
-morales, celles-ci doivent être distinctes.
+morales, celles-ci doivent être distinctes. 
 
 L'apport de la mutuelle ou de l'union fondatrice à la mutuelle ou à l'union qu'elle a créée ne peut excéder le montant de son
 patrimoine libre. L'engagement financier de la mutuelle ou de l'union fondatrice dans la mutuelle ou l'union qu'elle a créée
@@ -241,7 +230,9 @@ ou de gestion de réalisations sanitaires, sociales et culturelles, cet apport e
 générale de la personne morale fondatrice. 
 
 Les transferts financiers de la mutuelle ou de l'union fondatrice au profit de la mutuelle ou de l'union qu'elle a créée ne
-peuvent remettre en cause les exigences de solvabilité définies à l'article L. 212-1. 
+peuvent remettre en cause les exigences de solvabilité définies à l'article L. 334-1 du code des assurances pour les
+mutuelles et unions mentionnées à l'article L. 211-11 et à l'article L. 352-1 du code des assurances pour les mutuelles et
+unions mentionnées à l'article L. 211-10. 
 
 Lorsque la cotisation afférente aux activités de la mutuelle ou de l'union ainsi créée est incluse dans la cotisation globale
 prélevée par la mutuelle ou l'union fondatrice, les statuts de cette dernière prévoient la part de cotisation qui est
@@ -251,11 +242,7 @@ affectée à chacun des deux organismes.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 7 (V) JORF 18 juillet 2001
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
@@ -268,10 +255,15 @@ affectée à chacun des deux organismes.
 	  - Code de la mutualité - art. R414-2 (VD)
 	  - Code de la mutualité - art. R414-6 (Ab)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-12 (V)
-	  - Code de la mutualité - art. L212-1 (V)
+	  - Code des assurances - art. L334-1
+	  - Code des assurances - art. L352-1
+	  - Code de la mutualité - art. L114-12
 
 
 ###### Article L111-4
@@ -279,16 +271,27 @@ affectée à chacun des deux organismes.
 Lorsque deux ou plusieurs mutuelles ou unions régies par le livre II du présent code créent une union régie par le livre III,
 l'apport de chaque mutuelle ou union fondatrice dans l'union ainsi créée ne peut excéder son patrimoine libre et sa
 responsabilité est limitée au montant de cet apport. Ces apports sont soumis à l'approbation de l'assemblée générale de
-chaque mutuelle ou union fondatrice.
+chaque mutuelle ou union fondatrice. 
 
 Les transferts financiers de chaque mutuelle ou union fondatrice au profit de l'union à la création de laquelle elle a
-participé ne peuvent remettre en cause les exigences de solvabilité définies à l'article L. 212-1.
+participé ne peuvent remettre en cause les exigences de solvabilité définies à l'article     L. 334-1 du code des assurances
+pour les mutuelles et unions mentionnées à l'article L. 211-11 et à l' article L. 352-1 du code des assurances pour les
+mutuelles et unions mentionnées à l'article L. 211-10.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
+	**Cite**:
+
+	  - Code des assurances - art. L334-1
+	  - Code des assurances - art. L352-1
 
 	**Cité par**:
 
@@ -297,10 +300,6 @@ participé ne peuvent remettre en cause les exigences de solvabilité définies 
 	  - Code de la mutualité - art. L114-9 (V)
 	  - Code de la mutualité - art. L431-1 (V)
 	  - Code de la mutualité - art. R414-2 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-1 (V)
 
 
 ###### Article L111-4-1
@@ -574,8 +573,10 @@ prestations dues aux membres participants des mutuelles et unions qui leur sont 
 garantie les opérations d'assistance et de protection juridique figurant au c du 1° du I de l'article L. 111-1. 
 
 Les systèmes fédéraux de garantie peuvent en outre intervenir à titre préventif auprès d'une mutuelle ou d'une union
-susceptible de ne plus répondre aux conditions de solvabilité mentionnées au 3° de l'article L. 212-1. Les interventions
-préventives du système fédéral de garantie prennent la forme de concours non remboursables. 
+susceptible de ne plus répondre aux conditions de solvabilité            mentionnées à l' article L. 334-1 du code des
+assurances pour les mutuelles et unions mentionnées à l'article L. 211-11 et à l' article L. 352-1 du code des assurances
+pour les mutuelles et unions mentionnées à l'article L. 211-10. Les interventions préventives du système fédéral de garantie
+prennent la forme de concours non remboursables. 
 
 Le système fédéral de garantie est subrogé dans les droits de l'organisme défaillant et de ses membres participants à
 concurrence du montant de toutes les sommes qu'il a versées. 
@@ -589,12 +590,11 @@ président du fonds mentionné à l'article L. 431-1.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (V)
-	  - Code de la mutualité - art. L212-1
+	  - Code de la mutualité - art. L111-1
 
 	**Cité par**:
 
@@ -947,8 +947,9 @@ A défaut de réunion de l'assemblée générale durant deux années civiles con
 l'Autorité de contrôle prudentiel et de résolution, qui nomme un liquidateur. L'excédent de l'actif net sur le passif est
 dévolu au fonds de garantie mentionné à l'article L. 431-1. 
 
-A défaut de décision de l'assemblée générale dans les cas de dissolution visés à l'article L. 212-16, l'excédent de l'actif
-net sur le passif est affecté au fonds de garantie mentionné à l'article L. 431-1.
+A défaut de décision de l'assemblée générale              pour les mutuelles et unions régies par le livre II du présent
+code, dans le cas d'une liquidation judiciaire, l'excédent de l'actif net sur le passif est affecté au fonds de garantie
+mentionné à l'article L. 431-1.
 
 **Liens relatifs à cet article**
 
@@ -960,13 +961,12 @@ net sur le passif est affecté au fonds de garantie mentionné à l'article L. 4
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-12 (V)
-	  - Code de la mutualité - art. L212-16 (V)
-	  - Code de la mutualité - art. L431-1 (VT)
+	  - Code de la mutualité - art. L114-12
+	  - Code de la mutualité - art. L431-1
 
 
 ### Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.
@@ -1090,7 +1090,8 @@ sont pourvus jusqu'à la prochaine assemblée générale ;
 6° Les conditions et les modalités du vote à l'assemblée générale et du droit pour les membres de s'y faire représenter ainsi
 que l'organisation en collèges, le cas échéant ; 
 
-7° Les conditions dans lesquelles les pouvoirs sont délégués aux dirigeants salariés ; 
+7° Les conditions dans lesquelles les pouvoirs sont délégués  le cas échéant au dirigeant opérationnel mentionné à l'article
+L. 211-14 ; 
 
 8° Les fonctions que peuvent remplir les membres du conseil d'administration ; 
 
@@ -1106,13 +1107,13 @@ que l'organisation en collèges, le cas échéant ;
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 39
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L612-23-1
-	  - Code de la mutualité - art. L114-16 (V)
-	  - Code de la mutualité - art. L114-22 (V)
+	  - Code de la mutualité - art. L114-16
+	  - Code de la mutualité - art. L114-22
 
 	**Cité par**:
 
@@ -1225,10 +1226,10 @@ adhérents.
 
 ###### Article L114-8
 
-I.-Les membres des mutuelles, unions et fédérations se réunissent en assemblée générale au moins une fois par an, sur
-convocation du président du conseil d'administration.A défaut d'une telle convocation, le président du tribunal de grande
+I. - Les membres des mutuelles, unions et fédérations se réunissent en assemblée générale au moins une fois par an, sur
+convocation du président du conseil d'administration. A défaut d'une telle convocation, le président du tribunal de grande
 instance, statuant en référé, peut, à la demande de tout membre de l'organisme, enjoindre sous astreinte aux membres du
-conseil d'administration de convoquer cette assemblée ou désigner un mandataire chargé de procéder à cette convocation.
+conseil d'administration de convoquer cette assemblée ou désigner un mandataire chargé de procéder à cette convocation. 
 
 L'assemblée générale peut également être convoquée par : 
 
@@ -1236,22 +1237,22 @@ L'assemblée générale peut également être convoquée par :
 
 2° Les commissaires aux comptes ; 
 
-3° L'Autorité de contrôle prudentiel, d'office ou à la demande d'un membre participant ; 
+3°     L'Autorité de contrôle prudentiel et de résolution, d'office ou à la demande d'un membre participant ; 
 
-4° Un administrateur provisoire nommé par l'Autorité de contrôle prudentiel , à la demande d'un ou plusieurs membres
-participants ; 
+4° Un administrateur provisoire nommé par l'Autorité de contrôle prudentiel et de résolution, à la demande d'un ou plusieurs
+membres participants ; 
 
-5° Les liquidateurs.
+5° Les liquidateurs. 
 
 A défaut d'une telle convocation, le président du tribunal de grande instance, statuant en référé, peut, à la demande de tout
 membre de l'organisme, enjoindre sous astreinte aux membres du conseil d'administration de convoquer cette assemblée ou
 désigner un mandataire chargé de procéder à cette convocation. 
 
-II.-La convocation des assemblées générales est faite dans les conditions et délais fixés par décret. 
+II. - La convocation des assemblées générales est faite dans les conditions et délais fixés par décret. 
 
-III.-L'ordre du jour de l'assemblée est arrêté par l'auteur de la convocation. Toutefois, les membres participants ou les
+III. - L'ordre du jour de l'assemblée est arrêté par l'auteur de la convocation. Toutefois, les membres participants ou les
 délégués, selon la composition de l'assemblée générale, peuvent, dans des conditions déterminées par décret, requérir
-l'inscription à l'ordre du jour de projets de résolution.
+l'inscription à l'ordre du jour de projets de résolution. 
 
 L'assemblée ne peut délibérer que sur une question inscrite à l'ordre du jour. Néanmoins, elle peut en toutes circonstances
 révoquer un ou plusieurs membres du conseil d'administration et procéder à leur remplacement. Elle prend, en outre, en toutes
@@ -1262,15 +1263,11 @@ présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L114-16 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
 
 
 ###### Article L114-9
@@ -1307,7 +1304,8 @@ i) Le transfert de tout ou partie du portefeuille de contrats, que l'organisme s
 j) Le rapport de gestion et les comptes annuels présentés par le conseil d'administration et les documents, états et tableaux
 qui s'y rattachent ; 
 
-k) Les comptes combinés ou consolidés de l'exercice ainsi que sur le rapport de gestion du groupe ; 
+k) Les comptes combinés ou consolidés de l'exercice établis conformément à l'article L. 212-7 ainsi que sur le rapport de
+gestion du groupe établi conformément à l'article L. 114-17 ; 
 
 l) Le rapport spécial du commissaire aux comptes sur les conventions réglementées, mentionné à l'article L. 114-34 ; 
 
@@ -1326,8 +1324,7 @@ o) Les règles générales auxquelles doivent obéir les opérations collectives
 
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 53
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 54
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cité par**:
 
@@ -1340,7 +1337,7 @@ o) Les règles générales auxquelles doivent obéir les opérations collectives
 	  - Code de la mutualité - art. L111-3
 	  - Code de la mutualité - art. L111-4
 	  - Code de la mutualité - art. L114-18
-	  - Code de la mutualité - art. L114-34
+	  - Code de la mutualité - art. L114-34 (VD)
 	  - Code de la mutualité - art. L114-39
 	  - Code de la mutualité - art. L114-44
 	  - Code de la mutualité - art. L114-45
@@ -1502,30 +1499,6 @@ chargé de procéder à cette communication et, le cas échéant, de reporter la
 	  - Ordonnance 2001-350 2001-04-19
 
 
-###### Article L114-15
-
-Les comptes annuels sont communiqués par les mutuelles, unions et fédérations à toute personne qui en fait la demande, dans
-des conditions fixées par arrêté du ministre chargé de la mutualité. 
-
-Lorsqu'une mutuelle, une union ou une fédération refuse communication en tout ou partie des documents demandés au titre de
-l'alinéa précédent, le président du tribunal de grande instance statuant en référé peut, à la demande de la personne
-concernée, ordonner à la mutuelle, union ou fédération, sous astreinte, de lui communiquer ces documents.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
-
-
 #### Section 4 : Conseil d'administration.
 
 ###### Article L114-16
@@ -1594,13 +1567,14 @@ qu'il présente à l'assemblée générale et dans lequel il rend compte :
 
 a) Des prises de participation dans des sociétés soumises aux dispositions du livre II du code de commerce ; 
 
-b) De la liste des organismes avec lesquels la mutuelle ou l'union constitue un groupe au sens de l'article L. 212-7 ; 
+b) De la liste des organismes avec lesquels la mutuelle ou l'union établit des comptes consolidés ou combinés conformément à
+l'article L. 212-7 ; 
 
 c) De l'ensemble des sommes versées en application de l'article L. 114-26 ; un rapport distinct, certifié par le commissaire
 aux comptes et également présenté à l'assemblée générale, détaille les sommes et avantages de toute nature versées à chaque
 administrateur ; 
 
-d) De l'ensemble des rémunérations versées aux dirigeants salariés ; 
+d) De l'ensemble des rémunérations versées le cas échéant au dirigeant opérationnel mentionné à l'article L. 211-14 ; 
 
 e) De la liste des mandats et fonctions exercés par chacun des administrateurs de la mutuelle, union ou fédération ; 
 
@@ -1611,22 +1585,21 @@ de la participation aux excédents ;
 
 h) Des informations mentionnées au cinquième alinéa de l'article L. 225-102-1 du code de commerce lorsque les conditions
 prévues au sixième alinéa du même article sont remplies. Ces informations font l'objet d'une vérification par un organisme
-tiers indépendant, dans les conditions prévues au même article. Les mutuelles, unions ou fédérations qui font partie d'un
-groupe, au sens de l'article L. 212-7 du présent code, ne sont pas tenues de publier ces informations lorsque celles-ci sont
-publiées dans le rapport de gestion du groupe de manière détaillée et individualisée par mutuelle, union ou fédération, et
-que ces mutuelles, unions ou fédérations indiquent comment y accéder dans leur propre rapport de gestion. 
+tiers indépendant, dans les conditions prévues au même article. Les mutuelles ou unions ne sont pas tenues de publier ces
+informations lorsque celles-ci sont publiées dans le rapport mentionné à l'alinéa suivant de manière détaillée et
+individualisée par mutuelle ou union, et que ces mutuelles ou unions indiquent comment y accéder dans leur propre rapport de
+gestion. 
 
-Le conseil d'administration établit, à la clôture de chaque exercice, les comptes consolidés ou combinés, lorsque la
-mutuelle, l'union ou la fédération fait partie d'un groupe au sens de l'article L. 212-7, ainsi qu'un rapport sur la gestion
-du groupe qu'il communique à l'assemblée générale. 
+Le conseil d'administration établit, à la clôture de chaque exercice, les comptes consolidés ou combinés conformément à
+l'article L. 212-7, ainsi qu'un rapport sur la gestion du groupe qu'il communique à l'assemblée générale. 
 
-Il établit également, lorsque la mutuelle ou l'union relève du livre II, le rapport de solvabilité visé à l'article L. 212-3
-et un état annuel annexé aux comptes et relatif aux plus-values latentes, visé à l'article L. 212-6. 
+Le rapport de gestion du groupe inclut les informations visées à l'article L. 212-6. 
 
 Le conseil d'administration fixe les montants ou les taux de cotisation et les prestations des opérations collectives
 mentionnées au III de l'article L. 221-2, dans le respect des règles générales fixées par l'assemblée générale. Il rend
 compte devant l'assemblée générale des décisions qu'il prend en la matière. Il peut déléguer tout ou partie de cette
-compétence, pour une durée maximale d'un an, au président du conseil d'administration ou au dirigeant.
+compétence, pour une durée maximale d'un an, au président du conseil d'administration ou le cas échéant au dirigeant
+opérationnel mentionné à l'article L. 211-14.
 
 **Liens relatifs à cet article**
 
@@ -1640,15 +1613,20 @@ compétence, pour une durée maximale d'un an, au président du conseil d'admini
 	  - Code de la mutualité - art. L212-3 (VT)
 	  - Code de la mutualité - art. R114-6 (V)
 
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
 	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 53
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
 
 	**Cite**:
 
 	  - Code de la mutualité - art. L114-26
-	  - Code de la mutualité - art. L212-6
-	  - Code de la mutualité - art. L212-7
+	  - Code de la mutualité - art. L211-14 (VD)
+	  - Code de la mutualité - art. L212-6 (VD)
+	  - Code de la mutualité - art. L212-7 (VT)
 	  - Code de la mutualité - art. L221-2
 
 
@@ -1692,13 +1670,17 @@ président du conseil d'administration ou de cessation de son mandat à la suite
 l'Autorité de contrôle prudentiel et de résolution en application de l'article L. 612-23-1 du code monétaire et financier. A
 défaut de mention dans les statuts, le conseil d'administration peut, dans cette dernière hypothèse, procéder, jusqu'à la
 prochaine assemblée générale, à des nominations à titre provisoire, sans préjudice des règles fixées à l'article L. 114-16 du
-présent code.
+présent code. 
+
+A l'égard des tiers, la mutuelle ou l'union est engagée même par les actes du président qui ne relèvent pas de l'objet de la
+mutuelle ou de l'union, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait
+l'ignorer compte tenu des circonstances.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 39
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
@@ -1709,33 +1691,6 @@ présent code.
 	  - Code de la mutualité - art. L114-10 (V)
 	  - Code de la mutualité - art. L114-9 (V)
 	  - Code de la mutualité - art. L115-6 (V)
-
-
-###### Article L114-19
-
-Dans les organismes nommant un ou plusieurs dirigeants salariés, le conseil d'administration nomme ceux-ci et fixe leur
-rémunération. Ces dirigeants assistent à chaque réunion du conseil d'administration. Ils sont révocables à tout moment par le
-conseil d'administration. 
-
-A l'égard des tiers, la mutuelle ou l'union est engagée même par les actes du président du conseil d'administration ou des
-dirigeants salariés qui ne relèvent pas de son objet, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet
-objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L211-8 (V)
-	  - Code de la mutualité - art. R414-2 (VD)
-	  - Code monétaire et financier - art. L612-23-1 (V)
 
 
 ###### Article L114-20
@@ -1776,109 +1731,125 @@ d'administrateurs.
 
 #### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant salarié.
 
+#### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant opérationnel
+
 ###### Article L114-21
 
-I.-Nul ne peut directement ou indirectement administrer ou diriger un organisme mutualiste : 
+I.-Nul ne peut directement ou indirectement administrer ou diriger un organisme mutualiste, et pour les mutuelles et unions
+mentionnées à l'article L. 211-10 et les unions mutualistes de groupe définies à l'article L. 111-4-2 ni être responsable
+d'une des fonctions clés mentionnées à l'article L. 211-12 : 
 
 1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive pour crime ; 
 
-2° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à une peine d'au moins trois mois
-d'emprisonnement sans sursis pour : 
+2° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à une peine d'emprisonnement ferme ou d'au moins
+six mois avec sursis pour : 
 
-a) L'un des délits prévus aux articles 432-11,433-1,433-2,433-3,441-1 du code pénal, L. 152-6 du code du travail et L. 443-2
-du code de commerce ; 
+a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
+punis des peines prévues pour l'escroquerie et l'abus de confiance ; 
 
-b) Vol, escroquerie, abus de confiance ; 
+b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
+II du livre III du code pénal ; 
 
-c) L'un des délits prévus par des lois spéciales et punis des peines prévues en matière d'escroquerie, d'abus de confiance ou
-prévus par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ; 
+c) Blanchiment ; 
 
-d) Soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute ; 
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ; 
 
-e) L'un des délits prévus à l'article L. 313-5 du code de la consommation, aux articles L. 353-1, L. 353-4 et L. 573-8 du
-code monétaire et financier ; 
+e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
+l'autorité ; 
 
-f) Recel des choses provenant des crimes ou délits visés ci-dessus ou des choses qui en sont le produit ; 
+f) Participation à une association de malfaiteurs ; 
 
-g) L'un des délits prévus aux articles 75 et 77 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle
-des établissements de crédit et aux articles L. 571-3 à L. 571-9 et L. 571-14 et L. 571-16 du code monétaire et financier ; 
+g) Trafic de stupéfiants ; 
 
-h) L'un des délits prévus aux articles 222-34 à 222-41 du code pénal et 415 du code des douanes ; 
+h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
+pénal ; 
 
-i) L'un des délits prévus aux articles L. 163-2 à L. 163-8, L. 163-11 et L. 163-12 du code monétaire et financier ; 
+i) L'une des infractions prévues à la section 3 du même chapitre ; 
 
-j) L'un des délits à la législation ou à la réglementation relative aux institutions de prévoyance régies par le titre III du
-livre IX du code de la sécurité sociale, aux entreprises régies par le code des assurances et aux mutuelles, unions et
-fédérations régies par le présent code ; 
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de
+commerce ; 
 
-3° Si une mesure définitive de faillite personnelle ou une autre mesure définitive d'interdiction prévue aux articles L.
-625-1 à L. 653-11 du code de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967
-sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes a été prononcée à son
-égard ou s'il a été déclaré pour une décision définitive de moins de dix ans en état de faillite par une juridiction
-étrangère quand le jugement déclaratif a été déclaré exécutoire en France, et s'il n'a pas été réhabilité ; 
+k) Banqueroute ; 
 
-4° S'il a fait l'objet d'une mesure de destitution de fonction d'officier ministériel en vertu d'une décision judiciaire
-définitive de moins de dix ans ; la juridiction qui a prononcé la destitution peut, à la demande de l'officier ministériel
-destitué, soit le relever de l'incapacité précitée, soit réduire la durée de l'incapacité ; 
+l) Pratique de prêt usuraire ; 
 
-5° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive prononcée par une juridiction étrangère et
-passée en force de chose jugée, constituant d'après la loi française une condamnation pour l'un des crimes ou délits
-mentionnés au présent article. 
+m) L'une des infractions à la législation sur les jeux de hasard, casinos et loteries, prévues par les dispositions des
+articles L. 324-1 à L. 324-10 du code de sécurité intérieure ; 
 
-Le tribunal correctionnel du domicile du condamné apprécie à la requête du ministère public la régularité et la légalité de
-cette décision et statue en chambre du conseil, l'intéressé dûment appelé, sur l'application en France de l'interdiction. 
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ; 
 
-II.-Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense
+o) Fraude fiscale ; 
+
+p) L'une des infractions prévues aux articles L. 121-6, L. 121-28, L. 122-8 à L. 122-10, L. 213-1 à L. 213-5, L. 217-1 à L.
+217-3, L. 217-6 et L. 217-10 du code de la consommation ; 
+
+q) L'une des infractions prévues au code monétaire et financier ; 
+
+r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ; 
+
+s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ; 
+
+t) L'une des infractions à la législation ou à la réglementation applicable aux institutions de prévoyance, unions et
+sociétés de groupe assurantiel de protection sociale régies par le titre 3 du livre 9 du code de la sécurité sociale, aux
+entreprises régies par le code des assurances et aux mutuelles, unions et fédérations régies par le présent code ; 
+
+3° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à la destitution des fonctions d'officier public
+ou ministériel. 
+
+II.-L'incapacité prévue au premier alinéa du I s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
+définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le livre VI
+du code de commerce. 
+
+III.-Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
+décision qui entraîne cette incapacité peut en réduire la durée. 
+
+IV.-Les personnes exerçant une fonction, une activité ou une profession mentionnée au premier alinéa du I qui font l'objet de
+l'une des condamnations prévues aux I et II doivent cesser leur activité dans un délai d'un mois à compter de la date à
+laquelle la décision de justice est devenue définitive. Ce délai peut être réduit ou supprimé par la juridiction qui a rendu
+cette décision. 
+
+V.-En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
+condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
+et l'intéressé ayant été dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au
+premier alinéa du I. 
+
+Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
+prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
+d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
+domicile du condamné. 
+
+VI.-Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
+l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation
+d'exercice. 
+
+VII.-Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense
 d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation. 
 
-III.-Les personnes exerçant l'une des activités mentionnées au I du présent article doivent cesser leur activité dans un
-délai de trois mois à compter de la date à laquelle la décision de justice est devenue définitive. 
+VIII.-Les personnes appelées à diriger une mutuelle ou union mentionnée à l'article L. 211-1 ou une union mutualiste de
+groupe, ou à y exercer une des fonctions clés mentionnées à l'article L. 211-12 doivent posséder l'honorabilité, la
+compétence ainsi que l'expérience nécessaires à leurs fonctions. 
 
-Lorsque l'autorité administrative compétente en matière d'agrément est amenée à se prononcer sur l'honorabilité, la
-compétence et l'expérience de dirigeants et d'administrateurs qui exercent également ces mêmes fonctions au sein d'entités
-autres que celles mentionnées au premier alinéa et appartenant au même groupe au sens de l'article L. 212-7-1, elle consulte
-les autorités compétentes au titre de ces autres entités. Elle communique à ces autorités les informations utiles à
-l'exercice de leurs missions. 
+Les membres du conseil d'administration des mutuelles et unions mentionnées au 3° du B du I de l'article L. 612-2 du code
+monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises. 
 
-IV.-Les membres du conseil d'administration des mutuelles et unions visées au 3° du B du I de l'article L. 612-2 du code
-monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience nécessaires. 
+Pour apprécier la compétence des intéressés, l'Autorité de contrôle prudentiel et de résolution tient compte de leur
+formation et de leur expérience de façon proportionnée à leurs attributions, notamment l'expérience acquise en tant que
+président d'un conseil ou d'un comité. L'autorité tient compte également, dans l'appréciation portée sur chaque personne, de
+la compétence, de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats
+ont été antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres,
+l'Autorité de contrôle prudentiel et de résolution tient compte des formations dont ils pourront bénéficier tout au long de
+leur mandat. 
 
-La compétence des intéressés est appréciée par l'Autorité de contrôle prudentiel et de résolution à partir de leur formation
-et de leur expérience de façon proportionnée à leurs attributions, notamment celles exercées en tant que président d'un
-conseil ou d'un comité. L'autorité tient compte également, dans l'appréciation portée sur chaque personne, de la compétence,
-de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats ont été
-antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres, l'Autorité de
-contrôle prudentiel et de résolution tient compte des formations dont ils pourront bénéficier tout au long de leur mandat. 
+IX.-Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se prononcer sur l'honorabilité, la compétence et
+l'expérience des personnes qui dirigent effectivement l'entreprise ou qui sont responsables de fonctions clés au sens de
+l'article L. 211-13 et, lorsque ces personnes exercent de telles fonctions auprès d'une autre entité du même groupe au sens
+défini à l'article L. 356-1 du code des assurances, elle consulte les autorités compétentes de cette autre entité. Elle
+communique à ces autorités les informations utiles à l'exercice de leurs missions. 
 
-V.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+X.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
-	  - Loi n°83-628 du 12 juillet 1983 (Ab)
-	  - Loi n°84-46 du 24 janvier 1984 - art. 75 (Ab)
-	  - Loi n°84-46 du 24 janvier 1984 - art. 77 (Ab)
-	  - Code de commerce - art. L443-2 (V)
-	  - Code de commerce - art. L625-1 (V)
-	  - Code de la consommation - art. L313-5 (V)
-	  - Code pénal - art. 222-34 (V)
-	  - Code pénal - art. 432-11 (V)
-	  - Code pénal - art. 433-1 (V)
-	  - Code pénal - art. 433-2 (V)
-	  - Code pénal - art. 441-1 (V)
-	  - Code des douanes - art. 415 (V)
-	  - Code monétaire et financier - art. L163-11 (V)
-	  - Code monétaire et financier - art. L163-12 (V)
-	  - Code monétaire et financier - art. L163-2 (V)
-	  - Code monétaire et financier - art. L353-1 (V)
-	  - Code monétaire et financier - art. L353-4 (V)
-	  - Code monétaire et financier - art. L571-14 (VT)
-	  - Code monétaire et financier - art. L571-16 (V)
-	  - Code monétaire et financier - art. L571-3 (V)
-	  - Code monétaire et financier - art. L573-8 (V)
-	  - Code monétaire et financier - art. L612-2 (VT)
 
 	**Codifié par**:
 
@@ -1897,7 +1868,33 @@ V.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 39
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-28
+	  - Code de la consommation - art. L121-6
+	  - Code de la consommation - art. L122-8 (V)
+	  - Code de la consommation - art. L213-1 (V)
+	  - Code de la consommation - art. L217-1 (V)
+	  - Code de la consommation - art. L217-10
+	  - Code de la consommation - art. L217-6
+	  - Code pénal
+	  - Code pénal - art. 132-21
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L612-2
+	  - Code du travail - art. L8221-1
+	  - Code du travail - art. L8221-3
+	  - Code du travail - art. L8221-5
+	  - Code du travail - art. L8224-1
+	  - Code des assurances
+	  - Code des assurances - art. L356-1
+	  - Code de la mutualité - art. L111-4-2 (V)
+	  - Code de la mutualité - art. L211-1 (V)
+	  - Code de la mutualité - art. L211-10 (VD)
+	  - Code de la mutualité - art. L211-12 (VD)
+	  - Code de la mutualité - art. L211-13 (VD)
+	  - Code de la sécurité intérieure - art. L324-1 (V)
 
 
 ###### Article L114-22
@@ -1944,15 +1941,15 @@ III.-Dans le décompte des mandats mentionnés aux I et II ne sont pas pris en c
 créées en application des articles L. 111-3 et L. 111-4. 
 
 III bis.-Dans le décompte des mandats mentionnés aux I et II, sont pris en compte pour un seul mandat ceux détenus dans des
-organismes mutualistes faisant partie d'un ensemble soumis à l'obligation d'établir des comptes consolidés ou combinés dans
-les conditions prévues à l'article L. 212-7. 
+organismes mutualistes faisant partie d'un                          groupe au sens de l'article L. 356-1 du code des
+assurances . 
 
 III ter.-Dans le décompte des mandats mentionnés aux I et II, ne sont pas pris en compte ceux détenus dans les fédérations
 définies à l'article L. 111-5 et les unions qui ne relèvent ni du livre II ni du livre III, investies d'une mission
 spécifique d'animation ou de représentation. 
 
 IV.-Toute personne qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions des I et II
-doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats.A l'expiration de ce délai, elle est réputée
+doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai, elle est réputée
 s'être démise de son mandat le plus récent, sans que soit, de ce fait, remise en cause la validité des délibérations
 auxquelles elle a pris part.
 
@@ -1964,13 +1961,12 @@ auxquelles elle a pris part.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 170
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
 	  - Code de la mutualité - art. L111-3
 	  - Code de la mutualité - art. L111-5
-	  - Code de la mutualité - art. L212-7
 
 
 ###### Article L114-24
@@ -1989,12 +1985,12 @@ Ces absences n'entraînent aucune diminution de leurs rémunérations et des ava
 
 Tout salarié ou agent public non titulaire, élu président du conseil d'administration ou auquel des attributions permanentes
 sont confiées au sein d'une mutuelle, union ou fédération, et qui, pour l'exercice de telles fonctions, doit cesser toute
-activité professionnelle, bénéficie des dispositions des articles L. 122-24-2 et L. 122-24-3 du code du travail. 
+activité professionnelle, bénéficie des dispositions des articles L. 3142-60 à L. 3142-63 du code du travail. 
 
 Le licenciement par l'employeur d'un salarié exerçant le mandat d'administrateur ou ayant cessé son mandat depuis moins de
-six mois est soumis à la procédure prévue par l'article L. 412-18 du code du travail. Il en est de même du licenciement des
-candidats aux mandats d'administrateur pendant une durée de trois mois à compter de la date de l'envoi de la liste des
-candidatures adressée par la mutuelle, union ou fédération à ses membres. 
+six mois est soumis à la procédure prévue aux articles L. 2411-3 et L. 2421-9 du code du travail. Il en est de même du
+licenciement des candidats aux mandats d'administrateur pendant une durée de trois mois à compter de la date de l'envoi de la
+liste des candidatures adressée par la mutuelle, union ou fédération à ses membres. 
 
 Lorsque des attributions permanentes leur ont été confiées, les fonctionnaires peuvent être placés, sur leur demande, en
 position de détachement ou de mise à disposition pour exercer les fonctions de membre du conseil d'administration d'une
@@ -2006,11 +2002,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2007-148 du 2 février 2007 - art. 38 () JORF 6 février 2007
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
@@ -2019,10 +2011,15 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	  - Code du travail - art. L2411-19 (VD)
 	  - Code du travail - art. L2421-2 (VD)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+
 	**Cite**:
 
-	  - Code du travail - art. L122-24-2 (Ab)
-	  - Code du travail - art. L412-18 (Ab)
+	  - Code du travail - art. L2411-3 (V)
+	  - Code du travail - art. L2421-9 (V)
+	  - Code du travail - art. L3142-60 (V)
 
 
 ###### Article L114-25
@@ -2179,23 +2176,17 @@ prononce également sur les autres activités ou fonctions que le dirigeant ente
 ###### Article L114-31
 
 Aucune rémunération liée d'une manière directe ou indirecte au volume des cotisations des unions et des mutuelles ne peut
-être allouée à quelque titre que ce soit à un administrateur ou à un dirigeant salarié.
-
-**Nota:**
-
-Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
-titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
-mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
+être allouée à quelque titre que ce soit à un administrateur ou à un dirigeant opérationnel .
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cité par**:
 
@@ -2204,31 +2195,36 @@ mutualité mettent leurs statuts en conformité avec les dispositions du présen
 
 ###### Article L114-32
 
-Toute convention intervenant entre une mutuelle, une union ou une fédération et l'un de ses administrateurs ou dirigeants
-salariés ou une personne morale à laquelle elle a délégué tout ou partie de sa gestion est soumise à l'autorisation préalable
-du conseil d'administration. La décision du conseil d'administration doit intervenir au plus tard lors de la réunion du
-conseil d'administration où sont arrêtés les comptes annuels de l'exercice.
+Toute convention intervenant entre une mutuelle, une union ou une fédération et l'un de ses administrateurs ou dirigeant
+opérationnel ou une personne morale à laquelle elle a délégué tout ou partie de sa gestion est soumise à l'autorisation
+préalable du conseil d'administration. La décision du conseil d'administration doit intervenir au plus tard lors de la
+réunion du conseil d'administration où sont arrêtés les comptes annuels de l'exercice. 
 
-Il en est de même des conventions auxquelles un administrateur ou un dirigeant salarié est indirectement intéressé ou dans
-lesquelles il traite avec la mutuelle, union ou fédération, par personne interposée, ainsi que des conventions intervenant
-entre la mutuelle, l'union ou la fédération et toute personne morale de droit privé si l'un des administrateurs, dirigeant
-salarié de la mutuelle, union ou fédération est propriétaire, associé indéfiniment responsable, gérant, administrateur,
-directeur général, membre du directoire, du conseil de surveillance ou, de façon générale, dirigeant de ladite personne
-morale.
+Il en est de même des conventions auxquelles un administrateur ou un dirigeant opérationnel est indirectement intéressé ou
+dans lesquelles il traite avec la mutuelle, union ou fédération, par personne interposée, ainsi que des conventions
+intervenant entre la mutuelle, l'union ou la fédération et toute personne morale de droit privé si l'un des administrateurs,
+dirigeant opérationnel de la mutuelle, union ou fédération est propriétaire, associé indéfiniment responsable, gérant,
+administrateur, directeur général, membre du directoire, du conseil de surveillance ou, de façon générale, dirigeant de
+ladite personne morale. 
 
-Les conventions intervenant entre un administrateur ou un dirigeant salarié d'une mutuelle, union ou fédération et l'une des
-personnes morales appartenant au même groupe au sens de l'article L. 212-7 sont soumises aux dispositions du premier alinéa.
+Les conventions intervenant entre un administrateur ou un dirigeant opérationnel d'une mutuelle, union ou fédération et l'une
+des personnes morales appartenant au même groupe au sens de l'article L. 212-7 sont soumises aux dispositions du premier
+alinéa. 
 
 Lorsque le conseil d'administration d'une mutuelle, union ou fédération est composé, pour plus du tiers de ses membres,
 d'administrateurs, de dirigeants ou d'associés issus d'une seule personne morale de droit privé ne relevant pas des
 dispositions du présent code, les conventions intervenant entre cette personne morale et un administrateur ou un dirigeant
-salarié de la mutuelle, union ou fédération sont soumises aux dispositions du premier alinéa.
+opérationnel de la mutuelle, union ou fédération sont soumises aux dispositions du premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cité par**:
 
@@ -2238,7 +2234,7 @@ salarié de la mutuelle, union ou fédération sont soumises aux dispositions du
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-7 (M)
+	  - Code de la mutualité - art. L212-7
 
 
 ###### Article L114-33
@@ -2263,11 +2259,11 @@ comptes. Ces éléments sont présentés par l'assemblée générale dans des co
 
 ###### Article L114-34
 
-L'administrateur ou le dirigeant salarié intéressé est tenu d'informer le conseil d'administration de la mutuelle, union ou
-fédération dès qu'il a connaissance d'une convention à laquelle l'article L. 114-32 est applicable. Le dirigeant intéressé,
-lorsqu'il s'agit d'un administrateur, ne peut pas prendre part au vote sur l'autorisation sollicitée.
+L'administrateur ou le dirigeant opérationnel  intéressé est tenu d'informer le conseil d'administration de la mutuelle,
+union ou fédération dès qu'il a connaissance d'une convention à laquelle l'article L. 114-32 est applicable. Lorsqu'il s'agit
+d'un administrateur, ce dernier  ne peut pas prendre part au vote sur l'autorisation sollicitée. 
 
-Le président du conseil d'administration donne avis aux commissaires aux comptes de toutes les conventions autorisées.
+Le président du conseil d'administration donne avis aux commissaires aux comptes de toutes les conventions autorisées. 
 
 Les commissaires aux comptes présentent, sur ces conventions, un rapport spécial à l'assemblée générale sur lequel celle-ci
 statue. Le ou les intéressés ne prennent pas part au vote.
@@ -2276,26 +2272,26 @@ statue. Le ou les intéressés ne prennent pas part au vote.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L114-10 (V)
 	  - Code de la mutualité - art. L114-9 (V)
 
-	**Cite**:
-
-	  - Code de la mutualité - art. L114-32 (V)
-
 
 ###### Article L114-35
 
-Sans préjudice de la responsabilité de l'administrateur ou du dirigeant salarié intéressé, les conventions mentionnées à
-l'article L. 114-32 et conclues sans autorisation préalable du conseil d'administration peuvent être annulées si elles ont eu
-des conséquences dommageables pour l'organisme.
+Sans préjudice de la responsabilité de l'administrateur ou du dirigeant opérationnel  intéressé, les conventions mentionnées
+à l'article L. 114-32 et conclues sans autorisation préalable du conseil d'administration peuvent être annulées si elles ont
+eu des conséquences dommageables pour l'organisme. 
 
 L'action en nullité se prescrit par trois ans à compter de la date de la convention. Toutefois, si la convention a été
-dissimulée, le point de départ du délai de la prescription est reporté au jour où elle a été révélée.
+dissimulée, le point de départ du délai de la prescription est reporté au jour où elle a été révélée. 
 
 La nullité peut être couverte par un vote de l'assemblée générale intervenant sur rapport spécial des commissaires aux
 comptes exposant les circonstances en raison desquelles la procédure d'autorisation n'a pas été suivie. Le ou les intéressés
@@ -2305,11 +2301,15 @@ ne prennent pas part au vote.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-32 (V)
+	  - Code de la mutualité - art. L114-32
 
 
 ###### Article L114-36
@@ -2319,27 +2319,31 @@ générale, produisent leurs effets à l'égard des tiers, sauf lorsqu'elles son
 
 Même en l'absence de fraude, les conséquences préjudiciables à la mutuelle, l'union ou la fédération des conventions
 désapprouvées par l'assemblée générale peuvent être mises à la charge de l'administrateur et éventuellement des autres
-membres du conseil d'administration ou d'un dirigeant salarié.
+membres du conseil d'administration.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 
 ###### Article L114-37
 
-Il est interdit aux administrateurs et aux dirigeants salariés de contracter, sous quelque forme que ce soit, des emprunts
+Il est interdit aux administrateurs et au dirigeant opérationnel de contracter, sous quelque forme que ce soit, des emprunts
 auprès de la mutuelle, union ou fédération ou de se faire consentir par celle-ci un découvert, en compte courant ou
-autrement, ainsi que de faire cautionner ou avaliser par elle leurs engagements envers les tiers.
+autrement, ainsi que de faire cautionner ou avaliser par elle leurs engagements envers les tiers. 
 
 Toutefois, l'interdiction de contracter des emprunts ne s'applique pas lorsque les personnes concernées peuvent, en qualité
-d'administrateur et de dirigeant salarié, en bénéficier aux mêmes conditions que celles qui sont offertes par la mutuelle,
-l'union ou la fédération à l'ensemble des membres participants au titre de l'action sociale mise en oeuvre. Cette
-interdiction ne s'applique pas aux dirigeants salariés lorsque ceux-ci sont susceptibles d'en bénéficier aux mêmes conditions
-que les salariés de la mutuelle, l'union ou la fédération. Dans tous les cas, le conseil d'administration est informé du
-montant et des conditions des prêts accordés au cours de l'année à chacun des dirigeants.
+d'administrateur et de dirigeant opérationnel , en bénéficier aux mêmes conditions que celles qui sont offertes par la
+mutuelle, l'union ou la fédération à l'ensemble des membres participants au titre de l'action sociale mise en oeuvre. Cette
+interdiction ne s'applique pas au dirigeant opérationnel lorsque ceux-ci sont susceptibles d'en bénéficier aux mêmes
+conditions que les salariés de la mutuelle, l'union ou la fédération. Dans tous les cas, le conseil d'administration est
+informé du montant et des conditions des prêts accordés au cours de l'année à chacun des dirigeants. 
 
 La même interdiction s'applique aux conjoints, ascendants et descendants des personnes mentionnées au présent article ainsi
 qu'à toute personne interposée.
@@ -2348,27 +2352,33 @@ qu'à toute personne interposée.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 
 #### Section 6 : Dispositions financières et comptables.
 
 ###### Article L114-38
 
-Les mutuelles et unions régies par le livre II ou, lorsqu'elles dépassent un volume d'activité fixé par décret, celles régies
-par le livre III, ainsi que les fédérations, sont tenues de nommer au moins un commissaire aux comptes et un suppléant
-choisis sur la liste mentionnée à l'article L. 822-1 du code de commerce. Le président convoque les commissaires aux comptes
-à toute assemblée générale.
+Les mutuelles et unions régies par le livre II, les unions mutualistes de groupe, ou, lorsqu'elles dépassent un volume
+d'activité fixé par décret, les mutuelles et unions régies par le livre III, ainsi que les fédérations, sont tenues de nommer
+au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L. 822-1 du code de commerce.
+Le président convoque les commissaires aux comptes à toute assemblée générale. 
 
-Les dispositions des articles L. 822-9 à L. 822-18 du code de commerce sont applicables aux commissaires aux comptes
-contrôlant les mutuelles, unions et fédérations sous réserve des dispositions du présent code.
+Les dispositions des articles L. 822-9 à L. 822-18 ainsi que celles des articles de la section 2 du chapitre III du titre II
+du livre VIII du code de commerce sont applicables aux commissaires aux comptes contrôlant les mutuelles, unions et
+fédérations sous réserve des dispositions du présent code et dans les conditions d'exercice définies par voie réglementaire
+au code de commerce. 
 
 Les honoraires des commissaires aux comptes sont à la charge de la mutuelle, de l'union ou de la fédération. Le montant des
 honoraires est fixé d'un commun accord entre le commissaire aux comptes et la mutuelle, union ou fédération, eu égard à
-l'importance du travail nécessaire à l'accomplissement de la mission légale de contrôle.
+l'importance du travail nécessaire à l'accomplissement de la mission légale de contrôle. 
 
 Le président du tribunal de grande instance du lieu du siège social de la mutuelle, union ou fédération statuant en référé
-est compétent pour connaître de tout litige tenant à la fixation du montant des honoraires des commissaires aux comptes.
+est compétent pour connaître de tout litige tenant à la fixation du montant des honoraires des commissaires aux comptes. 
 
 Les commissaires aux comptes peuvent, en outre, recevoir des rémunérations de la mutuelle, union ou fédération pour des
 missions temporaires, d'objet limité, et entrant dans le cadre de leurs fonctions, dès lors que ces missions leur sont
@@ -2378,16 +2388,16 @@ confiées par l'organisme à la demande d'une autorité publique.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de commerce L822-1, L822-9 à L822-18
-	  - Code de commerce. - art. L822-1 (V)
+	  - Code de commerce - art. L822-1
+	  - Code de commerce - art. L822-9 (V)
 
 	**Cité par**:
 
@@ -2454,9 +2464,9 @@ code de commerce.
 
 ###### Article L114-42
 
-I.-Lorsque le comité d'entreprise ou, s'il n'est pas constitué, les délégués du personnel ont connaissance de faits de nature
-à affecter de manière préoccupante la situation économique de la mutuelle, union ou fédération, ils peuvent demander à un
-dirigeant salarié, dans les conditions définies aux articles L. 422-4 et L. 432-5 du code du travail, de leur fournir des
+I. - Lorsque le comité d'entreprise ou, s'il n'est pas constitué, les délégués du personnel ont connaissance de faits de
+nature à affecter de manière préoccupante la situation économique de la mutuelle, union ou fédération, ils peuvent demander à
+un dirigeant, dans les conditions définies aux articles L. 422-4 et L. 432-5 du code du travail, de leur fournir des
 explications. 
 
 Le dirigeant est tenu d'en informer le président. 
@@ -2467,10 +2477,10 @@ celui-ci confirme le caractère préoccupant de la situation, ils établissent u
 Le rapport est transmis au dirigeant et aux commissaires aux comptes. Le dirigeant est tenu de le remettre au président. Le
 conseil d'administration doit en être saisi dès qu'il est appelé à se réunir. 
 
-II.-Le comité d'entreprise ou à défaut les délégués du personnel communiquent au président de l'Autorité de contrôle
+II. - Le comité d'entreprise ou à défaut les délégués du personnel communiquent au président de l'Autorité de contrôle
 prudentiel et de résolution, tout fait révélant la cessation des paiements de l'organisme. 
 
-III.-Les informations concernant la mutuelle, union ou fédération communiquées en application du présent article ont par
+III. - Les informations concernant la mutuelle, union ou fédération communiquées en application du présent article ont par
 nature un caractère confidentiel. Toute personne qui y a accès en application de ce même article est tenue à leur égard à une
 obligation de discrétion.
 
@@ -2478,7 +2488,12 @@ obligation de discrétion.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
+	**Cite**:
+
+	  - Code du travail - art. L422-4
+	  - Code du travail - art. L432-5
 
 
 ###### Article L114-43
@@ -2580,79 +2595,93 @@ déterminées par décret en Conseil d'Etat.
 
 ###### Article L114-46
 
-Les plans comptables des mutuelles, des unions et des fédérations sont adoptés, après avis du conseil supérieur de la
-mutualité, par l'Autorité des normes comptables conformément aux dispositions de l'article 1er de la loi n° 98-261 du 6 avril
-1998 portant réforme de la réglementation comptable et adaptation du régime de la publicité foncière.
+Les mutuelles, unions et fédérations sont soumises, dans des conditions fixées par décret en Conseil d'Etat, à l'obligation
+d'établir des comptes annuels pour l'ensemble de leurs opérations, y compris celles de leurs succursales établies à
+l'étranger, selon les prescriptions comptables définies par l'Autorité des normes comptables.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°98-261 du 6 avril 1998 - art. 1 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. A114-4 (Ab)
 
 
+###### Article L114-46-1
+
+Sous réserve des dispositions prévues au présent code, les mutuelles et unions sont soumises aux obligations comptables
+figurant aux articles L. 123-12 à L. 123-22 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
+
+###### Article L114-46-2
+
+Les mutuelles, unions et fédérations sont tenues de publier ou mettre à disposition, selon des modalités précisées par décret
+en Conseil d'Etat, leurs comptes annuels, le rapport de gestion, le rapport des commissaires aux comptes sur les comptes
+annuels ainsi que, le cas échéant, les comptes consolidés ou combinés, le rapport sur la gestion du groupe, le rapport des
+commissaires aux comptes sur les comptes consolidés ou combinés.
+
+Lorsqu'une mutuelle, une union ou une fédération refuse de communiquer en tout ou partie des documents demandés au titre de
+l'alinéa précédent, le président du tribunal de grande instance statuant en référé peut, à la demande de la personne
+concernée, ordonner à la mutuelle, union ou fédération, sous astreinte, de lui communiquer ces documents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
+
+
 #### Section 7 : Peines.
 
 ###### Article L114-47
 
-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende : 
 
 1° Le fait, pour tout administrateur d'une mutuelle, union ou fédération régie par le présent code, d'accepter, d'exercer ou
-de conserver les fonctions d'administrateur en violation des obligations prévues à l'article L. 114-28 ;
+de conserver les fonctions d'administrateur en violation des obligations prévues à l'article L. 114-28 ; 
 
-2° Le fait, pour tout président, administrateur et dirigeant salarié d'une mutuelle, union ou fédération régie par le présent
-code, de méconnaître l'une des interdictions visées à l'article L. 114-21 ;
+2° Le fait, pour tout président, administrateur et dirigeant opérationnel  d'une mutuelle, union ou fédération régie par le
+présent code, de méconnaître l'une des interdictions visées à l'article L. 114-21 ; 
 
-3° Le fait, pour tout administrateur ou dirigeant salarié d'une mutuelle ou union régie par le présent code, de recevoir, à
-quelque titre que ce soit, une rémunération liée d'une manière directe ou indirecte au volume des cotisations desdits
-organismes ;
+3° Le fait, pour tout administrateur ou dirigeant opérationnel  d'une mutuelle ou union régie par le présent code, de
+recevoir, à quelque titre que ce soit, une rémunération liée d'une manière directe ou indirecte au volume des cotisations
+desdits organismes ; 
 
-4° Le fait, pour tout président ou dirigeant salarié d'une mutuelle ou union régie par les livres II et III du présent code,
-de méconnaître l'une des dispositions des articles L. 116-1 à L. 116-4.
-
-**Nota:**
-
-Loi 2005-1564 2005-12-15 art. 3 IV : les institutions de prévoyance et les unions d'institutions de prévoyance régies par le
-titre III du livre IX du code de la sécurité sociale et les mutuelles et les unions de mutuelles régies par le code de la
-mutualité mettent leurs statuts en conformité avec les dispositions du présent article avant le 31 décembre 2006.
+4° Le fait, pour tout président ou dirigeant opérationnel  d'une mutuelle ou union régie par les livres II et III du présent
+code, de méconnaître l'une des dispositions des articles L. 116-1 à L. 116-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 3 (V) JORF 16 décembre 2005
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L114-21 (M)
-	  - Code de la mutualité - art. L114-28 (V)
-	  - Code de la mutualité L114-28, L114-21, L116-1 à L116-4
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 
 ###### Article L114-48
 
-Est puni de cinq ans d'emprisonnement et de 375 000 euros d'amende :
+Est puni de cinq ans d'emprisonnement et de 375 000 euros d'amende : 
 
-1° Le fait, pour tout président, administrateur ou dirigeant salarié d'une mutuelle, union ou fédération régie par le présent
-code, de présenter à l'assemblée générale des comptes annuels ne donnant pas, pour chaque exercice, une image fidèle du
-résultat des opérations de l'exercice, de la situation financière et du patrimoine, à l'expiration de cette période, en vue
-de dissimuler la véritable situation de l'organisme ;
+1° Le fait, pour tout président, administrateur ou dirigeant opérationnel  d'une mutuelle, union ou fédération régie par le
+présent code, de présenter à l'assemblée générale des comptes annuels ne donnant pas, pour chaque exercice, une image fidèle
+du résultat des opérations de l'exercice, de la situation financière et du patrimoine, à l'expiration de cette période, en
+vue de dissimuler la véritable situation de l'organisme ; 
 
-2° Le fait, pour tout président, administrateur ou dirigeant salarié d'une mutuelle ou union faisant partie d'un groupe au
-sens de l'article L. 212-7, de publier ou présenter à l'assemblée générale des comptes consolidés ou combinés donnant, pour
-chaque exercice, une image manifestement infidèle des éléments significatifs, pour l'ensemble du groupe, du résultat des
+2° Le fait, pour tout président, administrateur ou dirigeant opérationnel  d'une mutuelle ou union faisant partie d'un groupe
+au sens de l'article L. 212-7, de publier ou présenter à l'assemblée générale des comptes consolidés ou combinés donnant,
+pour chaque exercice, une image manifestement infidèle des éléments significatifs, pour l'ensemble du groupe, du résultat des
 opérations de l'exercice, de la situation financière et de la consistance des actifs et des passifs, à l'expiration de cette
 période, en vue de dissimuler la véritable situation de l'ensemble du groupe.
 
@@ -2660,76 +2689,82 @@ période, en vue de dissimuler la véritable situation de l'ensemble du groupe.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la mutualité - art. L212-7 (M)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 
 ###### Article L114-49
 
-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende : 
 
-1° Le fait, pour tout président, administrateur ou dirigeant salarié d'une mutuelle, union ou fédération régie par le présent
-code, de ne pas établir pour chaque exercice, des comptes annuels et un rapport de gestion ;
+1° Le fait, pour tout président, administrateur ou dirigeant opérationnel d'une mutuelle, union ou fédération régie par le
+présent code, de ne pas établir pour chaque exercice, des comptes annuels et un rapport de gestion ; 
 
-2° Le fait, pour tout président, administrateur ou dirigeant salarié d'une mutuelle ou union faisant partie d'un groupe au
-sens de l'article L. 212-7, de ne pas établir, pour chaque exercice, des comptes consolidés ou combinés et un rapport de
-gestion du groupe, sous réserve des dérogations prévues au même article.
+2° Le fait, pour tout président, administrateur d'une mutuelle ou union, de ne pas établir, pour chaque exercice, des comptes
+consolidés ou combinés conformément à l'article L. 212-7 et un rapport de gestion du groupe conformément à l'article L.
+114-17.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-7 (M)
+	  - Code de la mutualité - art. L114-17 (VD)
+	  - Code de la mutualité - art. L211-7 (VD)
 
 
 ###### Article L114-50
 
-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende : 
 
-1° Le fait, pour tout président, administrateur ou dirigeant salarié d'une mutuelle, union ou fédération régie par le présent
-code, de ne pas soumettre à l'assemblée générale les comptes annuels, les comptes consolidés et le rapport de gestion ;
+1° Le fait, pour tout président, administrateur ou dirigeant opérationnel  d'une mutuelle, union ou fédération régie par le
+présent code, de ne pas soumettre à l'assemblée générale les comptes annuels, les comptes consolidés et le rapport de
+gestion ; 
 
-2° Le fait, pour tout président, administrateur ou dirigeant salarié d'une mutuelle ou union faisant partie d'un groupe au
-sens de l'article L. 212-7, de ne pas soumettre à l'assemblée générale les comptes combinés et un rapport de gestion du
+2° Le fait, pour tout président, administrateur ou dirigeant opérationnel  d'une mutuelle ou union faisant partie d'un groupe
+au sens de l'article L. 212-7, de ne pas soumettre à l'assemblée générale les comptes combinés et un rapport de gestion du
 groupe, sous réserve des dérogations prévues au même article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la mutualité - art. L212-7 (M)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 
 ###### Article L114-51
 
-I. - Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait pour tout président, administrateur ou
-dirigeant salarié d'une mutuelle, union ou fédération régie par le présent code, de ne pas provoquer la désignation de
-commissaires aux comptes ou de ne pas les convoquer à toute assemblée générale.
+I.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait pour tout président, administrateur ou dirigeant
+opérationnel  d'une mutuelle, union ou fédération régie par le présent code, de ne pas provoquer la désignation de
+commissaires aux comptes ou de ne pas les convoquer à toute assemblée générale. 
 
-II. - Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait pour toute personne, soit en son nom
-personnel, soit à titre d'associé dans une société de commissaires aux comptes, d'accepter, d'exercer ou de conserver les
-fonctions de commissaire aux comptes, nonobstant les incompatibilités légales.
+II.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait pour toute personne, soit en son nom personnel,
+soit à titre d'associé dans une société de commissaires aux comptes, d'accepter, d'exercer ou de conserver les fonctions de
+commissaire aux comptes, nonobstant les incompatibilités légales. 
 
-III. - Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait pour tout commissaire aux comptes de donner
-ou confirmer soit en son nom personnel, soit à titre d'associé dans une société de commissaires aux comptes, des informations
+III.-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait pour tout commissaire aux comptes de donner ou
+confirmer soit en son nom personnel, soit à titre d'associé dans une société de commissaires aux comptes, des informations
 mensongères sur la situation d'une mutuelle, union ou fédération régie par le présent code ou de ne pas révéler au procureur
-de la République les faits délictueux dont il a eu connaissance.
+de la République les faits délictueux dont il a eu connaissance. 
 
-Les articles 226-13 et 226-14 du code pénal relatifs au secret professionnel sont applicables aux commissaires aux comptes.
+Les articles 226-13 et 226-14 du code pénal relatifs au secret professionnel sont applicables aux commissaires aux comptes. 
 
-IV. - Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait pour tout président, administrateur,
-dirigeant salarié ou toute personne au service de la mutuelle, de l'union ou de la fédération régie par le présent code, de
+IV.-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait pour tout président, administrateur, dirigeant
+opérationnel  ou toute personne au service de la mutuelle, de l'union ou de la fédération régie par le présent code, de
 mettre obstacle aux vérifications ou contrôles des commissaires aux comptes ou de leur refuser la communication sur place de
 toutes les pièces utiles à l'exercice de leur mission et notamment de tous contrats, livres, documents comptables et
 registres de procès-verbaux.
@@ -2738,30 +2773,34 @@ registres de procès-verbaux.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-14
 
 
 ###### Article L114-52
 
-Les dispositions des articles L. 114-48 à L. 114-51 visant le président, les administrateurs ou le dirigeant salarié de la
-mutuelle, union ou fédération régie par le présent code, sont applicables à toute personne qui, directement ou par personne
-interposée, aura, en fait, exercé la direction, l'administration ou la gestion desdits organismes sous couvert ou aux lieu et
-place de leurs représentants légaux.
+Les dispositions des articles L. 114-48 à L. 114-51 visant le président, les administrateurs ou le dirigeant opérationnel  de
+la mutuelle, union ou fédération régie par le présent code, sont applicables à toute personne qui, directement ou par
+personne interposée, aura, en fait, exercé la direction, l'administration ou la gestion desdits organismes sous couvert ou
+aux lieu et place de leurs représentants légaux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la mutualité L114-48 à L114-51
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
 
 
 ###### Article L114-53
@@ -3129,410 +3168,6 @@ nécessaires à l'appréciation de l'ensemble des caractéristiques de l'opérat
 
 #### Chapitre Ier : Champ d'application et conditions d'activité.
 
-###### Article L211-5
-
-Pour l'application du dernier alinéa du I de l'article L. 111-1, les mutuelles ou les unions concluent avec les organismes
-qui se substituent à elles une convention de substitution, dans des conditions fixées par décret en Conseil d'Etat. 
-
-Les opérations faites en application de la convention de substitution sont considérées, au regard des dispositions du présent
-livre, comme des opérations directes de la mutuelle ou de l'union qui s'est substituée à l'organisme concerné. 
-
-Les organismes qui ont le projet de se substituer à d'autres ne peuvent conclure une telle convention qu'au plus tôt deux
-mois après avoir informé de ce projet l'Autorité de contrôle prudentiel et de résolution. Les organismes qui se sont
-substitués à d'autres sont tenus d'informer l'Autorité de contrôle prudentiel et de résolution au plus tard deux mois avant
-la modification de la convention et au plus tard six mois avant sa résiliation. 
-
-A compter de l'entrée en vigueur de la convention, les mutuelles et unions auxquelles un autre organisme s'est substitué ne
-sont pas soumises aux dispositions des articles L. 212-1, 
-L. 212-3 et L. 212-15 à L. 212-22. 
-
-Elles sont également dispensées de nommer un commissaire aux comptes lorsque la mutuelle ou l'union avec laquelle elles ont
-passé convention établit leurs comptes annuels. Dans ce cas, le commissaire aux comptes de l'organisme qui s'est substitué à
-elles certifie les comptes annuels. 
-
-Toute modification ou résiliation de la convention de substitution est soumise à l'autorisation préalable de l'Autorité de
-contrôle prudentiel et de résolution. 
-
-Au plus tard deux mois avant l'expiration de la convention de substitution, les mutuelles et les unions sont tenues de
-justifier auprès de l'Autorité de contrôle prudentiel et de résolution : 
-
-a) Soit qu'elles ont prolongé la convention ou qu'elles en ont conclu une nouvelle ; 
-
-b) Soit qu'elles ont obtenu un agrément pour exercer à nouveau les activités au titre desquelles elles avaient obtenu une
-dispense d'agrément, ou pour lesquelles a été constatée la caducité de l'agrément dont elles disposaient ; 
-
-c) Soit enfin qu'elles ont obtenu l'autorisation de transférer leur portefeuille dans les conditions prévues à l'article L.
-212-11. 
-
-Si elles ne peuvent apporter l'une des justifications mentionnées aux a et b ci-dessus, elles ne peuvent passer de nouveaux
-contrats ou en renouveler, à compter de la date de l'expiration de la convention. A compter de cette même date, elles sont
-passibles des mesures prévues aux articles L. 612-33 et L. 612-34 et des sanctions prévues à l'article L. 612-39 du code
-monétaire et financier.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Rapport - art. 5 (V)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 45 (Ab)
-	  - Décret n°2007-1373 du 19 septembre 2007 - art. 3 (V)
-	  - Décret n°2008-468 du 19 mai 2008 - art. 9 (V)
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 23 (V)
-	  - Décret n°2010-754 du 5 juillet 2010 - art. 2 (V)
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 48 (V)
-	  - Code de la mutualité - art. A114-2 (M)
-	  - Code de la mutualité - art. L114-44 (V)
-	  - Code de la mutualité - art. L211-10 (V)
-	  - Code de la mutualité - art. L211-4 (V)
-	  - Code de la mutualité - art. L510-2 (Ab)
-	  - Code de la mutualité - art. R211-12 (VD)
-	  - Code de la mutualité - art. R211-21 (V)
-	  - Code de la mutualité - art. R211-22 (V)
-	  - Code de la mutualité - art. R211-23 (VD)
-	  - Code de la mutualité - art. R211-26 (V)
-	  - Code de la mutualité - art. R212-1 (VD)
-	  - Code de la mutualité - art. R414-3 (V)
-	  - Code de la mutualité - art. R432-1 (VD)
-	  - Code de la mutualité - art. R432-13 (VD)
-	  - Code des assurances - art. R144-23 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 42
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-33
-	  - Code monétaire et financier - art. L612-34 (V)
-	  - Code monétaire et financier - art. L612-39
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. L212-1
-	  - Code de la mutualité - art. L212-11
-	  - Code de la mutualité - art. L212-15
-	  - Code de la mutualité - art. L212-3
-
-
-###### Article L211-7
-
-Les mutuelles et unions soumises aux dispositions du présent livre ne peuvent commencer leurs opérations qu'après avoir
-obtenu un agrément délivré par l'Autorité de contrôle prudentiel et de résolution, après avis du Conseil supérieur de la
-mutualité mentionné à l'article L. 411-1. 
-
-L'agrément est accordé, sur demande de la mutuelle ou de l'union, pour les opérations d'une ou plusieurs branches ou sous-
-branches d'activité. La mutuelle ou l'union ne peut pratiquer que les opérations pour lesquelles elle est agréée. 
-
-Les dispositions du présent article s'appliquent en cas d'extension de l'activité de l'organisme ou de modification
-substantielle de ses conditions d'exercice. 
-
-Les opérations d'acceptation en réassurance ne sont pas soumises à l'agrément. 
-
-Avant l'octroi d'un agrément à une mutuelle ou union régie par le livre II du présent code qui est : 
-
-a) Soit un organisme subordonné à un organisme assureur ou de réassurance agréé dans un autre Etat membre ou partie à
-l'accord sur l'Espace économique européen ; 
-
-b) Soit un organisme subordonné à l'organisme de référence d'un organisme assureur ou de réassurance agréé dans un autre Etat
-membre ou partie à l'accord sur l'Espace économique européen ; 
-
-c) Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle également un organisme assureur ou de
-réassurance agréé dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen, les autorités compétentes
-de l'autre Etat partie à l'accord sur l'Espace économique européen concerné sont consultées.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
-	  - Décret n°2002-429 du 29 mars 2002 - art. 3 (Ab)
-	  - Loi n°2003-775 du 21 août 2003 - art. 84 (V)
-	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 7 (Ab)
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Arrêté du 3 novembre 2014 - art. 5 (V)
-	  - Code de la mutualité - art. Annexe à l'article A114-4 (Ab)
-	  - Code de la mutualité - art. L114-49 (MMN)
-	  - Code de la mutualité - art. L211-8 (V)
-	  - Code de la mutualité - art. L211-9 (V)
-	  - Code de la mutualité - art. L212-15 (VD)
-	  - Code de la mutualité - art. L212-8 (Ab)
-	  - Code de la mutualité - art. L213-2 (VD)
-	  - Code de la mutualité - art. L222-5 (VD)
-	  - Code de la mutualité - art. L411-1 (V)
-	  - Code de la mutualité - art. L510-3 (Ab)
-	  - Code de la mutualité - art. R211-11 (VT)
-	  - Code de la mutualité - art. R211-12 (VD)
-	  - Code de la mutualité - art. R211-19 (VD)
-	  - Code de la mutualité - art. R211-2 (VD)
-	  - Code de la mutualité - art. R211-28-1 (VT)
-	  - Code de la mutualité - art. R211-7 (Ab)
-	  - Code de la mutualité - art. R212-10 (VD)
-	  - Code de la mutualité - art. R414-3 (V)
-	  - Code de la mutualité - art. R432-1 (VD)
-	  - Code de la mutualité - art. R432-13 (VD)
-	  - Code de la mutualité - art. R510-4 (VT)
-	  - Code de la mutualité - art. R510-5 (VT)
-	  - Code de la mutualité - art. R510-7 (Ab)
-	  - Code de la mutualité - art. R510-9 (V)
-	  - Code monétaire et financier - art. L517-2 (V)
-	  - Code monétaire et financier - art. L612-20 (VT)
-	  - Code rural et de la pêche maritime - art. R752-39 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-
-###### Article L211-7-1
-
-Lorsque l'Autorité de contrôle prudentiel et de résolution se prononce sur une demande d'agrément présentée par une mutuelle
-ou union qui est soit : 
-
-a) Un organisme subordonné à un établissement de crédit agréé ou à une entreprise d'investissement agréée dans un Etat membre
-ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
-
-b) Un organisme subordonné à l'organisme de référence d'une entreprise d'investissement agréée ou à un établissement de
-crédit agréé dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
-
-c) Contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'investissement agréée ou un
-établissement de crédit agréé dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen,
-elle consulte l'autorité chargée de la surveillance des établissements de crédit ou des entreprises d'investissement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R211-7-1 (VT)
-
-
-###### Article L211-7-2
-
-I.-Les mutuelles et unions mentionnées au II de l'article L. 111-1-1, qui ont pour activité exclusive la réassurance et dont
-le siège social est situé en France, ne peuvent commencer leurs opérations qu'après avoir obtenu un agrément délivré par
-l'autorité administrative , après avis du Conseil supérieur de la mutualité. 
-
-Elles ne peuvent pratiquer que les opérations pour lesquelles elles sont agréées.
-
-L'agrément est accordé sur demande de la mutuelle ou de l'union pour la réassurance des opérations relevant soit du b du 1°
-du I, soit des a, c, d et e du 1° du I de l'article L. 111-1, soit pour la réassurance de l'ensemble de ces opérations. 
-
-II.-Avant l'octroi d'un agrément à une mutuelle ou union ayant pour activité exclusive la réassurance, qui est : 
-
-1° Soit un organisme subordonné à un organisme assureur ou de réassurance agréé dans un autre Etat membre de la Communauté
-européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
-
-2° Soit un organisme subordonné à l'organisme de référence d'un organisme assureur ou de réassurance agréé dans un autre Etat
-membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
-
-3° Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle également un organisme assureur ou de
-réassurance agréé dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen, 
-
-l'autorité administrative consulte les autorités compétentes de l'autre Etat membre de la Communauté européenne ou de l'autre
-Etat partie à l'accord sur l'Espace économique européen concerné.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 14 (V)
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Arrêté du 3 novembre 2014 - art. 5 (V)
-	  - Code de la mutualité - art. L211-8 (V)
-	  - Code de la mutualité - art. L211-9 (V)
-	  - Code de la mutualité - art. L212-14 (VD)
-	  - Code de la mutualité - art. L212-15-1 (VD)
-	  - Code de la mutualité - art. L411-1 (V)
-	  - Code de la mutualité - art. L510-3 (Ab)
-	  - Code de la mutualité - art. R211-11 (VT)
-	  - Code de la mutualité - art. R211-12 (VD)
-	  - Code de la mutualité - art. R211-28-2 (VT)
-	  - Code de la mutualité - art. R211-5-1 (VD)
-	  - Code de la mutualité - art. R212-20-1 (VT)
-	  - Code de la mutualité - art. R212-20-2 (VT)
-	  - Code de la mutualité - art. R212-59-2 (V)
-	  - Code de la mutualité - art. R510-4 (VT)
-	  - Code de la mutualité - art. R510-5 (VT)
-	  - Code de la mutualité - art. R510-7 (Ab)
-	  - Code de la mutualité - art. R510-9 (V)
-	  - Code monétaire et financier - art. L517-2 (V)
-	  - Code monétaire et financier - art. L612-43 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2010-1249 du 22 octobre 2010 - art. 12 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. L111-1-1
-
-
-###### Article L211-8
-
-Pour accorder l'agrément prévu à l'article L. 211-7 ou L. 211-7-2, l'Autorité de contrôle prudentiel et de résolution
-s'assure que les éléments du programme d'activité établi selon les principes définis par arrêté du ministre chargé de la
-mutualité sont adaptés à la nature des activités que l'organisme se propose d'exercer. 
-
-Elle s'assure également que les moyens administratifs, notamment d'encadrement, et les moyens techniques et financiers dont
-la mise en oeuvre est proposée sont compatibles avec le programme d'activité de la mutuelle ou de l'union. 
-
-Elle vérifie le respect des règles relatives à l'éligibilité des administrateurs édictées par le présent code. 
-
-Elle vérifie l'honorabilité, la compétence et l'expérience des membres du conseil d'administration et des dirigeants salariés
-mentionnés à l'article L. 114-19, dans les conditions définies à l'article L. 114-21. Elle prend en compte le niveau et les
-modalités de constitution de son fonds de garantie. 
-
-L'Autorité de contrôle prudentiel et de résolution refuse l'agrément lorsque l'organisme ne satisfait pas aux obligations
-législatives et réglementaires, notamment prudentielles, prévues par le présent code ou lorsque les caractéristiques du
-projet ou la qualité des dirigeants lui paraissent de nature à mettre en péril la capacité de l'organisme à respecter ses
-engagements à l'égard des membres participants. 
-
-L'Autorité de contrôle prudentiel et de résolution refuse l'agrément, lorsque l'exercice de la mission de surveillance de la
-mutuelle ou de l'union est susceptible d'être entravé, soit par l'existence de relations de contrôle direct ou indirect entre
-l'organisme requérant et d'autres personnes physiques ou morales, soit par des dispositions législatives, réglementaires ou
-administratives d'un Etat qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique
-européen, et dont relèvent une ou plusieurs de ces personnes. 
-
-L'arrêté mentionné au premier alinéa fixe la liste des documents à produire à l'appui d'une demande d'agrément.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 14 (V)
-	  - Code de la mutualité - art. L211-10 (MMN)
-	  - Code de la mutualité - art. L211-9 (MMN)
-	  - Code de la mutualité - art. L212-8 (Ab)
-	  - Code de la mutualité - art. L411-1 (V)
-	  - Code de la mutualité - art. L510-3 (Ab)
-	  - Code de la mutualité - art. R211-10 (VT)
-	  - Code de la mutualité - art. R211-19 (V)
-	  - Code de la mutualité - art. R211-9 (V)
-	  - Code de la mutualité - art. R212-1 (VD)
-	  - Code des assurances - art. L321-10 (V)
-	  - Code des assurances - art. L324-1-1 (VD)
-	  - Code des assurances - art. R336-6 (VD)
-	  - Code monétaire et financier - art. L517-2 (V)
-	  - Code monétaire et financier - art. L612-20 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 39
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L114-19 (V)
-	  - Code de la mutualité - art. L114-21
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. L211-7-2
-
-
-###### Article L211-9
-
-L'agrément prévu à l'article L. 211-7 et à l'article L. 211-7-2 peut être retiré par l'Autorité de contrôle prudentiel et de
-résolution qui l'a délivré lorsque la mutuelle ou l'union : 
-
-a) Renonce expressément à l'agrément, n'en fait pas usage dans un délai d'un an ou a cessé d'exercer son activité pendant une
-période de six mois ; 
-
-b) Ne satisfait plus aux conditions d'agrément définies à l'article L. 211-8.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L211-10 (V)
-	  - Code de la mutualité - art. R211-10 (VT)
-	  - Code de la mutualité - art. R211-13 (VD)
-	  - Code de la mutualité - art. R211-14 (VD)
-	  - Code de la mutualité - art. R211-17 (VT)
-	  - Code de la mutualité - art. R414-3 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. L211-8
-
-
-###### Article L211-10
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, et notamment : 
-
-1° Les conditions dans lesquelles une mutuelle ou une union qui a conclu une convention de substitution conformément aux
-dispositions du premier alinéa de l'article L. 211-5 en informe ses membres et peut procéder à sa résiliation ou à son
-renouvellement ; 
-
-2° Les conditions dans lesquelles l'Autorité de contrôle prudentiel et de résolution délivre l'agrément en application de
-l'article L. 211-8 et peut le retirer conformément à l'article L. 211-9 ; 
-
-3° Les exigences supplémentaires qu'il convient d'instaurer pour l'application des dispositions du présent chapitre aux
-mutuelles et aux unions pratiquant à la fois des opérations mentionnées aux a et b du 1° du I de l'article L. 111-1, en vue
-notamment d'assurer une gestion distincte, pour la protection des intérêts de leurs membres participants et bénéficiaires, de
-chacune des deux catégories d'opérations ; 
-
-4° Les conditions du contrôle interne des mutuelles et unions régies par les dispositions du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1 (V)
-	  - Code de la mutualité - art. L211-8 (V)
-	  - Code de la mutualité - art. L211-9 (V)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L114-21 (V)
-	  - Code de la mutualité - art. L211-5 (V)
-	  - Code de la sécurité sociale. - art. L931-16 (VD)
-
-
-###### Article L211-11
-
-Les mutuelles et unions régies par le présent code qui réalisent des opérations relatives aux remboursements de frais de
-soins doivent faire figurer dans les documents de communication à leurs adhérents ou destinés à faire leur publicité les
-conditions de prise en charge, de façon simple et normalisée, chiffrée en euros, pour les frais de soins parmi les plus
-courants ou pour ceux pour lesquels le reste à charge est le plus important, selon des modalités précisées par arrêté du
-ministre chargé de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 64
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
-	  - Code de commerce - art. L820-1 (V)
-	  - Code de la mutualité - art. D223-5 (V)
-	  - Code de la sécurité sociale. - art. L931-16 (VD)
-	  - Code des assurances - art. R341-9 (VD)
-
-
 ##### Section 1 : Dispositions générales 
 
 ##### Sous-section 1 : Conditions d'exercice 
@@ -3630,6 +3265,90 @@ contrats régissant ce type d'opérations.
 	  - Code de la mutualité - art. L211-5
 
 
+###### Article L211-5
+
+Pour l'application du dernier alinéa du I de l'article L. 111-1, les mutuelles ou les unions concluent avec les organismes
+qui se substituent à elles une convention de substitution, dans des conditions fixées par décret en Conseil d'Etat. 
+
+Les opérations faites en application de la convention de substitution sont considérées, au regard des dispositions du présent
+livre, comme des opérations directes de la mutuelle ou de l'union qui s'est substituée à l'organisme concerné. 
+
+Les organismes qui ont le projet de se substituer à d'autres ne peuvent conclure une telle convention qu'au plus tôt deux
+mois après avoir informé de ce projet l'Autorité de contrôle prudentiel et de résolution. Les organismes qui se sont
+substitués à d'autres sont tenus d'informer l'Autorité de contrôle prudentiel et de résolution au plus tard deux mois avant
+la modification de la convention et au plus tard six mois avant sa résiliation. 
+
+A compter de l'entrée en vigueur de la convention, les mutuelles et unions auxquelles un autre organisme s'est substitué ne
+sont soumises, ni aux dispositions de l'article L. 212-1, sauf si elles relèvent du régime dit " Solvabilité II " au sens de
+l'article L. 211-10, ni à celles des articles L. 212-15 à L. 212-16. 
+
+Elles sont également dispensées de nommer un commissaire aux comptes lorsque la mutuelle ou l'union avec laquelle elles ont
+passé convention établit leurs comptes annuels. Dans ce cas, le commissaire aux comptes de l'organisme qui s'est substitué à
+elles certifie les comptes annuels. 
+
+Toute modification ou résiliation de la convention de substitution est soumise à l'autorisation préalable de l'Autorité de
+contrôle prudentiel et de résolution. 
+
+Au plus tard deux mois avant l'expiration de la convention de substitution, les mutuelles et les unions sont tenues de
+justifier auprès de l'Autorité de contrôle prudentiel et de résolution : 
+
+a) Soit qu'elles ont prolongé la convention ou qu'elles en ont conclu une nouvelle ; 
+
+b) Soit qu'elles ont obtenu un agrément pour exercer à nouveau les activités au titre desquelles elles avaient obtenu une
+dispense d'agrément, ou pour lesquelles a été constatée la caducité de l'agrément dont elles disposaient ; 
+
+c) Soit enfin qu'elles ont obtenu l'autorisation de transférer leur portefeuille dans les conditions prévues à l'article L.
+212-11. 
+
+Si elles ne peuvent apporter l'une des justifications mentionnées aux a et b ci-dessus, elles ne peuvent passer de nouveaux
+contrats ou en renouveler, à compter de la date de l'expiration de la convention. A compter de cette même date, elles sont
+passibles des mesures prévues aux articles L. 612-33 et L. 612-34 et des sanctions prévues à l'article L. 612-39 du code
+monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Rapport - art. 5 (V)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 45 (Ab)
+	  - Décret n°2007-1373 du 19 septembre 2007 - art. 3 (V)
+	  - Décret n°2008-468 du 19 mai 2008 - art. 9 (V)
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 23 (V)
+	  - Décret n°2010-754 du 5 juillet 2010 - art. 2 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 48 (V)
+	  - Code de la mutualité - art. A114-2 (M)
+	  - Code de la mutualité - art. L114-44 (V)
+	  - Code de la mutualité - art. L211-10 (V)
+	  - Code de la mutualité - art. L211-11 (VD)
+	  - Code de la mutualité - art. L211-4 (V)
+	  - Code de la mutualité - art. L510-2 (Ab)
+	  - Code de la mutualité - art. R211-12 (VD)
+	  - Code de la mutualité - art. R211-21 (V)
+	  - Code de la mutualité - art. R211-22 (V)
+	  - Code de la mutualité - art. R211-23 (VD)
+	  - Code de la mutualité - art. R211-26 (V)
+	  - Code de la mutualité - art. R212-1 (VD)
+	  - Code de la mutualité - art. R414-3 (V)
+	  - Code de la mutualité - art. R432-1 (VD)
+	  - Code de la mutualité - art. R432-13 (VD)
+	  - Code des assurances - art. R144-23 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-33
+	  - Code monétaire et financier - art. L612-34
+	  - Code monétaire et financier - art. L612-39
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L212-1 (VD)
+	  - Code de la mutualité - art. L212-11
+	  - Code de la mutualité - art. L212-15 (VD)
+
+
 ###### Article L211-6
 
 La direction effective des mutuelles et des unions doit être exercée depuis le territoire de la République française, à
@@ -3650,21 +3369,481 @@ l'exclusion de la Nouvelle-Calédonie et de la Polynésie française.
 	  - Code de la mutualité - art. L212-13 (V)
 
 
+###### Article L211-7
+
+Les mutuelles et unions régies par le présent code qui réalisent des opérations relatives aux remboursements de frais de
+soins doivent faire figurer dans les documents de communication à leurs adhérents ou destinés à faire leur publicité les
+conditions de prise en charge, de façon simple et normalisée, chiffrée en euros, pour les frais de soins parmi les plus
+courants ou pour ceux pour lesquels le reste à charge est le plus important, selon des modalités précisées par arrêté du
+ministre chargé de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
+	  - Décret n°2002-429 du 29 mars 2002 - art. 3 (Ab)
+	  - Loi n°2003-775 du 21 août 2003 - art. 84 (V)
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 7 (Ab)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 3 novembre 2014 - art. 5 (V)
+	  - Code de la mutualité - art. Annexe à l'article A114-4 (Ab)
+	  - Code de la mutualité - art. L114-49 (MMN)
+	  - Code de la mutualité - art. L211-8 (V)
+	  - Code de la mutualité - art. L211-9 (V)
+	  - Code de la mutualité - art. L212-15 (VD)
+	  - Code de la mutualité - art. L212-8 (Ab)
+	  - Code de la mutualité - art. L213-2 (VD)
+	  - Code de la mutualité - art. L222-5 (VD)
+	  - Code de la mutualité - art. L411-1 (V)
+	  - Code de la mutualité - art. L510-3 (Ab)
+	  - Code de la mutualité - art. R211-11 (VT)
+	  - Code de la mutualité - art. R211-12 (VD)
+	  - Code de la mutualité - art. R211-19 (VD)
+	  - Code de la mutualité - art. R211-2 (VD)
+	  - Code de la mutualité - art. R211-28-1 (VT)
+	  - Code de la mutualité - art. R211-7 (Ab)
+	  - Code de la mutualité - art. R212-10 (VD)
+	  - Code de la mutualité - art. R414-3 (V)
+	  - Code de la mutualité - art. R432-1 (VD)
+	  - Code de la mutualité - art. R432-13 (VD)
+	  - Code de la mutualité - art. R510-4 (VT)
+	  - Code de la mutualité - art. R510-5 (VT)
+	  - Code de la mutualité - art. R510-7 (Ab)
+	  - Code de la mutualité - art. R510-9 (V)
+	  - Code monétaire et financier - art. L517-2 (V)
+	  - Code monétaire et financier - art. L612-20 (VT)
+	  - Code rural et de la pêche maritime - art. R752-39 (VD)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+
+##### Sous-section 2 : Agréments 
+
+###### Article L211-8
+
+Les mutuelles et unions mentionnées au 1° du I de l'article L. 111-1 ne peuvent commencer leurs opérations qu'après avoir
+obtenu un agrément délivré par l'Autorité de contrôle prudentiel et de résolution, dans les conditions définies à l'article
+L. 321-10 du code des assurances.
+
+Pour l'application de l'alinéa précédent, il y a lieu d'entendre : "mutuelles et unions" là où est mentionné dans le code des
+assurances : "entreprises ou entreprises d'assurance", les mutuelles et unions mentionnées à l'article L. 211-10 sont
+assimilées à des entreprises d'assurance mentionnées à l'article L. 310-3-1 du code des assurances, la référence à l'article
+L. 322-2 du code des assurances est remplacée par la référence à l'article L. 114-21 du code de la mutualité, la référence à
+l'article L. 322-3-2 du code des assurances est remplacée par la référence à l'article L. 211-13 du code de la mutualité, la
+référence à l'article L. 324-1 du code des assurances est remplacée par la référence à l'article L. 212-11 du code de la
+mutualité.
+
+Les dispositions du présent article s'appliquent en cas d'extension de l'activité de l'organisme ou de modification
+substantielle de ses conditions d'exercice.
+
+Les opérations d'acceptation en réassurance ne sont pas soumises à l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 14 (V)
+	  - Code de la mutualité - art. L211-10 (MMN)
+	  - Code de la mutualité - art. L211-9 (MMN)
+	  - Code de la mutualité - art. L212-8 (Ab)
+	  - Code de la mutualité - art. L411-1 (V)
+	  - Code de la mutualité - art. L510-3 (Ab)
+	  - Code de la mutualité - art. R211-10 (VT)
+	  - Code de la mutualité - art. R211-19 (V)
+	  - Code de la mutualité - art. R211-9 (V)
+	  - Code de la mutualité - art. R212-1 (VD)
+	  - Code des assurances - art. L321-10 (V)
+	  - Code des assurances - art. L324-1-1 (VD)
+	  - Code des assurances - art. R336-6 (VD)
+	  - Code monétaire et financier - art. L517-2 (V)
+	  - Code monétaire et financier - art. L612-20 (VD)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code des assurances
+	  - Code des assurances - art. L310-3-1
+	  - Code des assurances - art. L322-2 (VD)
+	  - Code des assurances - art. L322-3-2
+	  - Code des assurances - art. L324-1
+	  - Code de la mutualité - art. L114-21
+	  - Code de la mutualité - art. L212-11
+
+
+###### Article L211-8-1
+
+Les mutuelles et unions mentionnées au II de l'article L. 111-1-1, qui ont pour activité exclusive la réassurance et dont le
+siège social est situé en France, ne peuvent commencer leurs opérations qu'après avoir obtenu un agrément délivré par
+l'Autorité de contrôle prudentiel et de résolution dans les conditions définies à l'article L. 321-10-1 du code des
+assurances.
+
+Pour l'application du précédent alinéa, la référence à l'article L. 324-1-2 du code des assurances est remplacée par la
+référence à l'article L. 212-11-1 du code de la mutualité, la référence à l'article L. 322-2 du code des assurances est
+remplacée par la référence à l'article L. 114-21 du code de la mutualité, la référence à l'article L. 322-3-2 du code des
+assurances est remplacée par la référence à l'article L. 211-13 du code de la mutualité, et il y a lieu d'entendre :
+“mutuelles ou leurs unions exerçant une activité de réassurance” là où est mentionné : “entreprise de réassurance”, et
+“mutuelles ou leurs unions” là où est mentionné : “entreprise”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code des assurances - art. L322-2
+	  - Code des assurances - art. L322-3-2
+	  - Code des assurances - art. L324-1-2
+	  - Code de la mutualité - art. L114-21
+	  - Code de la mutualité - art. L212-11-1
+
+	**Cité par**:
+
+	  - Code des assurances - art. L321-10-1 (V)
+
+
+###### Article L211-8-2
+
+Les mutuelles et unions soumises aux dispositions du présent livre peuvent pratiquer des opérations de libre prestation de
+service ou en libre établissement dans les conditions fixées par les articles L. 321-11 et L. 321-11-1 du code des
+assurances. Les mutuelles ou unions mentionnées à l'article L. 211-10 sont assimilées aux entreprises mentionnées à l'article
+L. 310-3-1 du code des assurances et il y a lieu d'entendre : “les mutuelles ou leurs unions exerçant une activité
+d'assurance directe ou de réassurance” là ou est mentionné : “les entreprise d'assurance ou de réassurance.”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3-1
+	  - Code des assurances - art. L321-11-1
+
+
+###### Article L211-9
+
+L'agrément prévu aux articles L. 211-8 et L. 211-8-1 est déclaré caduc par l'Autorité de contrôle prudentiel et de résolution
+dans les conditions définies aux articles L. 321-10-2 et L. 321-10-3 du code des assurances. 
+
+Sans préjudice des dispositions des 6° et 7° de l'article L. 612-39 du code monétaire et financier, cet agrément peut être
+retiré par l'Autorité de contrôle prudentiel et de résolution dans les conditions définies au chapitre V du titre II du livre
+III du code des assurances. 
+
+Pour l'application des alinéas précédents la référence à l'article L. 324-1 du code des assurances est remplacée par la
+référence à l'article L. 212-11 du code de la mutualité, la référence à l'article L. 324-1-2 du code des assurances est
+remplacée par la référence à l'article L. 212-11-1 du code de la mutualité, la référence à l'article L. 322-3-2 du code des
+assurances est remplacée par la référence à l'article L. 211-13 du code de la mutualité. 
+
+Pour l'application de ces dispositions, il y a lieu d'entendre : " les mutuelles ou leurs unions exerçant une activité
+d'assurance directe ou de réassurance " là où est mentionné dans le code des assurances : " entreprise d'assurance ou de
+réassurance ", " mutuelles ou unions exerçant une activité d'assurance directe " là où est mentionné dans le code des
+assurances : " entreprise d'assurance ", " les règlements ou les contrats " là où est mentionné dans le code des assurances :
+" contrats ", " les membres participants et bénéficiaires " là où est mentionné dans le code des assurances : " assurés et
+tiers bénéficiaires "
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-39
+	  - Code des assurances - art. L321-10-2
+	  - Code des assurances - art. L321-10-3
+	  - Code des assurances - art. L322-3-2
+	  - Code des assurances - art. L324-1
+	  - Code des assurances - art. L324-1-2 (VD)
+	  - Code de la mutualité - art. L211-13 (VD)
+	  - Code de la mutualité - art. L211-8 (VD)
+	  - Code de la mutualité - art. L212-11 (VD)
+	  - Code de la mutualité - art. L212-11-1 (VD)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L211-10 (V)
+	  - Code de la mutualité - art. R211-10 (VT)
+	  - Code de la mutualité - art. R211-13 (VD)
+	  - Code de la mutualité - art. R211-14 (VD)
+	  - Code de la mutualité - art. R211-17 (VT)
+	  - Code de la mutualité - art. R414-3 (V)
+
+
+##### Sous-section 3 : Champ d'application du régime dit “Solvabilité II”
+
+###### Article L211-10
+
+Les mutuelles ou unions relevant du régime dit " Solvabilité II " sont : 
+
+1° Les mutuelles ou unions réalisant des opérations relevant du 1° du I de l'article L. 111-1 qui ont rempli pendant trois
+exercices annuels consécutifs à compter du 1er janvier 2012 l'une des conditions suivantes : 
+
+a) L'encaissement annuel de cotisations brutes émises par la mutuelle ou l'union dépasse 5 millions d'euros ; 
+
+b) Le total des provisions techniques brutes au sens défini au titre IV du livre III du code des assurances de cessions en
+réassurance ou à des véhicules de titrisation de la mutuelle ou l'union dépasse 25 millions d'euros ; 
+
+c) La mutuelle ou l'union appartient à un groupe défini à l'article L. 356-1 du code des assurances ; 
+
+d) L'activité de la mutuelle ou l'union comporte des opérations de réassurance qui : 
+
+i) Dépassent 500 000 € d'encaissement de cotisations brutes émises ou 2,5 millions d'euros de provisions techniques au sens
+défini au titre IV du livre III du code des assurances brutes de cessions en réassurance ou à des véhicules de titrisation ;
+ou 
+
+ii) Représentent plus de 10 % de son encaissement de cotisations brutes émises ou de ses provisions techniques au sens défini
+au titre IV du livre III du code des assurances brutes de cessions en réassurance ou à des véhicules de titrisation ; 
+
+2° Les mutuelles ou unions réalisant des opérations relevant du 1° du I de l'article L. 111-1 qui, bien que ne satisfaisant
+pas aux conditions énoncées au 1°, disposent de l'agrément mentionné à l'article L. 211-8 pour des opérations de caution ; 
+
+3° Les mutuelles et unions mentionnées au II de l'article L. 111-1-1 ; 
+
+4° Les mutuelles ou unions sollicitant un agrément mentionné aux articles L. 211-8 en vue d'exercer des activités d'assurance
+ou de réassurance dont l'encaissement annuel des cotisations brutes émises ou le montant brut des provisions techniques au
+sens défini au titre IV du livre III du code des assurances brutes de cessions en réassurance ou à des véhicules de
+titrisation, dépasseront selon les prévisions, un des montants énoncés au 1° au cours des cinq exercices annuels suivants ; 
+
+5° Les mutuelles ou unions qui, bien que ne satisfaisant à aucune des conditions énoncées aux 1°, 2°, 3° et 4°, exercent les
+activités prévues à l'article L. 321-11 du code des assurances ; 
+
+6° Les mutuelles ou unions qui réassurent intégralement ou se substituent aux mutuelles et unions visées par le 3° de
+l'article L. 211-11.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code des assurances - art. L321-11 (VT)
+	  - Code des assurances - art. L356-1
+	  - Code de la mutualité - art. L111-1 (V)
+	  - Code de la mutualité - art. L111-1-1 (VD)
+	  - Code de la mutualité - art. L211-1 (V)
+	  - Code de la mutualité - art. L211-8 (VD)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L114-21 (V)
+	  - Code de la mutualité - art. L211-5 (V)
+	  - Code de la sécurité sociale. - art. L931-16 (VD)
+
+
+###### Article L211-11
+
+Les mutuelles ou unions ne relevant pas du régime dit "Solvabilité II" sont :
+
+1° Les mutuelles et unions qui ne sont pas des mutuelles ou unions relevant du régime dit "Solvabilité II" au sens de
+l'article L. 211-10 ;
+
+2° Les mutuelles et unions qui cessent de relever du régime dit "Solvabilité II" après que l'Autorité de contrôle prudentiel
+et de résolution a vérifié que :
+
+a) Aucune des conditions énoncées au 1° de l'article L. 211-10 n'a été remplie au cours des trois derniers exercices annuels
+consécutifs ;
+
+b) Aucune des conditions énoncées au 1° de l'article L. 211-10 ne sera, selon ses prévisions, remplie au cours des cinq
+exercices annuels suivants ;
+
+3° Les mutuelles et unions réalisant au moins l'une des opérations mentionnées aux a, c, d ou e du 1° du I de l'article L.
+111-1, qui sont réassurées intégralement par une autre mutuelle ou union ou auxquelles une autre mutuelle ou union se
+substitue intégralement en application de l'article L. 211-5 du code de la mutualité pour leurs activités d'assurance non-
+vie ;
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
+	  - Code de commerce - art. L820-1 (V)
+	  - Code de la mutualité - art. D223-5 (V)
+	  - Code de la sécurité sociale. - art. L931-16 (VD)
+	  - Code des assurances - art. R341-9 (VD)
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L211-5 (VD)
+
+
+##### Section 2 : Système de gouvernance applicable aux mutuelles et unions relevant du régime dit “Solvabilité II”
+
+###### Article L211-12
+
+Les mutuelles et unions mentionnées à l'article L. 211-10 mettent en place un système de gouvernance garantissant une gestion
+saine et prudente de leur activité et faisant l'objet d'un réexamen interne régulier. Ce système de gouvernance repose sur
+une séparation claire des responsabilités et comprend un dispositif efficace de transmission des informations. Il est
+proportionné à la nature, à l'ampleur et à la complexité des opérations de la mutuelle ou de l'union.
+
+Ce système de gouvernance comprend les fonctions clés suivantes : la fonction de gestion des risques, la fonction de
+vérification de la conformité, la fonction d'audit interne et la fonction actuarielle.
+
+Les mutuelles et unions élaborent des politiques écrites relatives au moins à la gestion des risques, au contrôle interne, à
+l'audit interne et, le cas échéant, à l'externalisation mentionnée au 13° de l'article L. 310-3 du code des assurances. Elles
+veillent à ce que ces politiques soient mises en œuvre.
+
+Elles prennent des dispositions permettant d'assurer la continuité et la régularité dans l'exercice de leurs activités, ce
+qui inclut l'élaboration de plans d'urgence. Elles mettent en œuvre, à cette fin, des dispositifs, des ressources et des
+procédures appropriés et proportionnés.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-3
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L114-21 (V)
+
+
+###### Article L211-13
+
+La direction effective des mutuelles ou unions mentionnées à l'article L. 211-10 est assurée par au moins deux personnes qui
+doivent satisfaire aux conditions prévues à l'article L. 114-21.
+
+Ces mutuelles ou unions désignent en leur sein, ou le cas échéant au sein du groupe au sens de l'article L. 356-1 du code des
+assurances, la personne responsable de chacune des fonctions clés mentionnées à l'article L. 211-12. Placés sous l'autorité
+du dirigeant opérationnel mentionné à l'article L. 211-14, ces responsables exercent leurs fonctions dans les conditions
+définies par la mutuelle ou l'union.
+
+Le dirigeant opérationnel mentionné à l'article L. 211-14 soumet à l'approbation du conseil d'administration des procédures
+définissant les conditions selon lesquelles les responsables de ces fonctions peuvent informer, directement et de leur propre
+initiative, le conseil d'administration lorsque surviennent des événements de nature à le justifier.
+
+Le conseil d'administration entend, directement et de sa propre initiative, chaque fois qu'il l'estime nécessaire et au moins
+une fois par an, les responsables des fonctions clés. Cette audition peut se dérouler hors la présence du dirigeant
+opérationnel si les membres du conseil d'administration l'estiment nécessaire. Le conseil d'administration peut renvoyer
+cette audition devant un comité spécialisé émanant de ce conseil.
+
+La nomination et le renouvellement des personnes mentionnées aux deux premiers alinéas sont notifiés à l'Autorité de contrôle
+prudentiel et de résolution conformément à l'article L. 612-23-1 du code monétaire et financier.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L612-23-1
+	  - Code des assurances - art. L356-1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L114-21 (V)
+	  - Code de la mutualité - art. L211-9 (MMN)
+	  - Code des assurances - art. L356-18 (V)
+	  - Code des assurances - art. R354-6 (VD)
+
+
+###### Article L211-14
+
+Le conseil d'administration des mutuelles et unions mentionnées à l'article L. 211-10 et des unions mutualistes de groupe
+mentionnées à l'article L. 111-4-2 nomme, sur proposition du président du conseil d'administration, le dirigeant
+opérationnel, qui ne peut être un administrateur. Il est mis fin aux fonctions du dirigeant opérationnel suivant la même
+procédure.
+
+Le conseil d'administration approuve les éléments du contrat de travail du dirigeant opérationnel et fixe les conditions dans
+lesquelles il lui délègue les pouvoirs nécessaires à la direction effective de la mutuelle ou de l'union. Le dirigeant
+opérationnel exerce ses fonctions sous le contrôle du conseil d'administration et dans le cadre des orientations arrêtées par
+celui-ci conformément aux dispositions de l'article L. 114-17. Il assiste à toutes les réunions du conseil d'administration.
+
+Le dirigeant opérationnel exerce ses pouvoirs dans la limite de l'objet de la mutuelle ou de l'union, de la délégation
+mentionnée au précédent alinéa et sous réserve de ceux que la loi attribue expressément aux assemblées générales, au conseil
+d'administration et au président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+	**Cité par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 17 (V)
+	  - Code de la mutualité - art. L114-17 (V)
+
+
+###### Article L211-15
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre, notamment les modalités de l'avis rendu
+par le Conseil supérieur de la mutualité sur les demandes d'agrément des mutuelles et unions, les conditions de conclusion,
+de renouvellement et de résiliation d'une convention de substitution ainsi que les dispositions particulières à l'assurance
+de protection juridique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+
+
 #### Chapitre II : Fonctionnement.
 
 ##### Section 1 : Régime financier et comptable.
 
+##### Section 1 : Régime prudentiel
+
 ###### Article L212-1
 
-Les mutuelles et les unions relevant du présent livre :
+Les dispositions du titre III du livre III du code des assurances sont applicables aux mutuelles et unions mentionnées à
+l'article L. 211-11. 
 
-1° Constituent des provisions techniques dont le niveau leur permet d'assurer le règlement intégral de leurs engagements ;
-ces provisions techniques figurent au nombre des engagements réglementés mentionnés au 2° ci-dessous ;
+Les dispositions du titre V du livre III et de l'article L. 310-12-4 du code des assurances sont applicables aux mutuelles et
+unions mentionnées à l'article L. 211-10. 
 
-2° Détiennent des actifs d'un montant au moins équivalent aux engagements réglementés, dont les mutuelles et les unions
-doivent à tout moment justifier une évaluation ;
+Les articles L. 310-2-1, L. 310-12-3 et L. 310-12-5 du code des assurances sont applicables aux mutuelles et unions visées
+aux deux précédents alinéas. 
 
-3° Disposent, à tout moment, d'une marge de solvabilité.
+Pour l'application des dispositions des alinéas précédents : 
+
+1° Il y a lieu d'entendre : 
+
+a)  "    Mutuelles ou unions exerçant une activité directe d'assurance ou une activité de réassurance ", là où est
+mentionné : " entreprises d'assurance et de réassurance " ; 
+
+b) " Mutuelle ou union exerçant une activité directe d'assurance " là où est mentionné : " entreprise mentionnée à l'article
+L. 310-1 du code des assurances " ; 
+
+c) " Mutuelles ou unions au sens du II du L. 111-1-1 du code de la mutualité " là où est mentionné : " une entreprise
+mentionnée au 1° du III de l'article L. 310-1-1 du code des assurances " ; 
+
+d) " Membres participants et ayants droits ", là où est mentionné : " assurés " ; 
+
+2° La référence à l'article L. 143-1 du code des assurances est remplacée par la référence à l'article L. 222-3 du code de la
+mutualité, la référence à l'article L. 310-14 du code des assurances est remplacée par la référence à l'article L. 222-11 du
+code de la mutualité, la référence à l'article L. 324-1 du code des assurances est remplacée par la référence à l'article L.
+212-11 du code de la mutualité, la référence à l'article L. 324-1-2 du code des assurances est remplacée par la référence à
+l'article L. 212-11-1 du code de la mutualité. 
+
+Pour l'application des dispositions du deuxième alinéa, il y a lieu d'entendre : " dirigeant opérationnel " là où est
+mentionné : " directeur général ". 
 
 Les actifs permettant aux mutuelles et unions relevant du présent livre d'exercer des activités accessoires définies au III
 de l'article L. 111-1 ne peuvent excéder le montant de leur patrimoine libre. Un décret en Conseil d'Etat définit les
@@ -3689,7 +3868,7 @@ mutuelles, ainsi que sur leurs dispositions statutaires.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Liens**:
 
@@ -3705,42 +3884,13 @@ mutuelles, ainsi que sur leurs dispositions statutaires.
 	  - Code de la mutualité - art. R211-21 (V)
 	  - Code des assurances - art. R334-42 (VT)
 
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1 (Ab)
-
-
-###### Article L212-3
-
-Le rapport de solvabilité établi par le conseil d'administration conformément à l'article L. 114-17 expose les conditions
-dans lesquelles l'organisme garantit, par la constitution des provisions techniques suffisantes dont les modalités de calcul
-et les hypothèses retenues sont explicitées et justifiées, les engagements qu'il prend à l'égard des membres participants, de
-leurs ayants droit ou des organismes réassurés, rappelle les orientations retenues en matière de placements, présente et
-analyse les résultats obtenus et indique si la marge de solvabilité est constituée conformément à la réglementation
-applicable. Le rapport de solvabilité contient obligatoirement une analyse des conditions dans lesquelles l'organisme est en
-mesure, à moyen et long terme, de faire face à l'ensemble de ses engagements. 
-
-Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
 
 	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
-	**Cité par**:
+	**Cite**:
 
-	  - Code de la mutualité - art. L114-17 (V)
-	  - Code de la mutualité - art. L211-5 (V)
-	  - Code de la mutualité - art. L213-1 (VD)
-	  - Code de la mutualité - art. R211-28 (VT)
-	  - Code de la mutualité - art. R211-28-2 (VT)
-	  - Code de la mutualité - art. R211-29 (VT)
-	  - Code de la mutualité - art. R212-73 (V)
+	  - Code de la mutualité - art. L111-1
 
 
 ###### Article L212-3-1
@@ -3769,23 +3919,49 @@ selon les modalités de l'article L. 823-19 du code de commerce.
 	  - Code monétaire et financier - art. L511-46 (Ab)
 
 
+##### Section 2 : Régime comptable
+
+###### Article L212-3-2
+
+Au sein des mutuelles régies par le présent livre, à l'exception de celles mentionnées à l'article L. 212-3-1, le comité
+mentionné à l'article L. 823-19 du code de commerce assure également le suivi de la politique, des procédures et des systèmes
+de gestion des risques. 
+
+Toutefois, sur décision de l'organe chargé de l'administration ou de la surveillance, cette mission peut être confiée à un
+comité distinct, régi par les deuxième et dernier alinéas du même article L. 823-19.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
+
+	**Cite**:
+
+	  - Code de commerce - art. L823-19
+
+
 ###### Article L212-4
 
 Lorsque les concours financiers, subventions, prêts et aides de toute nature accordés par une mutuelle ou une union régie par
 les dispositions du présent livre au bénéfice d'une mutuelle ou d'une union régie par le livre III font l'objet de réserves
 de la part du commissaire aux comptes dans le document mentionné à l'article L. 114-39, le commissaire aux comptes établit un
-rapport spécial qui est transmis à la commission mentionnée à l'article L. 510-1.
+rapport spécial qui est transmis à l'Autorité de contrôle prudentiel et de résolution.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L114-39 (V)
-	  - Code de la mutualité - art. L510-1 (M)
+	  - Code de la mutualité - art. L114-39
+	  - Code de la mutualité - art. L510-1
 
 	**Cité par**:
 
@@ -3794,15 +3970,22 @@ rapport spécial qui est transmis à la commission mentionnée à l'article L. 5
 
 ###### Article L212-5
 
-Les mutuelles et les unions font participer, dans des conditions fixées par décret, leurs membres participants et les
-bénéficiaires désignés aux excédents techniques et financiers des opérations dépendant de la durée de la vie humaine qu'elles
-réalisent.
+Les provisions mathématiques constituées par les mutuelles et unions relevant du livre II du présent code pour les opérations
+d'assurance vie et de capitalisation sont calculées selon les dispositions de l'article L. 343-1 du code des assurances. 
+
+Pour l'application du présent article, il y a lieu d'entendre : "    mutuelles et unions ", " cotisations " et " bulletin
+d'adhésion à un règlement ou contrat " là où sont mentionnés dans le code des assurances, respectivement, les mots : "
+entreprises d'assurance vie et de capitalisation " ou " entreprises ", " primes " et " contrat ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cité par**:
 
@@ -3811,18 +3994,22 @@ réalisent.
 
 ###### Article L212-6
 
-L'état relatif aux plus-values latentes, annexé aux comptes des organismes, retrace la valeur comptable et la valeur de
-réalisation de l'ensemble des placements figurant à leur actif.
+A la clôture de chaque exercice, les mutuelles ou unions incluent dans leur rapport de gestion la valeur des placements.
+Elles y incluent également la quote-part de ces placements correspondant aux engagements pris envers leurs membres
+participants et leurs ayants droit, telle qu'elle serait constatée en cas de transfert de portefeuille. 
 
-Cet état indique, en outre, la quote-part des placements correspondant à des engagements pris envers les membres participants
-telle qu'elle serait constatée en cas de transfert de portefeuille. Les dispositions du présent alinéa ne s'appliquent pas
-aux opérations mentionnées aux a, c, d et e du 1° du I de l'article L. 111-1.
+Les règles de calcul de cette quote-part sont fixées par décret en Conseil d'Etat. Les dispositions du présent article ne
+s'appliquent pas aux opérations mentionnées aux a, c, d et e du 1° du I de l'article L. 111-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cité par**:
 
@@ -3836,36 +4023,28 @@ aux opérations mentionnées aux a, c, d et e du 1° du I de l'article L. 111-1.
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
+	  - Code de la mutualité - art. L111-1
+
+
+###### Article L212-6-1
+
+L'article L. 341-4 du code des assurances s'applique aux mutuelles et unions visées aux articles L. 211-1 et L. 212-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 
 ###### Article L212-7
 
-I.-Constituent un groupe les mutuelles ou unions qui forment entre elles ou avec des institutions de prévoyance régies par le
-livre IX du code de la sécurité sociale ou l'article L. 727-2 du code rural et de la pêche maritime ou avec des entreprises
-d'assurance relevant du code des assurances ou de réassurance, un ensemble correspondant à l'un des cas suivants : 
+Les mutuelles et les unions régies par les dispositions du livre II ainsi que les unions mutualistes de groupe définies à
+l'article L. 111-4-2 établissent et publient des comptes consolidés ou combinés. Ces comptes sont établis selon un règlement
+défini par l'Autorité des normes comptables. 
 
-1° Ces organismes ont soit une direction commune, soit des services communs assez étendus pour engendrer une politique
-commerciale, technique ou financière commune ; 
-
-2° Ces organismes ont entre eux des liens de réassurance importants et durables ; 
-
-3° Ces organismes détiennent directement ou indirectement une fraction du capital d'une ou plusieurs entreprises régies par
-le code des assurances leur permettant de participer à leur contrôle. 
-
-II.-Les mutuelles et unions appartenant à un groupe au sens du 3° du I ci-dessus établissent et publient des comptes
-consolidés dans les conditions définies par un règlement de l'Autorité des normes comptables. 
-
-Ces comptes sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L.
-823-9 du code de commerce. 
-
-III.-Lorsque deux ou plusieurs mutuelles ou unions appartiennent à un groupe, l'une de ces entités établit et publie des
-comptes combinés. Un décret détermine celle de ces entités sur laquelle pèse cette obligation. Les comptes combinés sont
-constitués par agrégation de l'ensemble des comptes des entités concernées, établis s'il y a lieu sur une base consolidée
-dans des conditions définies par un règlement de l'Autorité des normes comptables. 
-
-Les comptes mentionnés au présent article sont certifiés par les commissaires aux comptes dans les conditions prévues au
-deuxième alinéa de l'article L. 823-9 du code de commerce.
+Les deuxième et troisième alinéas de l'article L. 345-2 du code des assurances s'appliquent aux organismes mentionnés au
+précédent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -3901,7 +4080,7 @@ deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
@@ -3911,71 +4090,15 @@ deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 ###### Article L212-7-1
 
-Pour l'application des dispositions législatives et réglementaires relatives à la solvabilité des mutuelles et unions
-soumises au livre II, à la surveillance complémentaire instituée à l'article L. 212-7-2 et à la surveillance complémentaire
-des conglomérats financiers : 
+Les comptes consolidés ou combinés mentionnés à l'article L. 212-7 sont établis suivant les règles fixées par les articles L.
+233-16, L. 233-17-1, L. 233-18 à L. 233-23 et L. 233-25 à L. 233-27 du code de commerce. 
 
-1° L'expression : " organisme de référence " désigne un organisme ayant une activité économique qui contrôle de manière
-exclusive un autre organisme au sens du II de l'article L. 233-16 du code de commerce ou qui exerce une influence dominante
-sur un autre organisme ayant une activité économique à raison de l'existence de liens de solidarité importants et durables
-résultant d'engagements financiers ou de dirigeants ou de services communs. Ce second organisme est dénommé " organisme
-subordonné ". Tout organisme subordonné d'un organisme subordonné est considéré comme subordonné à l'organisme de
-référence ; 
-
-2° L'expression : " participation " désigne le fait de détenir, directement ou indirectement, au moins 20 % des droits de
-vote ou du capital d'une société, ou un ensemble de droits dans le capital d'une société, qui, en créant un lien durable avec
-celle-ci, est destiné à contribuer à l'activité de ladite société ; 
-
-3° L'expression : " organisme participant " désigne un organisme de référence au sens du 1° du présent article ou un
-organisme qui détient une participation dans un organisme ou un organisme lié à un autre organisme par des organes
-d'administration, de direction ou de surveillance composés en majorité des mêmes personnes ; 
-
-4° L'expression " organisme affilié " désigne un organisme qui est soit subordonné soit un autre organisme dans lequel une
-participation est détenue, soit un organisme lié à un autre organisme par une relation précisée au 7° du présent article ; 
-
-5° L'expression : " organisme apparenté " désigne tout organisme affilié, participant ou affilié d'un organisme participant
-d'un organisme ; 
-
-6° L'expression : " organisme assureur " désigne toute mutuelle ou union relevant du présent livre, institution de prévoyance
-régie par le titre III du livre IX du code de la sécurité sociale ou par l'article L. 727-2 du code rural et de la pêche
-maritime, ou entreprise d'assurance ou de réassurance régie par le code des assurances, ainsi que les entreprises d'assurance
-et de réassurance dont le siège est situé hors de France ; 
-
-7° L'expression " groupe financier " désigne un ensemble d'organismes composé d'un organisme de référence, de ses organismes
-subordonnés et des entités dans lesquelles l'organisme de référence ou ses organismes subordonnés détiennent des
-participations, ainsi que des entités liées de telle sorte que leurs organes d'administration, de direction ou de
-surveillance sont composés en majorité des mêmes personnes ou qu'elles sont placées sous une direction unique en vertu d'un
-contrat ou de clauses statutaires. Les établissements affiliés à un réseau et l'organe central au sens de l'article L. 511-31
-du code monétaire et financier sont considérés comme faisant partie d'un même groupe pour l'application du présent chapitre.
-Il en est de même pour les entités appartenant à des groupes coopératifs régis par les dispositions similaires dans la
-législation qui leur est applicable ; 
-
-8° Abrogé 
-
-9° Abrogé 
-
-10° Abrogé 
-
-11° L'expression " autorité compétente " désigne toute autorité nationale d'un Etat membre ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen dotée, par une disposition législative ou réglementaire, du pouvoir de surveiller,
-individuellement ou à l'échelle du groupe, l'une ou plusieurs des catégories d'entités réglementées suivantes : 
-
-a) Les entreprises d'assurances ; 
-
-b) Les mutuelles ; 
-
-c) Les institutions de prévoyance ; 
-
-d) Les entreprises de réassurance ; 
-
-e) Les établissements de crédit ; 
-
-f) Les entreprises d'investissement ; 
-
-12° Abrogé 
-
-13° L'expression " règles sectorielles " désigne les règles concernant la surveillance prudentielle des entités réglementées
-et les règles concernant la surveillance complémentaire instituée à l'article L. 212-7-2du présent code.
+Les mutuelles et les unions régies par les dispositions du livre II ainsi que les unions de groupe mutualiste définies à
+l'article L. 111-4-1 qui, sans y être tenues en application de l'article L. 212-7, publient des comptes consolidés ou
+combinés, se conforment aux dispositions des articles L. 233-16, L. 233-18 à L. 233-23 et L. 233-25 à L. 233-27 du code de
+commerce et aux dispositions de la présente section. En ce cas, lorsque leurs comptes annuels sont certifiés dans les
+conditions prévues à l'article L. 823-9 du code de commerce, leurs comptes consolidés ou combinés le sont dans les conditions
+du deuxième alinéa de cet article.
 
 **Liens relatifs à cet article**
 
@@ -4005,7 +4128,7 @@ et les règles concernant la surveillance complémentaire instituée à l'articl
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
@@ -4016,227 +4139,24 @@ et les règles concernant la surveillance complémentaire instituée à l'articl
 	  - Code de la mutualité - art. L212-7-9
 
 
-###### Article L212-7-2
-
-Les mutuelles ou unions régies par les dispositions du présent livre et apparentées à au moins un autre organisme assureur ou
-à une compagnie financière holding mixte au sens de l'article L. 517-4 du code monétaire et financier ousubordonnées à un
-organisme ayant une activité économique font l'objet d'une surveillance complémentaire de leur situation financière par
-l'Autorité de contrôle prudentiel et de résolution. 
-
-La surveillance complémentaire tient compte des organismes qui sont apparentés à la mutuelle ou à l'union. L'Autorité peut
-toutefois décider d'exclure un organisme apparenté de la surveillance complémentaire si elle estime que sa prise en compte
-présenterait un intérêt négligeable ou serait contraire aux objectifs de cette surveillance. 
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article, et notamment :
-
-- les données et informations nécessaires à l'exercice de la surveillance complémentaire ;
-
-- les règles prudentielles applicables dans le cadre de la surveillance complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°2001-767 du 29 août 2001 - art. 3 (V)
-	  - Code de la mutualité - art. L212-7-1 (VD)
-	  - Code de la mutualité - art. L212-7-2-1 (VT)
-	  - Code de la mutualité - art. L212-7-3 (VT)
-	  - Code de la mutualité - art. L510-7 (Ab)
-	  - Code de la mutualité - art. R212-11 (VD)
-	  - Code de la mutualité - art. R212-15 (VT)
-	  - Code de la sécurité sociale. - art. L933-3-1 (VT)
-	  - Code de la sécurité sociale. - art. L951-12 (Ab)
-	  - Code des assurances - art. L310-15 (Ab)
-	  - Code des assurances - art. L334-3-1 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-4
-
-
-###### Article L212-7-2-1
-
-L'Autorité de contrôle prudentiel et de résolution peut demander aux organismes soumis à une surveillance complémentaire en
-application de l'article L. 212-7-2 les données ou informations nécessaires à l'exercice de cette surveillance, qui sont
-détenues par leurs organismes apparentés. Si ces derniers organismes ne fournissent pas ces données et informations,
-l'Autorité peut leur demander directement. 
-
-Les organismes soumis à une surveillance complémentaire et dont le siège social est situé en France transmettent les données
-ou informations nécessaires à leurs organismes apparentés ayant leur siège social dans un Etat membre de l'Union européenne
-ou dans un autre Etat partie à l'accord sur l'Espace économique européen pour l'exercice de la surveillance complémentaire
-par les autorités compétentes de cet Etat. 
-
-II.-L'Autorité de contrôle prudentiel et de résolution peut procéder à la vérification sur place des informations nécessaires
-à la surveillance complémentaire instituée aux articles L. 334-3 du code des assurances, L. 212-7-2 du présent code ou L.
-933-3 du code de la sécurité sociale, auprès de l'entreprise d'assurance, de la mutuelle ou de l'union, de l'institution de
-prévoyance ou de l'union d'institutions de prévoyance et de leurs organismes apparentés. 
-
-Lorsque, dans le cadre de la surveillance complémentaire, l'Autorité souhaite vérifier des informations utiles à l'exercice
-de sa surveillance concernant un organisme situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à
-l'accord sur l'Espace économique européen, elle demande aux autorités compétentes de cet Etat qu'il soit procédé à cette
-vérification.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L933-3 (VT)
-	  - Code des assurances - art. L334-3
-	  - Code de la mutualité - art. L212-7-2
-
-
-###### Article L212-7-3
-
-Les mutuelles et unions soumises à une surveillance complémentaire en application de l'article L. 212-7-2 demandent à leurs
-organismes apparentés les données ou informations nécessaires à l'exercice de cette surveillance. Les organismes apparentés
-sont tenus de procéder à cette transmission.
-
-Les mutuelles et unions soumises à une surveillance complémentaire transmettent les données ou informations nécessaires à
-leurs organismes apparentés ayant leur siège social dans un Etat membre de la Communauté européenne ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen pour l'exercice de la surveillance complémentaire par les autorités
-compétentes de cet Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-767 du 29 août 2001 - art. 2 () JORF 31 août 2001
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-2 (VT)
-
-
-###### Article L212-7-4
-
-Les mutuelles et unions relevant du présent livre appartenant à un conglomérat financier au sens de l'article L. 517-3 du
-code monétaire et financier font l'objet d'une surveillance complémentaire dans les conditions prévues par le chapitre VII du
-titre Ier du livre V du code monétaire et financier et par le chapitre III du titre III du livre VI du même code, sans
-préjudice des règles sectorielles qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-3
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A213-3 (Ab)
-	  - Code de la mutualité - art. R212-11 (VD)
-	  - Code de la mutualité - art. R212-15 (VT)
-	  - Code de la mutualité - art. R213-8 (V)
-
-
-###### Article L212-7-4-1
-
-I.-Lorsqu'une compagnie financière holding mixte au sens de l'article L. 517-4 du code monétaire et financier relève de
-dispositions équivalentes au titre de la surveillance complémentaire de groupe au sens de l'article L. 212-7-2 et au titre de
-la surveillance complémentaire de conglomérat financier mentionnée à l'article L. 212-7-4 du même code, notamment en ce qui
-concerne la surveillance fondée sur le risque, l'Autorité de contrôle prudentiel et de résolution peut, après consultation
-des autres autorités compétentes concernées au sens de l'article L. 517-2 du code monétaire et financier, n'appliquer que les
-articles L. 517-6 et L. 517-8 du même code. 
-
-II.-Lorsqu'une compagnie financière holding mixte au sens de l'article L. 517-4 du code monétaire et financier relève de
-dispositions équivalentes au titre de la surveillance consolidée au sens de l'article L. 613-20-1 du code monétaire et
-financier et au titre de la surveillance complémentaire de groupe au sens de l'article L. 212-7-2, notamment en ce qui
-concerne la surveillance fondée sur le risque, l'Autorité de contrôle prudentiel et de résolution peut, en accord avec
-l'autorité compétente en charge de la surveillance consolidée du groupe bancaire, n'appliquer à une compagnie financière
-holding mixte que les dispositions applicables au secteur le plus important déterminé conformément à l'article L. 517-3 du
-code monétaire et financier. 
-
-III.-Les décisions prises en application du I et du II sont portées à la connaissance de l'Autorité bancaire européenne et de
-l'Autorité européenne des assurances et des pensions professionnelles par l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-2
-	  - Code monétaire et financier - art. L517-3
-	  - Code monétaire et financier - art. L517-4
-	  - Code monétaire et financier - art. L517-8
-	  - Code monétaire et financier - art. L613-20-1
-
-
-##### Section 2 : Régime comptable
-
-###### Article L212-3-2
-
-Au sein des mutuelles régies par le présent livre, à l'exception de celles mentionnées à l'article L. 212-3-1, le comité
-mentionné à l'article L. 823-19 du code de commerce assure également le suivi de la politique, des procédures et des systèmes
-de gestion des risques. 
-
-Toutefois, sur décision de l'organe chargé de l'administration ou de la surveillance, cette mission peut être confiée à un
-comité distinct, régi par les deuxième et dernier alinéas du même article L. 823-19.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code de commerce - art. L823-19
-
-
 ##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation.
+
+##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation, mesures d'assainissement
 
 ###### Article L212-11
 
 Les mutuelles et unions ainsi que leurs succursales peuvent être autorisées, dans les conditions définies au présent article,
 à transférer tout ou partie de leur portefeuille d'opérations, avec ses droits et obligations et couvrant des risques ou des
-engagements situés sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
+engagements situés sur le territoire d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace
 économique européen, à une ou plusieurs des mutuelles ou unions régies par le présent code, à une ou plusieurs des
 institutions de prévoyance régies par le code de la sécurité sociale ou l'article L. 727-2 du code rural et de la pêche
 maritime, et à une ou plusieurs des entreprises d'assurance régies par le code des assurances ou dont l'Etat d'origine est
-membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen. Elles peuvent également être
-autorisées à effectuer ces transferts auprès des succursales des organismes visés ci-dessus et établies sur le territoire
-d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen. Elles peuvent
-également être autorisées à effectuer ces transferts auprès d'entreprises d'assurance dont le siège est établi dans un Etat
-qui n'est pas partie à l'accord sur l'Espace économique européen mais dont la succursale est établie et agréée dans l'Etat du
-risque ou de l'engagement, membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen. 
+membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen. Elles peuvent également être autorisées à
+effectuer ces transferts auprès des succursales des organismes visés ci-dessus et établies sur le territoire d'un Etat membre
+de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen. Elles peuvent également être
+autorisées à effectuer ces transferts auprès d'entreprises d'assurance dont le siège est établi dans un Etat qui n'est pas
+partie à l'accord sur l'Espace économique européen mais dont la succursale est établie et agréée dans l'Etat du risque ou de
+l'engagement, membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen. 
 
 Dans tous les cas, le nouvel assureur doit respecter les garanties concernant les activités transférées, telles que la
 mutuelle ou l'union les avaient établies. 
@@ -4250,23 +4170,33 @@ résolution approuve le transfert s'il lui apparaît que le transfert ne préjud
 adhérents, des membres participants, de leurs ayants droit et des bénéficiaires. 
 
 L'Autorité de contrôle prudentiel et de résolution n'approuve le transfert que si l'entreprise cessionnaire dispose, compte
-tenu du transfert, de la marge de solvabilité nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire
-est partie à l'accord sur l'Espace économique européen, cette approbation est prise après avis des autorités de contrôle de
-cet Etat. 
+tenu du transfert, de la marge de solvabilité nécessaire pour les organismes mentionnés aux articles L. 310-3-2 du code des
+assurances, L. 211-11 du code de la mutualité et L. 931-6-1 du code de la sécurité sociale ou, pour les organismes mentionnés
+aux articles L. 310-3-1 du code des assurances, L. 211-10 du code de la mutualité ou L. 931-6 du code de la sécurité sociale,
+les fonds propres éligibles nécessaires pour couvrir le capital de solvabilité requis visé à l'article L. 352-1 du code des
+assurances. Toutefois, lorsque l'Etat d'origine de l'entreprise cessionnaire est partie à l'accord sur l'Espace économique
+européen, cette approbation est prise après avis des autorités de contrôle de cet Etat. 
 
-Lorsque les risques ou les engagements transférés sont situés dans un Etat membre de l'Union européenne ou partie à l'accord
-sur l'Espace économique européen autre que la France, l'Autorité de contrôle prudentiel et de résolution recueille
-préalablement l'avis de l'autorité de contrôle de l'Etat du risque ou de l'engagement. 
+Lorsque le cédant est une succursale située dans un autre Etat membre de l'Union européenne, l'Autorité de contrôle
+prudentiel et de résolution recueille préalablement l'accord de l'autorité de contrôle de l'Etat où est située la
+succursale. 
+
+Lorsque les risques ou les engagements transférés sont situés dans un autre Etat membre de l'Union européenne, l'Autorité de
+contrôle prudentiel et de résolution recueille préalablement l'accord de l'autorité de contrôle de l'Etat du risque ou de
+l'engagement. 
+
+Le silence gardé par cette autorité de contrôle, à l'expiration d'un délai de trois mois suivant la réception des demandes de
+consultation précitées, vaut, pour l'Autorité de contrôle prudentiel et de résolution, accord tacite. 
 
 Pour les transferts de portefeuilles d'opérations relevant du b du 1° du I de l'article L. 111-1, cette approbation est en
-outre fondée sur les données de l'état sur les plus-values latentes prévu à l'article L. 212-6. 
+outre fondée sur les données relatives à la quote-part prévue à l'article L. 212-6. 
 
 L'approbation rend le transfert opposable aux membres participants ainsi qu'aux créanciers à partir de la date de publication
-de l'approbation mentionnée au quatrième alinéa du présent article. Les membres participants ont la faculté de résilier leur
-adhésion dans le délai d'un mois suivant la date de cette publication. Toutefois, cette faculté de résiliation ne leur est
-pas offerte lorsque l'affiliation à la mutuelle ou à l'union est obligatoire en vertu d'une convention ou d'un accord
-collectif, d'un accord ratifié par référendum ou d'une décision unilatérale de l'employeur, sauf modification de la
-convention, de l'accord ou de la décision unilatérale.
+au Journal officiel de la République française de l'approbation mentionnée au quatrième alinéa du présent article. Les
+membres participants ont la faculté de résilier leur adhésion dans le délai d'un mois suivant la date de cette publication.
+Toutefois, cette faculté de résiliation ne leur est pas offerte lorsque l'affiliation à la mutuelle ou à l'union est
+obligatoire en vertu d'une convention ou d'un accord collectif, d'un accord ratifié par référendum ou d'une décision
+unilatérale de l'employeur, sauf modification de la convention, de l'accord ou de la décision unilatérale.
 
 **Liens relatifs à cet article**
 
@@ -4280,6 +4210,7 @@ convention, de l'accord ou de la décision unilatérale.
 	  - Code de la mutualité - art. D223-5 (V)
 	  - Code de la mutualité - art. L211-5 (V)
 	  - Code de la mutualité - art. L211-8 (VD)
+	  - Code de la mutualité - art. L211-9 (MMN)
 	  - Code de la mutualité - art. L212-12 (V)
 	  - Code de la mutualité - art. L212-13 (V)
 	  - Code de la mutualité - art. R211-16 (VT)
@@ -4289,42 +4220,38 @@ convention, de l'accord ou de la décision unilatérale.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (V)
+	  - Code de la mutualité - art. L111-1
 	  - Code de la mutualité - art. L114-12
 	  - Code de la mutualité - art. L212-6
 
 
 ###### Article L212-11-1
 
-Les mutuelles et unions ainsi que leurs succursales exerçant une activité de réassurance peuvent être autorisées, dans les
-conditions définies au présent article, à transférer tout ou partie de leur portefeuille de contrats ou de sinistres à payer
-à une ou plusieurs mutuelles ou unions régies par le présent code, à une ou plusieurs institutions de prévoyance régies par
-le code de la sécurité sociale ou l'article L. 727-2 du code rural et de la pêche maritime et à une ou plusieurs entreprises
-de réassurance ou d'assurance ayant leur siège social en France, dans un autre Etat membre de la Communauté européenne ou
-dans un autre Etat partie à l'accord sur l'Espace économique européen ou à leurs succursales établies sur le territoire de
-l'Espace économique européen.
-
-L'autorité administrative n'approuve le transfert sollicité que si les autorités compétentes de l'Etat où le cessionnaire a
-son siège social attestent que celui-ci possède, compte tenu du transfert, la marge de solvabilité nécessaire. 
-
-La mutuelle, l'union ou la succursale qui transfère son portefeuille en informe les organismes réassurés.
+Les mutuelles et unions mentionnées au 1° de l'article L. 111-1-1 ainsi que leurs succursales exerçant une activité de
+réassurance sont autorisées, dans les conditions définies à l'article L. 324-1-2 du code des assurances, à transférer tout ou
+partie de leur portefeuille de contrats ou de sinistres à payer à une ou plusieurs mutuelles ou unions régies par le présent
+code, à une ou plusieurs institutions de prévoyance régies par le code de la sécurité sociale ou l'article L. 727-2 du code
+rural et de la pêche maritime et à une ou plusieurs entreprises de réassurance ou d'assurance ayant leur siège social en
+France ou, dans un autre Etat membre de l'Union européenne, ou à leurs succursales établies sur le territoire de l'Union
+européenne.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 26 (V)
 	  - Code de la mutualité - art. L211-8-1 (VD)
+	  - Code de la mutualité - art. L211-9 (MMN)
 	  - Code de la mutualité - art. R212-60-1 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
@@ -4396,8 +4323,8 @@ résiduels.
 
 Lorsque la gestion des engagements résiduels est déléguée à un tiers, le projet de contrat de délégation et un dossier
 décrivant la qualité du délégataire et de ses dirigeants, son organisation, sa situation financière et les moyens mis en
-œuvre sont communiqués à l'Autorité qui peut, ainsi qu'il est dit à l'article L. 612-26, réaliser tous contrôles sur pièces
-et sur place du délégataire, jusqu'à liquidation intégrale des engagements. 
+œuvre sont communiqués à l'Autorité qui peut, ainsi qu'il est dit à l'article L. 612-26du  code monétaire et financier,
+réaliser tous contrôles sur pièces et sur place du délégataire, jusqu'à liquidation intégrale des engagements. 
 
 Si l'Autorité estime que le programme de liquidation qui lui est présenté n'est pas conforme aux intérêts des membres
 participants de la mutuelle ou des membres de l'union, elle ne l'approuve pas et peut demander la présentation d'un nouveau
@@ -4405,7 +4332,7 @@ programme, dans les délais et conditions qu'elle prescrit. En l'absence de prog
 l'union ne respecte pas le programme approuvé, l'Autorité prend toutes mesures conservatoires ou de sanction qu'elle juge
 nécessaires. 
 
-En cas de liquidation d'une mutuelle ou union de réassurance agréée dans les conditions prévues à l'article L. 211-7-2, les
+En cas de liquidation d'une mutuelle ou union de réassurance agréée dans les conditions prévues à l'article L. 211-8-1, les
 engagements résultant des contrats souscrits par l'intermédiaire d'une succursale ou en libre prestation de services sont
 exécutés de la même façon que les engagements résultant des autres contrats de réassurance de cet organisme.
 
@@ -4418,7 +4345,7 @@ exécutés de la même façon que les engagements résultant des autres contrats
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
@@ -4429,20 +4356,37 @@ exécutés de la même façon que les engagements résultant des autres contrats
 ###### Article L212-15
 
 Par dérogation aux articles L. 631-4, L. 631-5, L. 640-4 et L. 640-5 du code de commerce, une procédure de redressement ou de
-liquidation judiciaire ne peut être ouverte à l'égard des mutuelles et unions mentionnées à l'article L. 211-7 qu'à la
-requête de la commission mentionnée à l'article L. 510-1 ; le tribunal peut également se saisir d'office ou, après avis
-conforme de la commission, être saisi d'une demande d'ouverture de cette procédure par le procureur de la République. 
+liquidation judiciaire ne peut être ouverte à l'égard des mutuelles et unions mentionnées à l'article L. 211-8 qu'à la
+requête de l'Autorité de contrôle prudentiel et de résolution. Le tribunal peut également se saisir d'office ou, après avis
+conforme de l'Autorité, être saisi d'une demande d'ouverture de cette procédure par le procureur de la République. 
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture d'une procédure de conciliation instituée par l'article
 L. 611-4 du code de commerce ou d'une procédure de sauvegarde visée à l'article L. 620-1 du même code, à l'égard d'une
-mutuelle ou d'une union mentionnée à l'article L. 211-7, qu'après avis conforme de l'Autorité de contrôle prudentiel et de
-résolution.
+mutuelle ou d'une union mentionnée à l'article L. 211-8, qu'après avis conforme de l'Autorité de contrôle prudentiel et de
+résolution. 
+
+Lorsqu'il est saisi d'une demande d'ouverture du règlement amiable institué par les articles L. 611-3 à L. 611-6 du code de
+commerce, le président du tribunal en informe l'Autorité de contrôle prudentiel et de résolution, si possible avant
+l'ouverture de cette procédure ou, à défaut, immédiatement après. 
+
+L'Autorité de contrôle prudentiel et de résolution informe sans délai les autorités compétentes des autres Etats membres de
+l'Union européenne lorsqu'une procédure de liquidation judiciaire est ouverte à l'égard d'une mutuelle ou d'une union. 
+
+Lorsqu'une procédure de liquidation judiciaire est ouverte à l'égard d'une mutuelle ou d'une union, l'agrément de cette
+mutuelle ou union est retiré selon les modalités de l'article L. 325-1 du code des assurances. Dans ce cas, les dispositions
+des articles L. 326-4, L. 326-9 et L. 326-14 du code des assurances sont applicables. La mutuelle ou l'union reste soumise au
+contrôle de l'Autorité de contrôle prudentiel et de résolution jusqu'à ce que l'ensemble des engagements résultant des
+contrats souscrits par la mutuelle ou l'union ait été intégralement et définitivement réglé aux membres participants et aux
+tiers bénéficiaires ou ait fait l'objet d'un transfert autorisé dans les conditions prévues à l'article L. 212-11. 
+
+Après autorisation de l'Autorité de contrôle prudentiel et de résolution, le liquidateur peut poursuivre certaines activités
+de la mutuelle ou de l'union concernée dans la mesure où cela est nécessaire et approprié pour les besoins de la liquidation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
@@ -4461,12 +4405,12 @@ résolution.
 ###### Article L212-15-1
 
 Les procédures de sauvegarde, de redressement ou de liquidation judiciaires instituées par les titres II, III et IV du livre
-VI du code de commerce ne peuvent être ouvertes à l'égard d'une mutuelle ou d'une union mentionnée au I de l'article L.
-211-7-2 du présent code qu'après avis de l'Autorité de contrôle prudentiel et de résolution. 
+VI du code de commerce ne peuvent être ouvertes à l'égard d'une mutuelle ou d'une union mentionnée à l'article L. 211-8-1 du
+présent code qu'après avis de l'Autorité de contrôle prudentiel et de résolution. 
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture de la procédure de conciliation instituée par le
-chapitre Ier du titre Ier du livre VI du code de commerce à l'égard d'une mutuelle ou d'une union mentionnée au I de
-l'article L. 211-7-2 du présent code qu'après avis de l'Autorité de contrôle prudentiel et de résolution. 
+chapitre Ier du titre Ier du livre VI du code de commerce à l'égard d'une mutuelle ou d'une union mentionnée à l'article L.
+211-8-1 du présent code qu'après avis de l'Autorité de contrôle prudentiel et de résolution. 
 
 Un décret en Conseil d'Etat précise les modalités selon lesquelles sont donnés les avis prévus aux premier et deuxième
 alinéas du présent article.
@@ -4475,7 +4419,7 @@ alinéas du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cite**:
 
@@ -4484,28 +4428,20 @@ alinéas du présent article.
 
 ###### Article L212-16
 
-La décision de l'Autorité de contrôle prudentiel et de résolution, prononçant le retrait total de l'agrément, emporte de
-plein droit, à dater de sa publication au Journal officiel, la dissolution de la personne morale. Dans ce cas, la liquidation
-judiciaire est ouverte à la requête de l'Autorité de contrôle prudentiel et de résolution. La liquidation est régie par le
-chapitre II du titre II du livre VI du code de commerce, sous réserve des dispositions du présent chapitre. 
+Les chapitres III et VI du titre II du livre III du code des assurances sont applicables aux mutuelles et unions régies par
+le présent livre. 
 
-L'Autorité de contrôle prudentiel et de résolution désigne un liquidateur, chargé de la vérification des créances d'assurance
-ainsi que de l'inventaire des actifs directement liés aux passifs, tels que les créances à l'égard des membres participants,
-des cédantes, des réassureurs et des coassureurs. 
-
-Le tribunal désigne parallèlement en tant que liquidateur, lors du jugement d'ouverture, un ou plusieurs mandataires de
-justice, qui peuvent être choisis en dehors de la liste des mandataires judiciaires. Ce liquidateur est chargé de
-l'inventaire des autres actifs et des opérations de liquidation. 
-
-Le tribunal désigne par la même décision un juge-commissaire chargé de contrôler les opérations de liquidation ; ce juge est
-assisté, dans l'exercice de sa mission, par un ou plusieurs commissaires désignés par l'Autorité de contrôle prudentiel et de
-résolution.
+Pour l'application des dispositions de ces chapitres, il faut entendre : "    membres participants " là où est mentionné : "
+assuré ", " cotisations " là où est mentionné : " primes ", " règlement " ou " contrat " là où est mentionné : " police " et
+" contrat " et " fonds de garantie mentionné à l'
+article L. 431-1 du code de la mutualité
+" là où est mentionné : " fonds de garantie mentionné à l'article L. 423-1 ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
 
 	**Cité par**:
 
@@ -4513,169 +4449,10 @@ résolution.
 	  - Code de la mutualité - art. R211-15-1 (VT)
 	  - Code de la mutualité - art. R414-3 (V)
 
-
-###### Article L212-17
-
-Le juge-commissaire peut à tout moment faire effectuer des vérifications sur pièces et sur place par les commissaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-
-###### Article L212-18
-
-En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaire à l'égard d'une mutuelle ou d'une union, les
-membres participants et les bénéficiaires de garanties ainsi que le fonds de garantie mentionné à l'article L. 431-1 sont,
-sans préjudice des articles L. 221-1, L. 221-2 et L. 221-3 ni des obligations contractuelles, dispensés de la déclaration de
-créances prévue à l'article L. 621-43 du code de commerce.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
 	**Cite**:
 
-	  - Code de commerce - art. L621-43
-	  - Code de la mutualité - art. L221-1
-	  - Code de la mutualité - art. L221-2
-	  - Code de la mutualité - art. L221-3
 	  - Code de la mutualité - art. L431-1
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. L227-1 (V)
-
-
-###### Article L212-19
-
-Le liquidateur procède, s'il y a lieu, à la restitution par préférence des cotisations versées par les personnes ayant exercé
-leur droit à renonciation en application de l'article L. 223-8.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L223-8
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R211-15-1 (VT)
-	  - Code de la mutualité - art. R211-20 (V)
-
-
-###### Article L212-20
-
-En cas de retrait de l'agrément accordé à une mutuelle ou une union, les garanties relatives aux a, c, d et e du 1° du I de
-l'article L. 111-1 conclues en application des dispositions du titre II du présent livre cessent de plein droit d'avoir effet
-le quarantième jour à midi, à compter de la publication au Journal officiel de la décision prononçant ce retrait. Les
-cotisations échues avant la date de la décision de l'Autorité de contrôle prudentiel et de résolution prononçant le retrait
-d'agrément, et non payées à cette date, sont dues en totalité à la mutuelle ou à l'union mais elles ne sont définitivement
-acquises à celle-ci que proportionnellement à la période garantie jusqu'au jour de la résiliation. Pour celles des garanties
-qui sont permanentes ou qui ont été reconduites, tacitement ou non, entre la date de la décision de l'Autorité de contrôle
-prudentiel et de résolution ou de l'Autorité de contrôle prononçant le retrait d'agrément et la date de résiliation de plein
-droit des garanties souscrites en application du titre II du présent livre, les cotisations ne sont dues que
-proportionnellement à la durée de la période garantie.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R211-15-1 (VT)
-	  - Code de la mutualité - art. R432-6 (VD)
-
-
-###### Article L212-21
-
-Après la publication au Journal officiel de la décision de l'Autorité de contrôle prudentiel et de résolution prononçant le
-retrait de l'agrément accordé à une mutuelle ou une union, les garanties souscrites par l'organisme relevant du b du 1° du I
-de l'article L. 111-1 demeurent régies par leurs règlements ou conditions générales et particulières tant que la décision de
-l'Autorité de contrôle prudentiel et de résolution n'a pas été publiée au Journal officiel, mais le liquidateur peut, avec
-l'approbation du juge-commissaire, surseoir au paiement de toutes les sommes dues au titre des bulletins d'adhésion ou des
-contrats collectifs. Les cotisations encaissées par le liquidateur sont versées à un compte spécial qui fait l'objet d'une
-liquidation distincte. 
-
-L'Autorité de contrôle prudentiel et de résolution, à la demande du liquidateur et sur le rapport du juge commissaire, peut
-fixer la date à laquelle les garanties cessent d'avoir effet, autoriser leur transfert en tout ou partie à d'autres, proroger
-leur échéance, décider la réduction des sommes payables en cas de vie ou de décès ainsi que des excédents attribués et des
-valeurs de rachat, de manière à ramener la valeur des engagements de la mutuelle ou de l'union au montant que la situation de
-la liquidation permet de couvrir. 
-
-Le versement des cotisations périodiques est suspendu dix jours après la nomination du liquidateur, et jusqu'à la publication
-de la décision de l'Autorité de contrôle fixant la date à laquelle les garanties cessent d'avoir effet. En cas de transfert
-du portefeuille, les versements suspendus sont effectués par l'entreprise cessionnaire, abattus du taux de réduction défini
-par l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1
-
-
-###### Article L212-22
-
-A la requête de l'Autorité de contrôle prudentiel et de résolution, le tribunal peut prononcer la nullité d'une ou plusieurs
-opérations réalisées par les dirigeants d'une mutuelle ou union pourvue d'un liquidateur à la suite du retrait de l'agrément,
-à charge, pour l'Autorité de contrôle, d'apporter la preuve que les personnes qui ont adhéré à l'organisme ou contracté avec
-celui-ci savaient que l'actif était insuffisant pour garantir les créances privilégiées des participants et bénéficiaires et
-que l'opération incriminée devait avoir pour effet de diminuer cette garantie.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
+	  - chapitres III et VI du titre II du livre III du code des assurances
 
 
 ##### Section 4 : Privilèges.
@@ -4768,24 +4545,15 @@ qu'elles sont définies par un décret en Conseil d'Etat.
 
 ###### Article L212-26
 
-Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre et, notamment, celles concernant :
-
-1° La création de succursales définies à la section 2 dans les Etats membres de la Communauté européenne et ceux parties à
-l'accord sur l'Espace économique européen ;
-
-2° Les provisions techniques, le montant de la marge de solvabilité et les éléments qui la constituent, les engagements
-réglementés, les placements et les autres éléments d'actifs des mutuelles et unions régies par le présent livre ;
-
-3° Le régime financier et comptable défini à la section 1 ;
-
-4° Les modalités des transferts de portefeuille et de transfert des actifs relatifs à des opérations dépendant de la durée de
-la vie humaine et de calcul de la participation aux excédents.
+Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre et, notamment, celles concernant les
+modalités des transferts de portefeuille et de transfert des actifs relatifs à des opérations dépendant de la durée de la vie
+humaine et de calcul de la participation aux excédents.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Liens**:
 
@@ -4795,73 +4563,37 @@ la vie humaine et de calcul de la participation aux excédents.
 
 	  - Décret n°2007-1859 du 26 décembre 2007 (V)
 
-
-##### Section 5 : Mesures d'assainissement et de liquidation des entreprises communautaires.
-
-###### Article L212-27
-
-Les mesures d'assainissement et les procédures de liquidation prises par l'autorité publique française compétente à l'égard
-d'une mutuelle ou d'une union produisent tous leurs effets sur le territoire des autres Etats membres de la Communauté
-européenne, sous réserve de dispositions contraires prévues par les lois de ces Etats, conformément à la directive 2001/17/
-CE du Parlement européen et du Conseil du 19 mars 2001 concernant l'assainissement et la liquidation des entreprises
-d'assurance. 
-
-Les mesures d'assainissement mentionnées au premier alinéa sont, lorsqu'elles affectent les droits préexistants des parties
-autres que l'organisme d'assurance lui-même : 
-
-1° Les mesures mentionnées aux 3°, 4° et 7° du I de l'article L. 612-33 du code monétaire et financier ; 
-
-2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et financier ou le retrait partiel d'agrément mentionné
-au 6° du même article ; 
-
-3° (abrogé) 
-
-4° Les procédures de redressement judiciaire visées au livre VI du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Directive 2001/17/CE du Parlement européen et du Conseil du 19 mars 2001
-	  - Code monétaire et financier - art. L612-33
-	  - Code monétaire et financier - art. L612-39
-
 	**Modifié par**:
 
-	  - Ordonnance n°2014-158 du 20 février 2014 - art. 7
-
-	**Abrogé par**:
-
 	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R510-8 (VT)
 
 
 #### Chapitre III : Peines.
 
 ###### Article L213-1
 
-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait, pour tout président, administrateur et dirigeant
-d'une mutuelle ou d'une union régie par les dispositions du présent livre, de ne pas établir, pour chaque exercice, le
-rapport de solvabilité prévu à l'article L. 212-3 et l'état annuel relatif aux plus-values latentes prévu à l'article L.
-212-6.
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, pour tout président, administrateur ou dirigeant
+d'une mutuelle ou union régie par les dispositions du présent livre, de pratiquer une des opérations mentionnées au 1° du I
+de l'article L. 111-1 sans avoir obtenu l'agrément prévu à l'article L. 211-8.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-3 (M)
-	  - Code de la mutualité - art. L212-6 (V)
-
-	**Anciens textes**:
-
-	  - Code de la mutualité - art. L213-2 (T)
+	  - Code de la mutualité - art. L212-3
+	  - Code de la mutualité - art. L212-6
 
 	**Cité par**:
 
@@ -4870,32 +4602,24 @@ rapport de solvabilité prévu à l'article L. 212-3 et l'état annuel relatif a
 
 ###### Article L213-2
 
-Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, pour tout président, administrateur ou dirigeant
-d'une mutuelle ou union régie par les dispositions du présent livre, de pratiquer une des opérations mentionnées au 1° du I
-de l'article L. 111-1 sans avoir obtenu l'agrément prévu à l'article L. 211-7.
+Les dispositions l'article L. 213-1 visant le président, les administrateurs ou les dirigeants d'une mutuelle ou union régie
+par le présent livre sont applicables à toute personne qui, directement ou par personne interposée, aura, en fait, exercé la
+direction, l'administration ou la gestion desdits organismes sous couvert ou au lieu et place de leurs représentants légaux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L211-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la mutualité - art. L213-1 (VT)
-
-	**Anciens textes**:
-
-	  - Code de la mutualité - art. L213-3 (T)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L211-7
 
 	**Cité par**:
 
@@ -4903,37 +4627,6 @@ de l'article L. 111-1 sans avoir obtenu l'agrément prévu à l'article L. 211-7
 
 
 ###### Article L213-3
-
-Les dispositions des articles L. 213-1 et L. 213-2 visant le président, les administrateurs ou les dirigeants d'une mutuelle
-ou union régie par le présent livre sont applicables à toute personne qui, directement ou par personne interposée, aura, en
-fait, exercé la direction, l'administration ou la gestion desdits organismes sous couvert ou au lieu et place de leurs
-représentants légaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Liens**:
-
-	  - TRANSFERE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L213-1 (V)
-	  - Code de la mutualité - art. L213-2 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de la mutualité - art. L213-2 (T)
-
-	**Anciens textes**:
-
-	  - Code de la mutualité - art. L213-4 (T)
-
-
-###### Article L213-4
 
 Les personnes physiques coupables de l'un des délits prévus au présent livre encourent également les peines complémentaires
 suivantes :
@@ -4951,55 +4644,46 @@ commise, pour une durée de cinq ans au plus ;
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la mutualité - art. L213-3 (T)
+	  - Code de la mutualité - art. L213-1
+	  - Code de la mutualité - art. L213-2
 
 
-###### Article L213-5
+###### Article L213-4
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
 infractions définies dans le présent livre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
-code pénal, les peines prévues par l'article 131-39 du même code. 
+code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2001-350 du 19 avril 2001
+
 	**Modifié par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
-
-	**Abrogé par**:
 
 	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
-	**Liens**:
-
-	  - TRANSFERE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
-
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (V)
-	  - Code pénal - art. 131-38 (V)
-	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la mutualité - art. L213-4 (VD)
+	  - Code de la mutualité - art. L213-5 (VT)
 
 
 ### Titre II : Opérations des mutuelles et des unions.
@@ -5797,13 +5481,13 @@ les unions mutualistes de groupe mentionnées à l'article L. 111-4-2 peuvent é
 
 1° De leurs membres participants ou honoraires ; 
 
-2° Des membres participants ou assurés des organismes appartenant au même groupe, défini à l'article L. 212-7, ainsi
-qu'auprès desdits organismes ; 
+2° Des membres participants ou assurés des organismes appartenant au même groupe d'assurance défini au  5° de l'article L.
+356-1 du code des assurances, ainsi qu'auprès desdits organismes ; 
 
 3° De mutuelles et unions régies par le présent livre II, d'unions mentionnées à l'article L. 111-4-2 du présent code,
-d'institutions, d'unions ou de groupements paritaires de prévoyance régis par le livre IX du code de la sécurité sociale, de
-sociétés d'assurance mutuelles régies par le code des assurances et de sociétés de groupe d'assurance mutuelles mentionnées
-au dernier alinéa de l'article L. 322-1-3 du même code. 
+d'institutions, d'unions ou de sociétés de groupe assurantiel de protection sociale régis par le livre IX du code de la
+sécurité sociale, de sociétés d'assurance mutuelles régies par le code des assurances et de sociétés de groupe d'assurance
+mutuelles mentionnées au dernier alinéa de l'article L. 322-1-3 du même code. 
 
 II.-Lors de l'émission de certificats mutualistes, les mutuelles et unions respectent les conditions et les modalités prévues
 aux articles L. 114-44 et L. 114-45-1 du présent code. 
@@ -5839,23 +5523,23 @@ annuellement à la rémunération des certificats mutualistes est fixée par dé
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 54
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L542-1
-	  - Code des assurances - art. L322-1-3 (V)
-	  - Code de la mutualité - art. L. 114-45-1 (V)
-	  - Code de la mutualité - art. L111-4-2 (V)
-	  - Code de la mutualité - art. L114-44 (V)
-	  - Code de la mutualité - art. L211-1 (V)
-	  - Code de la mutualité - art. L212-7 (V)
+	  - Code des assurances - art. L322-1-3 (M)
+	  - Code de la mutualité - art. L111-4-2
+	  - Code de la mutualité - art. L114-44
+	  - Code de la mutualité - art. L114-45-1
+	  - Code de la mutualité - art. L211-1
+	  - Code de la mutualité - art. L212-7
 
 	**Cité par**:
 
-	  - Code de la mutualité - art. L221-20 (V)
+	  - Code de la mutualité - art. L221-20 (VD)
 	  - Code de la mutualité - art. R114-10 (V)
 
 
@@ -5888,8 +5572,8 @@ c) Cas prévus au troisième à septième alinéa de l'article L. 132-23 du code
 alinéas, la référence à l'assuré est remplacée par la référence au titulaire du certificat mutualiste ; 
 
 d) Perte par le titulaire du certificat de sa qualité de membre participant ou honoraire de l'émetteur, ou de membre
-participant, de membre adhérent ou assuré des organismes appartenant au même groupe défini à l'article L. 212-7 du présent
-code ; 
+participant, de membre adhérent ou assuré des organismes appartenant au même groupe d'assurance défini au  5° de l'article L.
+356-1 du code des assurances ; 
 
 3° L'assemblée générale arrête un programme annuel de rachats, qui fait l'objet d'une résolution spéciale dont la teneur est
 préalablement soumise à l'approbation de l'Autorité de contrôle prudentiel et de résolution. Le programme définit la
@@ -5916,15 +5600,15 @@ compte au conseil d'administration, dans les conditions prévues par ce dernier,
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 54
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 	**Cite**:
 
-	  - Code des assurances - art. L132-23 (V)
-	  - Code de la mutualité - art. L212-7 (V)
-	  - Code de la mutualité - art. L221-19 (V)
+	  - Code des assurances - art. L132-23
+	  - Code de la mutualité - art. L212-7
+	  - Code de la mutualité - art. L221-19 (VD)
 
 
 #### Chapitre II : Dispositions relatives à certaines opérations de retraite.
@@ -6202,7 +5886,7 @@ d'indemnités de départ en retraite mentionnées à l'article L. 122-14-13 du c
 
 ###### Article L222-5
 
-L'agrément mentionné à l'article L. 222-3 est délivré dans les conditions prévues à l'article L. 211-7. Il ne peut être
+L'agrément mentionné à l'article L. 222-3 est délivré dans les conditions prévues à l'article L. 211-8. Il ne peut être
 accordé qu'aux mutuelles et unions agréées pour exercer les opérations dépendant de la durée de la vie humaine, y compris les
 opérations collectives mentionnées à l'article L. 222-1.
 
@@ -6214,22 +5898,22 @@ professionnelle dans un autre Etat membre de la Communauté européenne ou dans 
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
 	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 7 (Ab)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-7 (M)
-	  - Code de la mutualité - art. L222-1 (V)
-	  - Code de la mutualité - art. L222-3 (V)
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L222-1
+	  - Code de la mutualité - art. L222-3
 
 
 ###### Article L222-6
@@ -6795,17 +6479,24 @@ I. ― Les mutuelles et unions ayant pour objet la réalisation d'opérations d'
 l'article L. 111-1 s'informent, au moins chaque année, dans les conditions prévues au II du présent article, du décès
 éventuel de l'assuré. 
 
-II. ― Les organismes professionnels mentionnés à l'article L. 223-10-1 sont autorisés à consulter les données figurant au
-répertoire national d'identification des personnes physiques et relatives au décès des personnes qui y sont inscrites. Les
-mutuelles et unions mentionnées au I obtiennent de ces organismes professionnels communication de ces données en vue
-d'effectuer des traitements de données nominatives. Ces traitements ont pour objet la recherche des membres participants et
-bénéficiaires des contrats d'assurance sur la vie décédés.
+II. ― Les organismes professionnels mentionnés à l'article L. 223-10-1 consultent chaque année, dans le respect de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les données figurant au répertoire national
+d'identification des personnes physiques et relatives au décès des personnes qui y sont inscrites. Les mutuelles et unions
+mentionnées au I obtiennent de ces organismes professionnels communication de ces données en vue d'effectuer des traitements
+de données nominatives. Ces traitements ont pour objet la recherche des membres participants et bénéficiaires décédés des
+contrats d'assurance sur la vie et des bons ou contrats de capitalisation, à l'exception de ceux au porteur.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L223-10-1
+
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 75
+	  - Loi n°2014-617 du 13 juin 2014 - art. 4
 
 	**Cité par**:
 
@@ -6814,10 +6505,23 @@ bénéficiaires des contrats d'assurance sur la vie décédés.
 	  - Code général des impôts, CGI. - art. 1649 ter (VD)
 	  - Livre des procédures fiscales - art. L166 E (V)
 
-	**Cite**:
 
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. L223-10-1
+###### Article L223-10-2-1
+
+I. - Les mutuelles et les unions publient, chaque année, chacune pour ce qui la concerne, le nombre et l'encours des contrats
+non réglés. Elles précisent les démarches, le nombre de recherches et le nombre et l'encours des contrats correspondants
+qu'elles ont effectuées au cours de l'année au titre des deux derniers alinéas de l'article L. 223-10-1 et de l'article L.
+223-10-2, ainsi que les sommes dont le versement au bénéficiaire résulte de ces démarches. Elles établissent chaque année,
+chacune pour ce qui la concerne, un rapport, adressé à leur demande à l'Autorité de contrôle prudentiel et de résolution et
+au ministre chargé de l'économie, précisant le nombre et l'encours des contrats d'assurance sur la vie et des bons et
+contrats de capitalisation répondant à des critères fixés par arrêté du ministre chargé de l'économie, dont les capitaux ou
+les rentes dus n'ont pas été versés au bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-617 du 13 juin 2014 - art. 4
 
 
 ###### Article L223-10-3
@@ -7008,26 +6712,28 @@ alinéa de l'article L. 223-14.
 Dans le cas de réticence ou fausse déclaration mentionné à l'article L. 221-14 et dans le cas où le membre participant s'est
 donné volontairement la mort au cours du délai mentionné à l'article L. 223-9 ou lorsque le bulletin d'adhésion ou le contrat
 collectif exclut la garantie du décès en raison de la cause de celui-ci, la mutuelle ou l'union verse au membre participant
-ou, en cas de décès de celui-ci, au bénéficiaire une somme égale à la provision mathématique de la garantie.
+ou, en cas de décès de celui-ci, au bénéficiaire une somme égale à la valeur de rachat ou de transfert lorsqu'elle existe ou
+à défaut à la provision mathématique déterminée sur la base des paramètres prévus dans les conditions tarifaires du contrat
+de la garantie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 6 () JORF 4 décembre 2001
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L221-14 (V)
-	  - Code de la mutualité - art. L223-9 (M)
+	  - Code de la mutualité - art. L221-14
+	  - Code de la mutualité - art. L223-9
 
 
 ###### Article L223-19
@@ -7056,44 +6762,58 @@ cas, la mise à la disposition du porteur de la valeur de rachat que ladite gara
 
 ###### Article L223-19-1
 
-L'opération d'assurance comportant des valeurs de rachat précise les conditions dans lesquelles, en cas de décès, la
-revalorisation du capital garanti intervient à compter au plus tard du premier anniversaire du décès du membre participant
-jusqu'à la réception des pièces mentionnées à l'article L. 223-22-1.
+L'opération d'assurance comportant des valeurs de rachat et l'opération d'assurance sur la vie ne comportant pas de valeur de
+rachat dont les bénéficiaires sont des personnes physiques précisent les conditions dans lesquelles, en cas de décès, la
+revalorisation du capital garanti intervient à compter du décès du membre participant jusqu'à la réception des pièces
+mentionnées à l'article L. 223-22-1 ou, le cas échéant, jusqu'au dépôt de ce capital à la Caisse des dépôts et consignations
+en application de l'article L. 223-25-4. Pour les contrats d'assurance sur la vie ne comportant pas de valeur de rachat ou de
+transfert dont les bénéficiaires sont des personnes physiques et pour les contrats comportant une valeur de rachat ou de
+transfert, la revalorisation de la part du capital garanti en cas de décès dont la valeur en euros a été arrêtée ne peut être
+inférieure à un taux fixé par décret en Conseil d'Etat. Les frais prélevés après la date de connaissance du décès sont
+plafonnés dans des conditions fixées par décret en Conseil d'Etat. La mutuelle ou l'union ne peut prélever de frais au titre
+de l'accomplissement de ses obligations de recherche et d'information.
+
+**Nota:**
+
+Conformément au II de l'article 4 de la loi n° 2014-617 du 13 juin 2014, la deuxième phrase du présent article s'applique à
+tous les faits générateurs postérieurs à l'entrée en vigueur de ladite loi
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1775 du 17 décembre 2007 - art. 1
+	  - Loi n°2014-617 du 13 juin 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L223-22-1 (V)
+	  - Code de la mutualité - art. L223-22-1 (VT)
+	  - Code de la mutualité - art. L223-25-4 (VD)
 
 
 ###### Article L223-20
 
 Le bulletin d'adhésion ou le contrat précise les modalités de calcul de la valeur de rachat ou de la valeur de transfert et,
 le cas échéant, de la valeur de réduction. Pour le calcul de la valeur de réduction, il ne peut être prévu d'imputer sur la
-provision mathématique du contrat une indemnité de réduction.
+provision mathématique déterminée sur la base des paramètres prévus dans les conditions tarifaires du contrat une indemnité
+de réduction.
 
 Dans la limite de la valeur de rachat, la mutuelle ou l'union peut consentir des avances au membre participant.
 
-En cas de demande de rachat du contrat par un membre participant, la mutuelle ou  l'union lui verse la valeur de rachat du
-contrat dans un délai qui ne peut  excéder deux mois.
+En cas de demande de rachat du contrat par un membre participant, la mutuelle ou l'union lui verse la valeur de rachat du
+contrat dans un délai qui ne peut excéder deux mois.
 
-En cas de demande de transfert du contrat  par un membre participant, la mutuelle ou l'union verse à l'organisme  d'assurance
-gestionnaire du plan d'accueil la valeur de transfert du plan  d'épargne retraite populaire dans un délai et selon des
-modalités fixées par  décret.
+En cas de demande de transfert du contrat par un membre participant, la mutuelle ou l'union verse à l'organisme d'assurance
+gestionnaire du plan d'accueil la valeur de transfert du plan d'épargne retraite populaire dans un délai et selon des
+modalités fixées par décret.
 
-Au-delà des délais mentionnés aux deux alinéas  précédents, les sommes non versées produisent de plein droit intérêt au taux
-légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de  deux mois, au double du taux légal.
+Au-delà des délais mentionnés aux deux alinéas précédents, les sommes non versées produisent de plein droit intérêt au taux
+légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 5
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 	**Cité par**:
 
@@ -7101,10 +6821,41 @@ légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai d
 	  - Code de la mutualité - art. L223-20 (V)
 
 
+###### Article L223-20-1
+
+Pour tout bulletin d'adhésion ou contrat collectif relatif à une opération d'assurance sur la vie comportant une valeur de
+rachat et pour les opérations de capitalisation, la valeur de rachat ou, le cas échéant, de transfert, lorsqu'elle existe,
+est égale à la différence entre la valeur actuelle des engagements respectivement pris par la mutuelle ou l'union et par les
+membres participants, dans la limite, pour la valeur de rachat des bulletins d'adhésion ou des contrats collectifs relatifs à
+une opération d'assurance sur la vie, du montant assuré en cas de décès .   
+
+La valeur de rachat ou de transfert des bulletins d'adhésion ou des contrats collectifs relatifs à une opération d'assurance
+sur la vie ainsi que des opérations de capitalisation, est calculée en tenant compte, dans la détermination de l'engagement
+du membre participant ou du souscripteur, de la partie des cotisations devant être versée par l'intéressé représentative des
+frais d'acquisition du bulletin d'adhésion ou du contrat, lorsque ces frais ont été portés en charge déductible par la
+mutuelle ou l'union avant la fin de l'exercice à la clôture duquel la valeur de rachat est calculée. Toutefois, pour chaque
+bulletin d'adhésion ou contrat collectif relatif à une opération d'assurance sur la vie ou chaque opération de
+capitalisation, la valeur de rachat ou de transfert ne peut être inférieure de plus de 5 % à la valeur de rachat ou de
+transfert qui serait calculée sans qu'elle ne tienne compte de la partie des cotisations mentionnée au présent alinéa. Le
+montant des frais à l'entrée et sur versement mis à la charge de l'intéressé au cours d'une année donnée ne peut excéder 5 %
+du montant des cotisations versées cette même année. 
+
+Lorsque le mécanisme prévu au précédent alinéa n'est pas appliqué, la valeur de rachat ou de transfert peut être diminuée
+d'une indemnité dont le montant maximal est fixé par décret en Conseil d'Etat. 
+
+Pour les bulletins d'adhésion ou contrats collectifs relatifs à une opération d'assurance sur la vie ou les opérations de
+capitalisation, un arrêté du ministre chargé de la mutualité fixe les règles de calcul actuariel qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+
+
 ###### Article L223-21
 
-La mutuelle ou l'union communique chaque année au membre adhérent dont les capitaux garantis sont égaux ou supérieurs à un
-montant fixé par arrêté du ministre chargé de la mutualité :
+La mutuelle ou l'union communique chaque année au membre adhérent :
 
 - le montant de la valeur de rachat ou la valeur de transfert de son plan d'épargne retraite populaire tel que défini à
 l'article L. 144-2 du code des assurances ;
@@ -7126,8 +6877,13 @@ Ces montants ne peuvent tenir compte de participations aux excédents qui ne ser
 La mutuelle ou l'union indique en termes précis et clairs dans cette communication ce que signifient les opérations de
 rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles. 
 
-Lorsque les capitaux garantis sont inférieurs au montant défini au premier alinéa, les informations définies au présent
-article sont communiquées pour une année donnée au membre adhérent qui en fait la demande. 
+Pour les contrats comportant un terme, la mutuelle ou l'union adresse au membre adhérent, un mois avant la date du terme, un
+relevé d'information spécifique. Ce relevé contient, outre les mentions mentionnées aux alinéas précédents, le rappel en
+caractères très apparents de la date du terme du contrat, et, le cas échéant, de sa prorogation tacite, et du fait que la
+revalorisation cesse à compter de cette date, sauf stipulation ou disposition contractuelle contraire.
+
+Le relevé spécifique mentionné au neuvième alinéa est adressé à nouveau par la mutuelle ou l'union au membre adhérent un an
+après le terme du contrat si le membre adhérent ne s'est pas manifesté depuis le terme. 
 
 Pour les garanties liées à la cessation d'activité professionnelle, la mutuelle ou l'union fournit, dans cette communication,
 une estimation du montant de la rente viagère qui serait versée au membre adhérent à partir de ses droits personnels. Elle
@@ -7136,6 +6892,8 @@ d'une autre mutuelle, d'une entreprise d'assurance ou d'une institution de prév
 d'application du présent alinéa. 
 
 La garantie fait référence à l'obligation d'information prévue aux alinéas précédents.
+
+La mutuelle ou l'union communique également au membre adhérent la date d'échéance de son contrat.
 
 **Nota:**
 
@@ -7156,7 +6914,7 @@ plan d'épargne retraite populaire " sont déclassés et ont dorénavant un cara
 
 	**Modifié par**:
 
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 112
+	  - Loi n°2014-617 du 13 juin 2014 - art. 4
 
 	**Cite**:
 
@@ -7224,17 +6982,25 @@ fixé par décret.
 
 ###### Article L223-22-1
 
-Après le décès du membre participant ou au terme prévu par le contrat ou le bulletin d'adhésion et à compter de la réception
-des pièces nécessaires au paiement, la mutuelle ou l'union verse, dans un délai qui ne peut excéder un mois, le capital ou la
-rente garantis au bénéficiaire de l'opération d'assurance sur la vie. Au-delà de ce délai, le capital non versé produit de
-plein droit intérêt au taux légal majoré de moitié durant deux mois puis, à l'expiration de ce délai de deux mois, au double
-du taux légal.
+La mutuelle ou l'union d'assurance dispose d'un délai de quinze jours, après réception de l'avis de décès et de sa prise de
+connaissance des coordonnées du bénéficiaire ou au terme prévu pour l'opération d'assurance, afin de demander au bénéficiaire
+de l'opération d'assurance sur la vie de lui fournir l'ensemble des pièces nécessaires au paiement.
+
+A réception de ces pièces, la mutuelle ou l'union verse, dans un délai qui ne peut excéder un mois, le capital ou la rente
+garantis au bénéficiaire de l'opération d'assurance sur la vie.
+
+Plusieurs demandes de pièces formulées par la mutuelle ou l'union ne peuvent concerner des pièces identiques ou redondantes.
+
+Au-delà du délai prévu au deuxième alinéa, le capital non versé produit de plein droit intérêt au double du taux légal durant
+deux mois puis, à l'expiration de ce délai de deux mois, au triple du taux légal. Si, au-delà du délai de quinze jours
+mentionné au premier alinéa, la mutuelle ou l'union a omis de demander au bénéficiaire l'une des pièces nécessaires au
+paiement, cette omission n'est pas suspensive du délai de versement mentionné au présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1775 du 17 décembre 2007 - art. 2
+	  - Loi n°2014-617 du 13 juin 2014 - art. 4
 
 	**Cité par**:
 
@@ -7246,9 +7012,10 @@ du taux légal.
 Le bulletin d'adhésion ou le contrat collectif cesse d'avoir effet à l'égard du bénéficiaire qui a été condamné pour avoir
 volontairement donné la mort au membre participant ou au souscripteur du contrat.
 
-Le montant de la provision mathématique doit être versé par la mutuelle ou l'union à l'adhérent ayant versé les cotisations
-au membre participant ou à ses ayants cause, à moins qu'ils ne soient condamnés comme auteurs ou complices de l'homicide
-volontaire du membre participant ou du souscripteur du contrat.
+Le montant de la valeur de rachat ou de transfert, lorsqu'elle existe, ou à défaut de la provision mathématique déterminée
+sur la base des paramètres prévus dans les conditions tarifaires doit être versé par la mutuelle ou l'union à l'adhérent
+ayant versé les cotisations au membre participant ou à ses ayants cause, à moins qu'ils ne soient condamnés comme auteurs ou
+complices de l'homicide volontaire du membre participant ou du souscripteur du contrat.
 
 Si le bénéficiaire a tenté de donner la mort à l'adhérent ayant versé ses cotisations, celui-ci a le droit de révoquer
 l'attribution du bénéfice de l'assurance, même si le bénéficiaire avait déjà accepté la stipulation faite à son profit.
@@ -7257,7 +7024,7 @@ l'attribution du bénéfice de l'assurance, même si le bénéficiaire avait dé
 
 	**Modifié par**:
 
-	  - Loi n°2007-1775 du 17 décembre 2007 - art. 8
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 
 ###### Article L223-24
@@ -7368,6 +7135,112 @@ celui-ci est faite sur présentation, proposition ou avec l'aide d'un intermédi
 	**Cité par**:
 
 	  - Code de la mutualité - art. R223-6 (V)
+
+
+###### Article L223-25-4
+
+I.-Les sommes dues au titre des contrats d'assurance sur la vie et des bons ou contrats de capitalisation qui ne font pas
+l'objet d'une demande de versement des prestations ou du capital sont déposées à la Caisse des dépôts et consignations à
+l'issue d'un délai de dix ans à compter de la date de la prise de connaissance par l'assureur du décès de l'assuré ou de
+l'échéance du contrat. Le dépôt intervient dans le mois suivant l'expiration de ce délai. Les sommes dues au titre d'un
+contrat d'assurance temporaire en cas de décès ne font pas l'objet de ce dépôt lorsque le décès de l'assuré est intervenu
+antérieurement au 1er janvier 2015. 
+
+Le dépôt à la Caisse des dépôts et consignations des sommes dues au titre des contrats mentionnés au premier alinéa du
+présent I et comportant, en tout ou partie, des engagements exprimés en unités de compte mentionnés au second alinéa de
+l'article L. 223-2 ou affectés à l'acquisition de droits donnant lieu à la constitution d'une provision de diversification
+s'effectue en numéraire. La valeur de ces engagements ou de ces droits est celle atteinte à l'expiration du délai de dix ans
+mentionné au premier alinéa du présent I, sauf si les stipulations contractuelles prévoient une date antérieure. 
+
+Le membre participant ou les bénéficiaires des sommes déposées à la Caisse des dépôts et consignations ne peuvent en obtenir
+le versement qu'en numéraire, nonobstant toute stipulation contraire. 
+
+Les mutuelles et les unions transmettent à la Caisse des dépôts et consignations les informations nécessaires, le cas
+échéant, au versement des sommes mentionnées au troisième alinéa du présent I au membre participant ou à ses bénéficiaires. 
+
+Jusqu'à l'expiration du délai mentionné au III, elles conservent les informations et documents relatifs à l'encours des
+contrats à la date du dépôt prévu au deuxième alinéa du présent I, à la computation du délai mentionné au premier alinéa et
+au régime d'imposition applicable, ainsi que les informations et documents permettant d'identifier les membres participants
+et les bénéficiaires de ces contrats. Ces informations et documents sont transmis à la Caisse des dépôts et consignations à
+sa demande. Elles conservent également les informations et documents permettant d'apprécier qu'elles ont satisfait à leurs
+obligations en matière de contrats non réglés. 
+
+Le dépôt des sommes à la Caisse des dépôts et consignations en application du présent I est libératoire de toute obligation
+pour les mutuelles et les unions et les membres participants, à l'exception des obligations en matière de conservation
+d'informations et de documents prévues à l'avant-dernier alinéa. Ce caractère libératoire n'emporte cependant pas exonération
+de responsabilité pour les manquements commis antérieurement à ce dépôt. 
+
+II.-Six mois avant l'expiration du délai mentionné au premier alinéa du I du présent article, les mutuelles et les unions
+informent le membre participant ou les bénéficiaires du contrat, par tout moyen à leur disposition, de la mise en œuvre du
+présent article. 
+
+La Caisse des dépôts et consignations organise, dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, la publicité appropriée de l'identité des membres participants des contrats
+dont les sommes garanties ont fait l'objet du dépôt mentionné au I du présent article, afin de permettre aux membres
+participants ou aux bénéficiaires des contrats de percevoir les sommes qui leur sont dues. Ces derniers communiquent à la
+Caisse des dépôts et consignations les informations permettant de vérifier leur identité et de déterminer le montant des
+sommes qui leur sont dues. 
+
+Le notaire chargé d'établir l'actif successoral en vue du règlement de la succession pour laquelle il a été mandaté obtient
+sur sa demande auprès de la Caisse des dépôts et consignations le versement des sommes déposées en application du I et dues
+aux ayants droit du défunt, lorsque ces sommes entrent dans l'actif successoral. Le notaire restitue ces sommes aux ayants
+droit. 
+
+Le notaire joint à sa demande le mandat l'autorisant à agir au nom des ayants droit. 
+
+III.-Par dérogation au premier alinéa de l'article L. 518-24 du code monétaire et financier, les sommes déposées à la Caisse
+des dépôts et consignations en application du présent article et qui n'ont pas été réclamées par le membre participant ou
+leurs bénéficiaires sont acquises à l'Etat à l'issue d'un délai de vingt ans à compter de la date de leur dépôt à la Caisse
+des dépôts et consignations. 
+
+Jusqu'à l'expiration de ce délai, la Caisse des dépôts et consignations détient, pour le compte des membres participants ou
+de leurs bénéficiaires, les sommes qui lui ont été déposées. 
+
+Pour chaque dépôt correspondant à un contrat d'assurance sur la vie ou à un bon ou contrat de capitalisation, le montant des
+sommes versées par la Caisse des dépôts et consignations à son membre participant ou à ses bénéficiaires ou acquises à l'Etat
+ne peut être inférieur au montant des sommes déposées à la Caisse des dépôts et consignations, diminué, le cas échéant, des
+versements partiels réalisés par la Caisse des dépôts et consignations en application du présent article. 
+
+IV.-Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de la mutualité - art. L223-2 (V)
+
+	**Cité par**:
+
+	  - Loi n°2014-617 du 13 juin 2014 - art. 13 (VD)
+	  - Code de la mutualité - art. L223-19-1 (VD)
+	  - Code général de la propriété des personnes publ... - art. L1126-1 (VD)
+	  - Code général de la propriété des personnes publ... - art. L1126-4 (VD)
+	  - Code général des impôts, CGI. - art. 125-0 A (VD)
+	  - Code général des impôts, CGI. - art. 757 B (MMN)
+	  - Code général des impôts, CGI. - art. 990 I (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 370 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 G nonies (V)
+	  - Code monétaire et financier - art. L518-15-3 (VD)
+	  - Code monétaire et financier - art. L518-24 (VD)
+	  - Livre des procédures fiscales - art. L181-0 B (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-617 du 13 juin 2014 - art. 4
+
+
+###### Article L223-25-5
+
+Les mutuelles et les unions font participer, dans des conditions fixées par décret, leurs membres participants et les
+bénéficiaires désignés aux excédents techniques et financiers des opérations dépendant de la durée de la vie humaine qu'elles
+réalisent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 
 ##### Section 2 : Dispositions particulières à certaines opérations collectives vie.
@@ -8328,8 +8201,8 @@ Il débat des bonnes pratiques applicables aux activités et au fonctionnement d
 Il établit un rapport qui rend compte de son activité. Ce rapport est adressé au Président de la République, au Premier
 ministre et au Parlement. 
 
-Il est consulté préalablement aux décisions relatives à l'agrément des mutuelles et des unions prévu aux articles L. 211-7,
-L. 211-7-2 et L. 211-8. 
+Il est consulté préalablement aux décisions relatives à l'agrément des mutuelles et des unions prévu aux articles L. 211-8 et
+L. 211-8-1. 
 
 Il gère pour le compte de l'Etat le fonds national de solidarité et d'action mutualistes.
 
@@ -8368,12 +8241,7 @@ Il gère pour le compte de l'Etat le fonds national de solidarité et d'action m
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. L211-8
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
 
 
 ###### Article L411-2
@@ -8921,31 +8789,6 @@ Le ministre chargé de la mutualité exerce le contrôle des mutuelles et les un
 	  - Code monétaire et financier - art. L612-2
 
 
-###### Article L510-1-1
-
-L'Autorité de contrôle prudentiel et de résolution peut exiger de la mutuelle ou de l'union une marge de solvabilité plus
-importante que celle prescrite par la réglementation afin que la mutuelle ou l'union soit rapidement en mesure de satisfaire
-à l'ensemble des exigences de solvabilité. Le niveau de cette exigence supplémentaire de marge de solvabilité est déterminé
-selon des modalités définies par décret en Conseil d'Etat. 
-
-L'autorité de contrôle peut revoir à la baisse les éléments admis à constituer la marge de solvabilité d'une mutuelle ou
-d'une union, dans des conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L612-39 (VT)
-
-
 ###### Article L510-12
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour tout président administrateur ou dirigeant ayant
@@ -9252,6 +9095,8 @@ du conseil d'administration, par ordonnance du tribunal de grande instance statu
 
 
 #### Section 5 : Dispositions relatives aux fonctions d'administrateur.
+
+#### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant opérationnel.
 
 ###### Article R114-4
 
@@ -9625,14 +9470,12 @@ prononcer la dissolution de l'union.
 
 VIII.-Toute décision d'emprunter doit être autorisée par l'assemblée générale délibérant dans les conditions prévues à la
 première phrase du V et faire l'objet d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de
-l'Autorité de contrôle prudentiel. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des adhérents des
-organismes affiliés, au vu d'un dossier comportant une présentation détaillée des objectifs poursuivis, des conséquences de
-l'emprunt sur la situation financière de l'union et des organismes affiliés ainsi que, le cas échéant, une description
-précise des cas de remboursement anticipé.
+l'Autorité de contrôle prudentiel et de résolution. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des
+adhérents des organismes affiliés, au vu d'un dossier comportant une présentation détaillée des objectifs poursuivis, des
+conséquences de l'emprunt sur la situation financière de l'union et des organismes affiliés ainsi que, le cas échéant, une
+description précise des cas de remboursement anticipé.
 
-A l'expiration d'un délai de deux mois à compter du dépôt du texte de la résolution et du dossier mentionné ci-dessus et en
-l'absence de décision expresse de l'autorité, l'autorisation est considérée comme accordée. En cas de décision expresse,
-celle-ci est communiquée à l'assemblée générale.
+La décision de l'Autorité est communiquée à l'assemblée générale.
 
 **Nota:**
 
@@ -9643,7 +9486,7 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R115-5
@@ -9684,7 +9527,7 @@ le jour où la nullité était encourue.
 
 ###### Article R115-6
 
-I.-La convention d'affiliation mentionnée au troisième alinéa de l'article L. 111-4-2 contient la description des liens, des
+I.-La convention d'affiliation mentionnée au onzième alinéa de l'article L. 111-4-2 contient la description des liens, des
 obligations, des engagements et des modalités de partage des coûts ou de toute forme de coopération entre une union
 mutualiste de groupe et l'organisme affilié. Elle doit comporter l'engagement de celui-ci de subordonner son retrait éventuel
 au respect des conditions posées au deuxième alinéa du 1° du I de l'article R. 115-2. 
@@ -9694,14 +9537,27 @@ assemblées générales de l'union mutualiste de groupe et de l'organisme affili
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-790 du 23 juin 2009 - art. 1
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
 	  - Code de la mutualité - art. L111-4-2
-	  - Code de la mutualité - art. R115-2
+	  - Code de la mutualité - art. R115-2 (V)
+
+
+###### Article R115-7
+
+Pour l'application des dispositions du chapitre VI du titre V du livre III du code des assurances par les unions mutualistes
+de groupe, il y a lieu d'entendre :  "   dirigeant opérationnel " là où est mentionné dans le code des assurances : "
+directeur général ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
@@ -9712,36 +9568,38 @@ assemblées générales de l'union mutualiste de groupe et de l'organisme affili
 
 ##### Section 1 : Dispositions générales.
 
+##### Sous-section 1 : Conditions d'exercice
+
 ###### Article R211-1
 
-Toute mutuelle ou union pratiquant des   opérations d'assurance , de réassurance ou de capitalisation est désignée par une
+Toute mutuelle ou union pratiquant des opérations d'assurance , de réassurance ou de capitalisation est désignée par une
 dénomination sociale qui doit être suivie par la mention " mutuelle ou union soumise aux dispositions du livre II du code de
 la mutualité ". Cette mention figure obligatoirement dans les statuts, les règlements, les bulletins d'adhésion et les
 contrats collectifs de la mutuelle ou de l'union ainsi que dans tous les documents à caractère contractuel ou publicitaire. 
 
 Ces documents ne doivent contenir aucune assertion susceptible d'induire en erreur sur la véritable nature de la mutuelle ou
 de l'union ou l'importance réelle de ses engagements ainsi que sur la nature des contrôles exercés sur celle-ci sur la base
-des dispositions du présent titre et de celles du livre V.
+des dispositions du présent titre et celles du  livre VI du code monétaire et financier .
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 15
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. R510-19 (VD)
 
 
-##### Section 2 : Agrément administratif.
+##### Sous-section 2 : Agréments
 
-##### Sous-section 1 : Agrément administratif des mutuelles et unions d'assurance.
+##### Paragraphe 1 : Agrément administratif des mutuelles et unions d'assurance
 
 ###### Article R211-2
 
-Pour l'octroi de l'agrément administratif prévu à l'article L. 211-7, les opérations d'assurances réalisées par les mutuelles
-et les unions sont classées en branches et sous-branches de la manière suivante : 
+Pour l'octroi de l'agrément administratif prévu à  l'article L. 211-8, les opérations d'assurances réalisées par les
+mutuelles et les unions sont classées en branches et sous-branches de la manière suivante : 
 
 1. Accidents (y compris les accidents du travail et les maladies professionnelles) : 
 
@@ -9805,9 +9663,9 @@ fournissent des prestations en cas de décès, en cas de vie ou en cas de cessat
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 15
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
@@ -9847,20 +9705,29 @@ fournissent des prestations en cas de décès, en cas de vie ou en cas de cessat
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-7 (V)
-	  - Code de la mutualité - art. L222-1 (V)
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L222-1
 
 
 ###### Article R211-3
 
-L'agrément administratif est donné par branche aux mutuelles et aux unions. Cet agrément couvre la branche entière, sauf si
-la mutuelle ou l'union ne désire réaliser que des opérations relevant d'une ou plusieurs sous-branches.
+Sous réserve des dispositions de la sous-section 2 de la section 1 du chapitre Ier du titre Ier du livre II, les articles R.
+321-1-1 à R. 321-5, R. 321-14 et R. 321-16 à R. 321-18 du code des assurances sont applicables aux mutuelles et unions
+mentionnées à l'article L. 211-8. 
+
+Pour l'application de l'alinéa précédent, la référence : "    R. 321-1 du code des assurances " est remplacée par la
+référence : " R. 211-2 du code de la mutualité " et il y a lieu d'entendre : " mutuelle ou union " là où est mentionné dans
+le code des assurances : " entreprise ", " le règlement ou le contrat collectif " là où est mentionné : " contrat ", " les
+mutuelles et unions mentionnées à l'article L. 211-8 " là où est mentionné : " les entreprises mentionnées aux 1°, 3° et 4°
+de l'article L. 310-2 ", " les risques mentionnés au a et b du 1° de l'article L. 111-1 du code de la mutualité " là où est
+mentionné " les risques mentionnés au 1° et au 2° de l'article L. 310-1 " et " agréments mentionnés à l'article L. 211-8 " là
+où est mentionné : " agréments mentionnés aux articles L. 321-1, L. 321-7 et L. 321-9 ".
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 15
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R211-4
@@ -9870,50 +9737,11 @@ branches mentionnées aux 1,2,15,16,17 et 18 de l'article R. 211-2, soit des op�
 20 à 22 et 24 à 26 du même article. 
 
 Toutefois, les mutuelles et les unions peuvent être agréées pour pratiquer simultanément des opérations relevant des branches
-mentionnées aux 1 et 2,20 à 22 et 24 à 26 de l'article R. 211-2. 
-
-En outre, les mutuelles et les unions peuvent être agréées pour pratiquer simultanément des opérations relevant des branches
-20 à 22 mentionnées à l'article R. 211-2 et des opérations complémentaires relatives notamment à la couverture des risques
-d'atteinte corporelle, y compris l'incapacité de travail professionnelle, des risques de décès à la suite d'un accident et du
-risque d'invalidité à la suite d'un accident ou d'une maladie, à condition que ces garanties soient souscrites
-complémentairement au contrat relevant des branches 20 à 22 et qu'elles prennent fin au plus tard en même temps que la
-garantie principale. La cotisation due doit distinguer la part relative à la couverture du risque principal et la part
-relative aux garanties accessoires.
+mentionnées aux 1 et 2,20 à 22 et 24 à 26 de l'article R. 211-2.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 15
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R211-2 (V)
-
-
-###### Article R211-5
-
-Toute mutuelle ou union qui obtient l'agrément administratif pour un risque relevant d'une des branches ou sous-branches
-mentionnées aux 1,2,15,16,17 et 18 de l'article R. 211-2 peut également garantir des risques relevant d'une autre de ces
-branches ou sous-branches sans que l'agrément administratif soit exigé pour ces risques, lorsque ceux-ci sont liés au risque
-principal, concernent l'objet qui est couvert par le risque principal, et sont garantis par le bulletin d'adhésion au
-règlement ou par le contrat collectif qui couvre le risque principal. 
-
-Toutefois les risques relevant de la branche 15 ne peuvent être considérés comme accessoires à d'autres risques. 
-
-Le risque relevant de la branche 17 ne peut être considéré comme accessoire, dans les conditions prévues au premier alinéa,
-que lorsque le bulletin d'adhésion ou le contrat collectif ne couvre par ailleurs que le risque relevant de la branche 18. 
-
-Les garanties accessoires au risque principal mentionné au premier alinéa du présent article prennent fin au plus tard en
-même temps que la garantie principale.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 15
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
@@ -9922,12 +9750,12 @@ même temps que la garantie principale.
 	  - Code de la mutualité - art. R211-2
 
 
-##### Sous-section 2 : Agrément administratif des mutuelles et unions de réassurance.
+##### Paragraphe 2 : Agrément administratif des mutuelles et unions de réassurance
 
 ###### Article R211-5-1
 
-Pour l'octroi de l'agrément mentionné à l'article L. 211-7-2, les opérations de réassurance sont classées en activités de la
-manière suivante : 
+Pour l'octroi de l'agrément mentionné à   L. 211-8-1, les opérations de réassurance sont classées en activités de la manière
+suivante : 
 
 1. Non-vie : réassurance des opérations visées aux a, c, d et e du 1° du I de l'article L. 111-1 ; 
 
@@ -9935,9 +9763,9 @@ manière suivante :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 15
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -9948,378 +9776,142 @@ manière suivante :
 ###### Article R211-5-2
 
 Les mutuelles et unions de réassurance doivent limiter leur objet à l'activité de réassurance et aux opérations liées. Cette
-exigence peut inclure une fonction de détention de participations dans le secteur financier au sens de l'article L. 212-7-1.
+exigence peut inclure une fonction de détention de participations dans le secteur financier au sens du  3° de l'article L.
+517-2 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L212-7-1
+
+
+###### Article R211-5-3
+
+Sous réserve des dispositions de la sous-section 2 de la section 1 du chapitre Ier du titre Ier du livre II, les articles R.
+321-5-2, R. 321-5-3 et R. 321-26 à R. 321-29 du code des assurances sont applicables aux mutuelles et unions mentionnées à
+l'article L. 211-8-1. 
+
+Pour l'application de l'alinéa précédent, il y a lieu d'entendre :  "   les mutuelles et unions mentionnées à l'article L.
+211-8-1 " là où est mentionné dans le code des assurances : " toute entreprise mentionnée au 1° du III de l'article L.
+310-1-1 " et " agréments mentionnés à l'article L. 211-8-1 " là où est mentionné : " agréments mentionnés à l'article L.
+321-1-1 ".
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 15
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-1
-
-
-##### Sous-section 3 : Dispositions communes aux agréments administratifs.
-
-###### Article R211-6
-
-Tous les documents accompagnant les demandes d'agrément doivent avoir été rédigés ou être traduits en français.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 15
-
-	**Abrogé par**:
-
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
-###### Article R211-7-1
-
-Lorsqu'en application de l'article L. 211-7-1 l'Autorité de contrôle prudentiel et de résolution consulte l'autorité
-compétente, au sens du 11° de l'article L. 212-7-1, cette dernière dispose d'un délai d'un mois pour formuler ses
-observations. A sa demande, ce délai peut être prorogé d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7-1
-	  - Code de la mutualité - art. L212-7-1
-
-
-###### Article R211-8
-
-La décision de l'Autorité de contrôle prudentiel et de résolution est publiée au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
+##### Paragraphe 3 : Dispositions communes aux agréments administratifs
 
 ###### Article R211-9
 
 L'Autorité de contrôle prudentiel et de résolution transmet la demande d'agrément au Conseil supérieur de la mutualité. 
 
 L'avis mentionné au sixième alinéa de l'article L. 411-1 est réputé rendu dans un délai de trois mois à compter de la saisine
-du Conseil supérieur de la mutualité. 
-
-Toute décision de refus d'agrément doit être motivée et notifiée, par lettre recommandée avec demande d'avis de réception ou
-remise contre récépissé, par l'Autorité de contrôle prudentiel et de résolution, à la mutuelle ou à l'union concernée, dans
-un délai de six mois à compter du dépôt du dossier de demande d'agrément.
+du Conseil supérieur de la mutualité.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 	  - Code de la mutualité - art. R111-2 (V)
 
-	**Cite**:
-
-	  - Code des assurances - art. L411-1 (V)
-
-
-###### Article R211-10
-
-Pendant les cinq exercices suivant la délivrance de l'agrément, la mutuelle ou l'union présente à l'Autorité de contrôle
-prudentiel et de résolution, pour chaque semestre, un compte rendu d'exécution du programme d'activité mentionné à l'article
-L. 211-8. Si l'activité de la mutuelle ou de l'union n'est pas conforme au programme d'activités, l'Autorité peut prendre les
-mesures de police administrative prévues à la section 6 du chapitre II du titre Ier du livre VI du code monétaire et
-financier, les sanctions prévues à l'article L. 612-39 du même code ou procéder au retrait d'agrément en application de
-l'article L. 211-9 du code de la mutualité.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
 
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L612-39
-	  - Code de la mutualité - art. L211-8
-	  - Code de la mutualité - art. L211-9
+	  - Code des assurances - art. L411-1
 
 
-###### Article R211-11
-
-Lorsqu'une mutuelle ou une union n'a pas commencé à pratiquer les opérations pour lesquelles elle a obtenu l'agrément sur le
-fondement de l'article L. 211-7 ou de l'article L. 211-7-2 dans le délai d'un an à compter de la publication de la décision
-d'agrément, ou lorsqu'une mutuelle ou une union ne souscrit, pendant une période de six mois, aucun engagement au sens de
-l'article L. 221-1 relevant d'une branche ou sous-branche pour laquelle elle est agréée, elle en fait la déclaration à
-l'Autorité de contrôle prudentiel et de résolution dès que ces délais sont expirés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 31 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. L221-1
-	  - Code de la mutualité - art. R211-7
-
+##### Paragraphe 4 : Caducité des agréments
 
 ###### Article R211-12
 
-L'Autorité de contrôle prudentiel et de résolution peut retirer l'agrément pour les branches, sous-branches ou activités
-considérées, à la demande d'une mutuelle ou union :
-
-- agréée sur le fondement de l'article L. 211-7 et s'engageant à ne plus émettre de nouveaux bulletins d'adhésion à un
-règlement ou de contrats collectifs relevant d'une ou plusieurs branches ou sous-branches pour laquelle elle est agréée ;
-
-- lorsqu'une autre mutuelle ou union s'est substituée à elle en application de l'article L. 211-5 ;
-
-- agréée sur le fondement de l'article L. 211-7-2 et s'engageant à ne plus exercer les activités pour lesquelles elle a été
-agréée.
+L'Autorité de contrôle prudentiel et de résolution peut constater la caducité de l'agrément pour les branches ou sous-
+branches, à la demande d'une mutuelle ou union lorsqu'une autre mutuelle ou union s'est substituée à elle en application de
+l'article L. 211-5 dans les conditions prévues à l'article L. 321-10-2 du code des assurances.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-5 (V)
-	  - Code de la mutualité - art. L211-7 (V)
-	  - Code de la mutualité - art. L211-7-2 (V)
+	  - Code de la mutualité - art. L211-5
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L211-7-2
 
+
+##### Section 2 : Système de gouvernance applicable aux mutuelles et unions relevant du régime dit “ solvabilité II ”
 
 ###### Article R211-13
 
-Préalablement au retrait de l'agrément administratif mentionné à l'article L. 211-9, l'Autorité de contrôle prudentiel et de
-résolution notifie à la mutuelle ou à l'union concernée, par lettre recommandée avec demande d'avis de réception ou remise
-contre récépissé, les faits justifiant le retrait et l'invite à présenter ses observations écrites dans un délai de quinze
-jours. 
-
-Si elle décide d'engager la procédure de retrait d'agrément administratif mentionné à l'article L. 211-9, l'Autorité de
-contrôle prudentiel et de résolution transmet au conseil supérieur de la mutualité une demande d'avis, accompagnée d'un
-rapport explicatif ainsi que des observations présentées par la mutuelle ou l'union. 
-
-L'avis du Conseil supérieur de la mutualité est réputé rendu dans un délai de trois mois à compter de sa saisine par
-l'autorité administrative.
+L'exigence de compétence mentionnée au VIII de l'article L. 114-21 s'apprécie conformément à l'article 258 du règlement
+délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014 sans préjudice des dispositions de l'article R. 114-9.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-9 (V)
+	  - Code de la mutualité - art. L211-9
 
 
 ###### Article R211-14
 
-Toute décision de retrait de l'agrément administratif mentionné à l'article L. 211-9 doit être motivée et notifiée, par
-lettre recommandée avec demande d'avis de réception ou remise contre récépissé, à la mutuelle ou à l'union intéressée.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+Les dispositions du chapitre IV du titre V du livre III du code des assurances sont applicables aux mutuelles et unions
+mentionnées à l'article L. 211-10.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-9 (V)
+	  - Code de la mutualité - art. L211-9
 
 
 ###### Article R211-15
 
-La décision de retrait de l'agrément administratif est publiée au Journal officiel de la République française ainsi qu'au
-Journal officiel de l'Union européenne. 
+Le président du conseil d'administration et le dirigeant opérationnel mentionné à l'article L. 211-4 dirigent effectivement
+la mutuelle ou l'union au sens de l'article L. 211-13. 
 
-Cette publication est assurée, par l'Autorité de contrôle prudentiel et de résolution. Elle précise le nom et les coordonnées
-des autorités compétentes pour les besoins de la liquidation et, le cas échéant, du ou des liquidateurs désignés. Elle
-indique également la législation qui est applicable à cette liquidation.
+Le conseil d'administration peut également, sur proposition de son président, désigner comme dirigeant effectif une ou
+plusieurs personnes physiques, qui ne sont pas mentionnées à l'alinéa précédent. Ces personnes doivent disposer d'un domaine
+de compétence et de pouvoirs suffisamment larges sur les activités et les risques de la mutuelle ou l'union, faire preuve
+d'une disponibilité suffisante au sein de la mutuelle ou l'union pour exercer ce rôle, et être impliquées dans les décisions
+ayant un impact important sur la mutuelle ou l'union, notamment en matière de stratégie, de budget ou de questions
+financières. Sur proposition de son président, le conseil d'administration peut leur retirer cette fonction. 
+
+Le conseil d'administration définit les cas dans lesquels les dirigeants effectifs sont absents ou empêchés de manière à
+garantir la continuité de la direction effective de la mutuelle ou de l'union.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. R211-15 (V)
-
-
-###### Article R211-15-1
-
-I.-En cas de retrait de l'agrément administratif accordé à une mutuelle ou une union de mutuelles et dans un délai de vingt
-jours à compter du lendemain du jour de la publication au Journal officiel de la République française de la décision du
-collège de l'Autorité de contrôle prudentiel et de résolution ou sa commission des sanctions, chaque membre participant est
-avisé de ce retrait d'agrément par le liquidateur ou, en attendant la désignation du liquidateur, par le président du conseil
-d'administration de la mutuelle ou de l'union de mutuelles, ou son représentant. 
-
-Cet avis, qui rappelle la législation applicable, est adressé par lettre recommandée au dernier domicile connu du membre
-participant. 
-
-Lorsque le membre participant n'est pas l'assuré ou le bénéficiaire de l'adhésion, l'information est aussi adressée aux
-assurés ou bénéficiaires connus. 
-
-Cet avis rappelle les dispositions des articles L. 212-16 et L. 212-18 et indique, s'il y a lieu, l'autorité auprès de
-laquelle les souscripteurs, assurés, adhérents et bénéficiaires de contrats peuvent présenter leurs observations relatives
-aux créances et précise, le cas échéant, les délais pour ce faire et les conséquences d'une non-observation des délais. 
-
-Les avis individuels doivent être préparés sous la responsabilité des administrateurs de la mutuelle ou de l'union, dès lors
-que l'injonction en est adressée par l'Autorité de contrôle prudentiel et de résolution. 
-
-Lorsque le créancier d'assurance connu a sa résidence habituelle, son domicile ou son siège statutaire dans un Etat membre de
-la Communauté européenne ou partie à l'accord sur l'Espace économique européen autre que la France, l'avis est également
-rédigé dans la langue officielle ou l'une des langues officielles de cet Etat. 
-
-II.-Lorsque le retrait d'agrément concerne une mutuelle ou une union agréée pour réaliser des opérations visées aux a, c, d,
-e du 1° du I de l'article L. 111-1, l'avis mentionné au I du présent article reproduit le texte de l'article L. 212-20 et
-précise la date à laquelle l'adhésion au règlement cessera de produire effet. 
-
-III.-Lorsque le retrait d'agrément concerne une mutuelle ou une union réalisant des opérations visées au b du 1° du I de
-l'article L. 111-1, l'avis mentionné au I du présent article reproduit le texte des articles L. 212-19 et L. 212-21. Le cas
-échéant, chaque membre participant ou ayant droit est par ailleurs informé, dans les mêmes conditions, des décisions prises
-par l'Autorité de contrôle prudentiel et de résolution en application du deuxième alinéa de l'article L. 212-21. Lorsque la
-décision de l'Autorité de contrôle prudentiel et de résolution a pour effet de fixer la date à laquelle les bulletins
-d'adhésion cessent d'avoir effet, cette communication intervient au plus tard vingt jours avant la date de cessation des
-effets du bulletin d'adhésion.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. L212-16
-	  - Code de la mutualité - art. L212-19
-	  - Code de la mutualité - art. L212-20
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R510-8 (VT)
-
-
-###### Article R211-16
-
-Une mutuelle ou une union de mutuelles dont tous les agréments ont été retirés ne cesse d'être soumise, pour l'application du
-livre II, au contrôle de l'Autorité de contrôle prudentiel et de résolution que lorsque l'ensemble des engagements résultant
-des bulletins d'adhésion à des règlements ou contrats collectifs souscrits par la mutuelle ou l'union ont été intégralement
-et définitivement réglés aux membres participants et aux tiers bénéficiaires ou ont fait l'objet d'un transfert autorisé dans
-les conditions prévues à l'article L. 212-11.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-11
-
-
-###### Article R211-17
-
-En cas de retrait d'agrément prévu à l'article L. 211-9 ou au 6 ou au 7 de l'article L. 612-39 du code monétaire et
-financier, l'Autorité de contrôle prudentiel et de résolution informe d'urgence les autorités compétentes des autres Etats
-membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-39
-	  - Code de la mutualité - art. L211-9
-
-
-###### Article R211-18
-
-Lorsqu'une mutuelle ou une union fait l'objet d'un retrait d'agrément, l'Autorité de contrôle peut prendre, le cas échéant
-avec le concours des autorités de contrôle des autres Etats membres de la Communauté européenne ou parties à l'accord sur
-l'Espace économique européen sur le territoire desquels la mutuelle ou l'union opère, les mesures prévues aux articles L.
-612-33 et L. 612-34 du code monétaire et financier afin de sauvegarder les intérêts des membres participants et des
-bénéficiaires.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-33
 
 
 ##### Section 3 : Dispositions particulières à la branche protection juridique.
@@ -10327,12 +9919,14 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 ###### Article R211-19
 
 Toute mutuelle ou union doit, lorsqu'elle sollicite un agrément pour la branche 17 conformément aux dispositions des articles
-L. 211-7 et L. 211-8, indiquer, lors de la présentation des documents prévus à ces articles, la modalité de gestion adoptée
+L. 211-8 et L. 211-8-1, indiquer, lors de la présentation des documents prévus à ces articles, la modalité de gestion adoptée
 parmi celles qui sont énoncées à l'article L. 224-7. 
 
 Lorsque la mutuelle ou l'union choisit de confier les remboursements de la branche de protection juridique à une mutuelle ou
 union juridiquement distincte, conformément aux dispositions du b de l'article L. 224-7, elle doit adresser copie des statuts
-de cette mutuelle ou union à l'Autorité de contrôle prudentiel et de résolution. 
+de cette mutuelle ou union à l'Autorité de contrôle prudentiel et de résolution. Le contrat d'assurance de protection
+juridique mentionné à l'article L. 224-2 doit indiquer la dénomination et le siège de la mutuelle ou de l'union juridiquement
+distincte à qui est confiée la gestion des sinistres de la branche Protection juridique. 
 
 Si cette mutuelle ou union juridiquement distincte a des liens de la nature de ceux qui sont définis à l'article L. 612-26 du
 code monétaire et financier avec un autre organisme pratiquant également l'activité d'assurance, la mutuelle ou l'union qui
@@ -10347,13 +9941,13 @@ relatifs à cette gestion n'exercent pas la même activité pour le compte de l'
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L612-26 (V)
-	  - Code de la mutualité - art. L211-7 (V)
-	  - Code de la mutualité - art. L224-7 (V)
+	  - Code monétaire et financier - art. L612-26
+	  - Code de la mutualité - art. L211-7
+	  - Code de la mutualité - art. L224-7
 
 	**Cité par**:
 
@@ -10450,17 +10044,17 @@ organisme pour la constitution des garanties et pour l'exécution des engagement
 ###### Article R211-23
 
 La liste des pièces qui doivent être fournies à l'Autorité de contrôle prudentiel et de résolution pour l'exercice du
-contrôle prévu à l'article L. 211-5 est fixée par arrêté du ministre chargé de la mutualité.
+contrôle prévu à l'article L. 211-5 est fixée par l'Autorité de contrôle prudentiel et de résolution.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-5 (V)
+	  - Code de la mutualité - art. L211-5
 
 
 ###### Article R211-24
@@ -10477,26 +10071,6 @@ récépissé à la mutuelle ou à l'union intéressée.
 	**Modifié par**:
 
 	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-
-###### Article R211-25
-
-Le silence gardé pendant plus deux mois par l'Autorité de contrôle prudentiel et de résolution, à compter de la réception du
-projet de modification d'une convention de substitution, vaut autorisation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R211-26
@@ -10537,253 +10111,21 @@ contiennent en caractères très apparents la désignation de l'adresse de la mu
 organisme et reproduisent la clause de la convention par laquelle cette mutuelle ou union déclare se substituer à lui pour la
 constitution des garanties et pour l'exécution des engagements. 
 
-Ils doivent également préciser que, si l'agrément accordé à la mutuelle ou à l'union qui se substitue lui est retiré, le
-bulletin d'adhésion ou le contrat collectif mentionné à l'article L. 221-1 sera résilié le quarantième jour à midi à compter
-de la date de la publication de la décision du retrait d'agrément, la portion de cotisation afférente à la période non
-garantie étant alors restituée au souscripteur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Décret n°2005-8 du 5 janvier 2005 - art. 2 () JORF 7 janvier 2005
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L221-1 (V)
-	  - Code de la mutualité - art. R211-26 (V)
-
-
-##### Section 5 : Contrôle interne
-
-###### Article R211-28
-
-La mutuelle ou union est tenue de mettre en place un dispositif permanent de contrôle interne. 
-
-Le conseil d'administration approuve, au moins annuellement, un rapport sur le contrôle interne, qui est transmis à
-l'Autorité de contrôle prudentiel et de résolution. 
-
-1° La première partie de ce rapport détaille les conditions de préparation et d'organisation des travaux du conseil
-d'administration et, le cas échéant, les pouvoirs délégués aux dirigeants salariés dans le cadre du 7° de l'article L. 114-4.
-
-2° La seconde partie de ce rapport détaille : 
-
-a) Les objectifs, la méthodologie, la position et l'organisation générale du contrôle interne au sein de la mutuelle ou de
-l'union ; les mesures prises pour assurer l'indépendance et l'efficacité du contrôle interne et notamment la compétence et
-l'expérience des équipes chargées de le mettre en œuvre, ainsi que les suites données aux recommandations des personnes ou
-instances chargées du contrôle interne ; 
-
-b) Les procédures permettant de vérifier que les activités de la mutuelle ou de l'union sont conduites selon les politiques
-et stratégies établies par les organes dirigeants et les procédures permettant de vérifier la conformité des opérations
-d'assurance ou de réassurance aux dispositions législatives et réglementaires ; 
-
-c) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui
-concerne l'évaluation de la qualité des actifs et de la gestion actif-passif, le suivi des opérations sur instruments
-financiers à terme et l'appréciation des performances et des marges des intermédiaires financiers utilisés ; 
-
-d) Le dispositif interne de contrôle de la gestion des placements, ce qui inclut la répartition interne des responsabilités
-au sein du personnel, les personnes chargées d'effectuer les transactions ne pouvant être également chargées de leur suivi,
-les délégations de pouvoir, la diffusion de l'information, les procédures internes de contrôle ou d'audit ; 
-
-e) Les procédures et dispositifs permettant d'identifier, d'évaluer, de gérer et de contrôler les risques liés aux
-engagements de la mutuelle ou de l'union et de détenir des capitaux suffisants pour ces risques, ainsi que les méthodes
-utilisées pour vérifier la conformité des pratiques en matière d'acceptation et de tarification du risque, de cession en
-réassurance et de provisionnement des engagements réglementés à la politique de la mutuelle ou de l'union dans ces domaines,
-définie dans le rapport mentionné à l'article L. 212-3 ; 
-
-f) Les mesures prises pour assurer le suivi de la gestion des sinistres, le suivi des filiales, la maîtrise des activités
-externalisées et des modes de commercialisation des produits de la mutuelle ou de l'union, et les risques qui pourraient en
-résulter ; 
-
-g) Les procédures d'élaboration et de vérification de l'information financière et comptable ; 
-
-h) Les procédures et mesures de contrôle interne des risques de blanchiment des capitaux et de financement du terrorisme,
-pour les mutuelles et unions mentionnées au 4° de l'article L. 561-2 du code monétaire et financier. 
-
-Ces procédures et mesures sont mises en œuvre dans les conditions prévues par un arrêté du ministre chargé de la mutualité
-après avis du ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2008-468 du 19 mai 2008 - art. 9 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L561-2
-	  - Code de la mutualité - art. L114-4
-	  - Code de la mutualité - art. L212-3
-
-
-###### Article R211-28-1
-
-Les organismes chargés d'établir et de publier les comptes consolidés ou combinés d'un groupe au sens de l'article L. 212-7
-fournissent en outre un rapport décrivant également le dispositif de contrôle interne du groupe. 
-
-Ce rapport contient notamment une description des éléments mentionnés à l'article R. 213-1 et à l'article R. 213-6.
+Ils doivent également préciser que, si l'agrément accordé à la mutuelle ou à l'union qui se substitue lui est retiré ou est
+déclaré caduc, le bulletin d'adhésion ou le contrat collectif mentionné à l'article L. 221-1 sera résilié le quarantième jour
+à midi à compter de la date de la publication de la décision du retrait d'agrément, la portion de cotisation afférente à la
+période non garantie étant alors restituée au souscripteur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. R213-1
-	  - Code de la mutualité - art. R213-6
-
-
-###### Article R211-28-2
-
-Le conseil d'administration approuve au moins annuellement les lignes directrices de la politique de réassurance. 
-
-Un rapport relatif à la politique de réassurance lui est soumis annuellement. 
-
-Ce rapport décrit : 
-
-Les orientations prises par l'organisme en matière de cessions en réassurance, en particulier en ce qui concerne la nature et
-le niveau de protection visé et le choix des entreprises cessionnaires ; 
-
-Les critères qualitatifs et quantitatifs sur lesquels l'organisme se fonde pour s'assurer de l'adéquation de ses cessions en
-réassurance avec les risques souscrits ; 
-
-Les orientations de la politique de réassurance concernant les risques souscrits au cours de l'exercice suivant le dernier
-exercice clos ainsi que les principales cessions de réassurance ; 
-
-L'organisation concernant la définition, la mise en œuvre et le contrôle du programme de réassurance ; 
-
-Les méthodes d'analyse et de suivi qu'utilise l'organisme en ce qui concerne le risque de contrepartie lié à ses opérations
-de cessions en réassurance ainsi que les conclusions résultant de l'emploi de ces méthodes. 
-
-Après son approbation, ce rapport peut être inclus dans le rapport de solvabilité mentionné à l'article L. 212-3. 
-
-Les dispositions du présent article sont applicables aux mutuelles et unions mentionnées à l'article L. 211-7-2.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 15
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. L212-3
-
-
-###### Article R211-29
-
-Le conseil d'administration fixe, au moins annuellement, les lignes directrices de la politique de placement. Il se prononce
-en particulier sur les modalités de choix des intermédiaires financiers, sur la gestion actif-passif, sur la qualité des
-actifs et sur les opérations sur instruments financiers à terme. 
-
-A cet effet, il s'appuie sur le rapport de solvabilité mentionné à l'article L. 212-3 qui, dans une partie distincte relative
-aux placements, présente les résultats obtenus pour chaque portefeuille et chaque catégorie de placements, détaille les
-opérations mentionnées aux articles R. 212-70 à R. 212-73 réalisées au cours de la période écoulée et fixe, pour ces
-opérations, les limites aux risques de marché, de contrepartie et de liquidité encourus sur les opérations à venir. 
-
-Le conseil d'administration peut modifier les limites mentionnées à l'alinéa précédent. Dans ce cas, il rend compte de ces
-modifications sans délai à l'Autorité de contrôle prudentiel et de résolution et dans le prochain rapport de solvabilité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-3
-	  - Code de la mutualité - art. R212-70
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R211-31 (VT)
-
-
-###### Article R211-30
-
-Lorsqu'elle se propose d'utiliser pour la première fois des instruments financiers à terme, la mutuelle ou union en informe
-préalablement l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
-
-
-###### Article R211-31
-
-La mutuelle ou union effectue un suivi permanent des opérations mentionnées aux articles R. 212-70 à R. 212-73. Elle tient à
-cet effet un relevé quotidien des positions prises pour chaque catégorie de placement sous-jacent, échéance par échéance. 
-
-Le système de suivi doit permettre : 
-
-a) Une évaluation sans délai des valeurs de réalisation ; 
-
-b) Le respect à tout moment des limites internes mentionnées à l'article R. 211-29 ; 
-
-c) Le contrôle à tout moment du respect par les gestionnaires de ces limites et des procédures internes nécessaires à
-l'accomplissement des dispositions du présent article.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 1 () JORF 26 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R211-29 (VT)
-	  - Code de la mutualité - art. R212-70
+	  - Code de la mutualité - art. L221-1
+	  - Code de la mutualité - art. R211-26
 
 
 #### Chapitre II : Fonctionnement.
@@ -10793,8 +10135,8 @@ l'accomplissement des dispositions du présent article.
 ###### Article R212-1
 
 Le fonds d'établissement des mutuelles et unions régies par le présent livre est destiné à faire face, dans les limites
-fixées par le programme d'activité prévu à l'article L. 211-8, aux dépenses des cinq premiers exercices et à garantir les
-engagements de la mutuelle ou de l'union. 
+fixées par le programme d'activité prévu aux articles L. 321-10 et L. 321-10-1 du code des assurances, aux dépenses des cinq
+premiers exercices et à garantir les engagements de la mutuelle ou de l'union. 
 
 Le fonds d'établissement est notamment constitué des droits d'adhésion versés par chacun des membres de la mutuelle et de
 l'union lorsque l'existence de ce droit a été prévue par les statuts en application du 3° de l'article L. 114-4. Il peut
@@ -10807,25 +10149,25 @@ pratiquent les opérations mentionnées aux a, c, d et e du 1° du I du même ar
 espèces préalablement au dépôt par la mutuelle ou l'union de la demande d'agrément auprès de l'Autorité de contrôle
 prudentiel et de résolution. 
 
-Par dérogation aux dispositions de l'alinéa précédent, le montant du fonds d'établissement des mutuelles mentionnées à
-l'article R. 212-14 et aux cinq derniers alinéas de l'article R. 212-17 est au moins égal au tiers de la marge de
-solvabilité. Ces dispositions ne sont pas applicables aux mutuelles visées à l'article L. 211-5 qui ne réalisent pas
+Par dérogation aux dispositions de l'alinéa précédent, le montant du fonds d'établissement des mutuelles ou unions
+mentionnées à l'article R. 212-14 et aux cinq derniers alinéas de l'article R. 212-17 est au moins égal au tiers de la marge
+de solvabilité. Ces dispositions ne sont pas applicables aux mutuelles visées à l'article L. 211-5 qui ne réalisent pas
 d'opérations d'assurance directes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (V)
-	  - Code de la mutualité - art. L114-4 (V)
-	  - Code de la mutualité - art. L211-5 (V)
-	  - Code de la mutualité - art. L211-8 (V)
-	  - Code de la mutualité - art. R212-14 (V)
-	  - Code de la mutualité - art. R212-17 (V)
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L114-4
+	  - Code de la mutualité - art. L211-5
+	  - Code de la mutualité - art. L211-8
+	  - Code de la mutualité - art. R212-14
+	  - Code de la mutualité - art. R212-17 (VT)
 
 
 ###### Article R212-2
@@ -11039,141 +10381,125 @@ un mois au moins après la notification faite aux membres participants et honora
 
 ###### Article R212-9-1
 
-Pour les mutuelles et unions régies par le présent livre, le montant du droit d'adhésion ne peut dépasser le rapport entre,
-d'une part, la marge de solvabilité mentionnée aux articles R. 212-12, R. 212-14, R. 212-16 et R. 212-19 et la solvabilité
-ajustée mentionnée aux articles R. 213-2 à R. 213-5 et, d'autre part, le nombre de membres participants et honoraires sur
-lequel portent les comptes approuvés. Toutefois, lorsque la marge de solvabilité effectivement constituée est inférieure au
-montant minimal réglementaire, le premier terme de ce rapport est majoré du montant de cette insuffisance.
+Pour les mutuelles et unions régies par le présent livre et mentionnées à l'article L. 211-11, le montant du droit d'adhésion
+ne peut dépasser le rapport entre, d'une part, la marge de solvabilité mentionnée aux articles R. 334-5, R. 334-13 et R.
+334-19 du code des assurances, d'autre part, le nombre de membres participants et honoraires constaté à la clôture de
+l'exercice sur lequel portent les comptes approuvés. Toutefois, lorsque la marge de solvabilité effectivement constituée est
+inférieure au montant minimal réglementaire, le premier terme de ce rapport est majoré du montant de cette insuffisance. 
 
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2005-244 du 14 mars 2005 - art. 2 () JORF 18 mars 2005
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-12 (V)
-	  - Code de la mutualité - art. R212-14 (V)
-	  - Code de la mutualité - art. R212-16 (V)
-	  - Code de la mutualité - art. R212-19 (V)
-	  - Code de la mutualité - art. R213-2 (V)
-
-
-##### Section 2 : Marge de solvabilité.
-
-###### Article R212-10
-
-Les mutuelles et unions agréées par l'Autorité de contrôle prudentiel et de résolution dans les conditions prévues à
-l'article L. 211-7 doivent justifier de l'existence d'une marge de solvabilité suffisante relative à l'ensemble de leurs
-activités.
+Pour les mutuelles et unions mentionnées à l'article L. 211-10, le montant du droit d'adhésion ne peut dépasser le rapport
+entre, d'une part, le capital de solvabilité requis mentionné à l'article L. 352-1 du code des assurances, d'autre part, le
+nombre de membres participants et honoraires constaté à la clôture de l'exercice sur lequel portent les comptes approuvés.
+Toutefois, lorsque les fonds propres éligibles mentionnés à l'article L. 351-6 du code des assurances sont insuffisants pour
+couvrir le capital de solvabilité requis, le premier terme de ce rapport est majoré du montant de cette insuffisance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de la mutualité - art. R212-12
+	  - Code de la mutualité - art. R212-14 (VT)
+	  - Code de la mutualité - art. R212-16
+	  - Code de la mutualité - art. R212-19 (VT)
+	  - Code de la mutualité - art. R213-2
+
+
+##### Section 2 : Régime comptable
+
+###### Article R212-10
+
+I.-La quote-part mentionnée à l'article L. 212-6 est un pourcentage de la valeur de l'ensemble des placements appartenant à
+la mutuelle ou l'union et de ceux des autres actifs affectables à la représentation des engagements réglementés, évalués
+conformément aux dispositions de l'article R. 343-11 du code des assurances. Pour les mutuelles et unions mentionnées à
+l'article L. 211-10, les autres actifs comprennent les créances sur les membres participants et sur les réassureurs, ainsi
+que les frais d'acquisition reportés. Ce pourcentage est au moins égal au résultat obtenu en divisant par cette valeur la
+somme des montants suivants : 
+
+a) Actifs correspondant aux opérations relevant de l'article L. 222-1, évalués conformément à l'article R. 343-11 du code des
+assurances ; 
+
+b) Placements affectés à la représentation des opérations en unités de compte dans lesquels la somme assurée est déterminée
+par rapport à une valeur de référence et évalués conformément au dernier alinéa de l'article R. 332-5 du code des
+assurances ; 
+
+c) Actifs transférés avec un portefeuille de bulletins d'adhésion à un règlement ou de contrats, évalués conformément à
+l'article R. 343-11 du code des assurances ; 
+
+d) Montant des provisions techniques brutes de réassurance constituées au titre des opérations pratiquées par la mutuelle ou
+l'union pour les branches 20 à 22 et 24 à 26 de l'article R. 211-2 autres que celles qui sont mentionnées aux a et b et
+diminué du montant des actifs mentionnés au c, évalués conformément aux articles R. 343-9 et R. 343-10 du code des
+assurances ; 
+
+e) Un pourcentage, défini au II, de la différence entre, d'une part, la valeur évaluée conformément à l'article R. 343-11 du
+code des assurances, d'autre part, celle évaluée conformément aux articles R. 343-9 et R. 343-10 du code des assurances, de
+l'ensemble des placements appartenant à la mutuelle ou l'union et de ceux des autres actifs affectables à la représentation
+des engagements réglementés autres que ceux mentionnés aux a, b et c. Pour les mutuelles et unions mentionnées à l'article L.
+211-10, les autres actifs comprennent les créances sur les membres participants et sur les réassureurs, ainsi que les frais
+d'acquisition reportés. 
+
+II.-Le pourcentage mentionné au e du I est égal à 85 % du quotient A/ B, avec : 
+
+A.-Montant moyen des provisions techniques brutes de réassurance constituées au titre de l'ensemble des opérations pratiquées
+par la mutuelle ou l'union autres que celles qui sont mentionnées aux a et b du I ou qui sont relatives à des opérations
+collectives en cas de décès ou, pour les mutuelles ou unions agréées pour pratiquer simultanément les opérations visées au a
+et au b du 1° de l'article L. 111-1, à des opérations relevant des branches 1 ou 2 de l'article R. 211-2, et diminué du
+montant moyen des actifs mentionnés au c du I, évalués conformément aux articles R. 343-9 et R. 343-10 du code des
+assurances ; 
+
+B.-Montant moyen de l'ensemble des placements appartenant à la mutuelle ou l'union et de ceux des autres actifs affectables à
+la représentation des engagements réglementés, autres que ceux qui sont mentionnés aux a, b et c du I, évalués conformément
+aux articles R. 343-9 et R. 343-10 du code des assurances. Pour les mutuelles et unions mentionnées à l'article L. 211-10,
+les autres actifs comprennent les créances sur les membres participants et sur les réassureurs, ainsi que les frais
+d'acquisition reportés. 
+
+Les montants moyens mentionnés à l'alinéa précédent sont obtenus en divisant par deux la somme des montants inscrits dans les
+comptes à l'ouverture et à la clôture de l'exercice. 
+
+III.-Les placements, actifs et provisions mentionnés au présent article ne comprennent pas ceux qui sont constitués par la
+mutuelle ou l'union dans le cadre des opérations effectuées par ses succursales situées à l'étranger. 
+
+IV.-En cas de transfert de portefeuille, la valeur des actifs transférés ne peut excéder celle qui résulte de leur évaluation
+conformément aux dispositions de l'article R. 343-11 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
 	  - Décret n°2017-293 du 6 mars 2017 - art. 2
-	  - Code de la mutualité - art. R212-11 (V)
+	  - Code de la mutualité - art. R212-11 (VD)
 	  - Code de la mutualité - art. R212-15 (VT)
 	  - Code de la mutualité - art. R212-18 (VT)
 	  - Code monétaire et financier - art. R612-31-2 (V)
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-7 (V)
+	  - Code de la mutualité - art. L211-7
 
 
 ###### Article R212-11
 
-I.-La marge de solvabilité mentionnée à l'article R. 212-10 des mutuelles et unions agréées pour pratiquer des opérations
-relevant des branches 1,2,15,16 a et h, 17,18 mentionnées à l'article R. 211-2 est constituée, après déduction des pertes, de
-la part des frais d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels,
-par les éléments suivants : 
+Les dispositions du titre IV du livre III du code des assurances, à l'exception de celles du chapitre IV, sont applicables
+aux mutuelles et unions régies par le livre II du code de la mutualité. 
 
-1. Le fonds d'établissement constitué ; 
-
-2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
-de capitalisation ; 
-
-3. Les excédents reportés ; 
-
-4. Le ou les emprunts pour fonds de développement ; toutefois, à partir de la moitié de la durée d'un emprunt, celui-ci n'est
-retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant égal au
-double du montant total de cet emprunt divisé par le nombre d'années de sa durée. 
-
-II.-La marge de solvabilité peut également être constituée par : 
-
-1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés. 
-
-Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du
-ministre chargé de la mutualité. Ces fonds sont admis jusqu'à concurrence de 50 % de l'exigence de marge de solvabilité ou de
-la marge de solvabilité, le montant le plus faible étant retenu. Toutefois, la prise en compte de ceux de ces fonds qui
-proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout remboursement
-effectué irrégulièrement peut, conformément aux dispositions de la section 6 et de la section 7 du chapitre II du titre Ier
-du livre VI du code monétaire et financier, donner lieu à des mesures de police ou de sanction de l'Autorité de contrôle
-prudentiel et de résolution. 
-
-2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
-mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie. 
-
-III.-Sur demande et justification de la mutuelle ou de l'union et avec l'accord de l'Autorité de contrôle mentionnée à
-l'article L. 510-1, la marge de solvabilité peut également être constituée par les éléments suivants : 
-
-1. Avec l'accord des autorités de contrôle des Etats membres de la Communauté européenne où la mutuelle ou l'union exerce son
-activité : 
-
-a) La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ; 
-
-b) Les rappels de cotisations que les mutuelles peuvent exiger de leurs membres participants et honoraires au titre de
-l'exercice, à concurrence de la moitié de la différence entre les cotisations maximales et les cotisations effectivement
-appelées ; toutefois, ces possibilités de rappel ne peuvent représenter, d'une part, plus de 50 % de la marge prévue au
-présent article, d'autre part, plus de 50 % de l'exigence minimale de marge prévue à l'article R. 212-12 ; 
-
-c) Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif,
-dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel ; 
-
-2. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71, lorsque
-les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 212-31 ou
-réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81. 
-
-Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés aux 1 (c)
-et au 2. 
-
-IV.-Lorsque la mutuelle ou l'union n'est pas soumise à une surveillance complémentaire en application de l'article L. 212-7-2
-ou de l'article L. 212-7-4, la marge de solvabilité est diminuée des éléments suivants : 
-
-a) Les participations au sens du 2° de l'article L. 212-7-1 que la mutuelle ou l'union détient dans des établissements de
-crédit, des entreprises d'investissement ou des établissements financiers ; 
-
-b) Les créances subordonnées et autres instruments financiers que la mutuelle ou l'union détient sur des établissements de
-crédit, des entreprises d'investissement ou des établissements financiers dans lesquels elle détient une participation, et
-qui sont considérés comme des fonds propres pour le calcul des exigences de fonds propres applicables aux entreprises et
-établissements mentionnés ci-dessus ; 
-
-c) Les certificats mutualistes émis et détenus directement par la mutuelle ou l'union. 
-
-Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
-détenue temporairement en vue de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de contrôle
-prudentiel et de résolution peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux a et b. 
-
-En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions mentionnées au a et au b lorsqu'elle est soumise
-à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle respecte les
-exigences complémentaires en fonds propres calculées selon les modalités fixées par l'arrêté des ministres chargés de
-l'économie, de la sécurité sociale et de la mutualité prévu à l'article L. 517-8 du code monétaire et financier. 
-
-V.-Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3 du I est susceptible d'être faussée par
-l'existence d'un contrat de réassurance financière limitée souscrit par la mutuelle ou l'union, l'Autorité de contrôle peut
-limiter la prise en compte de ce report, en vue d'y intégrer les charges futures attendues au titre de ce contrat. Le cas
-échéant, le montant de la marge de solvabilité est ajusté au terme du contrat de réassurance financière limitée, en fonction
-du report cumulé effectivement constaté.
+Pour l'application du présent article, il y a lieu d'entendre : "    participation aux excédents " là où est mentionné : "
+participation aux bénéfices ", " cotisations " là où est mentionné : " primes ", " prestations à payer " là où est
+mentionné : " sinistres à payer ", " mutuelles et unions " là où est mentionné : " entreprises d'assurance ", " bulletin
+d'adhésion à un règlement ou contrat collectif " là où est mentionné : " contrat ", " membres participants " là où est
+mentionné : " assurés ", " opérations " là où est mentionné : " contrats ", " les mutuelles et unions régies par le livre II
+du code de la mutualité " là où est mentionné : " les entreprises mentionnées à l'article L. 310-1 ou au 1° du III de
+l'article L. 310-1-1 ", " contrats collectifs " là où est mentionné : " opérations d'assurance de groupe ", " les opérations
+mentionnées au b du 1° de l'article L. 111-1 du code de la mutualité " là où est mentionné : " les opérations mentionnées au
+1° de l'article L. 310-1 ", " les opérations mentionnées aux a et b du 1° de l'article L. 111-1 du code de la mutualité " là
+où est mentionné : " les opérations mentionnées au 1° et au 2° de l'article L. 310-1 ", " cotisation " là où est mentionné :
+" prime ", " la mutuelle ou l'union " là où est mentionné : " l'assureur ".
 
 **Liens relatifs à cet article**
 
@@ -11191,325 +10517,6 @@ du report cumulé effectivement constaté.
 
 	**Modifié par**:
 
-	  - Décret n°2015-204 du 23 février 2015 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-8
-	  - Code de la mutualité - art. L111-6
-	  - Code de la mutualité - art. L212-7-1
-	  - Code de la mutualité - art. L212-7-2
-	  - Code de la mutualité - art. L212-7-4
-	  - Code de la mutualité - art. L431-1
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-10
-	  - Code de la mutualité - art. R212-12
-	  - Code de la mutualité - art. R212-70
-	  - Code de la mutualité - art. R212-81
-
-
-###### Article R212-12
-
-En ce qui concerne les mutuelles et unions agréées pour pratiquer des opérations relevant des branches 1,2,15,16 a et h, 17
-et 18 mentionnées à l'article R. 211-2, l'exigence minimale de marge de solvabilité est déterminée soit par rapport au
-montant annuel des cotisations, soit par rapport à la charge moyenne des sinistres pour les trois derniers exercices. Cette
-exigence minimale de marge est égale au plus élevé des résultats obtenus par application des deux méthodes suivantes : 
-
-(a)) Première méthode (calcul par rapport aux cotisations) : 
-
-La base des cotisations est calculée à partir des cotisations brutes émises ou des cotisations brutes acquises, le chiffre le
-plus élevé étant retenu. Au total des cotisations émises en opérations directes au cours du dernier exercice, quel que soit
-l'exercice au titre duquel elles ont été émises, accessoires compris, sont ajoutées les cotisations acceptées en réassurance
-au cours du dernier exercice. 
-
-De cette somme sont déduits, d'une part, le total des cotisations annulées au cours du dernier exercice, d'autre part, le
-total des impôts et taxes afférents aux cotisations précitées. 
-
-Le montant obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 61 300 000 euros. A 18 % de la
-première tranche sont ajoutés 16 % de la seconde. 
-
-Le résultat déterminé par application de la première méthode est obtenu en multipliant la somme des deux termes de l'addition
-prévue à l'alinéa précédent par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres
-demeurant à charge de l'entreprise après cession en réassurance et le montant des sinistres brut de réassurance, sans que ce
-rapport puisse être inférieur à 50 %. 
-
-Sous réserve de l'accord de l'Autorité de contrôle prudentiel et de résolution, l'affectation des cotisations peut être
-effectuée par des méthodes statistiques. 
-
-b) Deuxième méthode (calcul par rapport à la charge moyenne des sinistres pour les trois derniers exercices) : 
-
-Au total des sinistres payés pour les opérations directes au cours des trois derniers exercices, sans déduction des sinistres
-à la charge des cessionnaires et rétrocessionnaires, sont ajoutés, d'une part, les sinistres payés au titre des acceptations
-en réassurance ou en rétrocession au cours des mêmes exercices, d'autre part, les provisions pour prestations à payer
-constituées à la fin du dernier exercice, tant pour les opérations directes que pour les acceptations en réassurance. 
-
-De cette somme sont déduits, d'une part, les recours encaissés au cours des trois derniers exercices, d'autre part, les
-provisions pour prestations à payer constituées au commencement du deuxième exercice précédant le dernier exercice, tant pour
-les opérations directes que pour les acceptations en réassurance. 
-
-Le tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 42 9000 000 euros. A
-26 % de la première tranche sont ajoutés 23 % de la seconde. 
-
-Le résultat déterminé par application de la deuxième méthode est obtenu en multipliant la somme des deux termes de l'addition
-prévue à l'alinéa précédent par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres
-demeurant à la charge de la mutuelle ou de l'union après cession en réassurance et le montant des sinistres brut de
-réassurance, sans que ce rapport puisse être inférieur à 50 %. 
-
-Pour les opérations relevant de la branche 18 mentionnée à l'article R. 211-2, le montant des sinistres payés entrant dans le
-calcul du résultat déterminé par application de la seconde méthode est le coût résultant pour la mutuelle ou l'union des
-interventions effectuées en matière d'assistance, y compris les coûts d'assistance directs internes. 
-
-Si les calculs des a et b donnent un résultat inférieur à l'exigence de marge de l'exercice précédent, l'exigence de marge de
-solvabilité est au moins égale à celle de l'exercice précédent multipliée par le rapport entre les provisions techniques pour
-sinistres à payer à la fin du dernier exercice et le montant des provisions techniques à payer au début du dernier exercice.
-Dans ces calculs, les provisions techniques sont calculées déduction faite de la réassurance, le ratio ne pouvant jamais être
-supérieur à un. 
-
-Les montants correspondant aux seuils des cotisations et des sinistres mentionnés aux quatrièmes alinéas des a et b sont
-révisés annuellement en fonction de l'évolution de l'indice européen des prix à la consommation publié par Eurostat pour
-l'ensemble des Etats membres. 
-
-Chaque année, l'autorité de contrôle communique les nouveaux montants en euros calculés en fonction de l'évolution de cet
-indice et arrondis au multiple de 100 000 euros supérieur. 
-
-Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ces montants ne sont pas révisés. 
-
-En outre, pour la prise en compte de la réassurance financière limitée dans le ratio de réassurance mentionné au premier
-alinéa, l'Autorité de contrôle se fonde sur le transfert de risque effectif. 
-
-Sur demande et justification de l'entreprise auprès de l'Autorité de contrôle, et avec l'accord de celle-ci, les montants
-récupérables au titre des risques transférés à un véhicule de titrisation mentionné à l'article L. 310-1-2 du code des
-assurances peuvent être assimilés à des cessions en réassurance pour le calcul du rapport mentionné au dernier alinéa du a et
-au dernier alinéa du b du présent article. 
-
-L'Autorité de contrôle tient compte du transfert de risque effectif pour apprécier l'ampleur de la réduction d'exigence de
-marge de solvabilité autorisée au titre de chaque opération réalisée avec un véhicule de titrisation. Elle tient également
-compte de la capacité de ce véhicule à respecter à tout moment ses engagements.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1-2
-	  - Code de la mutualité - art. R211-2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-11 (VD)
-	  - Code de la mutualité - art. R212-13 (VT)
-	  - Code de la mutualité - art. R212-9-1 (VD)
-	  - Code de la mutualité - art. R510-3-1 (VT)
-	  - Code de la mutualité - art. R510-4 (VT)
-	  - Code de la sécurité sociale. - art. R933-3 (VT)
-
-
-###### Article R212-13
-
-Le fonds de garantie des mutuelles et unions agréées pour pratiquer une ou plusieurs branches mentionnées aux 1, 2, 15, 16 (a
-et h), 17, 18 de l'article R. 211-2 est égal au tiers de l'exigence minimale de marge de solvabilité définie à l'article R.
-212-12. 
-
-Ce fonds ne peut être inférieur au montant minimal suivant : 
-
-2 800 00 euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 15 de
-l'article R. 211-2 ; 
-
-1 900 000 euros lorsque la mutuelle ou l'union est agréée pour pratiquer des opérations entrant dans la branche 1, 2, 16 (a
-et h), 17, 18 de l'article R. 211-2. 
-
-Lorsqu'une mutuelle ou union est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en
-considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé. 
-
-Les montants en euros mentionnés aux troisième et quatrième alinéas sont révisés annuellement en fonction de l'évolution de
-l'indice européen des prix à la consommation publié par Eurostat pour l'ensemble des Etats membres. Chaque année, l'Autorité
-de contrôle communique les nouveaux montants en euros calculés en fonction de l'évolution de cet indice et arrondis au
-multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ces
-montants ne sont pas révisés. 
-
-Le fonds est constitué par les éléments mentionnés aux 1, 2 et 3 du I, au 1 du II, au a du 1 du III de l'article R. 212-11.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Avis du , v. init.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-11
-	  - Code de la mutualité - art. R212-12
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-14 (VT)
-	  - Code de la mutualité - art. R510-5 (VT)
-
-
-###### Article R212-14
-
-Les montants minima prévus aux troisième et quatrième alinéas de l'article R. 212-13 ne sont pas applicables aux mutuelles et
-unions qui remplissent simultanément les conditions suivantes : 
-
-a) Leurs statuts prévoient la possibilité de procéder à des rappels de cotisations ou à des réductions de prestations ;
-lorsque les statuts de la mutuelle ou de l'union sont modifiés en application du quatrième alinéa de l'article R. 212-9, le
-membre participant ou la personne morale souscriptrice du contrat collectif a, dans le mois qui suit la notification des
-modifications statutaires de la mutuelle ou de l'union, le droit de résilier le ou les bulletins d'adhésion et le ou les
-contrats collectifs souscrits. Dans ce cas, la faculté de résiliation ouverte au membre participant et à la personne morale
-souscriptrice du contrat collectif comporte restitution par la mutuelle ou l'union des portions de cotisation afférentes à la
-période pour laquelle les risques ne sont plus garantis ; 
-
-b) Le montant annuel des cotisations émises, accessoires compris et annulations déduites, ne dépasse pas cinq millions
-d'euros ; 
-
-c) Elles ne couvrent pas les risques relevant de la branche 15 mentionnée à l'article R. 211-2 ; 
-
-d) Lorsqu'elles pratiquent des opérations relevant du a, c, d du 1° du I de l'article L. 111-1, la moitié au moins de leurs
-cotisations est versée par leurs membres participants ou honoraires.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Code de la mutualité - art. R212-1 (VD)
-	  - Code de la mutualité - art. R212-20 (VT)
-	  - Code de la mutualité - art. R212-9-1 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-13 (VT)
-	  - Code de la mutualité - art. R212-9
-
-
-###### Article R212-15
-
-I.-La marge de solvabilité mentionnée à l'article R. 212-10 des mutuelles et unions agréées pour pratiquer des opérations
-relevant des branches 20 à 22 et 24 à 26 mentionnées à l'article R. 211-2 est constituée, après déduction des pertes, de la
-part des frais d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par
-les éléments suivants : 
-
-1. Le fonds d'établissement constitué ; 
-
-2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
-de capitalisation ; 
-
-3. Les excédents reportés ; 
-
-4. Le ou les emprunts pour fonds de développement ; toutefois, à partir de la moitié de la durée d'un emprunt, celui-ci n'est
-retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant égal au
-double du montant total de cet emprunt divisé par le nombre d'années de sa durée. 
-
-II.-La marge de solvabilité peut également être constituée par : 
-
-1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés. 
-
-Ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées par arrêté du
-ministre chargé de la mutualité. La prise en compte de ces fonds est admise jusqu'à concurrence de 50 % de l'exigence de
-marge de solvabilité ou de la marge de solvabilité, le montant le plus faible étant retenu. Toutefois, la prise en compte de
-ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 % de cette
-marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de la section 6 et de la section 7 du
-chapitre II du titre Ier du livre VI du code monétaire et financier, donner lieu à des mesures de police ou de sanction de
-l'Autorité de contrôle prudentiel et de résolution. 
-
-2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de cotisation versée par la
-mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie. 
-
-III.-Sur demande et justification de la mutuelle ou de l'union et avec l'accord de l'Autorité de contrôle mentionnée à
-l'article L. 510-1, la marge de solvabilité peut également être constituée par : 
-
-1. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ; 
-
-2. Avec l'accord des autorités de contrôle des Etats membres de la Communauté européenne ou d'un Etat partie à l'accord sur
-l'Espace économique européen où la mutuelle ou l'union exerce son activité, les plus-values pouvant résulter de la sous-
-estimation d'éléments d'actif et de la surestimation d'éléments de passif autres que les provisions mathématiques, dans la
-mesure où de telles plus-values n'ont pas un caractère exceptionnel ; 
-
-3. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R. 212-71, dès lors
-que les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 212-31
-ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 212-81 ; les
-moins-values latentes sur instruments financiers à terme non provisionnées sont déduites de ces plus-values ; 
-
-Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés aux 3 et 4
-du III. 
-
-IV.-Lorsque la mutuelle ou l'union n'est pas soumise à une surveillance complémentaire en application de l'article L. 212-7-2
-ou de l'article L. 212-7-4, la marge de solvabilité est diminuée des éléments suivants : 
-
-a) Les participations au sens du 2° de l'article L. 212-7-1 que la mutuelle ou l'union détient dans des établissements de
-crédit, des entreprises d'investissement ou des établissements financiers ; 
-
-b) Les créances et autres instruments financiers que la mutuelle ou l'union détient sur des établissements de crédit, des
-entreprises d'investissement ou des établissements financiers dans lesquels elle détient une participation, et qui sont
-considérés comme des fonds propres pour le calcul des exigences de fonds propres applicables aux entreprises et
-établissements mentionnés ci-dessus ; 
-
-c) Les certificats mutualistes émis et détenus directement par la mutuelle ou l'union. 
-
-Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
-détenue temporairement par une mutuelle ou une union en vue de faciliter l'assainissement et la sauvegarde de cette entité,
-l'Autorité de contrôle prudentiel et de résolution peut autoriser la mutuelle ou l'union à ne pas effectuer les déductions
-prévues aux deux alinéas précédents. 
-
-En outre, la mutuelle ou l'union n'est pas tenue d'effectuer les déductions mentionnées au a et au b lorsqu'elle est soumise
-à une surveillance complémentaire en application de l'article L. 212-7-2 ou de l'article L. 212-7-4 et qu'elle respecte les
-exigences complémentaires en fonds propres calculées selon les modalités fixées par l'arrêté des ministres chargés de
-l'économie, de la sécurité sociale et de la mutualité prévu à l'article L. 517-8 du code monétaire et financier. 
-
-V.-Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3 du I est susceptible d'être faussée par
-l'existence d'un contrat de réassurance financière limitée souscrit par la mutuelle et l'union, l'autorité de contrôle peut
-limiter la prise en compte de ce report, en vue d'y intégrer les charges futures attendues au titre de ce contrat. Le cas
-échéant, le montant de la marge de solvabilité est ajusté au terme du contrat de réassurance financière limitée en fonction
-du report cumulé effectivement constaté.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 27 (Ab)
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code de la mutualité - art. R212-17 (VT)
-	  - Code de la mutualité - art. R212-18 (VT)
-	  - Code de la mutualité - art. R212-20 (VT)
-	  - Code de la mutualité - art. R212-20-1 (VT)
-	  - Code de la mutualité - art. R432-16 (VT)
-
-	**Modifié par**:
-
-	  - Décret n°2015-204 du 23 février 2015 - art. 2
-
-	**Abrogé par**:
-
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
@@ -11521,553 +10528,29 @@ du report cumulé effectivement constaté.
 	  - Code de la mutualité - art. L212-7-4
 	  - Code de la mutualité - art. L431-1
 	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-10
+	  - Code de la mutualité - art. R212-10 (VD)
+	  - Code de la mutualité - art. R212-12 (VT)
 	  - Code de la mutualité - art. R212-70
 	  - Code de la mutualité - art. R212-81
 
 
-###### Article R212-16
-
-En ce qui concerne les mutuelles ou les unions agréées pour pratiquer les branches mentionnées aux 20 à 22 et 24 à 26 de
-l'article R. 211-2, l'exigence minimale de marge de solvabilité est déterminée en fonction des branches exercées, en
-application des dispositions suivantes : 
-
-a) Pour les branches 20 et 21, à l'exception des garanties complémentaires : 
-
-L'exigence minimale de marge est calculée par rapport aux provisions mentionnées aux 1° et 4° de l'article R. 212-26 et aux
-capitaux sous risque. Ce montant est égal à la somme de deux résultats suivants : 
-
-Le " premier résultat " est obtenu en multipliant un nombre représentant 4 % de la somme des provisions mentionnées aux 1° et
-4° de l'article R. 212-26 relatives aux opérations directes sans déduction des cessions en réassurance et aux acceptations en
-réassurance, par le rapport existant, pour le dernier exercice, entre le montant des provisions mathématiques après cessions
-en réassurance et le montant des provisions mathématiques brut de réassurance, sans que ce rapport puisse être inférieur à 85
-%. 
-
-Le " second résultat " est obtenu en multipliant un nombre représentant 0,3 % des capitaux sous risque par le rapport
-existant, pour le dernier exercice, entre le montant des capitaux sous risque après cession et rétrocession en réassurance et
-le montant des capitaux sous risque brut de réassurance, sans que ce rapport puisse être inférieur à 50 %. 
-
-Pour les assurances temporaires en cas de décès d'une durée maximale de trois années, le facteur multiplicateur des capitaux
-sous risque est égal à 0,1 %. Il est fixé à 0,15 % desdits capitaux pour les assurances temporaires en cas de décès dont la
-durée est supérieure à trois années mais n'excède pas cinq années. 
-
-Le capital sous risque est égal au risque décès, déduction faite de la provision mathématique du risque principal ; 
-
-b) Pour les garanties complémentaires relatives à des bulletins d'adhésion ou contrats collectifs comportant des engagements
-résultant d'opérations classées aux branches 20 à 22 : 
-
-L'exigence minimale de marge est égale au résultat obtenu par application de la méthode suivante : 
-
-Au total des cotisations émises en opérations directes au cours du dernier exercice, quel que soit l'exercice au titre duquel
-elles ont été émises, accessoires compris, sont ajoutées les cotisations acceptées en réassurance au cours du dernier
-exercice. 
-
-De cette somme sont déduits, d'une part, le total des cotisations annulées au cours du dernier exercice, d'autre part, le
-total des impôts et taxes afférents auxdites cotisations. 
-
-Le montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 10 millions d'euros. A 18 %
-de la première tranche sont ajoutés 16 % de la seconde. 
-
-La somme des deux termes prévus à l'alinéa précédent est multipliée par le rapport existant, pour le dernier exercice, entre
-le montant des sinistres demeurant à la charge de la mutuelle ou union après cession et rétrocession en réassurance et le
-montant des sinistres brut de réassurance, sans que ce rapport puisse être inférieur à 50 % ; 
-
-c) Pour la branche 24, à l'exception des opérations de capitalisation exprimées en unités de compte, l'exigence minimale de
-marge est égale au résultat obtenu en multipliant un nombre représentant 4 % de la somme des provisions mentionnées aux 1° et
-4° de l'article R. 212-26 relatives aux opérations directes et aux acceptations brutes de réassurance par le rapport
-mentionné au " premier résultat " défini au a du présent article ; 
-
-d) Pour la branche 22, à l'exception des garanties complémentaires, la branche 24 lorsqu'il s'agit des opérations de
-capitalisation exprimées en unités de compte, et la branche 25, l'exigence minimale de marge est égale :
-
-- lorsque la mutuelle ou l'union assume un risque de placement, à un nombre représentant 4 % des provisions techniques
-relatives aux opérations d'assurances directes et d'acceptations brutes de réassurance multiplié par le rapport mentionné au
-" premier résultat " défini au a du présent article ;
-
-- lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque le montant destiné à couvrir des frais de
-gestion est fixé pour une période supérieure à cinq ans, à un nombre représentant 1 % des provisions techniques relatives aux
-opérations directes et aux acceptations brutes de réassurance multiplié par le rapport mentionné au premier résultat du a du
-présent article, à la condition que la durée du bulletin d'adhésion ou du contrat collectif soit supérieure à cinq années et
-que le montant destiné à couvrir les frais de gestion prévus dans le bulletin d'adhésion ou le contrat collectif soit fixé
-pour une période supérieure à cinq années ;
-
-- lorsque la mutuelle n'assume pas un risque de placement, et pour les contrats mentionnés à l'article L. 222-2 qui prévoient
-que les frais de gestion ne sont pas fixés pour une période supérieure à cinq ans, à un montant équivalant à 25 % des
-dépenses de gestion nettes relatives à ces opérations pour le dernier exercice ;
-
-- lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque le montant destiné à couvrir des frais de
-gestion n'est pas fixé pour une période supérieure à cinq ans, à un nombre représentant 25 % des dépenses de gestion nettes
-relatives à ces opérations pour le dernier exercice ;
-
-- lorsque la mutuelle ou l'union assume un risque de mortalité, l'exigence minimale de marge est obtenue en ajoutant à l'un
-ou l'autre des résultats déterminés par application des dispositions des deux alinéas précédents un nombre représentant 0,3 %
-des capitaux sous risque, multiplié par le rapport existant, pour le dernier exercice, entre le montant des capitaux sous
-risque après cessions et rétrocessions en réassurance et le montant des capitaux sous risque brut de réassurance, sans que ce
-rapport puisse être inférieur à 50 % ; 
-
-e) Pour la branche 26 : 
-
-L'exigence minimale de marge est égale à un nombre représentant 4 % de la provision technique spéciale mentionnée à l'article
-R. 222-8, dans la limite de la provision mathématique théorique mentionnée à l'article R. 222-16. 
-
-En outre, pour la prise en compte de la réassurance financière limitée dans le ratio de réassurance mentionné au premier
-alinéa, l'Autorité de contrôle prudentiel et de résolution se fonde sur le transfert de risque effectif. 
-
-Sur demande et justification de la mutuelle ou union auprès de l'Autorité de contrôle, et avec l'accord de celle-ci, les
-montants récupérables au titre des risques transférés à un véhicule de titrisation peuvent être assimilés à des cessions en
-réassurance pour le calcul du rapport mentionné aux deuxième et troisième alinéas du a et au e. 
-
-L'Autorité de contrôle tient compte du transfert de risque effectif pour apprécier l'ampleur de la réduction d'exigence de
-marge de solvabilité autorisée au titre de chaque opération réalisée avec un véhicule de titrisation. Elle tient également
-compte de la capacité de ce véhicule à respecter à tout moment ses engagements.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L222-2
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-26 (VT)
-	  - Code de la mutualité - art. R222-16
-	  - Code de la mutualité - art. R222-8 (VD)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-17 (VT)
-	  - Code de la mutualité - art. R212-20-2 (VT)
-	  - Code de la mutualité - art. R212-9-1 (VD)
-	  - Code de la mutualité - art. R510-3-1 (VT)
-	  - Code de la mutualité - art. R510-4 (VT)
-
-
-###### Article R212-17
-
-Le fonds de garantie des mutuelles ou unions agréées pour pratiquer des opérations relevant d'une ou plusieurs des branches
-mentionnées aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égal au tiers de l'exigence minimale de marge de solvabilité
-définie à l'article R. 212-16. 
-
-Ce fonds ne peut être inférieur à 2 800 000 euros. Ce montant est révisé annuellement en fonction de l'évolution de l'indice
-européen des prix à la consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque année, l'Autorité de
-contrôle communique le nouveau montant en euros calculé en fonction de l'évolution de cet indice et arrondi au multiple de
-100 000 euros supérieur. Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ce montant n'est pas
-révisé. 
-
-Le fonds est constitué par les éléments mentionnés au 1, 2 et 3 du I, au 1 du II et au 1 du III de l'article R. 212-15. 
-
-Le deuxième alinéa du présent article n'est pas applicable aux mutuelles qui : 
-
-a) soit garantissent exclusivement des prestations en cas de décès lorsque le montant en capital n'excède pas 150 % du
-plafond mensuel de la sécurité sociale ou lorsque ces prestations sont servies en nature ; 
-
-b) Soit remplissent cumulativement les conditions suivantes : 
-
-Leurs statuts prévoient la possibilité de procéder à des rappels de cotisations ou à des réductions de prestations ; lorsque
-les statuts de la mutuelle ou de l'union sont modifiés en application du quatrième alinéa de l'article R. 212-9, le membre
-participant ou la personne morale souscriptrice du contrat collectif a, dans le mois qui suit la notification des
-modifications statutaires de la mutuelle ou de l'union, le droit de résilier le ou les bulletins d'adhésion et le ou les
-contrats collectifs souscrits. Dans ce cas, la faculté de résiliation ouverte au membre participant et à la personne morale
-souscriptrice du contrat collectif comporte restitution par la mutuelle ou l'union des portions de cotisation afférentes à la
-période pour laquelle les risques ne sont plus garantis ; 
-
-Le montant des cotisations émises, accessoires compris et annulations déduites, ne dépasse pas 5 millions d'euros
-annuellement.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2007-706 du 4 mai 2007 - art. 2 (V)
-	  - Code de la mutualité - art. R212-1 (VD)
-	  - Code de la mutualité - art. R212-20 (VT)
-	  - Code de la mutualité - art. R510-5 (VT)
-
-	**Modifié par**:
-
-	  - Avis du , v. init.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-15
-	  - Code de la mutualité - art. R212-16 (VT)
-	  - Code de la mutualité - art. R212-9
-
-
-###### Article R212-18
-
-La marge de solvabilité mentionnée à l'article R. 212-10 relative aux mutuelles et unions agréées pour pratiquer des
-opérations relevant simultanément d'au moins deux ou plusieurs branches mentionnées soit aux 1 et 2, soit aux 20 à 22 et 24 à
-26 de l'article R. 211-2 est constituée, après déduction des pertes, de la part des frais d'acquisition non admise en
-représentation des engagements réglementés et des autres éléments incorporels, par les mêmes éléments que ceux définis à
-l'article R. 212-15 en tenant compte des déductions prévues au premier alinéa du I de cet article. Toutefois, l'élément
-défini au 6, (a) de cet article n'est à prendre en compte que dans la limite du montant de la fraction vie définie au
-troisième alinéa de l'article R. 212-19. 
-
-Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Décret n°2005-1266 2005-10-07 art. 1 4° JORF 11 octobre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-10
-	  - Code de la mutualité - art. R212-15
-	  - Code de la mutualité - art. R212-19
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R432-16 (VT)
-
-
-###### Article R212-19
-
-L'exigence minimale de marge de solvabilité des mutuelles ou unions agréées pour pratiquer simultanément au moins deux ou
-plusieurs branches mentionnées soit aux 1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égale à la somme des
-deux éléments ci-après, dénommés respectivement fraction non-vie et fraction vie.
-
-Le montant minimal de la fraction non-vie est calculé dans les conditions définies à l'article R. 212-12, sur la base des
-cotisations et sinistres afférents aux opérations directes et aux acceptations en réassurance relevant des branches 1 et 2
-définies à l'article R. 211-2.
-
-Le montant minimal de la fraction vie est calculé dans les conditions définies à l'article R. 212-16, sur la base des
-provisions techniques, des capitaux sous risque, des cotisations, des sinistres et des avoirs afférents aux opérations
-directes et aux acceptations relevant des branches 20 à 22 et 24 à 26 de l'article R. 211-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R211-2, R212-12, R212-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Décret n°2004-486 du 28 mai 2004 - art. 1 () JORF 5 juin 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-18 (VT)
-	  - Code de la mutualité - art. R212-20 (VT)
-	  - Code de la mutualité - art. R212-9-1 (VD)
-	  - Code de la mutualité - art. R510-3-1 (VT)
-
-
-###### Article R212-20
-
-Le fonds de garantie des mutuelles ou unions agréées pour pratiquer simultanément au moins deux ou plusieurs branches
-mentionnées soit aux 1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2, est égal au tiers de l'exigence minimale de
-marge de solvabilité définie à l'article R. 212-19, sans pouvoir être inférieur au seuil défini au deuxième alinéa de
-l'article R. 212-17. 
-
-Par dérogation aux dispositions de l'alinéa précédent, le montant minimal défini au deuxième alinéa de l'article R. 212-17
-n'est pas applicable aux mutuelles répondant cumulativement aux conditions définies à l'article R. 212-14 et aux trois
-derniers alinéas de l'article R. 212-17. 
-
-Le fonds est constitué par les éléments mentionnés au 1, 2 et 3 du I, au 1 du II et au 1 du III de l'article R. 212-15.
-
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
-
-	**Cité par**:
-
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-14
-	  - Code de la mutualité - art. R212-15
-	  - Code de la mutualité - art. R212-17
-	  - Code de la mutualité - art. R212-19
-
-
-###### Article R212-20-1
-
-I. ― La marge de solvabilité des mutuelles et unions de réassurance agréées dans les conditions prévues à l'article L.
-211-7-2 est constituée, après déduction des pertes et des éléments incorporels, par les éléments suivants : 
-
-1. Le fonds d'établissement constitué ; 
-
-2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
-de capitalisation ; 
-
-3. Le report des excédents ; 
-
-4. L'emprunt ou les emprunts pour fonds de développement : toutefois, à partir de la moitié de la durée d'un emprunt, celui-
-ci n'est retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant constant
-égal au double du montant total de cet emprunt divisé par le nombre d'années de sa durée ; 
-
-5. Les titres et prêts subordonnés mentionnés au II de l'article R. 212-11 ou de l'article R. 212-15 dans les conditions et
-limites fixées par ces articles ; 
-
-6. Sur demande et justification de l'entreprise, les éléments mentionnés au III de l'article R. 212-11 ou de l'article R.
-212-15, dans les conditions et limites fixées par ces articles. 
-
-II. ― Lorsque la mutuelle ou l'union n'est pas soumise à une surveillance complémentaire en application de l'article L.
-212-7-2 ou de l'article L. 212-7-4, la marge de solvabilité disponible est également diminuée des éléments suivants : 
-
-1. Les participations que la mutuelle ou union de réassurance détient dans un établissement de crédit, une entreprise
-d'investissement ou un établissement financier ; 
-
-2. Les créances et autres instruments financiers que la mutuelle ou l'union de réassurance détient sur des établissements de
-crédit, des entreprises d'investissement ou des établissements financiers dans lesquels elle détient une participation, et
-qui sont considérés comme des fonds propres pour le calcul des exigences de fonds propres applicables aux entreprises et
-établissements mentionnés ci-dessus. 
-
-Lorsqu'une participation dans un établissement de crédit, une entreprise d'investissement ou un établissement financier est
-détenue temporairement par une mutuelle ou une union de réassurance en vue de faciliter l'assainissement et la sauvegarde de
-cette entité, l'Autorité de contrôle prudentiel et de résolution peut autoriser la mutuelle ou l'union à ne pas effectuer les
-déductions prévues aux deux alinéas précédents. 
-
-En outre, la mutuelle ou union n'est pas tenue d'effectuer ces déductions lorsqu'elle présente une solvabilité ajustée
-positive calculée selon les modalités précisées, pour le calcul des exigences complémentaires en fonds propres des
-conglomérats financiers, par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu à
-l'article L. 517-8 du code monétaire et financier. 
-
-III. ― Lorsqu'elle estime que l'appréciation du report des excédents mentionnés au 3 du I est susceptible d'être faussée par
-l'existence d'un contrat de réassurance financière limitée souscrit par l'institution ou l'union, l'Autorité de contrôle peut
-limiter la prise en compte de ce report, en vue d'y intégrer les charges futures attendues au titre de ce contrat. Le cas
-échéant, le montant de la marge de solvabilité est ajusté au terme du contrat de réassurance financière limitée, en fonction
-du report cumulé effectivement constaté.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-8
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. R212-11
-	  - Code de la mutualité - art. R212-15 (VT)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-20-3 (VT)
-	  - Code de la mutualité - art. R510-3-3 (VT)
-	  - Code de la mutualité - art. R510-3-4 (VT)
-
-
-###### Article R212-20-2
-
-I. ― Sous réserve des dispositions du II et du III, l'exigence de marge de solvabilité des mutuelles et unions agréées dans
-les conditions prévues à l'article L. 211-7-2 est égale au plus élevé des deux résultats obtenus par l'application des deux
-méthodes suivantes : 
-
-a) Première méthode : calcul par rapport au montant annuel des cotisations.
-
-L'assiette des cotisations est calculée à partir des cotisations brutes émises ou des cotisations brutes acquises, le montant
-le plus élevé étant retenu. 
-
-Les cotisations émises dans le cadre des acceptations en réassurance au cours du dernier exercice, accessoires compris, sont
-agrégées. 
-
-De ce montant sont déduits le montant total des cotisations annulées au cours du dernier exercice ainsi que le montant total
-des impôts et taxes afférents aux cotisations précitées. 
-
-Le montant obtenu est divisé en deux tranches, respectivement inférieure et supérieure à 50 millions d'euros.A 18 % de la
-première tranche sont ajoutés 16 % de la seconde. 
-
-Le résultat déterminé par application de la première méthode est le produit de la somme prévue à l'alinéa précédent par le
-rapport, sur les trois derniers exercices, entre le montant des sinistres demeurant à la charge de l'entreprise de
-réassurance après déduction des montants récupérables au titre des cessions en réassurance et le montant des sinistres bruts.
-Ce rapport ne peut, en aucun cas, être inférieur à 50 %. 
-
-Sous réserve de l'accord de l'Autorité de contrôle, des méthodes statistiques peuvent être utilisées pour l'affectation des
-cotisations. 
-
-b) Deuxième méthode : calcul par rapport à la charge moyenne des sinistres. 
-
-La charge moyenne des sinistres est calculée sur la base des trois derniers exercices. 
-
-Les montants des sinistres réglés durant les périodes mentionnées à l'alinéa précédent, sans déduction des sinistres
-supportés par les rétrocessionnaires, sont agrégés.A cette somme est ajouté le montant des provisions pour sinistres
-constituées à la fin du dernier exercice. Il en est déduit le montant des recours encaissés au cours des mêmes périodes,
-ainsi que le montant des provisions pour sinistres constituées au début du second exercice précédant le dernier exercice
-inventorié. 
-
-Un tiers du montant ainsi obtenu est réparti en deux tranches, respectivement inférieure et supérieure à 35 millions
-d'euros.A 26 % de la première tranche sont ajoutés 23 % de la seconde tranche. 
-
-La somme ainsi obtenue est multipliée par le rapport, sur les trois derniers exercices, entre le montant des sinistres
-demeurant à la charge de l'organisme après déduction des montants récupérables au titre des rétrocessions en réassurance et
-le montant des sinistres bruts. Ce rapport ne peut, en aucun cas, être inférieur à 50 %. 
-
-Avec l'accord des autorités compétentes, des méthodes statistiques peuvent être utilisées pour l'affectation des sinistres,
-provisions et recours. 
-
-Si les calculs prévus au a et au b donnent un résultat inférieur à l'exigence de marge de solvabilité de l'exercice
-précédent, l'exigence de marge de solvabilité est au moins égale à celle de l'exercice précédent, multipliée par le rapport
-entre le montant des provisions techniques pour sinistres à la fin du dernier exercice et leur montant au début du dernier
-exercice. Dans ce cas, les provisions techniques sont calculées déduction faite des rétrocessions, ce rapport ne pouvant
-cependant pas être supérieur à un. 
-
-Les montants correspondant aux seuils des cotisations et des sinistres mentionnés aux a et b sont révisés annuellement en
-fonction de l'évolution de l'indice européen des prix à la consommation publié par Eurostat pour l'ensemble des Etats
-membres. 
-
-Chaque année, l'Autorité de contrôle communique les nouveaux montants en euros calculés en fonction de l'évolution de cet
-indice et arrondis au multiple de 100 000 euros supérieur. 
-
-Si la variation de l'indice depuis la dernière adaptation est inférieure à 5 %, ces montants ne sont pas révisés. 
-
-II. ― Sur demande et justification de l'organisme auprès de l'Autorité de contrôle, et avec l'accord de celle-ci, les
-montants récupérables au titre des risques cédés à un véhicule de titrisation mentionné à l'article L. 310-1-2 du code des
-assurances peuvent être assimilés à des cessions en réassurance pour le calcul du rapport mentionné à l'avant-dernier alinéa
-du a et au quatrième alinéa du b du I.L'Autorité de contrôle tient compte du transfert de risque effectif pour apprécier
-l'ampleur de la réduction d'exigence de marge de solvabilité autorisée au titre de chaque opération réalisée avec un véhicule
-de titrisation. Elle tient également compte de la capacité de ce véhicule à tenir à tout moment ses engagements. 
-
-En outre, pour la prise en compte de la réassurance financière limitée dans le ratio de réassurance mentionné au premier
-alinéa, l'Autorité de contrôle se fonde sur le transfert de risque effectif. 
-
-III. ― L'Autorité de contrôle peut exiger d'une mutuelle ou union de réassurance, sur décision motivée, que pour les
-opérations mentionnées au b du 1° du I de l'article L. 111-1, à l'exception des opérations d'assurance collective en cas de
-décès et des opérations mentionnées au d du 1 de l'article 2 de la directive n° 2002 / 83 / CE concernant l'assurance directe
-sur la vie, l'exigence de marge de solvabilité soit déterminée conformément à l'article R. 212-16.
-
-L'exigence de marge de solvabilité de cette mutuelle ou union de réassurance pratiquant simultanément la réassurance vie et
-non-vie est alors égale à la somme des exigences de marge de solvabilité applicables aux activités de réassurance vie et aux
-activités de réassurance non-vie, calculées conformément au II et à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
-
-	**Cité par**:
-
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1-2
-	  - Code de la mutualité - art. L111-1
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. R212-16
-
-
-###### Article R212-20-3
-
-Le fonds de garantie des mutuelles et unions de réassurance est égal au tiers de l'exigence de marge de solvabilité
-mentionnée à l'article R. 212-20-1. Il ne peut être inférieur à 3 millions d'euros. 
-
-Ce montant est révisé annuellement en fonction de l'évolution de l'indice européen des prix à la consommation publié par
-l'Eurostat pour l'ensemble des Etats membres. Chaque année, l'Autorité de contrôle communique le nouveau montant en euros
-calculé en fonction de l'évolution de cet indice et arrondi au multiple de 100 000 euros supérieur. Si la variation de
-l'indice depuis la dernière adaptation est inférieure à 5 %, ce montant n'est pas révisé. 
-
-Toutefois, cette limite est fixée à 1 million d'euros s'agissant du fonds de garantie des mutuelles et unions de réassurance
-n'appartenant pas à un groupe d'assurance au sens du I de l'article L. 212-7, détenues par un établissement de crédit, une
-société de financement, une entreprise d'investissement, une compagnie financière holding mixte ou par une entreprise non
-financière, et qui ont pour objet exclusif la réassurance des risques d'un ou plusieurs organismes, autres que des
-entreprises d'assurance, du groupe au sens du 7° de l'article L. 334-2 du code des assurances auquel elles appartiennent. 
-
-Le fonds de garantie est composé des éléments mentionnés au I de cet article, après déduction des éléments mentionnés au II
-du même article.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code des assurances - art. L334-2
-	  - Code de la mutualité - art. L212-7
-	  - Code de la mutualité - art. R212-20-1 (VT)
-
-
-##### Section 3 : Engagements réglementés.
+##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation, mesures d'assainissement
 
 ###### Article R212-21
 
-Les engagements réglementés dont les mutuelles et unions doivent, à toute époque, être en mesure de justifier l'évaluation
-sont les suivants :
+Les actifs transférés avec des garanties liées aux bulletins d'adhésion ou aux contrats collectifs relevant du b du 1° du I
+de l'article L. 111-1 par une mutuelle ou une union sont affectés à une section comptable distincte du bilan de la mutuelle
+ou de l'union cessionnaire des bulletins d'adhésion ou contrats collectifs. 
 
-1° Les provisions techniques suffisantes pour le règlement intégral de leurs engagements vis-à-vis des membres participants,
-des mutuelles et unions réassurées ou bénéficiaires de règlements et contrats collectifs ;
-
-2° Les postes du passif correspondant aux autres créances privilégiées ;
-
-3° Les dépôts de garantie des membres participants et des tiers, s'il y a lieu ;
-
-4° Une réserve d'amortissement des emprunts pour les mutuelles et unions relevant du 1° du I de l'article L. 111-1 ;
-
-5° Une provision pour charges destinée à faire face aux engagements pris par la mutuelle ou l'union en faveur de ses
-salariés.
-
-Les provisions techniques mentionnées au 1° du présent article sont calculées, sans déduction des réassurances cédées, dans
-les conditions fixées aux articles R. 212-23 à R. 212-27.
+Pour le calcul de la participation aux excédents afférents à ces actifs prévue à l'article L. 212-5, il n'est pas tenu compte
+de l'importance respective des fonds propres et des engagements pris envers les membres participants, les bénéficiaires et
+les ayants droit figurant au bilan de la mutuelle ou de l'union.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cité par**:
 
@@ -12078,3055 +10561,55 @@ les conditions fixées aux articles R. 212-23 à R. 212-27.
 
 ###### Article R212-22
 
-I. - Lorsque les garanties d'un bulletin d'adhésion ou d'un contrat collectif sont exprimées dans une monnaie déterminée, les
-engagements de la mutuelle ou de l'union mentionnés à l'article R. 212-21 sont libellés dans cette monnaie.
-
-II. - Lorsque les garanties d'un bulletin d'adhésion ou d'un contrat collectif ne sont pas exprimées dans une monnaie
-déterminée, les engagements de la mutuelle ou de l'union sont libellés dans la monnaie du pays où le risque est situé.
-Toutefois, cette mutuelle ou union peut choisir de libeller ses engagements dans la monnaie dans laquelle la cotisation est
-exprimée si, dès la souscription du bulletin d'adhésion ou du contrat collectif, il paraît vraisemblable qu'un sinistre sera
-payé, non dans la monnaie du pays de situation du risque, mais dans la monnaie dans laquelle la cotisation a été libellée.
-
-III. - Si un sinistre a été déclaré à la mutuelle ou à l'union et si les prestations sont payables dans une monnaie
-déterminée autre que celle résultant de l'application des dispositions précédentes, les engagements de la mutuelle ou de
-l'union sont libellés dans la monnaie dans laquelle l'indemnité à verser par cette mutuelle ou union a été fixée par une
-décision de justice ou bien par accord entre la mutuelle ou l'union et, selon le cas, le membre participant ou le
-souscripteur du contrat collectif.
-
-IV. - Lorsqu'un sinistre est évalué dans une monnaie connue d'avance de la mutuelle ou de l'union mais différente de celle
-qui résulte de l'application des dispositions précédentes, la mutuelle ou l'union peut libeller ses engagements dans cette
-monnaie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-21
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 4 () JORF 4 mai 2002
-
-
-##### Section 4 : Provisions techniques.
-
-##### Sous-section 1 : Provisions techniques des opérations d'assurance.
-
-###### Article R212-23
-
-Les provisions techniques correspondant aux opérations relevant des branches ou sous-branches mentionnées aux 1, 2, 15, 16 a
-et h, 17 et 18 de l'article R. 211-2 sont les suivantes : 
-
-1° Provision mathématique des rentes : valeur actuelle des engagements de la mutuelle ou de l'union relatifs aux rentes et
-accessoires de rentes mis à sa charge ; 
-
-2° Provisions pour prestations à payer : valeur estimative des dépenses en principal et en frais, tant internes qu'externes,
-nécessaires au règlement de tous les sinistres survenus et non payés, y compris les capitaux constitutifs des rentes non
-encore mises à la charge de la mutuelle ou de l'union. 
-
-3° Provision pour cotisations non acquises : provision destinée à constater, pour l'ensemble des bulletins d'adhésion ou
-contrats collectifs en cours, la part des cotisations émises et des cotisations restant à émettre se rapportant à la période
-comprise entre la date de l'inventaire et la date de la prochaine échéance de la cotisation ou, à défaut, du terme du
-bulletin d'adhésion ou du contrat ; 
-
-4° Provision pour risques en cours : provision destinée à couvrir, pour l'ensemble des bulletins d'adhésion ou contrats
-collectifs en cours, la charge des sinistres et des frais afférents aux bulletins d'adhésion et contrats, pour la période
-s'écoulant entre la date de l'inventaire et la date de la première échéance de la cotisation pouvant donner lieu à révision
-de la cotisation par la mutuelle ou l'union ou, à défaut, entre la date de l'inventaire et le terme du bulletin d'adhésion ou
-du contrat collectif, pour la part de ce coût qui n'est pas couverte par la provision pour cotisations non acquises ; 
-
-5° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de la mutuelle
-ou de l'union et à la diminution de leur revenu ; 
-
-6° Provision pour risques croissants : provision pouvant être exigée pour les opérations d'assurance contre les risques de
-maladie et d'invalidité et égale à la différence des valeurs actuelles des engagements respectivement pris par la mutuelle et
-l'union et par les membres participants ou les souscripteurs de contrats collectifs ; 
-
-7° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
-l'ensemble des actifs mentionnés à l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou l'union a
-la capacité et l'intention de détenir jusqu'à leur maturité. La provision à constituer est calculée dans les conditions
-définies au I de l'article R. 212-24 ; 
-
-8° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
-collectives couvrant les risques de dommages corporels. 
-
-Un arrêté du ministre chargé de la mutualité fixe, en tant que de besoin, les modalités de calcul de ces provisions.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R212-24
-	  - Code de la mutualité - art. R212-54
-
-
-###### Article R212-24
-
-I. ― La provision pour risque d'exigibilité est constituée lorsque les placements mentionnés à l'article R. 212-53 , à
-l'exception des valeurs amortissables que la mutuelle ou l'union a la capacité et l'intention de détenir jusqu'à leur
-maturité, se trouvent en situation de moins-value latente nette globale. Une moins-value latente nette globale est constatée
-lorsque la valeur nette comptable de ces placements est supérieure à la valeur globale de ces mêmes placements évalués de la
-manière suivante : 
-
-a) Pour les valeurs mobilières cotées et les titres cotés mentionnés au a de l'article R. 212-54, la valeur retenue est le
-cours moyen calculé sur les trente derniers jours précédant le jour de l'inventaire ou, à défaut, le dernier cours coté avant
-cette date ; 
-
-b) Pour les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement mentionnés au
-c de l'article R. 212-54, la valeur retenue est la moyenne des prix de rachat publiés au cours des trente derniers jours
-précédant le jour de l'inventaire ou, à défaut, le dernier prix de rachat publié avant cette date ; 
-
-c) Pour les autres actifs, leur valeur est évaluée selon les règles prévues à l'article R. 212-54. 
-
-1° Lorsque la mutuelle ou l'union, avant dotation à la provision pour risque d'exigibilité, satisfait à la représentation de
-ses engagements réglementés et à la couverture de l'exigence minimale de marge de solvabilité, la dotation annuelle à la
-provision pour risque d'exigibilité au titre de l'exercice est égale au tiers du montant de la moins-value latente nette
-globale constatée sur les placements mentionnés au premier alinéa, sans que cette dotation puisse conduire à ce que le
-montant total de la provision inscrite au bilan excède le montant de la moins-value latente nette globale constatée ces
-placements.
-
-2° Dans les autres cas, la provision pour risque d'exigibilité inscrite au bilan au titre de l'exercice est égale à la moins-
-value latente nette globale constatée sur les placements mentionnés au premier alinéa
-
-Pour les calculs mentionnés aux alinéas précédents, les valeurs mentionnées aux a, b et c prennent en compte les moins-values
-latentes des opérations sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72 ayant comme sous-jacent
-les actifs mentionnés au premier alinéa. Ces moins-values latentes sont prises en compte à hauteur de la partie excédant la
-valeur des titres ou espèces donnés en garantie. Les plus-values latentes ne sont prises en compte que si elles sont
-garanties dans les conditions prévues à l'article R. 212-81. 
-
-II.-La provision pour frais d'acquisition reportés doit être constituée pour un montant égal au montant des frais
-d'acquisitions reportés en application des dispositions de l'article R. 212-59.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-486 du 28 mai 2004 - art. 5 (V)
-	  - Code de la mutualité - art. R212-23 (VT)
-	  - Code de la mutualité - art. R212-24-1 (VT)
-	  - Code de la mutualité - art. R212-26 (VT)
-	  - Code de la mutualité - art. R212-27-2 (VT)
-	  - Code des assurances - art. R335-6 (VD)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-53
-	  - Code de la mutualité - art. R212-54
-	  - Code de la mutualité - art. R212-59
-	  - Code de la mutualité - art. R212-70
-	  - Code de la mutualité - art. R212-81
-
-
-###### Article R212-24-1
-
-Lorsque les conditions mentionnées au 1° du I de l'article R. 212-24 sont respectées, la charge constituée par la dotation à
-la provision pour risque d'exigibilité mentionnée à l'article R. 212-24 peut être étalée dans des conditions précisées par
-arrêté du ministre chargé de la mutualité. Le report de charge consécutif à cet étalement ne peut toutefois pas conduire à ce
-que la charge totale relative au provisionnement de la moins-value latente globale mentionnée à l'article R. 212-24 pour un
-exercice donné soit supportée sur plus de huit exercices consécutifs, à compter de l'exercice où cette moins-value latente
-globale a été constatée. 
-
-Lorsqu'une provision pour risque d'exigibilité est constituée dans une comptabilité auxiliaire d'affectation établie en vertu
-du présent code, le report de la charge est constaté dans les comptes de la mutuelle ou de l'union de mutuelles et n'affecte
-pas cette comptabilité auxiliaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1437 du 22 décembre 2008 - art. 8
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A212-24-1 (Ab)
-	  - Code de la mutualité - art. R510-3-1-2 (VT)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-24
-
-
-###### Article R212-25
-
-La provision pour prestations à payer est calculée exercice par exercice.
-
-L'évaluation des sinistres connus est effectuée dossier par dossier, le coût d'un dossier comprenant toutes les charges
-externes individualisables ; elle est augmentée d'une estimation du coût des sinistres survenus mais non déclarés.
-
-La provision pour prestations à payer doit toujours être calculée pour son montant brut, sans tenir compte des recours à
-exercer ; les recours à recevoir font l'objet d'une évaluation distincte.
-
-Par dérogation aux dispositions du deuxième alinéa du présent article, toute mutuelle ou union peut, après accord de
-l'Autorité de contrôle mentionnée à l'article L. 510-1, utiliser des méthodes statistiques pour l'estimation des sinistres
-survenus au cours des deux derniers exercices.
-
-La provision pour prestations à payer est complétée par une évaluation des charges de gestion qui, compte tenu des éléments
-déjà inclus dans la provision, doit être suffisante pour liquider tous les sinistres.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 16
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-26
-
-Les provisions techniques correspondant aux opérations relatives aux branches 20 à 22 et 24 sont les suivantes : 
-
-1° Provision mathématique : différence entre les valeurs actuelles des engagements pris par la mutuelle ou l'union, d'une
-part, et par les membres participants ou souscripteurs de contrats collectifs, d'autre part ; 
-
-2° Provision pour participation aux excédents : montant des participations aux excédents attribuées aux membres participants
-et bénéficiaires de bulletins d'adhésion ou de contrats collectifs lorsque ces excédents ne sont pas payables immédiatement
-après la liquidation de l'exercice qui les a produits ; 
-
-3° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de la mutuelle
-ou de l'union et à la diminution de leur revenu ; 
-
-4° Provision de gestion : destinée à couvrir les charges de gestion future des bulletins d'adhésion ou des contrats
-collectifs non couvertes par ailleurs ; 
-
-5° Provision pour aléas financiers : destinée à compenser la baisse de rendement de l'actif ; 
-
-6° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
-l'ensemble des actifs mentionnés à l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou l'union a
-la capacité et l'intention de détenir jusqu'à leur maturité. La provision à constituer est calculée dans les conditions
-définies au I de l'article R. 212-24 ; 
-
-7° Provision pour frais d'acquisition reportés : provision destinée à couvrir les charges résultant du report des frais
-d'acquisition constaté en application de l'article R. 212-59 ; 
-
-8° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
-collectives couvrant le risque décès. 
-
-Un engagement ne peut être provisionné qu'au titre d'une seule des catégories mentionnées au présent article. 
-
-Un arrêté du ministre chargé de la mutualité fixe en tant que de besoin les modalités de calcul de ces provisions.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 27 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 31 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 33 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-	  - Arrêté du 22 avril 2004 - art. 11 (Ab)
-	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-	  - Décret n°2007-706 du 4 mai 2007 - art. 2 (V)
-	  - Arrêté du 22 décembre 2008 (V)
-	  - Code de la mutualité - art. A212-14 (Ab)
-	  - Code de la mutualité - art. R212-16 (VT)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-24
-	  - Code de la mutualité - art. R212-53
-	  - Code de la mutualité - art. R212-59
-
-
-###### Article R212-27
-
-Pour tout bulletin d'adhésion ou contrat collectif relatif à une opération d'assurance sur la vie comportant une valeur de
-rachat et pour les opérations de capitalisation, la valeur de rachat est égale à la provision mathématique du bulletin
-d'adhésion ou du contrat collectif diminuée, éventuellement, d'une indemnité qui ne peut dépasser 5 % de cette provision
-mathématique. Cette indemnité doit être nulle à l'issue d'une période de dix ans à compter de la date d'effet du bulletin
-d'adhésion ou du contrat.
-
-Pour l'application du présent article, la provision mathématique ne tient pas compte des éventuelles garanties de fidélité
-non exigibles par le membre participant au moment du rachat.
-
-Ces garanties doivent être explicitement décrites dans le règlement ou le contrat collectif et clairement distinguées de la
-garantie qui en est l'objet principal.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-1154 du 7 novembre 2008 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R510-19 (VD)
-
-
-###### Article R212-27-1
-
-Les mutuelles et unions effectuent chaque année avant l'arrêté des comptes un test d'exigibilité destiné à évaluer leur
-capacité à faire face à leurs engagements à l'égard des membres participants, bénéficiaires et ayants droit et des organismes
-réassurés. dans des conditions détériorées de marché. Les modalités de ce test et de communication de ses résultats sont
-fixées par l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-8 (Ab)
-	  - Code de la mutualité - art. R510-3-1 (VT)
-	  - Code de la mutualité - art. R510-3-1-2 (VT)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
-
-
-##### Sous-section 2 : Provisions techniques des opérations de réassurance.
-
-###### Article R212-27-2
-
-Les provisions techniques constituées pour les opérations de réassurance acceptées sont les suivantes : 
-
-1° Provision mathématique : différence entre les valeurs actuelles des engagements respectivement pris par le réassureur et
-par les organismes réassurés ; 
-
-2° Provision mathématique des rentes : valeur actuelle des engagements de la mutuelle ou de l'union en ce qui concerne les
-rentes et accessoires de rentes mis à sa charge ; 
-
-3° Provision pour frais d'acquisition reportés : provision destinée à couvrir les charges résultant du report des frais
-d'acquisition ; 
-
-4° Provision pour cotisations non acquises : fraction de cotisations qui correspond à la durée du restant à courir pour un
-risque ou un ensemble de risques après la clôture de l'exercice considéré et jusqu'au terme de la garantie ; 
-
-5° Provision pour sinistres à payer : valeur estimative des dépenses en principal et en frais, tant internes qu'externes,
-nécessaires au règlement de tous les sinistres survenus et non payés, y compris les capitaux constitutifs des rentes non
-encore mises à la charge de la mutuelle ou de l'union ; 
-
-6° Provision pour risques croissants : provision pouvant être exigée pour les opérations de réassurance contre les risques de
-maladie et d'invalidité et égale à la différence des valeurs actuelles des engagements respectivement pris par le réassureur
-et par l'assureur ; 
-
-7° Provision pour participation aux bénéfices : 
-
-a) Montant à la charge de l'organisme qui réassure au titre des participations aux bénéfices attribuées par la mutuelle ou
-union réassurée aux bénéficiaires de contrats lorsque ces bénéfices ne sont pas payables immédiatement après la liquidation
-de l'exercice qui les a produits ; 
-
-b) Montant à la charge de l'organisme qui réassure au titre des bénéfices correspondant au contrat qui la lie à la mutuelle
-ou union réassurée ; 
-
-8° Réserve de capitalisation : réserve destinée à parer à la dépréciation des valeurs comprises dans l'actif de la mutuelle
-ou de l'union et à la diminution de leur revenu ; 
-
-9° Provision de gestion : destinée à couvrir les charges de gestion future des contrats non couvertes par ailleurs ; 
-
-10° Provision pour risque d'exigibilité : provision destinée à faire face aux engagements dans le cas de moins-value de
-l'ensemble des actifs mentionnés à l'article R. 212-53, à l'exception des valeurs amortissables que la mutuelle ou l'union a
-la capacité et l'intention de détenir jusqu'à leur maturité . La provision à constituer est calculée dans les conditions
-définies au I de l'article R. 212-24 ; 
-
-11° Provision pour risques en cours : provisions constituées en sus de la provision pour primes non acquises pour couvrir les
-risques à assumer par l'organisme de réassurance après la clôture de l'exercice, de manière à pouvoir faire face à toutes les
-demandes d'indemnisation et à tous les frais liés aux garanties en cours excédant le montant des primes non acquises et des
-primes restant à émettre nettes de primes restant à annuler, relatives auxdites garanties, jusqu'à la date de la première
-échéance de prime pouvant donner lieu à révision de la prime par le réassureur ou, à défaut, jusqu'au terme du contrat ; 
-
-12° Provision pour égalisation : provision destinée à faire face aux fluctuations de sinistralité afférentes aux opérations
-de réassurance de groupe contre les risques de décès ou de dommages corporels et aux opérations d'assurance de groupe contre
-le risque décès.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-24 (VT)
-	  - Code de la mutualité - art. R212-53
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-59-3 (V)
-
-
-##### Section 5 : Réglementation des placements et autres éléments d'actifs.
-
-###### Article R212-28
-
-Les engagements réglementés mentionnés à l'article R. 212-21 doivent, à toute époque, être représentés par des actifs
-équivalents.
-
-Les engagements pris dans une monnaie doivent être couverts par les actifs congruents, c'est-à-dire libellés ou réalisables
-dans cette monnaie.
-
-Les actifs mentionnés au 1 doivent être localisés sur le territoire d'un membre de la Communauté européenne ou d'un Etat
-partie à l'accord sur l'Espace économique européen.
-
-Les engagements pris par les mutuelles et unions résultant d'opérations réalisées en libre prestation de services dans un
-Etat partie à l'accord sur l'Espace économique européen non membre de la Communauté européenne sont soumis aux règles du pays
-de situation du risque ou de l'engagement lorsque ce dernier subordonne l'exercice de ces opérations à agrément.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-21
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-	  - Code de la mutualité - art. R212-31 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-29
-
-I. - Les mutuelles ou les unions peuvent ne pas représenter leurs provisions techniques par des actifs congruents si, pour
-satisfaire aux dispositions de l'article R. 212-28, elles doivent détenir dans une monnaie des éléments d'actif d'un montant
-ne dépassant pas 7 % des éléments d'actif existant dans l'ensemble des autres monnaies.
-
-II. - Par dérogation aux dispositions du deuxième alinéa de l'article R. 212-28, les mutuelles ou unions peuvent ne pas
-couvrir par des actifs congruents un montant n'excédant pas 20 % de leurs engagements dans une monnaie déterminée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-28
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-30
-
-Les mutuelles et unions agréées pour d'autres branches que les branches 1 et 2, ou dont les cotisations nettes de réassurance
-encaissées en branches 1 et 2 au cours du cours du dernier exercice connu dépassent 10 millions d'euros ou qui versent des
-prestations d'incapacité ou d'invalidité dont la durée est supérieure à un an doivent procéder en permanence à une évaluation
-de leurs risques financiers en effectuant notamment des simulations de l'impact de la variation des taux d'intérêt et des
-cours boursiers sur leur actif et leur passif et des estimations comparées de l'exigibilité de leur passif et de la liquidité
-de leur actif. Les résultats de cette évaluation sont déterminés et présentés selon des principes généraux et dans des
-conditions définies par décision de l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-31
-
-En application des dispositions de l'article R. 212-28 et sous réserve des dérogations prévues à ce même article, à l'article
-R. 212-29 ainsi qu'aux articles R. 212-35 à R. 212-42, les mutuelles et unions d'assurance représentent leurs engagements
-réglementés mentionnés à l'article R. 212-21 par les actifs suivants : 
-
-A.-Valeurs mobilières et titres assimilés : 
-
-1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'Organisation de coopération et de
-développement économique (OCDE) ainsi que les titres émis par la caisse d'amortissement de la dette sociale instituée par
-l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises ou garanties par un organisme international à
-caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
-par les collectivités publiques territoriales d'un Etat membre de l'OCDE ; 
-
-2° Les valeurs et titres assimilés, autres que celles et ceux mentionnés au 1° et négociés sur un marché reconnu, qui
-suivent : 
-
-a) Obligations émises par une société commerciale ; 
-
-b) Obligations, parts ou actions émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
-chapitre IV du titre Ier du livre II du code monétaire et financier ou par un organisme de droit étranger ayant un objet
-équivalent ; 
-
-c) Titres participatifs ; 
-
-3° Titres de créances négociables d'un an au plus (certificats de dépôt et billets de trésorerie) rémunérés à taux fixe ou
-indexé sur un taux usuel sur les marchés interbancaires, monétaires ou obligataires et émis par les personnes morales autres
-que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats ou des organismes de titrisation régis
-par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier et dont des
-titres sont négociés sur un marché reconnu ; 
-
-4° Bons à moyen terme négociables répondant aux conditions mentionnées à l'article R. 212-47, et émis par des personnes
-morales autres que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont les titres sont
-négociés sur un marché reconnu ; 
-
-4° bis Obligations, parts ou actions, émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
-chapitre IV du titre Ier du livre II du code monétaire et financier, respectant les règles prévues à l'article R. 212-47-1 ; 
-
-5° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
-la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2°, 3° et 4° du présent article, dans les conditions fixées par
-l'article R. 212-46 ; 
-
-6° Actions et autres valeurs mobilières, négociées sur un marché reconnu, autres que celles visées aux 5°, 7°, 8°, 12° et
-14° ; 
-
-7° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant leur siège social sur le territoire de l'un
-des Etats membres de l'OCDE ; 
-
-8° Actions des entreprises d'assurance, de réassurance, de capitalisation autres que celles visées au 7° ; 
-
-9° Les valeurs et titres assimilés autres que les valeurs mentionnées aux 2°, 3°, 4°, 4° bis, 5°, 6°, 7°, 8°, 10° bis, 12°,
-14° et 17° bis qui suivent : 
-
-a) Titres de créances négociables, obligations, actions, parts et droits émis par des sociétés commerciales ; 
-
-b) Titres de créances négociables, obligations, parts ou actions émises par un organisme de titrisation régi par la sous-
-section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ; 
-
-c) Obligations, titres participatifs, certificats mutualistes, le cas échéant certificats paritaires, et titres subordonnés
-émis par les sociétés d'assurance mutuelles, les mutuelles, unions et fédérations régies par le code de la mutualité et les
-institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ayant leur siège social sur le
-territoire de l'un des Etats membres de l'OCDE ; 
-
-10° Parts des fonds communs de placement à risques de l'article L. 214-28 du code monétaire et financier, parts des fonds
-communs de placement dans l'innovation de l'article L. 214-30 du même code et parts des fonds d'investissement de proximité
-de l'article L. 214-31 du même code ; 
-
-10° bis Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement des articles L.
-214-160 et L. 214-161 du code monétaire et financier, actions ou parts de placements collectifs relevant de l'article L.
-214-154 du code monétaire et financier, actions ou parts d'organismes de placement collectif en valeurs mobilières autres que
-celles mentionnées au 11° bis dans sa rédaction antérieure au 2 août 2003 ; 
-
-10° ter Parts ou actions de fonds professionnels à vocation générale mentionnés à l'article R. 214-190 du code monétaire et
-financier ; 
-
-11° Parts ou actions de fonds de fonds alternatifs mentionnés à l'article R. 214-186 du code monétaire et financier et des
-placements collectifs mentionnés au III de l'article L. 214-24 du même code ; 
-
-11° bis Parts ou actions des fonds professionnels spécialisés mentionnés à l'article L. 214-154 du code monétaire et
-financier, respectant les règles prévues à l'article R. 212-47-1, à l'exception de celle figurant au septième alinéa du II de
-l'article R. 332-14-2 du code des assurances ; 
-
-12° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
-mentionnées aux 5°, 10°, 10° bis, 10° ter, 11° et 11° bis, dans les conditions fixées par l'article R. 212-46. 
-
-Les marchés reconnus mentionnée aux 2°, 3°, 4° et 6° du présent article sont les marchés réglementés des Etats membres de la
-Communauté européenne ou des Etats parties à l'accord sur l'Espace économique européen ou les marchés de pays tiers membres
-de l'OCDE en fonctionnement régulier. Les autorités compétentes de ces pays doivent avoir défini les conditions de
-fonctionnement du marché, d'accès à ce marché et d'admission aux négociations, et imposé le respect d'obligations de
-déclaration et de transparence. 
-
-B.-Actifs immobiliers : 
-
-13° Droits réels immobiliers afférents à des immeubles situés sur le territoire de l'un des Etats membres de l'OCDE et
-actions de sociétés d'épargne forestière relevant du paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du
-titre Ier du livre II du code monétaire et financier ; 
-
-14° Parts ou actions des sociétés à objet strictement immobilier, parts des sociétés civiles à objet strictement foncier,
-ayant leur siège social sur le territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R.
-212-48 ; 
-
-14° bis Parts ou actions d'organismes de placement collectif immobilier relevant du paragraphe 3 de la sous-section 2 de la
-section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier, autres que ceux mentionnés au 14
-quinquies ; 
-
-14° ter (Abrogé) ; 
-
-14° quater Parts ou actions d'organismes professionnels de placement collectif immobilier relevant du sous-paragraphe 2 du
-paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ; 
-
-14° quinquies Parts ou actions d'organismes de placement collectif immobilier mentionnés à l'article R. 214-120 du code
-monétaire et financier, lorsqu'ils exercent la dérogation prévue à ce même article. 
-
-C.-Prêts, dépôts et titres assimilés : 
-
-15° Prêts obtenus ou garantis par les Etats membres de l'OCDE, par les collectivités publiques territoriales et les
-établissements publics des Etats membres de l'OCDE ; 
-
-16° Prêts hypothécaires aux personnes physiques ou morales ayant leur domicile ou leur siège social sur le territoire de l'un
-des Etats membres de l'OCDE, dans les conditions fixées par l'article R. 212-44 ; 
-
-17° Autres prêts ou créances représentatives de prêts consentis aux personnes physiques ou morales ayant leur domicile ou
-leur siège social sur le territoire de l'un des Etats membres de l'OCDE, dans les conditions fixées par l'article R.
-212-45 ; 
-
-17° bis Obligations, parts ou actions émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
-chapitre IV du titre Ier du livre II du code monétaire et financier, dont l'actif est composé exclusivement de valeurs
-mentionnées au 15° ou au 16° du présent article et des actifs mentionnés aux 2°, 3° et 4° du II de l'article R. 332-14-2 du
-code des assurances, et respectant les règles prévues aux III, V, VI et VII de l'article R. 332-14-2 du code des
-assurances ; 
-
-18° Dépôts, dans les conditions fixées par l'article R. 212-49. 
-
-D.-Dispositions communes : 
-
-Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements. 
-
-Lorsqu'un instrument financier à terme a été souscrit dans les conditions définies à l'article R. 212-70 et qu'il est lié à
-un titre ou à un groupe de titres de même nature, parmi ceux mentionnés au paragraphe A du présent article, les primes ou
-soultes versées ou reçues pour la mise en place de l'instrument sont assimilées audit titre ou groupe de titres de même
-nature, dans la limite de la part restant à amortir et, pour les primes ou soultes versées au titre d'opérations de gré à
-gré, du montant des garanties reçues dans les conditions de l'article R. 212-81. 
-
-Les actifs représentatifs des provisions techniques sont évalués nets des dettes contractées pour l'acquisition de ces mêmes
-actifs. 
-
-Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibles en représentation des autres engagements.
-Par exception, les actifs remis en garantie d'opérations de taux sur instruments financiers à terme mentionnées aux articles
-R. 212-70 et R. 212-71 sont admis en représentation à hauteur des plus-values latentes enregistrées sur les actifs mentionnés
-à l'article R. 212-52 auxquels ces instruments financiers à terme sont liés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1
-	  - Code monétaire et financier - art. L214-154
-	  - Code monétaire et financier - art. L214-160
-	  - Code monétaire et financier - art. L214-186
-	  - Code monétaire et financier - art. L214-28
-	  - Code monétaire et financier - art. L214-30
-	  - Code monétaire et financier - art. L214-31
-	  - Code monétaire et financier - art. R214-190
-	  - Code des assurances - art. R332-14-2
-	  - Code de la mutualité - art. R212-21
-	  - Code de la mutualité - art. R212-28
-	  - Code de la mutualité - art. R212-29
-	  - Code de la mutualité - art. R212-35
-	  - Code de la mutualité - art. R212-47
-	  - Code de la mutualité - art. R212-48
-	  - Code de la mutualité - art. R212-49
-	  - Code de la mutualité - art. R212-70
-	  - Code de la mutualité - art. R212-71
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 29 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 37 (Ab)
-	  - Code de la mutualité - art. A114-8 (Ab)
-	  - Code de la mutualité - art. R212-31-1 (V)
-	  - Code de la mutualité - art. R212-32 (V)
-	  - Code de la mutualité - art. R212-33 (V)
-	  - Code de la mutualité - art. R212-45 (V)
-	  - Code de la mutualité - art. R212-46 (V)
-	  - Code de la mutualité - art. R212-47-1 (V)
-	  - Code de la mutualité - art. R212-50 (V)
-	  - Code de la mutualité - art. R212-52 (V)
-	  - Code de la mutualité - art. R212-54 (V)
-	  - Code de la mutualité - art. R212-59-3 (V)
-	  - Code de la mutualité - art. R212-78 (V)
-	  - Code de la mutualité - art. R212-81 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2015-204 du 23 février 2015 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-31-1
-
-Lorsqu'une mutuelle ou union investit, directement ou indirectement, dans des titres de créances négociables, des
-obligations, des parts ou actions visées au 2°, au 4° bis ou au 9° de l'article R. 212-31 ainsi que dans des titres de
-créance négociables visés au 3° du même article, émis par un véhicule de titrisation mentionné à l'article L. 310-1-2 du code
-des assurances, supportant des risques d'assurance transférés par cette même mutuelle ou union ou une mutuelle ou union
-appartenant au même périmètre de combinaison ou de consolidation tel que défini par l'article L. 212-7, le montant de ces
-investissements est déduit des actifs admis en représentation des engagements réglementés.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1-2
-	  - Code de la mutualité - art. L212-7
-	  - Code de la mutualité - art. R212-31
-
-
-###### Article R212-32
-
-Rapportée à la base de dispersion constituée par la différence entre le montant total des engagements réglementés mentionnés
-à l'article R. 212-21, toutes monnaies confondues, et le montant total des actifs mentionnés aux articles R. 212-36 à R.
-212-42, toutes monnaies confondues, la valeur au bilan d'une mutuelle ou union d'assurance de chacune des catégories d'actif
-énumérées ci-après admis en représentation des engagements réglementés ne peut excéder, sauf dérogation accordée cas par cas
-par l'Autorité de contrôle mentionnée à l'article L. 510-1 : 
-
-1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° et 14° quater de l'article R. 212-31 et des prêts mentionnés au
-troisième alinéa du I de l'article R. 212-45, dont 10 % au maximum pour l'ensemble formé par : 
-
-a) Les actions d'entreprises étrangères d'assurance mentionnées au 8° de l'article R. 212-31 ; 
-
-b) Les actions et parts mentionnées aux 9°, 10° à 10° ter, 11° et au 14° quater de l'article R. 212-31 ; 
-
-c) Les obligations et titres de créances négociables mentionnés au 9° de l'article R. 212-31 lorsqu'ils sont émis par un
-organisme de titrisation ou une société commerciale ; 
-
-d) Les prêts mentionnés au premier alinéa du présent 1° ; 
-
-2° 40 % pour les actifs immobiliers mentionnés aux 13° et 14° quinquies de l'article R. 212-31 ; 
-
-3° 10 % pour l'ensemble des valeurs mentionnées, d'une part, aux 15°, 16° et 17° de l'article R. 212-31, à l'exception des
-prêts mentionnés aux troisième et quatrième alinéas du I de l'article R. 212-45, et, d'autre part, au 17° bis de l'article R.
-212-31 ; 
-
-4° 5 % pour l'ensemble des valeurs constituées par : 
-
-a) Les obligations, parts ou actions mentionnées au 2° du A de l'article R. 212-31 ainsi que les titres de créances
-négociables mentionnés au 3° du A du même article, émis par un véhicule de titrisation mentionné à l'article L. 310-1-2 du
-code des assurances ; 
-
-b) Les obligations, parts ou actions mentionnées au 4° bis du A de l'article R. 212-31 ; 
-
-c) Les parts ou actions mentionnées au 11° bis de l'article R. 212-31 ; 
-
-d) Les prêts mentionnés au quatrième alinéa du I de l'article R. 212-45. 
-
-Sur demande de la mutuelle ou de l'union et après accord de l'Autorité de contrôle prudentiel et de résolution, cette limite
-peut être relevée. Un arrêté du ministre chargé de la mutualité fixe la valeur maximale du relèvement que peut accorder
-l'Autorité de contrôle prudentiel et de résolution.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-	  - Code de la mutualité - art. R212-33 (V)
-	  - Code de la mutualité - art. R212-50 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. R212-21
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-36
-	  - Code de la mutualité - art. R212-45 (V)
-
-
-###### Article R212-33
-
-Rapportée au montant défini à l'article R. 212-32, la valeur au bilan d'une mutuelle ou union d'assurance admise en
-représentation des actifs mentionnés ci-après admis en représentation des engagements réglementés ne peut excéder, sauf
-dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1 : 
-
-1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès de cet
-organisme, à l'exception des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'OCDE ainsi que des
-titres émis par la caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24
-janvier 1996 relative au remboursement de la dette sociale. 
-
-Le ratio de droit commun de 5 % peut atteindre 10 % pour les titres d'un même émetteur, à condition que la valeur des titres
-de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 % n'excède pas 40 % du montant défini à
-l'article R. 212-32. 
-
-Pour l'application des présentes dispositions, les mutuelles et unions détenant des actions des sociétés d'investissement à
-capital variable et des parts de fonds communs de placement doivent être en mesure de démontrer qu'elles respecteraient le
-présent article si elles détenaient elles-mêmes directement, au prorata de leur participation, les valeurs détenues par ces
-organismes ; 
-
-2° 10 % pour un même immeuble ou pour les valeurs mentionnées aux 14° à 14° bis et 14° quinquies de l'article R. 212-31 ; 
-
-3° 1 % pour les valeurs mentionnées aux 4° bis, 9°, 10°, 10° bis, 10° ter, 11° bis, 14° quater et 17° bis de l'article R.
-212-31 et les prêts mentionnés aux troisième et quatrième alinéas du I de l'article R. 212-45, respectivement émises ou
-obtenus par une même société, un même organisme ou un même compartiment d'une société ou d'un organisme. 
-
-Pour l'application des dispositions du 7° de l'article R. 212-31, une mutuelle ou union ne peut affecter à la représentation
-de ses engagements réglementés plus de 50 % des actions émises par une même société.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°96-50 du 24 janvier 1996
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. R212-31
-	  - Code de la mutualité - art. R212-32 (V)
-	  - Code de la mutualité - art. R212-45 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-34
-
-I. - Les provisions techniques des mutuelles et unions opérant à la fois sur le territoire français et sur le territoire
-monégasque doivent être représentées dans des conditions prévues par la réglementation française. Toutefois, les actifs admis
-en représentation desdites provisions peuvent comprendre, à concurrence de 5 % du montant de celles-ci, des placements
-mobiliers ou immobiliers monégasques sur autorisation donnée conjointement, pour chaque mutuelle ou union ou pour chaque cas,
-par l'Autorité de contrôle mentionnée à l'article L. 510-1 et par le ministre d'Etat de la Principauté de Monaco.
-
-II. - Pour ce qui concerne les opérations réalisées dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Wallis-
-et-Futuna et à Mayotte, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut, sur proposition du représentant de
-l'Etat dans la collectivité concernée, consentir des dérogations aux règles de l'article R. 212-32. Elle peut de même, à
-titre exceptionnel, accorder aux mutuelles et unions des dérogations à la réglementation de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1, R212-32
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-35
-
-Les provisions relatives aux affaires cédées à un organisme d'assurance ou de réassurance ayant son siège social en France ou
-dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen peuvent être représentées sans condition par une créance sur cet organisme. 
-
-Les provisions techniques relatives aux affaires cédées par une mutuelle ou union à un organisme d'assurance ou de
-réassurance ayant son siège social dans un Etat non partie à l'Espace économique européen peuvent être représentées par une
-créance sur cet organisme, à concurrence du montant garanti conformément aux dispositions de l'article R. 212-50. 
-
-La fraction des provisions techniques relatives aux affaires transférées à un véhicule de titrisation défini à l'article L.
-310-1-2 du code des assurances peut être représentée par une créance sur ce véhicule. 
-
-Toutefois, si un véhicule de titrisation n'est plus en mesure de respecter à tout moment ses engagements, les créances sur ce
-véhicule de titrisation ne sont admises en représentation des engagements relatifs aux affaires cédées à ce véhicule que sur
-autorisation de l'Autorité de contrôle et dans les limites fixées par celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1-2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-50 (V)
-
-
-###### Article R212-36
-
-Sont admises en représentation des provisions techniques correspondant aux branches mentionnées aux 20 à 22, 24 et 25 de
-l'article R. 211-2 :
-
-- les avances de cotisations ;
-
-- les cotisations relatives à ces branches, restant à recouvrer de trois mois de date au plus, dans la limite d'un plafond
-défini par arrêté du ministre chargé de la mutualité. Ce plafond est fixé en fonction de l'incidence, aux termes de la
-réglementation, du non-recouvrement éventuel de ces cotisations sur le montant des engagements réglementés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R211-2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-32 (V)
-
-
-###### Article R212-37
-
-Les provisions mathématiques des bulletins d'adhésion ou des contrats collectifs d'assurance sur la vie ou de capitalisation
-à capital variable, dans lesquels la somme assurée est déterminée par rapport à une valeur de référence, doivent être
-représentées à l'actif du bilan par des placements entrant dans la composition de cette valeur de référence et dans les
-proportions fixées par ladite composition.
-
-Ces placements ne sont pas soumis aux limitations prévues aux articles R. 212-32 et R. 212-33.
-
-Par dérogation aux dispositions des articles R. 212-52 et R. 212-53, ils font l'objet d'une estimation séparée et ils sont
-inscrits au bilan pour leur valeur au jour de l'inventaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-32, R212-33, R212-52, R212-53
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-55 (V)
-
-
-###### Article R212-38
-
-La provision pour cotisations non acquises constituée au titre d'un bulletin d'adhésion ou d'un contrat collectif par une
-mutuelle ou union pratiquant les opérations mentionnées aux a, c, d et e du 1° du I de l'article L. 111-1 peut être
-représentée, jusqu'à concurrence de 25 % de son montant, par les frais d'acquisition reportés au titre de ce bulletin ou
-contrat, nets des commissions des réassureurs reportées au titre de ce même bulletin ou contrat.
-
-La provision pour primes non acquises constituée par ces mêmes mutuelles ou unions peut être représentée jusqu'à 25 % de son
-montant par des cotisations relatives aux mêmes opérations émises et non encore encaissées ou des cotisations restant à
-émettre, nettes d'impôt, de taxes et de commissions, et de trois mois de date au plus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L111-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-39
-
-Pour la représentation des provisions techniques correspondant à la branche mentionnée au 18 de l'article R. 211-2, les
-avances faites aux transporteurs sont admises dans la limite de 10 % du montant défini à l'article R. 212-32.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R211-2, R212-32
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-40
-
-Les provisions techniques afférentes aux acceptations en réassurance peuvent être représentées à l'actif par les créances
-nettes détenues sur les cédants au titre desdites acceptations.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-41
-
-Les mutuelles et unions peuvent représenter les engagements afférents aux opérations réalisées par leurs succursales situées
-hors du territoire des Etats membres de la Communauté européenne ou des Etats parties à l'accord sur l'Espace économique
-européen, par les éléments d'actif admis par les législations des pays où elles opèrent et localisés sur le territoire de ces
-pays.
-
-Il en est de même lorsque les engagements réglementés des mutuelles et unions résultent d'opérations réalisées en libre
-prestation de services dans un Etat partie à l'accord sur l'Espace économique européen non membre de la Communauté européenne
-et que le pays de situation du risque ou de l'engagement subordonne l'exercice de ces opérations à agrément.
-
-Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou par les entreprises d'assurances cédantes
-desdits pays peuvent être représentés dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-42
-
-Les dépôts de garantie mentionnés au 3° de l'article R. 212-21 peuvent être représentés à l'actif par les créances de la
-mutuelle ou de l'union sur les déposants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-21
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-43
-
-Les mutuelles et unions ne peuvent acquérir d'immeubles grevés de droits réels représentant plus de 65 % de leur valeur ni
-consentir de droits réels sur leurs immeubles, sauf autorisation accordée à titre exceptionnel par l'Autorité de contrôle
-mentionnée à l'article L. 510-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-44
-
-Les prêts hypothécaires mentionnés au 16° de l'article R. 212-31 doivent être garantis par une hypothèque de premier rang
-prise sur un immeuble situé sur le territoire de l'un des Etats membres de l'OCDE ou sur un navire. L'ensemble des privilèges
-et hypothèques en premier rang ne doit pas excéder 65 % de la valeur vénale de l'immeuble ou du navire constituant la
-garantie du prêt, estimée au jour de la conclusion du contrat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-45
-
-I.-Les prêts mentionnés au 17° de l'article R. 212-31 doivent avoir une durée totale d'au moins deux ans et satisfaire aux
-conditions suivantes. 
-
-Ils doivent être garantis par une caution donnée par un établissement de crédit, une société de financement ou une entreprise
-d'assurances n'appartenant pas au même groupe que le prêteur ou l'emprunteur et agréés par l'un des Etat membres de la
-Communauté européenne ou par l'un des Etats parties à l'accord sur l'Espace économique européen, ou un nantissement de
-valeurs répondant aux conditions fixées par l'article R. 212-50, dans la limite de 75 % du montant nominal desdites valeurs.
-Sont considérés comme appartenant au même groupe, au sens du présent article, les organismes entrant dans le même périmètre
-de consolidation ou d'établissements des comptes combinés mentionnés à l'article L. 212-7. 
-
-Toutefois, les prêts peuvent ne pas être assortis de garantie, lorsque l'emprunteur est soit une société dont l'un des Etats
-membres de l'OCDE ou un de ses établissements publics détient plus de la moitié du capital, soit une société dont les actions
-sont négociées sur un marché reconnu tel que défini au dernier alinéa du A de l'article R. 212-31. 
-
-II.-Les créances représentatives des prêts de titres sont admises en représentation des engagements réglementés si elles ont
-fait l'objet d'un cautionnement en espèces ou d'une caution donnée par un établissement de crédit, une société de financement
-ou une entreprise d'assurance agréés par l'un des Etats membres de la Communauté économique européenne, ou d'un nantissement
-de valeurs répondant aux conditions fixées par l'article R. 212-50.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7
-	  - Code de la mutualité - art. R212-31
-	  - Code de la mutualité - art. R212-50
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-32 (V)
-	  - Code de la mutualité - art. R212-33 (V)
-	  - Code de la mutualité - art. R212-59-3 (V)
-
-
-###### Article R212-46
-
-En application des dispositions des 5° et 12° de l'article R. 212-31, sont admissibles en représentation des engagements
-réglementés les parts ou actions d'organismes de placement collectif en valeurs mobilières relevant de la section 1 et de
-placements collectifs relevant du paragraphe 1 de la sous-section 2 de la section 2 du chapitre IV du titre Ier du livre II
-du code monétaire et financier ; sont également admissibles les parts ou actions des organismes de placement collectif en
-valeurs mobilières régis par les réglementations des Etats membres de l'Union européenne et des autres Etats parties à
-l'accord sur l'Espace économique européen, pour autant que ces règles soient conformes à la directive n° 2009/65/ CE du
-Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et
-administratives concernant certains organismes de placement collectif en valeurs mobilière.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-47
-
-Les bons à terme négociables mentionnés au 4° de l'article R. 212-31 doivent répondre aux conditions suivantes :
-
-a) Provenir d'une émission au moins égale à 30 millions d'euros ;
-
-b) Etre valorisés par au moins deux organismes distincts et non liés financièrement ni entre eux ni avec la mutuelle ou
-l'union détentrice de bons ;
-
-c) Faire sur cette base l'objet d'un cours publié au moins tous les quinze jours et tenu à la disposition du public en
-permanence ;
-
-d) Comporter une clause de liquidité émanant de l'émetteur ou d'un garant et qui doit garantir que les actifs pourraient être
-rachetés à un cours cohérent avec le cours publié, c'est-à-dire prenant en compte la variation de taux d'intérêt entre les
-dates de publication du cours et de transaction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-47-1
-
-Les organismes de titrisation mentionnés au 4° bis de l'article R. 212-31 et les fonds professionnels spécialisés mentionnés
-au 11° bis de l'article R. 212-31 sont des fonds de prêts à l'économie. Ces fonds respectent les règles définies à l'article
-R. 332-14-2 du code des assurances.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code des assurances - art. R332-14-2 (V)
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-48
-
-Pour l'application des dispositions du 14° de l'article R. 212-31, les mutuelles et unions sont autorisées à détenir les
-parts ou actions de sociétés à objet strictement immobilier, à l'exclusion de sociétés ayant une activité de marchand de
-biens et de sociétés en nom collectif. Le patrimoine de ces sociétés ne peut être composé que d'immeubles bâtis ou de
-terrains situés sur le territoire de l'un des Etats membres de l'OCDE, de parts ou actions des sociétés répondant à ces mêmes
-conditions.
-
-Les mutuelles et unions sont également autorisées à détenir les parts des sociétés civiles à objet strictement foncier dont
-l'activité est limitée à la gestion directe de biens fonciers situés sur le territoire de l'un des Etats membres de l'OCDE ou
-les parts des groupements ayant pour seule activité la gestion de biens fonciers répondant à ces mêmes conditions. Les biens
-constitutifs du patrimoine doivent faire l'objet d'une exploitation. Les massifs forestiers doivent être assurés contre
-l'incendie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-49
-
-Les valeurs mobilières et titres assimilés, les parts ou actions des sociétés immobilières ou foncières doivent faire l'objet
-soit d'une inscription en compte, ou d'un dépôt, auprès d'un intermédiaire habilité, soit d'une inscription nominative dans
-les comptes de l'organisme émetteur, à condition que celui-ci soit situé en France.
-
-Les actes de propriété des actifs immobiliers, les actes et les titres consacrant les prêts ou créances doivent être
-conservés sur le territoire de la République française.
-
-Les comptes de dépôt visés au 18° de l'article R. 212-31 doivent être ouverts auprès d'un établissement de crédit agréé dans
-un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. Leur terme ne
-doit pas dépasser un an ou leur préavis de retrait trois mois. Les comptes doivent être libellés au nom de la mutuelle ou de
-l'union et ne peuvent être débités qu'avec l'accord respectivement d'un dirigeant de la mutuelle ou de l'union ou encore
-d'une personne désignée par celui-ci à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R510-19 (VD)
-
-
-###### Article R212-50
-
-La garantie des créances sur les réassureurs mentionnée à l'article R. 212-35 est constituée par le nantissement des valeurs
-visées aux 1°, 2°, 3°, 4°, 4° bis, 5°, 6°, 12° et 14° de l'article R. 212-31. Ces valeurs sont déposées sur un compte gagé au
-sens de l'article L. 211-20 du code monétaire et financier.
-
-Les valeurs reçues en nantissement sont évaluées conformément aux dispositions de l'article R. 212-54. Pour l'estimation des
-valeurs mentionnées au 1° de l'article R. 212-31, la fraction courue du coupon est prise en compte.
-
-A la demande d'une mutuelle ou union, l'Autorité de contrôle mentionnée à l'article L. 510-1 peut, par dérogation aux
-dispositions du premier alinéa du présent article, l'autoriser, pour une durée déterminée, à constituer la garantie
-mentionnée à l'article R. 212-35 dans des limites fixées par arrêté du ministre chargé de la mutualité, par une caution ou un
-engagement équivalent pris par un établissement de crédit ou une société de financement, dès lors que la nature et la forme
-de l'engagement ainsi que la qualité du garant répondent aux conditions fixées par le même arrêté. 
-
-Pour l'application des dispositions des articles R. 212-32 et R. 212-33, les valeurs reçues en nantissement des réassureurs
-sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cédante.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-20
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. R212-31
-	  - Code de la mutualité - art. R212-32
-	  - Code de la mutualité - art. R212-54
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-35 (V)
-	  - Code de la mutualité - art. R212-45 (V)
-
-
-###### Article R212-51
-
-En ce qui concerne les acceptations en réassurance, les mutuelles et unions enregistrent immédiatement en comptabilité tous
-les éléments reçus de leurs cédantes. En l'absence d'informations suffisantes, elles estiment les comptes non reçus des
-cédantes à la clôture de l'exercice avec pour contrepartie des comptes de régularisation qui seront soldés à l'ouverture de
-l'exercice suivant ou à réception des comptes des cédantes, ou elles compensent provisoirement les soldes de tous les comptes
-incomplets d'un même exercice par une écriture d'attente qui sera contrepassée à l'ouverture de l'exercice suivant.
-
-En tout état de cause et quel que soit le mode de comptabilisation retenu, lorsque le réassureur connaît l'existence d'une
-perte, celle-ci doit être provisionnée pour son montant prévisible.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-52
-
-I.-Les valeurs amortissables énumérées aux 1°, 2°, 3° et 4° de l'article R. 212-31, autres que les obligations et les parts
-indexées, les parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date
-d'acquisition. 
-
-Lorsqu'un instrument financier à terme est utilisé dans les conditions définies à l'article R. 212-71 et qu'il est lié à
-l'achat d'un titre ou d'un groupe de titres de même nature, la valeur de réalisation de l'instrument est prise en compte dans
-le prix d'achat de ce titre ou de ce groupe de titres. 
-
-Lorsque le prix d'achat de ces titres est supérieur à leur prix de remboursement, la différence est amortie sur la durée de
-vie résiduelle des titres. 
-
-Lorsque le prix d'achat de ces titres est inférieur à leur prix de remboursement, la différence est portée en produits sur la
-durée de vie résiduelle des titres. La mutuelle ou l'union peut décider de ne pas appliquer les dispositions du présent
-alinéa aux titres acquis aux cours des exercices clos avant l'entrée en vigueur du décret n° 2002-720 du 2 mai 2002 relatif
-aux règles prudentielles applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation. Le
-choix ainsi effectué par la mutuelle ou l'union s'applique à l'ensemble des titres acquis avant cette date. 
-
-Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru. 
-
-Lors de l'arrêté comptable, les moins-values latentes ressortant de la différence entre la valeur comptable, diminuée des
-amortissements et majorée des produits mentionnés aux troisième et quatrième alinéas, et la valeur de réalisation des titres
-correspondants évaluée conformément à l'article R. 212-54, ne font pas l'objet d'une provision. 
-
-Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
-paiement des intérêts, soit pour le remboursement du principal, une dépréciation doit être constatée à l'inventaire. 
-
-II.-Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix d'un pays ou d'un
-ensemble de pays dont la devise est celle dans laquelle sont libellées ces obligations, avec garantie de remboursement au
-pair. Ces obligations sont soit émises par une personne morale de droit privé ayant son siège social sur le territoire d'un
-Etat membre de l'OCDE et négociées sur un marché reconnu, soit émises ou garanties par un Etat, un organisme ou une
-collectivité publics mentionnés au 1° du A de l'article R. 212-31, soit celles dont le débiteur est un établissement public
-national de l'un des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen. 
-
-Pour le calcul de la différence à amortir entre le prix d'achat d'une obligation indexée sur le niveau général des prix et
-son prix de remboursement, celui-ci est le prix de remboursement initial du titre multiplié par le rapport entre l'indice des
-prix de référence à la date d'acquisition et ce même indice à la date d'émission. 
-
-A chaque arrêté comptable, le gain ou la perte lié à l'indexation depuis le dernier arrêté comptable ou depuis l'achat, s'il
-est plus récent, est enregistré en produits ou en charges. 
-
-Sans préjudice des dispositions du I, les obligations indexées sur le niveau général des prix donnent lieu à la constatation
-d'une dépréciation si une situation de déflation durable est envisagée. Pour la détermination du montant de cette provision,
-la valeur de réalisation de ces obligations, qui ne peut être inférieure à leur nominal, est la valeur la plus faible entre,
-d'une part, leur valeur de marché et, d'autre part, leur valeur calculée sur la base des prévisions d'évolution de l'indice
-des prix de référence publiées par un organisme figurant sur la liste fixée par arrêté du ministre chargé de l'économie en
-application de l'article R. 332-19 du code des assurances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2002-720 du 2 mai 2002
-	  - Code des assurances - art. R332-19
-	  - Code de la mutualité - art. R212-71
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
-	  - Code de la mutualité - art. A212-19 (Ab)
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-53 (V)
-	  - Code de la mutualité - art. R212-54 (V)
-	  - Code de la mutualité - art. R212-55 (V)
-	  - Code de la mutualité - art. R510-3-1 (VT)
-	  - Code de la mutualité - art. R510-3-4 (VT)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-53
-
-A l'exception des valeurs inscrites comme il est dit à l'article R. 212-52, les placements sont inscrits au bilan sur la base
-du prix d'achat ou de revient, dans les conditions ci-après : 
-
-a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat. Lorsqu'un
-instrument financier à terme est utilisé dans les conditions définies à l'article R. 212-71 et qu'il est lié à l'achat d'un
-titre ou d'un groupe de titres de même nature, la valeur de réalisation de l'instrument est prise en compte dans le prix
-d'achat de ce titre ou de ce groupe de titres. Le prix d'achat s'entend hors intérêt couru ; 
-
-b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières non inscrites à la cote d'une bourse de
-valeurs d'un Etat membre de l'Organisation de coopération et de développement économique sont retenus pour leur prix d'achat
-ou de revient ou, dans les conditions fixées dans chaque cas par l'Autorité de contrôle mentionnée à l'article L. 510-1, pour
-une valeur déterminée après expertise effectuée conformément à l'article R. 212-56. Les valeurs sont diminuées des
-amortissements pratiqués. Le prix de revient des immeubles est celui qui ressort des travaux de construction et
-d'amélioration, à l'exclusion des travaux d'entretien proprement dits ; 
-
-c) Les prêts sont évalués d'après les actes qui en font foi ou, s'ils sont acquis sur un marché secondaire, à leur prix
-d'acquisition ; 
-
-d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre chargé de la
-mutualité. 
-
-Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les dépréciations, lesquelles ne peuvent être
-constatées que lorsqu'il y a lieu de considérer qu'elles ont un caractère durable.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
-	  - Code de la mutualité - art. R212-24 (VT)
-	  - Code de la mutualité - art. R212-26 (VT)
-	  - Code de la mutualité - art. R212-27-2 (VT)
-	  - Code de la mutualité - art. R212-54 (V)
-	  - Code de la mutualité - art. R510-3-1 (VT)
-	  - Code de la mutualité - art. R510-3-4 (VT)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. R212-52
-	  - Code de la mutualité - art. R212-56
-	  - Code de la mutualité - art. R212-71
-
-
-###### Article R212-54
-
-Les valeurs énumérées à l'article R. 212-31 et les autres placements financiers et immobiliers font l'objet, aux fins
-notamment d'effectuer le calcul prévu au premier alinéa de l'article L. 212-6, d'une évaluation sur la base de leur valeur de
-réalisation, dans les conditions ci-après : 
-
-a) Les valeurs mobilières cotées et les titres cotés de toute nature sont retenus pour le dernier cours coté au jour de
-l'inventaire ; 
-
-b) Les titres non cotés et les prêts sont retenus pour leur valeur vénale correspondant au prix qui en serait obtenu dans des
-conditions normales de marché et en fonction de leur utilité pour la mutuelle ou l'union ; 
-
-c) Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement sont retenues pour
-le dernier prix de rachat publié au jour de l'inventaire ; 
-
-d) La valeur de réalisation des immeubles et des parts ou actions des sociétés immobilières ou foncières non inscrites à la
-cote d'une bourse de valeurs d'un Etat membre de l'organisation de coopération et de développement économique est déterminée
-sur la base d'une expertise quinquennale effectuée par un expert accepté par l'Autorité de contrôle mentionnée à l'article L.
-510-1. Entre deux expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un expert accepté par cette
-Autorité ; 
-
-e) Les autres placements sont retenus pour leur valeur comptable déterminée comme il est prévu aux articles R. 212-52 et R.
-212-53 ci-dessus, sauf dans le cas où une autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à
-l'article R. 212-56, soit d'un accord entre l'Autorité de contrôle mentionnée à l'article L. 510-1 et la mutuelle ou
-l'union. 
-
-Pour les titres inscrits en comptabilité hors coupon couru en application des articles R. 212-52 et R. 212-53, il y a lieu de
-déduire de l'évaluation prévue au présent article les prorata d'intérêt courus depuis la dernière échéance jusqu'à la date de
-l'inventaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31, L212-6, L510-1, R212-52, R212-53, R212-56
-	  - Code de la mutualité - art. L212-6 (V)
-	  - Code de la mutualité - art. L510-1 (V)
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-53 (V)
-	  - Code de la mutualité - art. R212-56 (V)
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 47 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 54 (Ab)
-	  - Code de la mutualité - art. R212-23 (VT)
-	  - Code de la mutualité - art. R212-24 (VT)
-	  - Code de la mutualité - art. R212-50 (V)
-	  - Code de la mutualité - art. R212-52 (V)
-	  - Code de la mutualité - art. R212-55 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1530 du 17 décembre 2014 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-54-1
-
-La valeur de réalisation des instruments financiers à terme mentionnés aux articles R. 212-70 à R. 212-73 est :
-
-a) Pour les instruments financiers à terme échangés sur des marchés reconnus au sens du dernier alinéa du A de l'article R.
-212-31, la valeur de la dernière cotation ;
-
-b) Pour les instruments échangés de gré à gré, le coût de remplacement, évalué par au moins deux organismes n'appartenant pas
-à un même groupe au sens de l'article R. 212-45. Un des organismes peut être la mutuelle ou union elle-même, sauf opposition
-de l'Autorité de contrôle mentionnée à l'article L. 510-1. Les organismes habilités à cette évaluation sont les
-établissements de crédit, les entreprises d'investissement ou, sur accord de l'Autorité de contrôle mentionnée à l'article L.
-510-1, des organismes spécialisés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-70 à R212-73, R212-31, R212-45, L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 47 (Ab)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 54 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-55
-
-I.-Les cessions de titres en portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits
-à la date la plus ancienne. Lorsque des titres de même nature ont été acquis de manière successive en fonction d'un même
-ordre d'achat ou au cours d'un même exercice, la détermination du prix unitaire d'achat de chacun de ces titres peut
-s'effectuer en prix d'achat unitaire pondéré. 
-
-Toutefois, les mutuelles et unions qui, un an avant la publication du plan comptable déterminaient les plus-values ou les
-moins-values de cession en fonction de la valeur d'origine unitaire moyenne pondérée des titres de même nature figurant dans
-leur patrimoine doivent continuer de faire application de cette méthode en cas de cessions de titres figurant dans leur
-portefeuille à la date de publication du plan comptable. Dans ce cas, le prix de revient unitaire des titres de même nature
-détenus à cette date est égal au prix unitaire moyen pondéré de l'ensemble de ces titres calculé à cette même date. 
-
-II.-Lorsque des placements détenus par la mutuelle ou l'union et évalués conformément à l'article R. 212-52 ou à l'article R.
-212-53 changent de destination et sont affectés en représentation d'engagements à capital variable tels que définis au
-premier alinéa de l'article R. 212-37, ils sont inscrits au bilan à la valeur estimée conformément aux dispositions du
-troisième alinéa du même article ; la différence entre cette valeur et la valeur comptable antérieure est constatée en compte
-de résultat. 
-
-De même, la variation de valeur, d'un exercice à l'autre, des placements affectés en représentation d'engagements à capital
-variable, telle qu'elle résulte de l'application des règles d'évaluation prévues par l'article R. 212-37, est constatée en
-compte de résultat. 
-
-III.-Les actifs visés aux articles R. 212-52 et R. 212-53 inscrits dans une devise autre que l'euro sont évalués dans cette
-même devise pour l'application de l'article R. 212-54. 
-
-IV.-abrogé.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-342 du 21 avril 2004 - art. 30 (Ab)
-	  - Décret n°2007-1883 du 26 décembre 2007 - art. 1
-
-	**Modifié par**:
-
-	  - Décret n°2007-1883 du 26 décembre 2007 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-37 (V)
-	  - Code de la mutualité - art. R212-52 (V)
-	  - Code de la mutualité - art. R212-54 (V)
-
-
-###### Article R212-56
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 peut requérir la fixation par une expertise de la valeur de tout ou
-partie de l'actif des mutuelles ou unions, et notamment des immeubles et des parts et actions de sociétés immobilières leur
-appartenant ou sur lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire, ainsi que des instruments
-financiers à terme utilisés par les mutuelles ou unions.
-
-Cette expertise peut être également demandée à l'Autorité par les mutuelles et unions.
-
-La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue aux
-articles R. 212-54 et R. 212-54-1. Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions
-fixées dans chaque cas par l'Autorité de contrôle. Elle constitue alors le nouveau prix d'achat mentionné à l'article R.
-212-53, la différence entre cette valeur et la valeur comptable antérieure étant constatée en compte de résultat.
-
-Les frais de l'expertise sont à la charge de la mutuelle ou de l'union.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1, R212-54, R212-54-1, R212-53
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Cité par**:
-
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code de la mutualité - art. R212-53 (V)
-	  - Code de la mutualité - art. R212-54 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-57
-
-Les modalités de l'expertise prévue à l'article R. 212-56, et notamment le mode de désignation du ou des experts, sont fixés
-par arrêté du ministre chargé de la mutualité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-56
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-58
-
-Les mutuelles et unions agréées pour les branches mentionnées aux 1, 2, 15, 16 a et h, 17 et 18 de l'article R. 211-2
-inscrivent à l'actif de leur bilan la fraction non imputable à l'exercice des frais d'acquisition des bulletins d'adhésion ou
-des contrats collectifs constatés en charge de l'exercice. La période d'imputation des frais d'acquisition ne peut s'étendre
-au-delà de la date à laquelle le membre participant ou le souscripteur de contrat collectif peut exercer son droit de
-résiliation ou de non-reconduction ni, lorsque les frais à reporter sont des commissions payables à chaque échéance de
-cotisation, au-delà de la prochaine échéance de cotisation.
-
-Le montant reporté est calculé bulletin d'adhésion par bulletin d'adhésion, contrat collectif par contrat collectif ou sur la
-base de méthodes statistiques, dans les mêmes conditions et selon les mêmes méthodes que la provision pour cotisations non
-acquises ; il ne peut faire l'objet d'une augmentation ultérieure ; il est amorti linéairement sur la durée restant à courir
-entre la date de l'inventaire et la fin de la période d'imputation des frais, et au maximum sur cinq exercices ; il est
-amorti en totalité en cas de résiliation anticipée, d'annulation ou de transfert de bulletin d'adhésion ou de contrat
-collectif.
-
-La fraction non imputable à l'exercice des commissions des réassureurs est également inscrite au bilan ; le montant reporté
-est calculé et repris en compte de résultat selon les mêmes méthodes que celles retenues pour les frais d'acquisition des
-opérations brutes correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R211-2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-720 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-	  - Décret n°2002-720 du 2 mai 2002 - art. 6 () JORF 4 mai 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-59
-
-Les mutuelles et unions agréées pour les branches 20 à 22 et 24 à 26 de l'article R. 211-2 inscrivent à l'actif du bilan les
-frais d'acquisition à reporter en fonction de la durée de vie résiduelle des bulletins d'adhésion ou des contrats collectifs.
-Le montant des frais d'acquisition ainsi reportés est au plus égal à l'écart entre les montants de provisions mathématiques
-inscrites au bilan et le montant des provisions mathématiques qui seraient à inscrire si les frais d'acquisition n'étaient
-pas pris en compte dans les engagements des membres participants, bénéficiaires et ayants droit. Le montant de cet écart,
-ainsi que le calcul des frais d'acquisition reportés, doivent pouvoir être justifiés à tout moment auprès de l'Autorité de
-contrôle mentionnée à l'article L. 510-1. Les frais d'acquisition reportés sont admis en représentation des provisions
-techniques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R211-2, L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-24 (VT)
-	  - Code de la mutualité - art. R212-26 (VT)
-
-
-###### Article R212-59-1
-
-Les mutuelles et unions de réassurance doivent procéder avec une régularité suffisante à une évaluation de leurs risques
-financiers en effectuant notamment des simulations de l'impact de la variation des taux d'intérêt sur leur actif et leur
-passif et des estimations comparées de l'exigibilité de leur passif et de la liquidité de leur actif.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-59-2
-
-Les mutuelles et unions de réassurance mentionnées à l'article L. 211-7-2 représentent leurs engagements réglementés par des
-actifs qui tiennent compte de la nature, du montant et de la durée de ces engagements, de manière à garantir le caractère
-suffisant, la liquidité, la sécurité, le rendement et la congruence des placements qu'elles réalisent. 
-
-Elles veillent en particulier à ce que les actifs soient diversifiés et correctement répartis et permettent à l'organisme de
-réagir convenablement à des fluctuations de la situation économique, et en particulier à l'évolution des marchés financiers
-et immobiliers ou à des catastrophes majeures.L'organisme évalue l'incidence de conditions de marché irrégulières sur ses
-actifs et diversifie ses actifs de façon à réduire cette incidence. 
-
-Elles veillent également à ce que les placements en actifs non négociés sur un marché financier réglementé soient, en toutes
-circonstances, maintenus à des niveaux prudents. 
-
-Ces mutuelles et unions peuvent investir dans des instruments financiers à terme dans la mesure où ces derniers contribuent à
-réduire les risques d'investissement ou à permettre une gestion efficace du portefeuille. Ils sont évalués de manière
-prudente, en tenant compte des actifs sous-jacents, et sont inclus dans l'évaluation des actifs de l'institution.L'organisme
-doit également éviter une exposition excessive aux risques liés à une contrepartie unique et à d'autres opérations dérivées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7-2
-
-
-###### Article R212-59-3
-
-I. ― Lorsqu'elle estime que la politique d'investissement d'une mutuelle ou union de réassurance ne répond plus aux
-conditions mentionnées à l'article R. 212-45-2, ou si la maîtrise par l'organisme de ses risques financiers est insuffisante,
-l'Autorité de contrôle peut exiger que la mutuelle ou union représente ses engagements réglementés afférents aux opérations
-réalisées dans les Etats membres de l'OCDE par des actifs dans les conditions suivantes : 
-
-1° Rapportée au montant total des engagements mentionnés à l'article R. 212-27-2, toutes monnaies confondues, la valeur des
-actifs libellés dans des devises autres que celles dans lesquelles sont établis les engagements réglementés est limitée à 30
-% ; 
-
-2° Rapportée à ce même montant, la somme des valeurs des actifs visés aux 9 à 11 de l'article R. 212-31 et des prêts
-mentionnés au troisième alinéa du 1° de l'article R. 212-45, avec celle des actifs non listés aux articles R. 212-31 et R.
-212-45 est limitée à 30 % ; 
-
-3° Rapportée à ce même montant, la valeur au bilan des actifs émis, prêtés ou garantis par un même organisme ou un même
-groupe ne peut excéder respectivement 5 % et 10 %, sauf dérogation accordée au cas par cas par l'Autorité de contrôle
-prudentiel et de résolution. 
-
-Toutefois, le ratio de 5 % susmentionné peut atteindre 10 %, à condition que la valeur totale des titres émis et des prêts
-obtenus ou garantis par les organismes ou groupes dont les émissions, prêts ou garanties de prêt sont admis au-delà de 5 %
-n'excède pas 40 % de la base de dispersion définie au présent article. 
-
-II. ― Lorsque la mutuelle ou union de réassurance doit représenter ses engagements réglementés dans les conditions prévues au
-I du présent article, les provisions techniques relatives aux affaires cédées à un organisme d'assurance ou de réassurance
-peuvent également être représentées sans condition par une créance sur cet organisme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-27-2
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-45
-
-
-##### Section 6 : Transfert de portefeuille.
-
-###### Article R212-60-1
-
-Le transfert prévu à l'article L. 212-11-1, de tout ou partie d'un portefeuille de contrats ou de sinistres à payer est
-soumis à l'approbation de l'Autorité de contrôle prudentiel et de résolution. 
-
-La demande d'autorisation présentée par la mutuelle ou l'union est portée à la connaissance des organismes réassurés et des
-créanciers par un avis publié au Journal officiel, qui leur fixe un délai de deux mois pour présenter leurs observations.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-11-1
-
-
-###### Article R212-61
-
-Les actifs transférés avec des garanties liées aux bulletins d'adhésion ou aux contrats collectifs relevant du b du 1° du I
-de l'article L. 111-1 par une mutuelle ou une union sont affectés à une section comptable distincte du bilan de la mutuelle
-ou de l'union cessionnaire des bulletins d'adhésion ou contrats collectifs.
-
-Pour le calcul de la participation aux excédents afférents à ces actifs prévue à l'article L. 212-5, il n'est pas tenu compte
-de l'importance respective des fonds propres et des engagements pris envers les membres participants, les bénéficiaires et
-les ayants droit figurant au bilan de la mutuelle ou de l'union.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-354 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la mutualité - art. L212-5 (V)
-
-
-###### Article R212-62
-
-Lorsqu'en application du 8° de l'article L. 612-33 du code monétaire et financier, l'Autorité de contrôle prudentiel et de
-résolution décide le transfert d'office d'un portefeuille de bulletins d'adhésion ou de contrats collectifs conclus sur le
-territoire d'un ou plusieurs Etats parties à l'accord sur l'Espace économique européen, elle en avise les autorités
-compétentes de ces différents Etats. 
-
-Lorsque l'entreprise d'assurance cessionnaire a son siège social dans un Etat partie à l'accord sur l'Espace économique
-européen, l'Autorité de contrôle s'assure auprès des autorités compétentes de cet Etat que l'entreprise possède, compte tenu
-du transfert, la marge de solvabilité nécessaire. 
-
-La décision de transfert et le nom de l'entreprise cessionnaire font l'objet d'une publication au Journal officiel à la
-diligence de l'Autorité de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-33
-
-
-###### Article R212-63
-
 Les transferts de portefeuille mentionnés à l'article L. 212-11 relatifs à des opérations régies par l'article R. 211-21 sont
 effectués par la mutuelle ou l'union substituée aux organismes cédants conformément aux dispositions du même article, qui
-agit pour le compte des organismes auxquels elle s'est substituée.L'avis et la décision de transfert de portefeuille
+agit pour le compte des organismes auxquels elle s'est substituée. L'avis et la décision de transfert de portefeuille
 mentionnés à l'article L. 212-11 comportent en annexe la liste des opérations et des organismes concernés par le transfert.
 
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-217 du 3 mars 2010 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-11 (V)
-	  - Code de la mutualité - art. R211-21 (V)
-
-
-###### Article R212-64
-
-L'Autorité de contrôle prudentiel et de résolution peut s'opposer dans les conditions prévues à l'article L. 212-13 à la
-fusion ou à la scission d'une mutuelle ou union.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2002-354 du 14 mars 2002 - art. 4 (V)
+	  - Code de la mutualité (nouveau) R212-21
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
-	**Cite**:
 
-	  - Code de la mutualité - art. L212-13 (V)
+###### Article R212-22-1
 
+Lorsqu'une procédure de liquidation est ouverte en application de l'article L. 212-15, le liquidateur informe sans délai et
+individuellement par une note écrite chaque créancier connu qui a sa résidence habituelle, son domicile ou son siège social
+dans un Etat membre autre que la France. 
 
-##### Section 7 : Instruments financiers à terme.
-
-###### Article R212-70
-
-Une mutuelle ou union peut utiliser un instrument financier à terme au sens de l'article L. 211-1 du code monétaire et
-financier, lié à un placement ou un groupe de placements détenus ou à détenir si sont remplies durant toute l'opération les
-conditions suivantes :
-
-a) Le placement ou le groupe de placements est détenu ou a été acquis à terme avec une échéance antérieure à la date
-d'échéance ou d'exercice de cet instrument ;
-
-b) Le placement ou le groupe de placements est identique ou assimilable au sous-jacent de cet instrument, et de montant au
-moins égal au montant notionnel de cet instrument ;
-
-c) Pour les contrats d'échange, le sous-jacent mentionné au b est celui que l'organisme s'engage à échanger ;
-
-d) L'instrument financier à terme permet, en adéquation avec les engagements de la mutuelle ou union, une gestion efficace et
-prudente du placement ou du groupe de placements détenus visant à titre principal au maintien de sa valeur ou de son
-rendement.
+Le contenu et le format de la note sont fixés par arrêté du ministre chargé de la mutualité.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 	**Créé par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
-
-	**Abrogé par**:
-
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
-	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
+###### Article R212-22-2
 
-	**Cité par**:
+Le chapitre V du titre II du livre III du code des assurances est applicable aux mutuelles et unions mentionnées aux articles
+L. 211-8 et L. 211-8-1. 
 
-	  - Code de la mutualité - art. R211-29 (VT)
-	  - Code de la mutualité - art. R211-31 (VT)
-	  - Code de la mutualité - art. R212-11 (VD)
-	  - Code de la mutualité - art. R212-15 (VT)
-	  - Code de la mutualité - art. R212-24 (VT)
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-73 (V)
-
-
-###### Article R212-71
-
-Une mutuelle ou union peut utiliser un instrument financier à terme en anticipation de placement si sont remplies durant
-toute l'opération les conditions suivantes :
-
-a) La mutuelle ou union détient ou recevra avant la date d'échéance ou d'exercice de cet instrument un montant de liquidités
-au moins égal au montant notionnel de l'instrument. Lorsque l'instrument financier à terme n'emporte pour la mutuelle ou
-union aucune obligation financière exigible à la date d'exercice ou ultérieurement, les liquidités peuvent être à recevoir de
-façon probable ;
-
-b) L'opération a pour objet de diminuer l'aléa des conditions de placement futur, en adéquation avec les engagements de la
-mutuelle ou union.
-
-Sont assimilées à des liquidités détenues les actions des sociétés d'investissement à capital variable et parts de fonds
-communs de placement mentionnés aux 3° et 8° de l'article R. 212-31 et classés dans la catégorie des OPCVM et des FIA
-monétaires.
-
-Lorsque les liquidités sont à recevoir à une échéance supérieure à un an, les créances découlant de l'opération à terme
-doivent être intégralement garanties dans les conditions prévues à l'article R. 212-81.
+Pour l'application de l'alinéa précédent, il y a lieu d'entendre : " mutuelle ou union " là où est mentionné dans le 
+code des assurances
+: " entreprise ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-31, R212-81
-
-	**Modifié par**:
-
-	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-31 (V)
-	  - Code de la mutualité - art. R212-52 (V)
-	  - Code de la mutualité - art. R212-53 (V)
-
-
-###### Article R212-72
-
-Une mutuelle ou union peut utiliser un instrument financier à terme de taux ou de devise lié à une dette financière si sont
-remplies durant toute l'opération les conditions suivantes :
-
-a) L'emprunt contracté ou la dette émise est identique ou assimilable au sous-jacent de cet instrument ;
-
-b) Pour les contrats d'échange, le sous-jacent mentionné au a est celui que la mutuelle ou union s'engage à échanger ;
-
-c) L'emprunt contracté ou la dette émise par la mutuelle ou union est de montant au moins égal au montant notionnel de cet
-instrument ;
-
-d) L'instrument financier à terme permet une gestion efficace et prudente de cette dette en adéquation avec les placements de
-la mutuelle ou union.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
 
 	**Créé par**:
 
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-73
-
-Sauf dérogation expresse de l'Autorité de contrôle mentionnée à l'article L. 510-1, une mutuelle ou union ne peut utiliser
-d'instrument financier à terme que dans les cas prévus par les articles R. 212-70, R. 212-71 et R. 212-72. 
-
-Toute opération financière à terme ne respectant plus les conditions fixées à ces articles doit être dénouée dans un délai de
-trois mois, et fait l'objet d'une analyse détaillée dans le rapport prévu à l'article L. 212-3.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-468 du 19 mai 2008 - art. 8
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-
-	**Abrogé par**:
-
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-3
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. R212-70
-
-
-###### Article R212-74
-
-Une mutuelle ou union ne peut procéder à des ventes d'option que dans les cas suivants :
-
-a) Vendre une option précédemment acquise dans le cadre défini par les articles R. 212-70 à R. 212-73 ;
-
-b) Vendre une option lorsque la mutuelle ou union achète simultanément une option similaire, à la seule différence du prix
-d'exercice ;
-
-c) Vendre une option d'achat à la condition que le sous-jacent soit un placement déjà détenu, à l'exclusion de tout placement
-à détenir comme de toute anticipation de placement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-70 à R212-73
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-75
-
-Les modalités d'enregistrement et de comptabilisation des opérations mentionnées aux articles R. 212-70 à R. 212-73 sont
-fixées par règlement de l'Autorité des normes comptables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-70 à R212-73
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-76
-
-Sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1, notamment au regard d'une
-modification globale des conditions de marché, la somme des valeurs de réalisation positives de l'ensemble des instruments
-financiers à terme conclus de gré à gré avec l'ensemble des contreparties ne peut excéder 10 % de la base de dispersion
-définie au premier alinéa de l'article R. 212-32.
-
-Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives vis-à-vis d'une même
-contrepartie s'il existe entre les parties à l'opération une convention-cadre mentionnée à l'article R. 212-81.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1, R212-32, R212-81
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-77
-
-Sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1, le montant des liquidités
-à recevoir qui proviennent d'actifs mentionnés aux 1°, 2°, 2° bis et 2° ter du A de l'article R. 212-31 et qui font l'objet
-d'opérations d'anticipation de placement dans des titres de même nature ne peut excéder 20 % de la base de dispersion définie
-au premier alinéa de l'article R. 212-32.
-
-Dans les cas autres que prévus au premier alinéa, le montant des liquidités à recevoir faisant l'objet d'opérations
-d'anticipation de placement ne peut excéder 5 % de la base de dispersion.
-
-Lorsque l'instrument financier à terme n'emporte pour la mutuelle ou union aucune obligation financière exigible à la date
-d'exercice ou ultérieurement, les limitations du présent article ne s'appliquent pas.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1, R212-31, R212-32
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-78
-
-Une mutuelle ou union ne peut souscrire d'instruments financiers à terme que : 
-
-1. Sur les marchés reconnus au sens du dernier alinéa du A de l'article R. 212-31 ; 
-
-2. De gré à gré, auprès : 
-
-a) Des établissements de crédit et entreprises d'investissement ayant leur siège social sur le territoire de l'un des Etats
-membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen ; 
-
-b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financier ; 
-
-c) Des établissements de crédit ou entreprises d'investissement de pays tiers assujettis à des règles prudentielles
-considérées comme équivalentes par l'Autorité de contrôle prudentiel et de résolution ; 
-
-d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord de l'Autorité de contrôle mentionnée à
-l'article L. 510-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-1 (V)
-	  - Code de la mutualité - art. L510-1 (V)
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-79
-
-La somme des valeurs de réalisation positives de l'ensemble des contrats conclus avec une même société ou plusieurs sociétés
-appartenant au même groupe au sens de l'article R. 212-45 est prise en compte dans le plafond mentionné au 1° de l'article R.
-212-33.
-
-Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives des instruments
-financiers à terme conclus avec un même organisme s'il existe entre les parties à l'opération une convention-cadre mentionnée
-à l'article R. 212-81.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-45, R212-33, R212-81
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-81 (V)
-
-
-###### Article R212-80
-
-La somme des valeurs de réalisation positives des contrats financiers à terme conclus de gré à gré avec une même société ou
-plusieurs sociétés appartenant au même groupe au sens de l'article R. 212-45 ne peut excéder 0,5 % de la base de dispersion
-définie au premier alinéa de l'article R. 212-32.
-
-Les valeurs de réalisation positives peuvent être compensées avec des valeurs de réalisation négatives des instruments
-financiers à terme conclus avec un même organisme s'il existe entre les parties à l'opération une convention-cadre mentionnée
-à l'article R. 212-81.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-45, R212-32, R212-81
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-81
-
-Les montants prévus aux articles R. 212-79 et R. 212-80 sont calculés net de la valeur des garanties reçues en application
-d'une convention-cadre admissible. 
-
-Est admissible une convention-cadre qui remplit l'ensemble des conditions suivantes : 
-
-a) Elle respecte les principes généraux d'une convention-cadre de place nationale ou internationale ; 
-
-b) Elle prévoit de façon explicite la compensation entre valeurs de réalisation positives et négatives ; 
-
-c) Elle prévoit que la garantie prend la forme de remises en pleine propriété, opposables aux tiers sans formalité,
-d'espèces, de valeurs mentionnées au 1° du A de l'article R. 212-31, ou de parts ou d'actions d'organismes de placement
-collectif en valeurs mobilières ou de placements collectifs  mentionnés au 3° de cet article dont le portefeuille est
-exclusivement composé des valeurs mentionnées au 1° de cet article ; 
-
-d) Elle prévoit que les lois ou règlements régissant la contrepartie, notamment en cas d'insolvabilité, ne font pas obstacle
-à la mise en oeuvre des modalités de résiliation, d'évaluation et de compensation, en application notamment des articles L.
-211-36 et L. 211-36-1 du code monétaire et financier. 
-
-La liste des conventions-cadres qui remplissent ces conditions est déterminée par un arrêté du ministre chargé de la
-mutualité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-687 du 25 juillet 2013 - art. 28
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-36
-	  - Code de la mutualité - art. R212-79
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-11 (VD)
-	  - Code de la mutualité - art. R212-15 (VT)
-	  - Code de la mutualité - art. R212-24 (VT)
-	  - Code de la mutualité - art. R212-31 (V)
-
-
-###### Article R212-82
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 peut, pour apprécier les limites fixées à la présente section, prendre
-en compte les instruments financiers utilisés par les organismes :
-
-a) Dans lesquels, d'une part, la mutuelle ou union a investi un montant supérieur à 0,5 % de la base de dispersion définie au
-premier alinéa de l'article R. 212-32 et dans lesquels, d'autre part, le groupe auquel appartient la mutuelle ou union
-dispose de plus de 50 % du capital ou des parts ;
-
-b) Ou bien dans lesquels la mutuelle ou union a investi un montant supérieur à 5 % de la base de dispersion.
-
-Les dispositions du présent article s'appliquent notamment aux organismes mentionnés aux 3° et 8° de l'article R. 212-31.
-Elles ne s'appliquent pas aux actifs mis en représentation de contrats d'assurance vie ou de capitalisation, en unités de
-compte, dont la mutuelle ou union n'assume pas le risque de placement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1, R212-32, R212-31
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R212-83
-
-La mutuelle ou union utilisant des instruments financiers à terme effectue, au moins une fois par mois, des projections
-concernant la composition de son portefeuille de placements afin de prendre en compte l'impact sur celle-ci de ses opérations
-sur instruments financiers à terme.
-
-Ces projections sont établies pour les échéances d'un mois, trois mois, six mois, un an, et annuellement jusqu'à l'échéance
-maximale des instruments financiers à terme utilisés, en distinguant l'impact des opérations qui n'emportent aucune
-obligation pour la mutuelle ou union.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-261 du 24 mars 2004 - art. 3 () JORF 26 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-##### Section 8 : Comptes et états statistiques.
-
-###### Article R212-90
-
-I. - La quote-part mentionnée à l'article L. 212-6 est un pourcentage de la valeur de l'ensemble des placements appartenant à
-la mutuelle ou l'union et de ceux des autres actifs affectables à la représentation des engagements réglementés, évalués
-conformément aux dispositions de l'article R. 212-54. Ce pourcentage est au moins égal au résultat obtenu en divisant par
-cette valeur la somme des montants suivants :
-
-a) Actifs correspondant aux opérations relevant de l'article L. 222-1, évalués comme il est dit à l'article R. 212-54 ;
-
-b) Placements affectés à la représentation des opérations en unités de compte dans lesquels la somme assurée est déterminée
-par rapport à une valeur de référence et évalués comme il est dit au dernier alinéa de l'article R. 212-37 ;
-
-c) Actifs transférés avec un portefeuille de bulletins d'adhésion à un règlement ou de contrats, évalués comme il est dit à
-l'article R. 212-54 ;
-
-d) Montant des provisions techniques brutes de réassurance constituées au titre des opérations pratiquées par la mutuelle ou
-l'union pour les branches 20 à 22 et 24 à 26 de l'article R. 211-2 autres que celles qui sont mentionnées aux a et b et
-diminué du montant des actifs mentionnés au c, évalués comme il est dit aux articles R. 212-52 et R. 212-53 ;
-
-e) Un pourcentage, défini au II du présent article, de la différence entre la valeur, d'une part, évaluée comme il est dit à
-l'article R. 212-54, d'autre part, évaluée comme il est dit aux articles R. 212-52 et R. 212-53, de l'ensemble des placements
-appartenant à la mutuelle ou l'union et de ceux des autres actifs affectables à la représentation des engagements réglementés
-autres que ceux mentionnés aux a, b et c ci-dessus.
-
-II. - Le pourcentage mentionné au e du I du présent article est égal à 85 % du quotient A/B, avec :
-
-A : montant moyen des provisions techniques brutes de réassurance constituées au titre de l'ensemble des opérations
-pratiquées par la mutuelle ou l'union autres que celles qui sont mentionnées aux a et b du I du présent article ou qui sont
-relatives à des opérations collectives en cas de décès ou, pour les mutuelles ou unions agréées pour pratiquer simultanément
-les opérations visées au a et au b du 1° de l'article L. 111-1, à des opérations relevant des branches 1 ou 2 de l'article R.
-211-2, et diminué du montant moyen des actifs mentionnés en c du I du présent article, évalués comme il est dit aux articles
-R. 212-52 et R. 212-53 ;
-
-B : montant moyen de l'ensemble des placements appartenant à la mutuelle ou l'union et de ceux des autres actifs affectables
-à la représentation des engagements réglementés, autres que ceux qui sont mentionnés aux a, b et c du I ci-dessus, évalués
-comme il est dit aux articles R. 212-52 et R. 212-53.
-
-Les montants moyens mentionnés à l'alinéa précédent sont obtenus en divisant par deux la somme des montants inscrits dans les
-comptes à l'ouverture et à la clôture de l'exercice.
-
-III. - Les placements, actifs et provisions mentionnés au présent article ne comprennent pas ceux qui sont constitués par la
-mutuelle ou l'union dans le cadre des opérations effectuées par ses succursales situées à l'étranger.
-
-IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne peut excéder celle qui résulte de leur
-évaluation conformément aux dispositions de l'article R. 212-54.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-6, R212-54, L222-1, R212-37, R211-2, R212-52, R212-53, L111-1
-
-	**Créé par**:
-
-	  - Décret n°2006-1577 du 11 décembre 2006 - art. 2 () JORF 13 décembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-#### Chapitre III : Surveillance complémentaire
-
-###### Article R213-1
-
-Les mutuelles et unions régies par le présent livre qui sont des organismes participants, au sens du 3° de l'article L.
-212-7-1, d'au moins une mutuelle ou une union, une institution de prévoyance ou une union régie par le titre III du livre IX
-du code de la sécurité sociale, une entreprise régie par le code des assurances, une entreprise de réassurance ou d'assurance
-dont le siège social est situé hors de France, disposent d'un système de contrôle interne pour la production de données et
-informations destinées à permettre la surveillance complémentaire de leur situation financière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-	  - SPEC_APPLI: Code de la mutualité - art. L122-5 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R122-1 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R122-2 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R124-9 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R126-1 (V)
-	  - SPEC_APPLI: Code de la mutualité - art. R126-3 (M)
-	  - SPEC_APPLI: Code de la mutualité - art. R126-4 (M)
-	  - SPEC_APPLI: Code de la mutualité - art. R531-1 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R531-2 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R531-3 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R531-4 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R531-5 (Ab)
-	  - SPEC_APPLI: Code de la mutualité - art. R531-6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2005-1266 2005-10-07 art. 2 1° JORF 11 octobre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R211-28-1 (VT)
-	  - Code de la mutualité - art. R213-2 (V)
-
-
-###### Article R213-2
-
-Les mutuelles et unions mentionnées à l'article R. 213-1 doivent présenter une solvabilité ajustée positive déterminée selon
-les modalités précisées à l'article R. 213-3 sur la base des comptes consolidés ou combinés établis conformément aux
-dispositions de l'article L. 212-7. 
-
-Toutefois, lorsque ces mutuelles et unions sont des organismes participants d'un établissement de crédit, d'une entreprise
-d'investissement ou d'un établissement financier, elles peuvent, alternativement, présenter une solvabilité ajustée positive
-selon les modalités précisées, pour le calcul des exigences complémentaires en fonds propres applicables aux conglomérats
-financiers, par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu à l'article L.
-517-8 du code monétaire et financier. 
-
-En outre, l'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une mutuelle ou union : 
-
-a) Si cette mutuelle ou union est prise en compte pour le calcul de la marge de solvabilité ajustée d'une entreprise
-d'assurance ou de réassurance ayant son siège en France, une autre mutuelle ou union régie par le livre II du code de la
-mutualité, ou une institution de prévoyance ou union régie par le livre IX du code de la sécurité sociale à laquelle elle est
-apparentée ; 
-
-b) Si cette mutuelle ou union est apparentée à une société de groupe d'assurance ayant son siège en France, à une union de
-groupe mutualiste ou à un groupement paritaire de prévoyance et que ces deux organismes sont pris en compte dans le calcul
-effectué pour un autre organisme apparenté ; 
-
-c) Si cette mutuelle ou union est un organisme apparenté soit à une entreprise d'assurance, soit à une entreprise de
-réassurance, soit à une société de groupe d'assurance qui a son siège social dans un Etat membre de la Communauté européenne
-ou dans un autre Etat partie à l'accord sur l'Espace économique européen lorsque l'Autorité de contrôle a conclu un accord
-avec l'autorité compétente de cet Etat pour lui attribuer l'exercice de la surveillance complémentaire. 
-
-Dans tous ces cas de dispense du calcul de la solvabilité ajustée, l'Autorité de contrôle s'assure au préalable que les
-éléments admissibles pour la marge de solvabilité des organismes pris en compte dans le calcul sont répartis de manière
-adéquate entre ces organismes. 
-
-Lorsqu'elle vérifie le calcul de la solvabilité ajustée d'une mutuelle ou union, l'Autorité de contrôle peut prendre en
-compte l'évaluation par une autre autorité compétente de la situation de solvabilité d'un organisme apparenté dont le siège
-est situé dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen. 
-
-En cas de solvabilité ajustée négative, l'Autorité de contrôle exige de la mutuelle ou union concernée qu'elle prenne les
-mesures nécessaires au rétablissement d'une solvabilité ajustée positive.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Code de la mutualité - art. R212-9-1 (VD)
-	  - Code de la mutualité - art. R213-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-8
-	  - Code de la mutualité - art. L212-7
-	  - Code de la mutualité - art. R213-1
-	  - Code de la mutualité - art. R213-3
-
-
-###### Article R213-3
-
-La solvabilité ajustée d'une mutuelle ou d'une union participante est la différence entre les éléments admissibles pour la
-marge de solvabilité calculés à partir des données consolidées ou combinées établies conformément aux dispositions de
-l'article L. 212-7 et l'exigence de solvabilité calculée à partir des données consolidées ou combinées des organismes
-assureurs entrant dans le champ de la surveillance complémentaire établies en application de ces mêmes dispositions. 
-
-Les éléments admissibles pour la marge de solvabilité de la mutuelle ou l'union participante pour laquelle la solvabilité
-ajustée est calculée et ceux pris en compte au titre des organismes apparentés sont ceux mentionnés aux articles R. 212-11,
-R. 212-15, R. 212-18 et R. 212-20-1. Toutefois, des éléments admissibles, notamment les plus-values latentes, les rappels de
-cotisations des mutuelles et les emprunts subordonnés, ne sont pris en compte, selon des modalités précisées par arrêté du
-ministre chargé de la mutualité, que dans la mesure où ils peuvent être effectivement rendus disponibles pour couvrir la
-marge de solvabilité de la mutuelle ou de l'union participante pour laquelle la solvabilité ajustée est calculée. En outre,
-sont déduits les participations, créances subordonnées et autres instruments financiers détenus sur des établissements de
-crédit, des entreprises d'investissement et des établissements financiers, et mentionnés au I de l'article R. 212-11.
-
-L'exigence de solvabilité des organismes assureurs inclus dans le calcul de solvabilité ajustée se définit de la manière
-suivante : 
-
-1. Pour une mutuelle ou union d'assurance ou de réassurance, elle correspond au montant réglementaire de la marge de
-solvabilité mentionné aux articles R. 212-12, R. 212-14, R. 212-16, R. 212-19 et R. 212-20-2 ; 
-
-2. Pour une institution ou union relevant du titre III du livre IX du code de la sécurité sociale, elle correspond au montant
-réglementaire de la marge de solvabilité mentionné aux articles R. 931-10-4, R. 931-10-7, R. 931-10-10 et R. 931-10-6-1 du
-code de la sécurité sociale ; 
-
-3. Pour une entreprise d'assurance ou de réassurance agréée en France et soumise au contrôle de l'Etat en application de
-l'article L. 310-1 du code des assurances, elle correspond au montant réglementaire de la marge de solvabilité décrit aux
-articles R. 334-5, R. 334-6, R. 334-13, R. 334-14, R. 334-19, R. 334-20 et R. 334-27 du code précité ; 
-
-4. Pour une entreprise de réassurance ou pour un organisme assureur dont le siège est situé hors de France, elle correspond à
-une exigence de solvabilité calculée dans les mêmes conditions que la marge de solvabilité pour les risques assimilables, le
-résultat ainsi obtenu ne pouvant être inférieur à celui qui serait résulté de l'application de ces règles à un organisme
-assureur agréé en France ; 
-
-5. Pour une mutuelle ou union participante dont les participations sont détenues au travers d'une société de groupe
-d'assurance, l'exigence de solvabilité ajustée de cette dernière est égale à zéro.
-
-L'Autorité de contrôle peut prendre en compte les exigences de solvabilité et les éléments admissibles pour satisfaire ces
-exigences, retenus par les autorités d'un Etat non membre de la Communauté européenne ou qui n'est pas partie à l'accord sur
-l'Espace économique européen dans lequel un organisme assureur apparenté ou une entreprise de réassurance a son siège et dont
-les exigences sont considérées comme équivalentes. 
-
-En outre, si une mutuelle ou union applique les normes comptables internationales adoptées par règlement de la Commission
-européenne, les données consolidées ou combinées prises en compte pour le calcul de sa marge de solvabilité ajustée font
-l'objet des retraitements strictement nécessaires pour assurer la comparabilité de celle-ci avec la marge de solvabilité
-ajustée des organismes n'appliquant pas ces normes. Un arrêté du ministre chargé de la mutualité fixe la liste de ces
-retraitements et précise les cas et conditions dans lesquels l'Autorité de contrôle peut dispenser une mutuelle ou union
-d'effectuer un ou plusieurs de ces retraitements.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-1154 du 7 novembre 2008 - art. 17
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. R931-10-4
-	  - Code des assurances - art. L310-1
-	  - Code des assurances - art. R*334-13
-	  - Code des assurances - art. R*334-5
-	  - Code de la mutualité - art. L212-7
-	  - Code de la mutualité - art. R212-11
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R213-2 (V)
-	  - Code de la mutualité - art. R213-4 (V)
-
-
-###### Article R213-4
-
-Lorsque la méthode décrite à l'article R. 213-3 ne permet pas d'obtenir un résultat satisfaisant en raison des structures du
-groupe concerné, l'Autorité de contrôle mentionnée à l'article L. 510-1 est autorisée à appliquer, à titre exceptionnel et
-dérogatoire, l'une des deux méthodes suivantes : 
-
-1. Méthode n° 1 : déduction et agrégation la solvabilité ajustée de la mutuelle ou de l'union participante est la différence
-entre : 
-
-a) La somme des éléments admissibles pour la marge de solvabilité de la mutuelle ou de l'union participante et de la part
-proportionnelle de cette dernière dans les éléments admissibles pour la marge de solvabilité de l'organisme assureur
-apparenté ; 
-
-b) La somme de la valeur comptable de l'organisme assureur apparenté dans la mutuelle ou l'union participante et de la part
-proportionnelle de l'exigence de solvabilité de l'organisme assureur apparenté. 
-
-2. Méthode n° 2 : déduction d'une exigence la solvabilité ajustée de l'institution ou l'union participante est la différence
-entre : 
-
-a) La somme des éléments admissibles pour la marge de solvabilité de la mutuelle ou l'union participante ; 
-
-b) La somme de l'exigence de marge de solvabilité de la mutuelle ou l'union participante et de la part proportionnelle de
-l'exigence de solvabilité de l'organisme assureur apparenté. 
-
-Lorsque l'organisme assureur apparenté est une filiale et qu'il présente un déficit de solvabilité, ce déficit de solvabilité
-doit être pris en compte en totalité dans le calcul de la solvabilité ajustée de l'organisme référent mentionné au 1° de
-l'article L. 212-7-1. Toutefois, dans le cas où la responsabilité de l'organisme de référence détenant une part de capital
-est limitée strictement et sans ambiguïté à cette part de capital, l'Autorité de contrôle mentionnée à l'article L. 510-1
-peut décider d'admettre que le déficit de la filiale est pris en compte sur une base proportionnelle. 
-
-Pour le calcul de la solvabilité ajustée en application de ces deux méthodes, les opérations intragroupe sont éliminées d'une
-manière équivalente à celle prévue pour l'établissement des comptes consolidés ou combinés mentionnés à l'article L. 212-7.
-En outre, sont déduits des éléments admissibles pour la marge de solvabilité les participations, créances et autres
-instruments détenus sur des établissements de crédit, des entreprises d'investissement et des établissements financiers
-mentionnés au I de l'article R. 212-11. 
-
-Lorsque la mutuelle ou l'union est un organisme participant d'un établissement de crédit, d'une entreprise d'investissement
-ou d'un établissement financier, l'Autorité de contrôle prudentiel et de résolution est également autorisée à appliquer, en
-alternative à ces deux méthodes, les méthodes définies, pour le calcul des exigences complémentaires en fonds propres des
-conglomérats financiers, par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu à
-l'article L. 517-8 du code monétaire et financier.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-8
-	  - Code de la mutualité - art. L212-7 (V)
-	  - Code de la mutualité - art. L212-7-1
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. R212-11
-	  - Code de la mutualité - art. R213-3
-
-
-###### Article R213-5
-
-Les mutuelles ou unions dont l'organisme de référence mentionné au 1° de l'article L. 212-7-1 est une société de groupe
-d'assurance, une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle prudentiel et de
-résolution, une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 du code des assurances ou une
-entreprise d'assurance ou de réassurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou
-partie à l'accord sur l'Espace économique européen doivent justifier d'une solvabilité ajustée positive selon des modalités
-définies aux articles R. 213-2 à R. 213-4. Dans ce but, elles procèdent à un calcul de la solvabilité ajustée de leur
-organisme de référence dans les mêmes conditions que celles permettant de déterminer la marge de solvabilité d'une mutuelle
-ou union participante agréée en France et pratiquant les mêmes opérations. 
-
-L'Autorité de contrôle peut dispenser du calcul de la solvabilité ajustée une mutuelle ou une union d'assurance ou de
-réassurance : 
-
-a) Si cette mutuelle ou cette union est prise en compte pour le calcul de la marge de solvabilité ajustée d'un autre
-organisme d'assurance ou de réassurance ayant son siège en France, une mutuelle ou union régie par le livre II du code de la
-mutualité, ou une institution de prévoyance ou union régie par le titre III du livre IX du code de la sécurité sociale auquel
-elle est apparentée ; 
-
-b) Si cette mutuelle ou cette union a pour organisme de référence une entreprise d'assurance ou de réassurance ou une société
-de groupe d'assurance ou une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle prudentiel
-et de résolution ayant son siège dans un Etat non partie à l'accord sur l'Espace économique européen qui est également
-l'organisme de référence d'un ou plusieurs autres organismes d'assurance ou de réassurance et qu'elle est prise en compte
-dans le calcul de la marge de solvabilité de l'un de ces autres organismes d'assurance ou de réassurance ; 
-
-c) Si cette mutuelle ou cette union a pour organisme de référence une entreprise d'assurance ou de réassurance ou une société
-de groupe d'assurance ou une compagnie financière holding mixte dont le coordonnateur est l'Autorité de contrôle, et dont le
-siège social est situé dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, lorsque
-l'Autorité de contrôle a conclu un accord avec l'autorité compétente de cet Etat pour lui attribuer l'exercice de la
-surveillance complémentaire. 
-
-Si l'Autorité de contrôle mentionnée à l'article L. 510-1 estime, à partir de ce calcul de solvabilité ajustée, que la
-solvabilité de la mutuelle ou l'union concernée est compromise ou susceptible de l'être, elle exige de celle-ci qu'elle
-prenne les mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code des assurances - art. L310-1-1
-	  - Code de la mutualité - art. L212-7-1
-	  - Code de la mutualité - art. L510-1
-	  - Code de la mutualité - art. R213-2
-
-
-###### Article R213-6
-
-Les opérations qu'une mutuelle ou union effectue avec ses organismes apparentés sont soumises au contrôle de l'Autorité de
-contrôle prudentiel et de résolution, notamment celles qui portent sur les prêts, les garanties et les opérations hors bilan,
-les éléments admissibles pour la marge de solvabilité, les investissements, les opérations de réassurance et les accords de
-répartition des coûts. La mutuelle ou l'union déclare au moins une fois par an à cette Autorité les opérations importantes
-mentionnées ci-dessus. La mutuelle ou l'union dispose en outre de procédures de gestion des risques et de dispositifs de
-contrôle interne destinés à détecter, mesurer, encadrer et contrôler ces opérations. Une décision de l'Autorité de contrôle
-prudentiel et de résolution précise les conditions dans lesquelles ces opérations doivent être déclarées. 
-
-Si l'Autorité de contrôle prudentiel et de résolution estime, à partir de l'examen de ces déclarations, que la solvabilité de
-la mutuelle ou de l'union est compromise ou susceptible de l'être, elle exige de cette mutuelle ou union qu'elle prenne les
-mesures nécessaires au rétablissement ou au maintien de sa solvabilité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R211-28-1 (VT)
-
-
-###### Article R213-7
-
-Lorsqu'une union de mutuelles exerce, à titre principal, une influence dominante sur un autre organisme ayant une activité
-économique à raison de l'existence de liens de solidarité importants et durables résultant d'engagements financiers ou de
-dirigeants ou de services communs, elle est tenue de transmettre à l'Autorité de contrôle mentionnée à l'article L. 510-1,
-dans un délai d'un mois, l'ensemble des informations nécessaires à l'appréciation de l'honorabilité, la compétence et
-l'expérience de ses dirigeants. La liste de ces informations est fixée par arrêté du ministre chargé de la mutualité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Décret n°2005-1266 du 7 octobre 2005 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R213-8
-
-Les modalités de la surveillance complémentaire des conglomérats financiers mentionnée à l'article L. 212-7-4 sont précisées
-par l'arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité prévu aux articles L. 517-3 et L.
-517-8 du code monétaire et financier.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-3
-	  - Code monétaire et financier - art. L517-8
-	  - Code de la mutualité - art. L212-7-4
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R212-11 (M)
-	  - Code de la mutualité - art. R212-15 (M)
-	  - Code de la mutualité - art. R212-20-1 (M)
-	  - Code de la mutualité - art. R213-9 (Ab)
+	  - Code des assurances
 
 
 ### Titre II : Opération des mutuelles et des unions.
@@ -15399,7 +10882,8 @@ déterminées dans les conditions et limites définies par arrêté du ministre 
 
 Les opérations prévues à l'article L. 222-1 comportent la constitution d'une provision technique spéciale, à laquelle sont
 affectées les cotisations versées, et sur laquelle sont réglées les prestations servies et imputées les charges de gestion.
-Elle est représentée à l'actif dans les conditions et limites fixées au chapitre II du titre Ier du présent livre. 
+Elle est représentée à l'actif dans les conditions et limites fixées au  chapitre II du titre III du livre III du code des
+assurances. 
 
 Est affectée à ladite provision la totalité des produits générés par la gestion financière des opérations mentionnées à
 l'article L. 222-1. 
@@ -15411,22 +10895,22 @@ conformément aux règles fixées au chapitre II du titre Ier du présent livre.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-332 du 11 mars 2002 - art. 1 () JORF 12 mars 2002
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
 	  - Décret n°2002-331 du 11 mars 2002 - art. 2 (V)
 	  - Décret n°2004-342 du 21 avril 2004 - art. 31 (Ab)
-	  - Code de la mutualité - art. R212-16 (V)
+	  - Code de la mutualité - art. R212-16 (VT)
 	  - Code des assurances - art. R334-13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L222-1 (V)
+	  - Code de la mutualité - art. L222-1
 
 
 ###### Article R222-9
@@ -15723,108 +11207,6 @@ chacun des règlements.
 
 #### Chapitre II bis : Retraite professionnelle supplémentaire.
 
-###### Article R222-23
-
-I. - Le présent chapitre s'applique aux opérations mentionnées à l'article L. 222-3.
-
-II. - Rapportée à la base de dispersion définie à l'article R. 212-32 et appliquée à la comptabilité mentionnée à l'article
-L. 222-6, l'ensemble des valeurs émises, prêts obtenus ou garantis et dépôts placés auprès des organismes d'un même groupe et
-admis en représentation des engagements réglementés ne peut dépasser 10 % de ladite base de dispersion.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L222-3, R212-32, L222-6
-
-	**Codifié par**:
-
-	  - Ordonnance n°2001-350 du 19 avril 2001
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-24
-
-Par dérogation aux dispositions de l'article R. 212-29, les mutuelles et leurs unions peuvent, à concurrence de 30 % de leurs
-engagements relatifs à chaque comptabilité mentionnée à l'article L. 222-6, ne pas couvrir ceux-ci par des actifs congruents.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-29, L222-6
-
-	**Codifié par**:
-
-	  - Ordonnance n°2001-350 du 19 avril 2001
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-25
-
-Les provisions techniques correspondant aux opérations de la mutuelle ou de l'union au titre des contrats relevant de
-l'article L. 222-3 sont celles mentionnées aux 1°, 2°, 3°, 4°, 6° et 7° de l'article R. 212-26.
-
-Sont inscrits dans le compte mentionné au b de l'article R. 222-35 les actifs du contrat et les provisions techniques
-mentionnées aux 1°, 2°, 3°, 6° et 7° de l'article R. 212-26.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L222-3, R212-26, R222-35
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-26
-
-L'opération mentionnée à l'article L. 222-10 obéit aux règles fixées à l'article R. 332-63 du code des assurances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L222-10
-	  - Code des assurances - art. R332-63
-
-	**Codifié par**:
-
-	  - Ordonnance n°2001-350 du 19 avril 2001
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
 ###### Article R222-27
 
 Les tarifs pratiqués par les mutuelles et leurs unions sont établis d'après des tables de mortalité et des taux définis par
@@ -15939,8 +11321,8 @@ si celle-ci regroupe plusieurs contrats de retraite professionnelle supplémenta
 
 ###### Article R222-31
 
-Le rapport mentionné au dernier alinéa de l'article L. 222-8 peut être intégré dans le rapport mentionné à l'article R.
-211-28.
+Le rapport mentionné au dernier alinéa de l'article L. 222-8 est transmis à l'Autorité de contrôle prudentiel et de
+résolution.
 
 **Liens relatifs à cet article**
 
@@ -15950,11 +11332,11 @@ Le rapport mentionné au dernier alinéa de l'article L. 222-8 peut être intég
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R222-32
@@ -15964,10 +11346,10 @@ actuaire et certifiées soit par le ou les commissaires aux comptes de la mutuel
 distincte de la mission générale de commissariat aux comptes exercée dans cette mutuelle ou union, soit par un autre
 actuaire, indépendant de la mutuelle ou union et agréé à cet effet par l'une des associations d'actuaires reconnues par
 l'autorité instituée à l'article L. 510-1. L'actuaire ou le ou les commissaires aux comptes vérifie que les provisions sont,
-dans le respect des dispositions du présent code applicables à celles-ci, constituées de façon suffisamment prudente, en
-tenant compte le cas échéant d'une marge adéquate pour les écarts défavorables, et que les méthodes et les bases de calcul
+dans le respect des dispositions du code des assurances applicables à celles-ci, constituées de façon suffisamment prudente,
+en tenant compte le cas échéant d'une marge adéquate pour les écarts défavorables, et que les méthodes et les bases de calcul
 des provisions techniques restent en général constantes d'un exercice à l'autre. Une modification de ces méthodes peut
-toutefois être justifiée, dans le respect du présent code, par un changement des données juridiques, démographiques ou
+toutefois être justifiée, dans le respect du code des assurances, par un changement des données juridiques, démographiques ou
 économiques sur lesquelles se fondent ces hypothèses.
 
 **Liens relatifs à cet article**
@@ -15978,11 +11360,11 @@ toutefois être justifiée, dans le respect du présent code, par un changement 
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R222-33
@@ -16049,275 +11431,6 @@ Les modalités techniques de mise en oeuvre du présent chapitre sont précisée
 	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
 
 
-#### Chapitre II ter : Dispositions relatives aux comptabilités auxiliaires d'affectation.
-
-###### Article R222-35
-
-Le présent chapitre s'applique aux contrats pour lesquels il est tenu une comptabilité auxiliaire d'affectation ne relevant
-pas de l'article L. 222-1 ou de l'article L. 144-2 du code des assurances. Il est établi, pour chaque comptabilité
-auxiliaire :
-
-a) Un compte de résultat d'affectation ;
-
-b) Un compte de bilan d'affectation, où sont inscrits les actifs du ou des contrats et ses provisions techniques ;
-
-c) Une annexe comportant un inventaire des actifs du ou des contrats et un état récapitulatif des opérations mentionnées aux
-articles R. 222-37 et R. 222-38 ;
-
-d) Un tableau des engagements reçus et donnés.
-
-Ces documents sont établis et arrêtés par la mutuelle ou l'union à chaque fin d'exercice dans les mêmes conditions que ses
-comptes individuels.
-
-Lorsque le contrat prévoit l'acquisition de droits individuels relatifs à des engagements exprimés en unités de compte, ces
-droits font l'objet d'un enregistrement comptable distinct de celui mentionné au présent article, comme il est dit à
-l'article R. 212-37.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L222-1, annexe, R222-37, R222-38, R212-37
-	  - Code des assurances - art. L144-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-36
-
-Les dispositions des articles R. 212-32 et R. 212-33 et du I de l'article R. 212-55 s'appliquent séparément à chaque
-portefeuille de titres et de placements qui fait l'objet d'un enregistrement comptable distinct.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-55
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-37
-
-Lorsque les engagements de la mutuelle ou l'union au titre d'une comptabilité auxiliaire ne sont plus représentés de manière
-au moins équivalente par les actifs de ce contrat, la mutuelle ou l'union parfait cette représentation en procédant à
-l'affectation aux engagements relatifs à cette comptabilité auxiliaire d'actifs représentatifs de ses réserves ou de ses
-provisions autres que ceux représentatifs de ses engagements réglementés. Ces actifs sont obligatoirement choisis dans les
-catégories de placements mentionnés à l'article R. 222-38.
-
-Ce changement d'affectation d'actifs emporte affectation à la comptabilité auxiliaire du produit des droits attachés à ces
-actifs, y compris les produits correspondant aux éventuels crédits d'impôts attachés à la détention de ces mêmes actifs. Les
-actifs ainsi affectés à la comptabilité auxiliaire sont inscrits au bilan mentionné à l'article R. 222-35 pour leur valeur de
-réalisation déterminée conformément aux dispositions des articles R. 212-54 et R. 212-54-1. La différence entre cette valeur
-et la valeur comptable antérieure est le cas échéant constatée dans le compte de résultat de la mutuelle ou l'union.
-
-Lorsque le niveau de la représentation de ses engagements au titre du ou des contrats le permet, la mutuelle ou l'union peut
-réaffecter en représentation de réserves ou de provisions autres que celles relatives à ce ou ces contrats, des actifs
-représentatifs des engagements du contrat choisis dans les catégories d'actifs définies au premier alinéa. Les actifs ainsi
-réaffectés sont inscrits au bilan pour leur valeur de réalisation déterminée conformément aux dispositions des articles R.
-212-54 et R. 212-54-1. La différence entre cette valeur et la valeur comptable antérieure inscrite dans le compte de bilan
-d'affectation est le cas échéant constatée dans le compte de résultat mentionné à l'article R. 222-35. La valeur de
-réalisation cumulée des actifs ainsi réaffectés, à la date de cette réaffectation, ne peut excéder la valeur de réalisation
-des actifs affectés au ou aux contrats au titre du premier alinéa à la date de cette affectation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R222-38, R222-35, R212-54, R212-54-1
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-38
-
-Les placements détenus par la mutuelle ou l'union en représentation d'engagements autres que ceux relatifs aux contrats
-mentionnés à l'article R. 222-35 ne peuvent changer d'affectation pour être affectés à ces derniers qu'à condition de relever
-de l'une des catégories de placements définies aux 1° à 7°, 9° et 18° de l'article R. 212-31. Les mêmes dispositions
-s'appliquent aux placements d'un contrat qui changent d'affectation et sont affectés en représentation d'autres engagements
-de la mutuelle ou l'union, y compris ceux relatifs à d'autres contrats mentionnés à l'article R. 222-35 ou à l'article L.
-222-3.
-
-L'enregistrement comptable des opérations mentionnées au premier alinéa est identique à celui qui résulte d'une opération de
-cession d'actifs pour le portefeuille de placements d'origine et d'une opération concomitante d'acquisition d'actifs pour le
-portefeuille de placements d'accueil.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R222-35, R212-31, L222-3
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-39
-
-Les actifs de chaque contrat sont conservés par un dépositaire unique. Ce dépositaire ouvre au nom de la mutuelle ou l'union,
-pour les opérations financières liées à la gestion financière du contrat, un compte espèce et un compte de titres propres à
-chaque contrat ainsi que tout compte nécessaire à la tenue des positions sur les marchés d'instruments financiers à terme.
-
-Le dépositaire assure la conservation des actifs des contrats qui font l'objet d'un enregistrement comptable distinct tel que
-prévu à l'article R. 222-35, dépouille les ordres de la mutuelle ou l'union concernant les opérations sur les titres et
-placements de ce ou ces contrats, y compris ceux relatifs aux changements d'affectation de titres mentionnés aux articles R.
-222-37 et R. 222-38 et exerce les droits de souscription et d'attribution attachés aux titres et aux valeurs de ce ou de ces
-contrats.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R222-35, R222-37, R222-38
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-40
-
-La participation aux excédents techniques et financiers est calculée séparément pour chaque portefeuille de titres et de
-placements qui fait l'objet d'un enregistrement comptable distinct, dans des conditions fixées par arrêté du ministre chargé
-de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-41
-
-Le produit des droits attachés aux actifs détenus en représentation des engagements de la mutuelle ou l'union relatifs à un
-contrat est intégralement pris en compte, y compris les produits correspondant aux éventuels crédits d'impôts attachés à la
-détention de ces mêmes actifs, dans la limite de leur récupération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R222-42
-
-Dans le cadre des opérations relatives à une comptabilité auxiliaire, la mutuelle ou l'union ne peut conclure des contrats
-constituant des instruments financiers à terme au sens de l'article L. 211-1 du code monétaire et financier que dans les cas
-et les conditions prévus aux articles R. 212-70 à R. 212-83 du même code et à condition que ces contrats aient pour seul
-objet la gestion financière de ces mêmes opérations, à l'exclusion de toute autre opération de la mutuelle ou de l'union.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier L211-1, R212-70 à R212-83
-
-
-###### Article R222-43
-
-La mutuelle ou l'union peut conclure des traités de réassurance portant sur les engagements qu'elle a contractés au titre
-d'un contrat mentionné à l'article R. 222-35, et à condition que ces opérations porte exclusivement sur tout ou partie de la
-différence entre le montant des prestations effectivement versées au titre de ce contrat et celui des prestations
-correspondant aux provisions mathématiques avant cession et que l'ensemble de ces opérations portent sur un engagement total
-inférieur à 10 % desdites provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R222-35
-
-	**Codifié par**:
-
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2006-740 2006-06-27 art. 4 2° JORF 29 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
 #### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.
 
 ##### Section 1 : Dispositions générales
@@ -16326,12 +11439,12 @@ inférieur à 10 % desdites provisions mathématiques.
 
 Les unités de compte visées à l'article L. 223-2 sont :
 
-1° Les actifs énumérés aux 1°, 2°, 3°, 4°, 5°, 6°, 7° et 12° de l'article R. 212-31 ;
+1° Les actifs énumérés aux 1°, 2°, 3°, 4°, 5°, 6°, 7° et 12° de l'article R. 332-2 du  code des assurances ;
 
-2° Dans les conditions fixées à l'article R. 223-3, les parts ou actions visées au 14° de l'article R. 212-31 ;
+2° Dans les conditions fixées à l'article R. 223-3, les parts ou actions visées au 14° de l'article R. 332-2 ;
 
-3° Les parts visées au 10° de l'article R. 212-31 et les actions de sociétés commerciales mentionnées au 9° de l'article R.
-212-31 ;
+3° Les parts visées au 10° de l'article R. 332-2 du code des assurances et les actions de sociétés commerciales mentionnées
+au 9° de l'article R. 332-2 du code des assurances ;
 
 Le règlement ou le contrat collectif peut se référer soit à une seule unité de compte, soit à la combinaison de plusieurs
 unités de compte. Dans ce dernier cas, la cotisation doit être ventilée entre les différentes unités de compte conformément
@@ -16344,21 +11457,17 @@ collectif.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L223-2, R212-31, R223-3
-
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1345 du 6 novembre 2002 - art. 1 () JORF 14 novembre 2002
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
 	  - Décret n°2004-342 du 21 avril 2004 - art. 29 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R223-2
@@ -16393,22 +11502,18 @@ immobilières ou foncières dans le cas où le règlement ou le contrat collecti
 l'article R. 223-2 ;
 
 3° Les actifs de la société immobilière ou foncière non cotée doivent être constitués à tout instant d'au moins 70 % de parts
-ou de droits définis aux 13° et 14° de l'article R. 212-31. Le solde des placements de la société doit appartenir aux
-catégories visées aux 1°, 2°, 3° et 5° du même article.
+ou de droits définis aux 13° et 14° de l'article R. 332-2 du  code des assurances. Le solde des placements de la société doit
+appartenir aux catégories visées aux 1°, 2°, 3° et 5° du même article.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R223-1, R223-2, R212-31
-
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1345 du 6 novembre 2002 - art. 1 () JORF 14 novembre 2002
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R223-4
@@ -16495,6 +11600,284 @@ autre support durable à sa disposition et auquel il a facilement accès.
 
 	  - Code de la mutualité - art. L221-18
 	  - Code de la mutualité - art. L223-25-3
+
+
+###### Article R223-7
+
+Pour tout bulletin d'adhésion ou contrat collectif relatif à une opération d'assurance sur la vie et pour les opérations de
+capitalisation dont la somme assurée est déterminée par rapport à une valeur de référence, les droits correspondants exprimés
+en unités de compte doivent être représentés à l'actif du bilan par des placements entrant dans la composition de cette
+valeur de référence et dans les proportions fixées par ladite composition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R223-8
+
+L'indemnité mentionnée au troisième alinéa de l'article L. 223-20-1 ne peut dépasser 5 % de la valeur actuelle des
+engagements respectivement pris par la mutuelle ou l'union et par les membres participants mentionnée au premier alinéa de
+l'article L. 223-20-1 et doit être nulle à l'issue d'une période de dix ans à compter de la date d'effet du bulletin
+d'adhésion ou du contrat. 
+
+Pour l'application du présent article, la valeur actuelle des engagements respectivement pris par la mutuelle ou l'union et
+par les membres participants ne tient pas compte des éventuelles garanties de fidélité non exigibles par le membre
+participant au moment du rachat. Ces garanties doivent être explicitement décrites dans le règlement ou le contrat collectif
+et clairement distinguées de la garantie qui en est l'objet principal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+###### Article R223-9
+
+Les frais prélevés par la mutuelle ou l'union après la date de connaissance du décès de l'assuré, mentionnés à l'article L.
+223-19-1, ne peuvent être supérieurs aux frais qui auraient été prélevés si le décès n'était pas survenu .   
+
+Pour les contrats d'assurance sur la vie mentionnés à l'article L. 223-19-1 : 
+
+1° Le capital en euros garanti en cas de décès produit de plein droit intérêt dès la date du décès de l'assuré ; 
+
+2° A compter de la date de connaissance du décès, le capital en euros garanti en cas de décès produit de plein droit intérêt,
+net de frais, pour chaque année civile, au minimum à un taux égal au moins élevé des deux taux suivants : 
+
+a) La moyenne sur les douze derniers mois du taux moyen des emprunts de l'Etat français, calculée au 1er novembre de l'année
+précédente ; 
+
+b) Le dernier taux moyen des emprunts de l'Etat français disponible au 1er novembre de l'année précédente ; 
+
+3° Entre la date du décès et la date de connaissance du décès, lorsque les clauses contractuelles prévoient une
+revalorisation du capital en euros garanti en cas de décès, celles-ci s'appliquent dès lors qu'elles entraînent une
+revalorisation du capital nette de frais ; à défaut, le 2° du présent article s'applique dès la date du décès de l'assuré. 
+
+Pour les engagements exprimés en unités de compte, la revalorisation du capital garanti en cas de décès intervient à compter
+de la date à laquelle la valeur en euros du capital garanti a été arrêtée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1092 du 28 août 2015 - art. 3
+
+
+###### Article R223-10
+
+Le relevé d'information spécifique mentionné au neuvième alinéa de l'article L. 223-21 est adressé au contractant dans
+l'année qui précède la date du terme du contrat et au plus tard un mois avant cette date. Les informations visées à l'article
+L. 223-21 peuvent faire l'objet d'un même document. 
+
+Pour les contrats à tacite reconduction, le relevé d'information spécifique est adressé dans les conditions prévues au
+premier alinéa avant chaque date de reconduction tacite. 
+
+Pour les contrats non reconduits, si le membre participant ou le bénéficiaire de l'opération d'assurance sur la vie ne s'est
+pas manifesté dans l'année qui suit la date du terme du contrat, le relevé d'information spécifique est à nouveau adressé
+dans le mois qui suit le premier anniversaire du terme du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1092 du 28 août 2015 - art. 3
+
+
+###### Article R223-11
+
+I.-Sans préjudice des obligations visées au dernier alinéa de l'article L. 223-10, pour l'application du premier alinéa de
+l'article L. 223-25-4, la date de prise de connaissance du décès du membre participant par la mutuelle ou l'union, est la
+date à laquelle la mutuelle ou l'union est informée du décès, par l'obtention de l'acte de décès, intervenant notamment à la
+suite de la consultation du répertoire national d'identification des personnes physiques prévue à l'article L. 223-10-2. 
+
+II.-Pour l'application du I de l'article L. 223-25-4, est considérée comme l'échéance du contrat, celle prévue par la
+dernière reconduction tacite, s'il y a lieu. 
+
+III.-Les sommes libellées en devises étrangères sont converties en euros par les mutuelles ou unions dans les sept jours
+ouvrés précédant la date de dépôt à la Caisse des dépôts et consignations, sauf si les stipulations contractuelles prévoient
+une date antérieure, et déposées à la Caisse des dépôts et consignations, en euros et nettes de frais perçus au profit d'un
+tiers pour la conversion. 
+
+Les dépôts interviennent le cas échéant, à une fréquence mensuelle. 
+
+IV.-Lors du dépôt des sommes à la Caisse des dépôts et consignations en application du I de l'article L. 223-25-4, la
+mutuelle ou l'union communique à la Caisse des dépôts et consignations par voie dématérialisée les informations suivantes : 
+
+1° Pour l'ensemble des dépôts : 
+
+a) Le nombre de contrats et bons concernés par le dépôt ; 
+
+b) Le total des sommes concernées ; 
+
+2° Pour chaque contrat et bon de capitalisation concerné par le dépôt : 
+
+a) Le type et numéro de contrat, de bon, de règlement ou d'adhésion ; 
+
+b) Le montant des sommes déposées ; 
+
+c) La devise d'origine ; 
+
+d) La date de connaissance du décès du membre participant ou la date de l'échéance du contrat ou du bon. 
+
+Dans un délai de cinq jours ouvrés à compter de la réception des informations susmentionnées et des sommes correspondantes,
+la Caisse des dépôts et consignations délivre à la mutuelle ou l'union un justificatif de dépôt mentionnant la date de dépôt,
+le montant total des sommes déposées et les montants déposés au titre de chaque contrat ou bon. Le délai de vingt ans
+mentionné au III de l'article L. 223-25-4 court à compter de la date de dépôt des sommes à la Caisse des dépôts et
+consignations mentionnée par le justificatif. 
+
+V.-La mutuelle ou l'union communique également lors de ce dépôt, par voie dématérialisée, les informations qu'elle détient
+nécessaires à la publicité appropriée de l'identité des membres participants, mentionnée au II de l'article L. 223-25-4, et
+au versement des sommes aux membres participants ou aux bénéficiaires des contrats en application du I de l'article L.
+223-25-4, à savoir : 
+
+1° Informations relatives au membre participant qui a souscrit le contrat ou le bon : 
+
+a) Pour les personnes physiques : 
+
+- état civil ; 
+
+- dernière adresse connue ; 
+
+b) Pour les personnes morales : 
+
+- dénomination ou raison sociale ; 
+
+- dernier siège social connu ; 
+
+2° Informations relatives au membre participant : 
+
+a) Date du décès, s'il y a lieu ; 
+
+b) Etat civil ; 
+
+c) Dernière adresse connue ; 
+
+3° Informations relatives au (x) bénéficiaire (s) : 
+
+a) Dernier libellé connu de la clause bénéficiaire ; 
+
+b) Pour les personnes physiques : 
+
+- état civil ; 
+
+- dernière adresse connue ; 
+
+c) Pour les personnes morales : 
+
+- dénomination ou raison sociale ; 
+
+- dernier siège social connu. 
+
+VI.-1° Les mutuelles et les unions conservent jusqu'à l'expiration des délais fixés à l'article L. 223-25-4 les informations
+et documents suivants relatifs au régime d'imposition applicable aux sommes transférées à la Caisse des dépôts et
+consignations : 
+
+a) Pour les sommes versées à la Caisse des dépôts et consignations issues de la fraction rachetable de chaque contrat
+mentionné au I de l'article 990 I du code général des impôts, la valeur de rachat au jour du décès du membre participant, qui
+correspond aux sommes, rentes ou valeurs dues à raison des primes versées à compter du 13 octobre 1998 ; 
+
+b) Pour les sommes versées à la Caisse des dépôts et consignations issues de la fraction non rachetable de chaque contrat
+mentionné au I de l'article 990 I du code général des impôts, le produit résultant de la multiplication du montant du
+capital-décès dû, diminué de la valeur de rachat au jour du décès du membre participant, par le taux de mortalité qui
+correspond à l'âge du membre participant lors de son décès dans la table de mortalité applicable à cette date ; 
+
+c) Pour les sommes versées à la Caisse des dépôts et consignations issues de chaque contrat mentionné au I de l'article 990 I
+du code général des impôts non rachetable, la prime annuelle ou le montant de la prime unique versée à la souscription du
+contrat, lorsque celle-ci est intervenue à compter du 13 octobre 1998 ; 
+
+d) Pour les sommes versées à la Caisse des dépôts et consignations et qui entrent dans le champ d'application du 1 du I de
+l'article 990 I bis du code général des impôts, la valeur de rachat au jour du décès du membre participant des contrats
+d'assurance sur la vie dont ces sommes sont issues ; 
+
+e) Pour les sommes versées à la Caisse des dépôts et consignations issues de contrats d'assurance sur la vie ou des bons ou
+contrats de capitalisation mentionnés au I de l'article 990 I bis du code général des impôts qui comportent un terme, le
+montant des sommes dues au bénéficiaire au jour de l'échéance du contrat ; 
+
+f) Pour l'ensemble des sommes versées à la Caisse des dépôts et consignations issues de contrats mentionnés au I de l'article
+990 I du code général des impôts et au I de l'article 990 I bis du code général des impôts, les conditions dans lesquelles la
+revalorisation du capital garanti est intervenue à compter du décès du membre participant en application de l'article L.
+223-19-1, pour chacun des contrats précités, ou celles dans lesquelles des intérêts ont été servis en application de
+l'article R. 223-9 ; 
+
+g) Pour la fraction des sommes mentionnées au II ter de l'article 125-0 A du code général des impôts ayant le caractère de
+produits attachés aux bons ou contrats de capitalisation, ainsi qu'aux produits de même nature, notamment les contrats
+d'assurance sur la vie : 
+
+- la nature du contrat ; 
+
+- la date de souscription du contrat ; 
+
+- le montant des produits imposables et le montant des produits exonérés d'impôt sur le revenu ; 
+
+2° Les mutuelles et les unions communiquent à la Caisse des dépôts et consignations, à sa demande, les informations et les
+documents relatifs aux éléments mentionnés au cinquième alinéa du I de l'article L. 223-25-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1092 du 28 août 2015 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2015-1092 du 28 août 2015 - art. 6 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 G nonies (V)
+
+
+###### Article R223-12
+
+I.-La publicité appropriée de l'identité des membres participants mentionnée au deuxième alinéa du II de l'article L.
+223-25-4 est organisée par la Caisse des dépôts et consignations, sur la base des informations communiquées par les mutuelles
+ou les unions, par l'intermédiaire d'un dispositif dématérialisé dédié, dans le respect de la 
+loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés. Ce dispositif peut également servir à la transmission des demandes
+de restitution, accompagnées des documents et pièces justificatives requis. 
+
+La restitution des sommes par la Caisse des dépôts et consignations s'effectue sur la base des informations, documents et
+pièces justificatives qui lui auront été communiqués par les mutuelles ou les unions et par les souscripteurs des contrats ou
+les bénéficiaires des sommes déposées. La procédure de restitution s'effectue soit par un dispositif dématérialisé prévu au
+précédent alinéa, soit par tout autre moyen. 
+
+Lorsque les sommes ont été déposées à la Caisse des dépôts et consignations en raison du décès de l'assuré, la Caisse des
+dépôts et consignations procède aux prélèvements prévus au I de l'article 990 I ou au 
+I de l'article 990 I bis du code général des impôts
+. 
+
+Lorsque les sommes ayant été déposées à la Caisse des dépôts et consignations en raison de l'échéance du contrat sont
+restituées au bénéficiaire du contrat, la Caisse des dépôts et consignations communique à ce dernier les informations dont
+elle dispose en vue de lui permettre de déterminer le régime fiscal applicable aux sommes ainsi restituées ou, sur option du
+bénéficiaire du contrat, elle procède au prélèvement prévu à l'
+article 125-0 A du code général des impôts
+. 
+
+Lorsque les sommes déposées à la Caisse des dépôts et consignations en raison de l'échéance du contrat sont restituées aux
+ayants droit du bénéficiaire du contrat, la Caisse des dépôts et consignations procède aux prélèvements prévus au 
+I de l'article 990 I bis du code général des impôts
+. 
+
+II.-Les sommes déposées à la Caisse des dépôts et consignations portent intérêt dans les conditions prévues à l'
+article L. 518-23 du code monétaire et financier
+.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code général des impôts, CGI. - art. 125-0 A
+	  - Code général des impôts, CGI. - art. 990 I bis
+	  - Code monétaire et financier - art. L518-23
+
+	**Créé par**:
+
+	  - Décret n°2015-1092 du 28 août 2015 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2015-1092 du 28 août 2015 - art. 6 (VD)
 
 
 ## Livre III : Ouverture des services des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.
@@ -16888,8 +12271,7 @@ de la mutualité qui précise notamment la liste des activités figurant à l'ar
 
 4° La liste des sections de mutuelles mentionnées aux articles L. 115-1 et L. 115-4 ; 
 
-5° Les noms, noms d'usage, prénoms, domiciles personnels du président, des administrateurs et des dirigeants salariés
-mentionnés à l'article L. 114-19 ; 
+5° Les noms, noms d'usage, prénoms, domiciles personnels du président, des administrateurs et des dirigeants ; 
 
 6° Lorsque les organismes envisagent d'acquérir la qualité de mutuelles, les noms et adresses des personnes physiques ayant
 participé à leur création ; 
@@ -16935,7 +12317,7 @@ d'effectuer des opérations relevant de la compétence de cette autorité, confo
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -16971,15 +12353,16 @@ prévues à l'article R. 414-2, aux demandes de radiations et changements de nom
 ###### Article R414-3
 
 Les mesures d'incapacité et d'interdiction de diriger un organisme mutualiste prises à l'encontre de ses dirigeants à la
-suite d'une décision juridictionnelle passée en force de chose jugée doivent être communiquées, s'agissant des mutuelles
-entrant dans le champ d'application de l'article L. 612-2 du code monétaire et financier, à l'Autorité de contrôle prudentiel
-et de résolution, et, s'agissant des mutuelles relevant du livre III, au ministre chargé de la mutualité.
+suite d'une décision juridictionnelle passée en force de chose jugée doivent être communiquées, s'agissant des mutuelles et
+unions entrant dans le champ d'application de l'article L. 612-2 du code monétaire et financier , à l'Autorité de contrôle
+prudentiel et de résolution, et, s'agissant des mutuelles et unions relevant du livre III, au ministre chargé de la
+mutualité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -17255,8 +12638,8 @@ au Conseil supérieur de la mutualité.
 ###### Article R432-1
 
 Le fonds de garantie institué par l'article L. 431-1 ne peut refuser l'adhésion d'une mutuelle ou union mentionnée au même
-article, agréée dans les conditions prévues aux articles L. 211-7 à L. 211-8 ou à laquelle un autre organisme s'est substitué
-au sens de l'article L. 211-5. 
+article, agréée dans les conditions prévues aux  articles L. 211-8 et L. 211-8-1 ou à laquelle un autre organisme s'est
+substitué au sens de l'article L. 211-5. 
 
 L'adhésion au fonds ne prend fin qu'en cas de retrait, de cessation ou de caducité de l'agrément ou bien de retrait ou
 d'abrogation de la dispense d'agrément mentionnée à l'article L. 211-5. 
@@ -17269,9 +12652,9 @@ garantie n'intervient pas.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -17400,14 +12783,15 @@ reversement.
 
 Le liquidateur demande au fonds de garantie le versement prévu au deuxième alinéa de l'article L. 431-3, qu'il calcule sur la
 base des engagements arrêtés à la date de cessation des effets des bulletins d'adhésion à un règlement ou des contrats,
-déterminée dans les conditions prévues aux articles L. 212-20 et L. 212-21. Lorsque la mutuelle ou l'union défaillante est
-garantie par un système fédéral de garantie, le fonds informe celui-ci sans délai de la demande de versement. Le système
-fédéral de garantie dispose d'un délai d'un mois à compter de la date de réception de la demande pour verser au fonds la part
-à sa charge conformément à son règlement. Dans un délai de deux mois à compter de la date de réception de la demande, le
-fonds, après avoir vérifié que les bulletins d'adhésion à un règlement ou les contrats sont couverts par la garantie et après
-avoir contrôlé le montant garanti par bulletin d'adhésion à un règlement ou par contrat, procède à un versement en une seule
-fois, en précisant, le cas échéant, la part prise en charge par le système fédéral de garantie, au profit de chaque membre
-participant, ayant droit ou bénéficiaire de prestations contre la remise par celui-ci d'un récépissé du versement. 
+déterminée dans les conditions prévues aux articles L. 326-12 et L. 326-13 du  code des assurances. Lorsque la mutuelle ou
+l'union défaillante est garantie par un système fédéral de garantie, le fonds informe celui-ci sans délai de la demande de
+versement. Le système fédéral de garantie dispose d'un délai d'un mois à compter de la date de réception de la demande pour
+verser au fonds la part à sa charge conformément à son règlement. Dans un délai de deux mois à compter de la date de
+réception de la demande, le fonds, après avoir vérifié que les bulletins d'adhésion à un règlement ou les contrats sont
+couverts par la garantie et après avoir contrôlé le montant garanti par bulletin d'adhésion à un règlement ou par contrat,
+procède à un versement en une seule fois, en précisant, le cas échéant, la part prise en charge par le système fédéral de
+garantie, au profit de chaque membre participant, ayant droit ou bénéficiaire de prestations contre la remise par celui-ci
+d'un récépissé du versement. 
 
 A titre exceptionnel, l'Autorité de contrôle prudentiel et de résolution peut, sur la demande du fonds de garantie, accorder
 au fonds et au système fédéral de garantie une prolongation, qui ne saurait excéder au total trois mois, des délais prévus à
@@ -17429,7 +12813,7 @@ article pour présenter au membre participant, ayant droit ou bénéficiaire de 
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -17564,13 +12948,12 @@ Les décisions du fonds de garantie sont communiquées sans délai au ministre c
 
 ###### Article R432-13
 
-I. ― Sous réserve des dispositions de l'article R. 432-15 et des dispositions du présent article relatives aux mutuelles ou
-unions se soumettant aux obligations prévues au premier alinéa de l'article R. 111-5 et prenant les mesures de redressement
-demandées par le système fédéral de garantie, le fonds doit disposer en permanence d'un montant global de ressources égal à
-0,05 % du total des provisions mathématiques constatées au 31 décembre de l'année précédente pour l'ensemble des mutuelles et
-unions mentionnées à l'article L. 431-1. Le montant global est constitué par les mutuelles et unions adhérentes, après
-déduction des ressources propres du fonds qui comprennent les produits financiers, pour moitié par des cotisations versées au
-fonds et pour moitié par des cotisations non versées prenant la forme de réserves pour fonds de garantie. 
+I. ― Sous réserve des dispositions de  l'article R. 432-15, le fonds doit disposer en permanence d'un montant global de
+ressources égal à 0,05 % du total des provisions mathématiques constatées au 31 décembre de l'année précédente pour
+l'ensemble des mutuelles et unions mentionnées à l'article L. 431-1. Le montant global est constitué par les mutuelles et
+unions adhérentes, après déduction des ressources propres du fonds qui comprennent les produits financiers, pour moitié par
+des cotisations versées au fonds et pour moitié par des cotisations non versées prenant la forme de réserves pour fonds de
+garantie. 
 
 II. ― Le fonds de garantie notifie à chaque mutuelle ou union adhérente le montant de sa cotisation annuelle qui correspond à
 sa quote-part du montant global prévu au premier alinéa. 
@@ -17581,8 +12964,8 @@ techniques de l'ensemble des mutuelles et unions adhérentes calculées avec le 
 l'objet d'une convention de substitution au sens de l'article L. 211-5, les provisions techniques prises en compte dans le
 calcul sont celles constituées dans la mutuelle ou l'union garante. 
 
-La cotisation annuelle d'une mutuelle ou union agréée dans les conditions prévues aux articles L. 211-7 et L. 211-8 ne peut
-être inférieure à 1 000 euros. 
+La cotisation annuelle d'une mutuelle ou union agréée dans les conditions prévues aux  articles L. 211-8 et L. 211-8-1 ne
+peut être inférieure à 1 000 euros. 
 
 III. ― Si le montant de sa cotisation de l'année est supérieur à celui de l'année précédente, chaque mutuelle ou union
 procède en une seule fois au versement au fonds et à la dotation à la réserve pour un montant identique, égal à cette
@@ -17606,7 +12989,7 @@ l'objet d'un reversement par celui-ci.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -17614,12 +12997,12 @@ l'objet d'un reversement par celui-ci.
 	  - Code de la mutualité - art. L211-7
 	  - Code de la mutualité - art. L431-1
 	  - Code de la mutualité - art. R111-5
+	  - Code de la mutualité - art. R432-13 (VD)
 	  - Code de la mutualité - art. R432-15
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. R432-10 (V)
-	  - Code de la mutualité - art. R432-13 (V)
 	  - Code de la mutualité - art. R432-14 (V)
 
 
@@ -17677,47 +13060,17 @@ leur compte par l'intermédiaire du système fédéral de garantie.
 	  - Code de la mutualité - art. R432-13 (VD)
 
 
-###### Article R432-16
-
-Les réserves pour fonds de garantie sont admises comme éléments constitutifs de la marge de solvabilité des mutuelles ou
-unions adhérentes tel que prévu aux articles R. 212-11, R. 212-15 et R. 212-18, à hauteur de la part de cotisation versée par
-la mutuelle ou union et non utilisée par le fonds. 
-
-Les certificats d'association éventuellement émis dans les conditions prévues à l'article L. 431-7 viennent en diminution de
-la marge de solvabilité des mutuelles ou unions qui les souscrivent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-733 du 27 juin 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L431-7
-	  - Code de la mutualité - art. R212-11
-	  - Code de la mutualité - art. R212-15
-	  - Code de la mutualité - art. R212-18
-
-
 ###### Article R432-17
 
 Le règlement du fonds de garantie détermine les conditions dans lesquelles celui-ci emprunte auprès de ses adhérents.
 
 Chaque emprunt doit être remboursé dans un délai maximal de six ans à compter de la date de sa souscription.
 
-La quote-part de chaque mutuelle ou union adhérente dans les emprunts du fonds vient en diminution de sa marge de
-solvabilité.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-733 du 27 juin 2011 - art. 2
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 
 ###### Article R432-18
@@ -17763,401 +13116,6 @@ adhérentes, le montant cumulé des produits financiers des cotisations et les a
 
 ## Livre V : Contrôle des mutuelles, unions et fédérations.
 
-### Chapitre Ier : Autorité de contrôle prudentiel et de résolution
-
-###### Article R510-1
-
-Pour l'exercice du contrôle des mutuelles et unions mentionnées à l'article L. 612-2 du code monétaire et financier,
-l'Autorité de contrôle prudentiel et de résolution exerce sa mission dans les conditions prévues au chapitre II du titre Ier
-du livre VI de la partie réglementaire du code monétaire et financier.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-2
-
-
-#### Section 2 : Mesures de sauvegarde et d'assainissement.
-
-###### Article R510-3
-
-Lorsque l'Autorité de contrôle prudentiel et de résolution exige d'une union ou d'une mutuelle un programme de rétablissement
-en application de l'article L. 612-32 du code monétaire et financier, celui-ci doit notamment comporter, pour les trois
-prochains exercices sociaux, une description détaillée des éléments suivants et être accompagné des justificatifs s'y
-rapportant : 
-
-1° Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ; 
-
-2° Un plan détaillant les prévisions de recettes et de dépenses, tant pour les affaires directes que pour les acceptations et
-les cessions en réassurance ; 
-
-3° Un bilan prévisionnel ; 
-
-4° Une estimation des ressources financières devant servir à la couverture des engagements et de l'exigence de marge de
-solvabilité ; 
-
-5° La politique générale en matière de réassurance.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-32
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R510-16 (Ab)
-	  - Code de la mutualité - art. R510-19 (VD)
-	  - Code de la mutualité - art. R510-3-1 (VT)
-	  - Code de la mutualité - art. R510-3-3 (VT)
-	  - Code de la mutualité - art. R510-3-4 (VT)
-	  - Code de la mutualité - art. R510-7 (Ab)
-
-
-###### Article R510-3-1
-
-I. ― Au vu du programme de rétablissement mentionné à l'article R. 510-3 ou à défaut de communication de ce programme dans le
-délai d'un mois après la demande, l'Autorité de contrôle prudentiel et de résolution peut exiger d'une mutuelle ou union une
-marge de solvabilité renforcée, supérieure à l'exigence minimale de marge mentionnée, selon le cas, à l'article R. 212-12, à
-l'article R. 212-16 ou à l'article R. 212-19. 
-
-II. ― L'Autorité de contrôle prudentiel et de résolution peut limiter la réduction de marge de solvabilité prévue aux
-articles R. 212-12, R. 212-16 ou R. 212-19 lorsque : 
-
-1. Le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ; 
-
-2. Ou lorsque le programme de réassurance ne prévoit aucun transfert de risques ou un transfert insignifiant. 
-
-III. ― Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité d'une mutuelle ou union d'assurance ou
-de réassurance ont connu une baisse d'au moins 33 % au cours du dernier exercice clos par rapport à la moyenne de ces
-éléments constitutifs de la marge constatée au cours des quatre exercices précédant le dernier exercice, ou lorsqu'elle
-estime que les résultats du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un risque de solvabilité,
-l'Autorité de contrôle prudentiel et de résolution peut : 
-
-1. Soit demander à la mutuelle ou l'union de déduire des éléments constitutifs de la marge de solvabilité tout ou partie du
-montant de la moins-value latente nette globale constatée sur les placements mentionnés à l'article R. 212-52 ; 
-
-2. Soit demander à la mutuelle ou union de déduire tout ou partie du montant de la moins-value latente nette globale
-constatée sur les actifs mentionnés à l'article R. 212-53 et non provisionné par la provision pour risque d'exigibilité ; 
-
-3. Soit mettre en œuvre de manière appropriée une combinaison des mesures précédentes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-12
-	  - Code de la mutualité - art. R212-16
-	  - Code de la mutualité - art. R212-19
-	  - Code de la mutualité - art. R212-27-1
-	  - Code de la mutualité - art. R212-52
-	  - Code de la mutualité - art. R212-53
-	  - Code de la mutualité - art. R510-3
-
-
-###### Article R510-3-1-2
-
-Lorsqu'elle estime que les résultats du test d'exigibilité mentionné à l'article R. 212-27-1 font apparaître un risque de
-solvabilité, l'Autorité de contrôle prudentiel et de résolution peut déduire des éléments constitutifs de la marge le report
-de charge constitué en vertu de l'article R. 212-24-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-24-1
-	  - Code de la mutualité - art. R212-27-1
-
-
-###### Article R510-3-2
-
-Lorsqu'elle estime que le respect, par une entreprise de réassurance, de ses engagements est compromis, l'Autorité de
-contrôle prudentiel et de résolution peut exiger que l'entreprise lui soumette un programme de rétablissement prévoyant
-toutes mesures propres à restaurer son équilibre. Ce programme doit notamment comporter, pour les trois prochains exercices
-sociaux, une description détaillée des éléments suivants et être accompagné des justificatifs s'y rapportant : 
-
-1. Une estimation prévisionnelle des frais de gestion, notamment des frais généraux courants et des commissions ; 
-
-2. Un plan détaillant les prévisions de recettes et de dépenses ; 
-
-3. Un bilan prévisionnel ; 
-
-4. Une estimation des ressources financières devant servir à la couverture des engagements et de l'exigence de marge de
-solvabilité ; 
-
-5. La politique générale en matière de cession en réassurance.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-
-###### Article R510-3-3
-
-Dans le cas où la situation financière d'une mutuelle ou union de réassurance se dégrade et que ses obligations
-contractuelles s'en trouvent menacées, et au vu du programme de rétablissement mentionné à l'article R. 510-3 si celui-ci lui
-a été communiqué dans un délai d'un mois après la demande, l'Autorité de contrôle prudentiel et de résolution peut exiger
-d'une mutuelle ou union de réassurance une marge de solvabilité renforcée, supérieure à l'exigence minimale de marge
-mentionnée à l'article R. 212-20-1. Toutefois, le niveau total de marge de solvabilité exigé ne peut être supérieur au double
-de l'exigence minimale de marge mentionnée à l'article R. 212-20-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-20-1
-	  - Code de la mutualité - art. R510-3
-
-
-###### Article R510-3-4
-
-I.-Après que lui a été communiqué le programme de rétablissement mentionné au I de l'article R. 510-3 ou à défaut de
-communication de ce programme dans le délai d'un mois après la demande, l'Autorité de contrôle prudentiel et de résolution
-peut limiter la réduction de marge de solvabilité prévue au 1 et au 2 du II de l'article R. 212-20-1 lorsque : 
-
-1. Le contenu ou la qualité du programme de réassurance a subi des modifications sensibles depuis le dernier exercice ; 
-
-2. Ou lorsque le programme de réassurance ne prévoit aucun transfert de risques ou un transfert insignifiant. 
-
-II.-Lorsqu'elle constate que les éléments constitutifs de la marge de solvabilité d'une entreprise d'assurance ont connu une
-baisse d'au moins 33 % au cours du dernier exercice clos par rapport à la moyenne de ces éléments constitutifs de la marge
-constatée au cours des quatre exercices précédant le dernier exercice, et après que lui a été communiqué le programme de
-rétablissement mentionné au I de l'article R. 510-3, l'Autorité de contrôle prudentiel et de résolution peut : 
-
-1. Soit demander à la mutuelle ou l'union de déduire des éléments constitutifs de la marge de solvabilité tout ou partie du
-montant de la moins-value latente nette globale constatée sur les placements mentionnés à l'article R. 212-52 ; 
-
-2. Soit demander à la mutuelle ou l'union de déduire tout ou partie du montant de la moins-value latente nette globale
-constatée sur les actifs mentionnés à l'article R. 212-53 et non provisionné par la provision pour risque d'exigibilité ; 
-
-3. Soit mettre en œuvre de manière appropriée une combinaison des mesures précédentes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-20-1
-	  - Code de la mutualité - art. R212-52
-	  - Code de la mutualité - art. R212-53
-	  - Code de la mutualité - art. R510-3
-
-
-###### Article R510-4
-
-Lorsque la marge de solvabilité d'une mutuelle ou d'une union agréée sur le fondement de l'article L. 211-7 ou de l'article
-L. 211-7-2 n'atteint pas le montant fixé aux articles R. 212-12 et R. 212-16, l'Autorité de contrôle prudentiel et de
-résolution exige un plan de sauvegarde ou de redressement qui doit être soumis à son approbation dans le délai d'un mois,
-sans préjudice de la mise en oeuvre des pouvoirs dont elle dispose aux termes des sections 6 et 7 du chapitre II du titre Ier
-du livre VI du code monétaire et financier. 
-
-L'Autorité de contrôle prudentiel et de résolution désigne un contrôleur qui doit être tenu informé en permanence par l'union
-ou la mutuelle de l'élaboration du plan de sauvegarde ou de redressement. L'union ou la mutuelle rend compte de la mise en
-œuvre des décisions et mesures contenus dans le plan à ce contrôleur, qui veille à son exécution. 
-
-Si elle estime que la situation financière de la mutuelle ou de l'union va continuer à se détériorer, elle peut également
-restreindre ou interdire la libre disposition des actifs de cet organisme.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-486 du 28 mai 2004 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. R212-12
-	  - Code de la mutualité - art. R212-16
-
-
-###### Article R510-5
-
-Lorsque la marge de solvabilité d'une mutuelle ou d'une union agréée sur le fondement de l'article L. 211-7 ou de l'article
-L. 211-7-2 est inférieur au montant du fonds de garantie fixé aux articles R. 212-13 et R. 212-17 ou si ce fonds n'est pas
-constitué réglementairement, l'Autorité de contrôle prudentiel et de résolution, sans préjudice de la mise en oeuvre des
-pouvoirs dont elle dispose aux termes des sections 6 et 7 du chapitre II du titre Ier du livre VI du code monétaire et
-financier, exige un plan de financement à court terme qui, à compter de la date à laquelle il est exigé, doit être soumis à
-son approbation dans un délai d'un mois. 
-
-L'Autorité de contrôle prudentiel et de résolution désigne un contrôleur qui doit être tenu informé en permanence par l'union
-ou la mutuelle de l'élaboration du plan de financement à court terme. L'union ou la mutuelle rend compte de la mise en œuvre
-des décisions et mesures contenus dans le plan à ce contrôleur, qui veille à son exécution. 
-
-Elle peut également restreindre ou interdire la libre disposition des actifs de la mutuelle ou de l'union.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2004-486 du 28 mai 2004 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. L211-7-2
-	  - Code de la mutualité - art. R212-13
-	  - Code de la mutualité - art. R212-17
-
-
-###### Article R510-8
-
-I.-Lorsqu'elle décide de mettre en oeuvre l'une des mesures d'assainissement définies à l'article L. 212-27, l'Autorité de
-contrôle prudentiel et de résolution : 
-
-1° En informe d'urgence les autorités compétentes des autres Etats membres de la Communauté européenne ou parties à l'accord
-sur l'Espace économique européen ; 
-
-2° Procède à la publication de cette décision au Journal officiel de la République française ainsi qu'au Journal officiel de
-l'Union européenne. 
-
-Cette publication précise le nom et les coordonnées des autorités compétentes pour les besoins des mesures d'assainissement.
-Elle indique également la législation qui est applicable à ces mesures d'assainissement. 
-
-Cette publication n'est pas requise lorsque les mesures d'assainissement affectent exclusivement les droits des membres
-adhérents, des membres participants et des membres honoraires lorsqu'ils sont responsables de la gestion de la mutuelle ou de
-l'union de mutuelles, ou des employés de celles-ci considérés en tant que tels. Dans ce cas, l'Autorité de contrôle
-prudentiel et de résolution prend les dispositions nécessaires à une information rapide des seuls intéressés ; 
-
-3° Notifie sa décision aux créanciers connus dans les conditions définies à l'article R. 211-15-1. Lorsqu'un administrateur
-provisoire a été nommé, il lui appartient de procéder à cette notification.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-27
-	  - Code de la mutualité - art. R211-15-1
-
-
-###### Article R510-9
-
-Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou interdit temporairement la libre disposition
-de tout ou partie des actifs d'une mutuelle ou union, en application de l'article L. 612-33 du code monétaire et financier,
-elle peut en outre faire inscrire sur les immeubles de cette entreprise l'hypothèque mentionnée à l'article L. 212-24 du
-présent code.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-33
-	  - Code de la mutualité - art. L212-24
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R510-19 (VD)
-
-
-###### Article R510-10-1
-
-Les mesures prévues à la présente section,            aux 1° à 7° de l'article L. 612-33  du code monétaire et financier et à
-l'article L. 612-34 du même code peuvent être appliquées à une mutuelle ou union soumise à la surveillance complémentaire
-lorsqu'elle présente une situation de solvabilité ajustée négative ou que la surveillance complémentaire a révélé que la
-solvabilité de cette entreprise apparaît compromise ou susceptible de l'être.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°2015-513 du 7 mai 2015 - art. 13
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-33
-
-
 ### Chapitre III : Dispositions pénales.
 
 ###### Article R510-19
@@ -18168,24 +13126,24 @@ ou d'une union :
 1° De ne pas respecter les obligations qui lui incombent en matière de tenue de la comptabilité, enregistrement des
 opérations, conservation des pièces comptables et présentation des comptes annuels ; 
 
-2° De méconnaître les obligations ou interdictions résultant des articles R. 211-1, R. 212-21, R. 212-27 et R. 212-49 ; 
+2° De méconnaître les obligations ou interdictions résultant des articles R. 211-1, R. 343-1 du code des assurances, R. 223-8
+et R. 332-16 du  code des assurances ; 
 
-3° De ne pas produire un programme de rétablissement, un plan de sauvegarde ou de redressement ou un plan de financement à
-court terme prescrit conformément aux dispositions des articles R. 510-3, R. 510-3-4, R. 510-4 et R. 510-5, ou de ne pas
-exécuter dans les conditions et délais prévus le plan ou le programme qui a été soumis à l'Autorité de contrôle prudentiel et
-de résolution ; 
+3° De ne pas produire un programme de rétablissement, un plan de rétablissement, un plan de redressement ou un plan de
+financement à court terme prescrits conformément aux dispositions des articles R. 335-1, R. 335-4, R. 335-5 ou R. 352-33 du
+code des assurances ou de ne pas exécuter dans les conditions et délais prévus celui qui a été approuvé ;
 
 En cas de récidive, la peine d'amende prévue pour la récidive des contraventions de la cinquième classe est applicable. 
 
 Pour l'application des pénalités édictées au présent chapitre, sont considérés comme dirigeants de mutuelles ou d'unions :
-les membres du conseil d'administration, les directeurs généraux, les directeurs et tout dirigeant de fait d'une mutuelle ou
-d'une union.
+les membres du conseil d'administration, les directeurs généraux, les directeurs, le dirigeant opérationnel et tout dirigeant
+de fait d'une mutuelle ou d'une union.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2015-513 du 7 mai 2015 - art. 13
 
 	**Cite**:
 
@@ -18193,11 +13151,8 @@ d'une union.
 	  - Code de la mutualité - art. R212-21
 	  - Code de la mutualité - art. R212-27
 	  - Code de la mutualité - art. R212-49
-	  - Code de la mutualité - art. R510-3
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. R510-9 (V)
+	  - Code de la mutualité - art. R510-3 (VT)
+	  - Code de la mutualité - art. R510-9 (VT)
 
 
 # Partie réglementaire - Décrets simples
@@ -18366,62 +13321,29 @@ articles D. 114-4 et D. 114-6 sont majorés en proportion de l'augmentation de c
 
 ###### Article Annexe à l'article D114-11
 
-Eléments statistiques relatifs à la protection sociale complémentaire
+Eléments statistiques relatifs à la protection sociale complémentaire 
 
-Etat E 1 : personnes assurées, couvertes et bénéficiaires par type de garanties
+Etat E 1 : personnes assurées, couvertes et bénéficiaires par type de garanties 
 
-Les organismes d'assurance mentionnés ci-dessous établissent un état E 1 personnes assurées, couvertes et bénéficiaires par
-type de garanties :
+Les organismes d'assurance mentionnés ci-dessous établissent un état E 1 "personnes assurées, couvertes et bénéficiaires par
+type de garanties" :
 
-Les entreprises d'assurance pratiquant des opérations mentionnées aux 1° et 2° de l'article L. 310-1 du code des assurances
-et celles pratiquant des opérations relevant de la branche 16 a définie à l'article R. 321-1 du code des assurances :
+- les entreprises d'assurance pratiquant des opérations mentionnées aux 1° et 2° de l'article L. 310-1 du code des assurances
+et celles pratiquant des opérations relevant de la branche 16 a définie à l'article R. 321-1 du code des assurances ;
 
 - les mutuelles et unions ;
 
-- les institutions de prévoyance et les unions d'institutions de prévoyance.
+- les institutions de prévoyance et les unions d'institutions de prévoyance. 
 
-Cet état doit être établi conformément au modèle ci-après.
+Les données à fournir correspondent à l'ensemble des informations du tableau suivant. 
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120406&numTexte=29&pageDebut=06262&pageFin=06268(1) 
+Vous pouvez consulter l'image dans le fac-similé du 
 
-(1) Garanties individuelles et garanties collectives au sens des catégories et sous-catégories comptables de l'état C 1. Pour
-les mutuelles, y compris celles des mutuelles substituées. (2) Les personnes assurées : pour les mutuelles, les membres
-participants visés à l'article L. 114-1 du code de la mutualité (y compris ceux des mutuelles substituées) ; pour les
-institutions de prévoyance, les membres participants visés aux premier et deuxième alinéas de l'article L. 931-3 du code de
-la sécurité sociale ; pour les sociétés d'assurance, en individuel, les assurés visés à l'article L. 112-4 du code des
-assurances et, en collectif, les adhérents visés à l'article L. 141-1 du code des assurances. Les personnes couvertes : les
-personnes assurées et leurs ayants droit. (3) Importance des opérations prises en compte dans ce tableau en pourcentage des
-primes nettes totales (ligne 22, état E 2). Ne concerne que les organismes pour lesquels les données par type de garanties ne
-sont pas centralisées et ne sont que partiellement disponibles (remontées des données non exhaustives des courtiers
-d'assurance). Pour les autres organismes, les taux doivent être en théorie égaux à 100 %. (4) Ensemble des garanties frais de
-soins prises en compte dans les catégories 201, 211 et 213 de l'état C 4 défini en annexe à l'article A. 344-10 du code des
-assurances et en annexe à l'article A. 931-11-7 du code de la code de la mutualité. Ces garanties peuvent être les garanties
-principales du contrat ou être complémentaires à une autre garantie. Si les garanties frais de soins des états C 4 et E 4
-incluent des garanties accessoires en autres dommages corporels (incapacité-invalidité ou encore dépendance), les retirer de
-la ligne. (5) Ensemble des garanties autres dommages corporels - hors contrats emprunteurs prises en compte dans les
-catégories 202, 212 et 214 de l'état C 4 défini en annexe à l'article A. 344-10 du code des assurances, en annexe à l'article
-A. 931-11-17 du code de la sécurité sociale et en annexe à l'article A. 114-5 du code de la mutualité. Ces garanties peuvent
-être les garanties principales du contrat ou être complémentaires à une autre garantie. Si les garanties frais de soins des
-états C 4 et E 4 incluent des garanties accessoires en autres dommages corporels (incapacité-invalidité ou encore
-dépendance), les ajouter dans les lignes correspondant à la garantie visée. (6) Les contrats emprunteurs (garanties au titre
-de l'invalidité-incapacité ; garanties au titre du décès ; garanties au titre de la perte d'emploi) sont exclus du décompte.
-(7) Cf. article L. 341-4 du code de la sécurité sociale. (8) Maintien de couverture sans condition de période probatoire ni
-d'examen ou questionnaire médical pour les anciens salariés, cf. article de la loi n° 89-1009 du 31 décembre 1989. (9) Hors
-contrats d'épargne qui prévoient une option dépendance en cas de sortie sous forme de rente, mais dont l'option n'est pas
-souscrite. (10) Garanties des catégories comptables 20/21 non comptabilisées dans les autres rubriques de façon à couvrir
-l'intégralité des garanties enregistrées dans les catégories comptables 20/21 - hors contrats emprunteurs. Préciser dans la
-ligne 06-1 le nom des garanties visées. (11) Cf. article L. 341-4 du code de la sécurité sociale, troisième alinéa :
-invalides qui, étant absolument incapables d'exercer une profession, sont, en outre, dans l'obligation d'avoir recours à
-l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie. (12) Sont incluses dans cette ligne les
-garanties obsèques . (13) Nombre de bénéficiaires pour la retraite supplémentaire : bénéficiaires de prestations en rentes
-viagères et en rentes versées en une seule fois (VFU), de sorties en capital et de rachats. (14) Dont REPMA, ancien PER
-Balladur et autres régimes de retraite supplémentaire ne pouvant pas être comptabilisés comme articles 39, 82 ou 83. (15) Le
-total AVEC double compte correspond au nombre de garanties proposées tandis que le total SANS double compte correspond au
-nombre de contrats ou personnes couvertes. Ainsi, une personne cotisant pour deux types de garanties (par exemple, pour frais
-de soins et pour invalidité-incapacité ) sera comptée deux fois avec double compte, alors qu'elle ne sera comptée qu'une
-seule fois sans double compte. 
+JO nº 0303 du 31/12/2015, texte nº 87 à l'adresse suivante 
 
-Etat E 2 : primes et prestations par type de garanties
+http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031740394
+
+Etat E 2 : primes et prestations par type de garanties 
 
 Les organismes d'assurance mentionnés ci-dessous établissent un état E 2 "primes et charges de prestations par type de
 garanties" :
@@ -18431,186 +13353,110 @@ et celles pratiquant des opérations relevant de la branche 16 a définie à l'a
 
 - les mutuelles et leurs unions ;
 
-- les institutions de prévoyance et les unions d'institutions de prévoyance.
+- les institutions de prévoyance et les unions d'institutions de prévoyance. 
 
-Cet état doit être établi conformément au modèle ci-après.
+Les données à fournir correspondent à l'ensemble des informations des tableaux suivants. 
 
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
+Vous pouvez consulter l'image dans le fac-similé du 
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120406&numTexte=29&pageDebut=06262&pageFin=06268
+JO nº 0303 du 31/12/2015, texte nº 87 à l'adresse suivante 
 
-(1) Pour la définition des lignes, voir l'état E 1 : garanties individuelles et garanties collectives au sens des catégories
-et sous-catégories comptables de l'état C 1. (2) Catégories comptables de l'état C 4. (3) Primes émises : ligne L 5 des C 1
-vie et non-vie. (4) Prestations payées : en vie, sinistres et capitaux payés + versements périodiques de rentes payés +
-rachats payés (lignes L 10 + L 11 + L 12 du C 1 vie) et en non-vie sinistres payés + versements périodiques de rentes payés -
-recours encaissés (lignes L 10 + L 11 - L 12 du C 1 non-vie). (5) Les colonnes données en substitution ne concernent que les
-mutuelles. Pour les sociétés d'assurance et les institutions de prévoyance, ne renseigner que les colonnes non données en
-substitution. 
+http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031740394
 
-Etat E 3 : frais de soins et indemnités journalières payés au cours de l'exercice
+Etat E 3 : frais de soins et indemnités journalières payés au cours de l'exercice 
 
-Les organismes d'assurance mentionnés ci-dessous établissent un état E 3 "frais de soins et indemnités payés au cours de
-l'exercice" :
+Les entreprises d'assurance, mutuelles et unions, institutions de prévoyance et unions d'institutions de prévoyance proposant
+des garanties de dommages corporels (y compris garanties accessoires ou complémentaires aux contrats individuels d'assurance
+en cas de vie ou de décès) établissent un état E 3 "frais de soins et indemnités payés au cours de l'exercice". 
 
-- les entreprises d'assurance proposant des garanties ventilées sous les codifications 20 et 21 au sens de l'état C 4 défini
-en annexe à l'article A. 344-10 du code des assurances ;
+Les données à fournir correspondent à l'ensemble des informations des tableaux suivants. 
 
-- les mutuelles et unions proposant des garanties ventilées sous les codifications 20 et 21 au sens de l'état C 4 défini en
-annexe à l'article A. 114-5 du code de la mutualité ;
+Vous pouvez consulter l'image dans le fac-similé du 
 
-- les institutions de prévoyance et les unions d'institutions de prévoyance proposant des garanties ventilées sous les
-codifications 20 et 21 au sens de l'état C 4 défini en annexe à l'article A. 931-11-17 du code de la sécurité sociale.
+JO nº 0303 du 31/12/2015, texte nº 87 à l'adresse suivante 
 
-Cet état doit être établi conformément au modèle ci-après.
+http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031740394
 
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
+Etat E 4 : résultat technique en frais de soins 
 
-Tableau A. - Données techniques relatives aux garanties "frais de soins"
+Les entreprises d'assurance, mutuelles et unions, institutions de prévoyance et unions d'institutions de prévoyance proposant
+des garanties frais de soins (y compris garanties accessoires ou complémentaires aux contrats individuels d'assurance en cas
+de vie ou de décès), établissent un état E 4 "résultat technique en frais de soins". 
 
-issues des systèmes de gestion. - Données qui doivent être cohérentes avec les lignes 10-12 de l'état E 4
+Les données à fournir correspondent à l'ensemble des informations du tableau suivant. 
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120406&numTexte=29&pageDebut=06262&pageFin=06268
+Ces données pourront être fournies dans un autre état collecté par l'autorité de contrôle prudentiel et de résolution. 
 
-(1) Importance des opérations prises en compte dans ce tableau en pourcentage des sinistres payés nets de recours (lignes
-10-12 de l'état E 4). Ne concerne que les organismes pour lesquels les données par type de prestations ne sont pas
-centralisées et ne sont que partiellement disponibles (remontées des données non exhaustives des courtiers d'assurance). Pour
-les autres organismes, les taux doivent être en théorie égaux à 100 %. (2) Les frais d'hospitalisation incluent le forfait
-journalier hospitalier, le ticket modérateur des journées et des actes, les honoraires et prescriptions en activité libérale,
-les honoraires et prescriptions en activité libérale. (3) Ligne à renseigner dans la mesure où ces versements pour
-hébergement des soins de longue durée (SLD), chambres particulières, lits accompagnant... font partie des prestations "frais
-de soins" de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé. (4) Honoraires
-médicaux, y compris sages-femmes et frais de déplacement. (5) Actes d'auxiliaires médicaux, y compris frais de déplacement.
-(6) Analyses médicales. (7) Ligne à renseigner dans la mesure où les versements pour hébergement en cures thermales font
-partie des prestations "frais de soins" de l'organisme complémentaire. Ces versements sont en effet exclus du champ des
-comptes de la santé. (8) VSL : véhicule sanitaire léger. (9) VHP : véhicule pour handicapé physique. (10) Prestations
-incluses dans les frais de soins non comptabilisées dans les rubriques précédentes (par exemple, forfait naissance,
-prévention, médecine alternative, aides diverses...). (11) A faire figurer dans cette ligne ainsi que dans le tableau B quand
-cette garantie est comptabilisée dans l'état E 4 avec la garantie "frais de soins" 
+Vous pouvez consulter l'image dans le fac-similé du 
 
-Tableau B. - Données techniques relatives aux garanties "incapacité de travail"
+JO nº 0303 du 31/12/2015, texte nº 87 à l'adresse suivante 
 
-issues des systèmes de gestion. - Données qui doivent être cohérentes avec la ligne 02 de l'état E 2 (1)
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120406&numTexte=29&pageDebut=06262&pageFin=06268
-
-(1) Pour les organismes ne distinguant pas la garantie "incapacité" de sa garantie "frais de soins" dans l'état comptable E
-4, reporter ici les montants figurant en 10-2 du tableau A. 
-
-Etat E 4 : résultat technique en frais de soins
-
-Les organismes d'assurance mentionnés ci-dessous établissent un état E 4 "résultat technique en frais de soins" :
-
-- les entreprises d'assurance pratiquant des opérations proposant des garanties ventilées sous les codifications 201, 211 et
-213 au sens de l'état C 4 défini en annexe à l'article A. 344-10 du code des assurances ;
-
-- les mutuelles et unions proposant des garanties ventilées sous les codifications 201, 203, 211, 213 au sens de l'état C 4
-défini en annexe à l'article A. 114-5 du code de la mutualité ;
-
-- les institutions de prévoyance et les unions d'institutions de prévoyance proposant des garanties ventilées sous les
-codifications 201, 211 et 213 au sens de l'état C 4 défini en annexe à l'article A. 931-11-17.
-
-Cet état doit être établi conformément au modèle ci-après.
-
-Cet état comporte les colonnes suivantes :
-
-- frais de soins : contrats individuels non donnés en substitution (catégorie 201 de l'état C 4 défini à l'article A. 344-10
-du code des assurances ; catégories 2011 et 2031 de l'état C 4 défini à l'article A. 114-5 du code de la mutualité ;
-catégorie 201 de l'état C 4 défini à l'article A. 931-11-17 du code de la sécurité sociale) ;
-
-- frais de soins : contrats individuels donnés en substitution (catégories 2012 et 2032 de l'état C 4 défini à l'article A.
-114-5 du code de la mutualité) ;
-
-- frais de soins : contrats collectifs non donnés en substitution (catégories 211 et 213 de l'état C 4 défini à l'article A.
-344-10 du code des assurances, catégories 2111 et 2131 de l'état C 4 défini à l'article A. 114-5 ; catégories 211 et 213 de
-l'état C 4 défini à l'article A. 931-11-17 du code de la sécurité sociale) ;
-
-- frais de soins : contrats collectifs donnés en substitution (catégories 2112 et 2132 de l'état C 4 défini à l'article A.
-114-5).
-
-Les lignes de cet état correspondent strictement à celles de l'état C 1 "dommages corporels" telles que définies à l'article
-A. 344-10 du code des assurances ; à l'article A. 114-5 du code de la mutualité ; et à l'article A. 931-11-17 du code de la
-sécurité sociale.
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
+http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031740394
 
 Etat E 5 : Compléments frais de gestion des garanties "frais de soins", gestion déléguée d'un régime obligatoire santé, CMU,
-ACS et taxe sur les conventions d'assurance des contrats santé
+ACS et taxe sur les conventions d'assurance des contrats santé 
 
-Les organismes d'assurance mentionnés ci-dessous établissent un état E 5 "E 5 Compléments frais de gestion des garanties
-"frais de soins", gestion déléguée d'un régime obligatoire santé, CMU, ACS et taxe sur les conventions d'assurance des
-contrats santé" :
+Les entreprises d'assurance, mutuelles et unions, institutions de prévoyance et unions d'institutions de prévoyance proposant
+des garanties frais de soins (y compris garanties accessoires ou complémentaires aux contrats individuels d'assurance en cas
+de vie ou de décès) établissent un état E 5 "Compléments frais de gestion des garanties " frais de soins ", gestion déléguée
+d'un régime obligatoire santé, CMU, ACS et taxe sur les conventions d'assurance des contrats santé". 
 
-- les entreprises d'assurance pratiquant des opérations proposant des garanties ventilées sous les codifications 201, 211 et
-213 au sens de l'état C 4 défini en annexe à l'article A. 344-10 du code des assurances ;
+Les données à fournir correspondent à l'ensemble des informations des tableaux suivants. 
 
-- les mutuelles et unions proposant des garanties ventilées sous les codifications 201, 203, 211, 213 au sens de l'état C 4
-défini en annexe à l'article A. 114-5 du code de la mutualité ;
+Vous pouvez consulter l'image dans le fac-similé du 
 
-- les institutions de prévoyance et les unions d'institutions de prévoyance proposant des garanties ventilées sous les
-codifications 201, 211 et 213 au sens de l'état C 4 défini en annexe à l'article A. 931-11-17.
+JO nº 0303 du 31/12/2015, texte nº 87 à l'adresse suivante 
 
-Cet état doit être établi conformément au modèle ci-après.
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
-
-Tableau A. - Frais de gestion des garanties "frais de soins"
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120406&numTexte=29&pageDebut=06262&pageFin=06268
-
-(1) Frais de gestion des sinistres ligne 13 de l'état E 4. (2) Frais d'acquisition ligne 40 de l'état E 4. (3) Poste compris
-dans la ligne L 41 de l'état E 4 intitulée "frais d'administration et autres charges techniques nets". (4) Nombre de
-personnes couvertes au 31 décembre et nombre de bénéficiaires de prestations en nature servis au moins une fois dans l'année
-ligne 01 de l'état E 1. 
-
-Tableau B. - CMU, ACS et taxe sur les conventions d'assurance
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120406&numTexte=29&pageDebut=06262&pageFin=06268
-
-(*) Numéro du poste du plan comptable dans lequel l'opération est enregistrée (postes de classe 4, 6 ou 7 selon le cas).
+http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031740394
 
 **Nota:**
 
-Décret n° 2012-454 du 4 avril 2012, article 3 : Les dispositions du présent décret sont applicables à compter de la remise,
-au 30 avril 2012, des états statistiques relatifs à l'exercice 2011.
+Conformément à l'article 2 du décret n° 2015-1121 du 4 septembre 2015, les présentes dispositions sont applicables à compter
+de la remise, au 30 avril 2016, des états statistiques relatifs à l'exercice 2015.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2015-1121 du 4 septembre 2015
+	  - Code de la sécurité sociale. - art. A931-11-17
+	  - Code des assurances - art. A344-10
+	  - Code des assurances - art. L310-1
+	  - Code des assurances - art. R*321-1
+	  - Code de la mutualité - art. A114-5
+
 	**Modifié par**:
 
-	  - Décret n°2012-454 du 4 avril 2012 - art.
+	  - Décret n°2015-1857 du 30 décembre 2015 - art.
 
 
 ###### Article D114-10
 
-Sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L.
-225-219 du code de commerce les mutuelles et unions relevant du livre III et les fédérations qui dépassent deux des seuils
-suivants :
+Sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article    L.
+822-1 du code de commerce les mutuelles et unions relevant du livre III et les fédérations qui dépassent deux des seuils
+suivants : 
 
-a) 1 524 490 Euros pour le total du bilan ;
+a) 1 524 490 Euros pour le total du bilan ; 
 
-b) 3 048 980 Euros pour le montant hors taxes des ressources ;
+b) 3 048 980 Euros pour le montant hors taxes des ressources ; 
 
 c) 50 salariés en équivalent temps plein.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2004-239 du 16 mars 2004 - art. 1 () JORF 19 mars 2004
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-219 (Ab)
+	  - Code de commerce - art. L822-1
 
 
 ###### Article D114-11
 
-I.-Les données relatives à la protection sociale complémentaire, mentionnées           au cinquième alinéa de l'article L.
-612-24 du code monétaire et financier, sont regroupées dans les états suivants : 
+I.-Les données relatives à la protection sociale complémentaire, mentionnées au cinquième alinéa de l'article L. 612-24 du
+code monétaire et financier, sont regroupées dans les états suivants : 
 
 E 1 Personnes assurées, couvertes et bénéficiaires par type de garanties ; 
 
@@ -18621,12 +13467,12 @@ E 3 Frais de soins et indemnités journalières payés au cours de l'exercice ;
 E 4 Résultat technique en frais de soins ; 
 
 E 5 Compléments frais de gestion des garanties " frais de soins ", gestion déléguée d'un régime obligatoire santé, CMU, ACS
-et taxe sur les conventions d'assurance des contrats santé. 
+et taxe sur les conventions d'assurance des contrats santé.
 
-Ces états sont établis annuellement dans la forme fixée en annexe au présent article. 
+Ces états sont établis annuellement. Leur contenu est fixé en annexe du présent article.  
 
 II.-Les modalités de transmission des états mentionnés au I à l'Autorité de contrôle prudentiel et de résolution sont
-définies par arrêté du ministre chargé de la mutualité. 
+définies par cette Autorité. 
 
 III.-Les données collectées ne peuvent être communiquées que dans les conditions fixées par l'article 7 bis de la loi n°
 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques.
@@ -18649,299 +13495,10 @@ III.-Les données collectées ne peuvent être communiquées que dans les condit
 
 	**Modifié par**:
 
-	  - Décret n°2014-1316 du 3 novembre 2014 - art. 11
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 3
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
-
-### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
-
-#### Chapitre II : Fonctionnement
-
-##### Section 1 : Régime financier et comptable
-
-###### Article D212-1
-
-I. - Le montant minimal de la participation aux excédents techniques et financiers des mutuelles et unions de mutuelles
-pratiquant des opérations mentionnées au b du 1° du I de l'article L. 111-1 est déterminé globalement pour les opérations
-individuelles et collectives de toute nature souscrites sur le territoire de la Communauté européenne, à l'exception des
-opérations collectives en cas de décès, des opérations relevant de l'article L. 222-1 et des opérations à capital variable.
-
-II. - Le montant minimal de la participation aux excédents à attribuer au titre d'un exercice est déterminé globalement à
-partir d'un compte de participation aux résultats. Ce compte comporte, pour les opérations mentionnées au I, les éléments de
-charges et produits suivants :
-
-- cotisations sur les opérations directes et acceptations ;
-
-- charges des prestations sur opérations directes et acceptations ;
-
-- charges des provisions d'assurance vie et autres provisions techniques sur opérations directes et acceptations ;
-
-- cotisations sur opérations prises en substitution ;
-
-- charges des prestations sur opérations prises en substitution ;
-
-- charges des provisions d'assurance vie et autres provisions techniques sur opérations prises en substitution ;
-
-- frais d'acquisition ;
-
-- autres charges de gestion nettes.
-
-Il comporte également en charges la participation de la mutuelle ou de l'union aux excédents de la gestion technique, qui est
-constituée par 10 % du solde créditeur des éléments précédents.
-
-Il est ajouté en recette du compte de participation aux résultats une part des produits financiers. Cette part est égale à 85
-% du solde du compte financier défini au I de l'article D. 212-3. Le compte de participation aux résultats comporte en outre
-les sommes correspondant au "solde de réassurance cédée", calculées conformément aux dispositions de l'article D. 212-2 et,
-s'il y a lieu, le solde débiteur du compte de participation aux résultats de l'exercice précédent.
-
-III. - Le montant minimal annuel de la participation aux résultats est le solde créditeur du compte de participation aux
-résultats défini au II.
-
-Le montant minimal annuel de la participation aux excédents est égal au montant défini à l'alinéa précédent diminué du
-montant des intérêts crédités aux provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L111-1, L222-1, D212-3, D212-2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1458 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-	  - Décret n°2002-1458 du 16 décembre 2002 - art. 2 () JORF 17 décembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-###### Article D212-2
-
-Pour le calcul de la rubrique "solde de réassurance cédée" prévue dans le compte de participation aux résultats au II de
-l'article D. 212-1, seule est prise en compte la réassurance de risque, c'est-à-dire celle dans laquelle l'engagement des
-cessionnaires porte exclusivement sur tout ou partie de la différence entre le montant des capitaux en cas de décès ou
-d'invalidité et celui des provisions mathématiques des opérations correspondantes.
-
-Dans les traités limités à la réassurance de risque, le solde de réassurance cédée est égal à la différence entre le montant
-des sinistres à la charge des cessionnaires et celui des cotisations cédées. Il est inscrit, selon le cas, au débit ou au
-crédit du compte de participation aux résultats.
-
-Dans les autres traités, le solde de réassurance cédée est établi en isolant la réassurance de risque à l'intérieur des
-engagements des cessionnaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) D212-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1458 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-	  - Décret n°2002-1458 du 16 décembre 2002 - art. 2 () JORF 17 décembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-###### Article D212-3
-
-I. - Le compte financier mentionné au II de l'article D. 212-1 comprend, en produits, la part du produit net des placements
-calculée suivant les règles fixées au II du présent article et, en charges, sur autorisation de l'Autorité de contrôle
-mentionnée à l'article L. 510-1 et après justifications, la part des résultats que la mutuelle ou l'union a dû affecter aux
-fonds propres pour satisfaire au montant minimal de la marge de solvabilité.
-
-II. - La part du produit financier à inscrire en produits du compte financier est égale à la somme des deux éléments
-suivants :
-
-1. Le produit du montant moyen au cours de l'exercice des provisions techniques brutes de cessions en réassurance des
-opérations mentionnées au I de l'article D. 212-1, autres que celles transférées au titre de l'article L. 212-11 et L.
-212-12, par le taux de rendement des placements autres que les valeurs reçues en nantissement des réassureurs et les valeurs
-gérées par la mutuelle ou l'union et appartenant à des organismes pour des engagements pris au titre de la branche 25
-mentionnée à l'article R. 211-2.
-
-2. Le montant total des produits financiers afférents à des actifs transférés avec un portefeuille d'opérations.
-
-Le taux de rendement prévu au 1 du présent paragraphe est égal au rapport :
-
-Du produit net des placements considérés, déduction faite des produits des placements afférents aux actifs correspondant aux
-opérations relevant de l'article L. 222-1, aux actifs affectés à la représentation des opérations en unité de compte et aux
-actifs transférés avec un portefeuille de bulletins d'adhésion à un règlement ou de contrats.
-
-Au montant moyen, au cours de l'exercice, des mêmes placements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) D212-1, L510-1, L212-11, R211-2, L222-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-###### Article D212-4
-
-I. - Le montant des participations aux excédents peut être affecté directement aux provisions mathématiques ou porté,
-partiellement ou totalement, à la provision pour participation aux excédents prévue au 2° de l'article R. 212-26. Les sommes
-portées à cette dernière provision sont affectées à la provision mathématique ou versées aux participants au cours des huit
-exercices suivant celui au titre duquel elles ont été portées à la provision pour participation aux excédents.
-
-II. - Lorsqu'une catégorie d'opérations est assortie d'une clause de participation aux résultats, la participation affectée
-individuellement à chaque bulletin d'adhésion ou contrat réduit ou suspendu ne peut être inférieure de plus de 25 % à celle
-qui serait affectée à un bulletin d'adhésion à un règlement ou à un contrat en cours de paiement de cotisations de la même
-catégorie ayant la même provision mathématique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-26
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1458 du 16 décembre 2002 - art. 1 () JORF 17 décembre 2002
-	  - Décret n°2002-1458 du 16 décembre 2002 - art. 2 () JORF 17 décembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-##### Section 2 : Combinaison des comptes
-
-###### Article D212-5
-
-Lorsqu'une ou plusieurs mutuelles ou unions relevant du livre II du présent code constituent avec une ou plusieurs autres
-mutuelles définies à l'article L. 111-1 ou unions définies à l'article L. 111-2 un groupe défini à l'article L. 212-7, des
-comptes combinés sont établis dans les conditions déterminées au présent chapitre.
-
-A défaut d'un accord préalable à la date de clôture de l'exercice tel que visé au premier alinéa de l'article D. 212-6,
-l'entité qui établit et publie les comptes combinés est celle ayant encaissé en moyenne, au cours des cinq derniers
-exercices, le montant de cotisations le plus élevé, sans considération de la nature de l'activité exercée. Dans le cas où
-l'obligation d'établir des comptes combinés ne découle que du 2° de l'article L. 212-7, le cessionnaire est, dans le cas où
-plusieurs cessionnaires interviennent, celui qui a accepté en moyenne, au cours des trois derniers exercices, le montant le
-plus élevé de primes ou cotisations cédées par les entités de l'ensemble soumis à obligation d'établir des comptes combinés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L111-1, L111-2, L212-7, D212-6
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-###### Article D212-6
-
-La désignation de l'entité chargée d'établir et de publier des comptes combinés fait l'objet d'une convention écrite entre
-toutes les entités dont la cohésion ne résulte pas de liens en capital et appartenant à l'ensemble soumis à obligation
-d'établir les comptes combinés. Cet accord engage de plein droit tous les organismes sur lesquels l'une des parties à
-l'accord exerce un contrôle exclusif, un contrôle conjoint ou une influence notable. Un arrêté du ministre chargé de la
-mutualité précise les dispositions que doit contenir cet accord.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-###### Article D212-7
-
-Lorsqu'une entité faisant partie d'un groupe défini à l'article L. 212-7 est incluse par intégration globale dans les comptes
-consolidés d'une entité elle-même soumise à une obligation de consolidation, l'entité tenue d'établir et de publier des
-comptes combinés est, par dérogation, l'entité consolidante. Cette obligation se confond dans ce cas avec l'obligation
-d'établir des comptes consolidés. Les comptes consolidés incluent alors les comptes des entités faisant partie de l'ensemble
-précité, qui sont agrégés aux comptes de l'entité consolidante.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L212-7
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Décret n°2002-1626 du 30 décembre 2002 - art. 1 () JORF 1er janvier 2003 en vigueur le 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
-
-###### Article D212-8
-
-Lorsqu'une mutuelle ou une union de mutuelles en vertu des articles L. 111-1 et L. 111-2, ou une union de groupe mutualiste
-mentionnée à l'article L. 111-4-1, participe à un accord prévu à l'article D. 212-6, celui-ci est transmis à l'Autorité de
-contrôle mentionnée à l'article L. 510-1 dans les quinze jours de sa signature par l'entité désignée par cet accord ou, à
-défaut, par chacune des parties à l'accord. Il est porté dans les mêmes délais et modalités à la connaissance des
-commissaires aux comptes de toutes les entités incluses dans le périmètre de la combinaison.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L111-1, L111-2, L111-4-1, D212-6, L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
-
 
 ### Titre II : Opérations des mutuelles et des unions.
 
@@ -18979,6 +13536,153 @@ légale hebdomadaire du travail, en vigueur au 1er juillet précédant la date �
 	**Créé par**:
 
 	  - Décret n°2008-785 du 18 août 2008 - art. 1
+
+
+###### Article D223-3
+
+I.-Le montant minimal de la participation aux excédents techniques et financiers des mutuelles et unions de mutuelles
+pratiquant des opérations mentionnées au b du 1° du I de l'article L. 111-1 est déterminé globalement pour les opérations
+individuelles et collectives de toute nature souscrites sur le territoire de l'Union européenne, à l'exception des opérations
+collectives en cas de décès, des opérations relevant de l'article L. 222-1 et des opérations à capital variable. 
+
+II.-Le montant minimal de la participation aux excédents à attribuer au titre d'un exercice est déterminé globalement à
+partir d'un compte de participation aux résultats. Ce compte comporte, pour les opérations mentionnées au I, les éléments de
+charges et produits suivants :
+
+- cotisations sur les opérations directes et acceptations ;
+
+- charges des prestations sur opérations directes et acceptations ;
+
+- charges des provisions d'assurance vie et autres provisions techniques sur opérations directes et acceptations ;
+
+- cotisations sur opérations prises en substitution ;
+
+- charges des prestations sur opérations prises en substitution ;
+
+- charges des provisions d'assurance vie et autres provisions techniques sur opérations prises en substitution ;
+
+- frais d'acquisition ;
+
+- autres charges de gestion nettes. 
+
+Il comporte également en charges la participation de la mutuelle ou de l'union aux excédents de la gestion technique, qui est
+constituée par 10 % du solde créditeur des éléments précédents. 
+
+Il est ajouté en recette du compte de participation aux résultats une part des produits financiers. Cette part est égale à 85
+% du solde du compte financier défini au I de l'article D. 223-5. Le compte de participation aux résultats comporte en outre
+les sommes correspondant au “ solde de réassurance cédée ”, calculées conformément aux dispositions de l'article D. 223-4 et,
+s'il y a lieu, le solde débiteur du compte de participation aux résultats de l'exercice précédent. 
+
+III.-Le montant minimal annuel de la participation aux résultats est le solde créditeur du compte de participation aux
+résultats défini au II. 
+
+Le montant minimal annuel de la participation aux excédents est égal au montant défini à l'alinéa précédent diminué du
+montant des intérêts crédités aux provisions mathématiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. D223-4
+	  - Code de la mutualité - art. D223-5
+	  - Code de la mutualité - art. L111-1
+	  - Code de la mutualité - art. L222-1
+
+
+###### Article D223-4
+
+Pour le calcul de la rubrique “ solde de réassurance cédée ” prévue dans le compte de participation aux résultats au II de
+l'article D. 223-3, seule est prise en compte la réassurance de risque, c'est-à-dire celle dans laquelle l'engagement des
+cessionnaires porte exclusivement sur tout ou partie de la différence entre le montant des capitaux en cas de décès ou
+d'invalidité et celui des provisions mathématiques des opérations correspondantes. 
+
+Dans les traités limités à la réassurance de risque, le solde de réassurance cédée est égal à la différence entre le montant
+des sinistres à la charge des cessionnaires et celui des cotisations cédées. Il est inscrit, selon le cas, au débit ou au
+crédit du compte de participation aux résultats. 
+
+Dans les autres traités, le solde de réassurance cédée est établi en isolant la réassurance de risque à l'intérieur des
+engagements des cessionnaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. D223-3
+
+
+###### Article D223-5
+
+I.-Le compte financier mentionné au II de l'article D. 223-3 comprend, en produits, la part du produit net des placements
+calculée suivant les règles fixées au II du présent article et, en charges, sur autorisation de l'Autorité de contrôle
+mentionnée à l'article L. 510-1 et après justifications, la part des résultats que la mutuelle ou l'union a dû affecter aux
+fonds propres pour satisfaire au montant minimal réglementaire de la marge de solvabilité dans le cas des mutuelles ou unions
+mentionnées l'article L. 211-11, ou au capital de solvabilité requis dans le cas des mutuelles ou unions mentionnées
+l'article L. 211-10. 
+
+II.-La part du produit financier à inscrire en produits du compte financier est égale à la somme des deux éléments
+suivants : 
+
+1. Le produit du montant moyen au cours de l'exercice des provisions techniques brutes de cessions en réassurance des
+opérations mentionnées au I de l'article D. 223-3, autres que celles transférées au titre de l'article L. 212-11 et L.
+212-12, par le taux de rendement des placements autres que les valeurs reçues en nantissement des réassureurs et les valeurs
+gérées par la mutuelle ou l'union et appartenant à des organismes pour des engagements pris au titre de la branche 25
+mentionnée à l'article R. 211-2.
+
+2. Le montant total des produits financiers afférents à des actifs transférés avec un portefeuille d'opérations. 
+
+Le taux de rendement prévu au 1 du présent paragraphe est égal au rapport : 
+
+Du produit net des placements considérés, déduction faite des produits des placements afférents aux actifs correspondant aux
+opérations relevant de l'article L. 222-1, aux actifs affectés à la représentation des opérations en unité de compte et aux
+actifs transférés avec un portefeuille de bulletins d'adhésion à un règlement ou de contrats. 
+
+Au montant moyen, au cours de l'exercice, des mêmes placements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. D223-3
+	  - Code de la mutualité - art. L211-11
+	  - Code de la mutualité - art. L212-11
+	  - Code de la mutualité - art. L222-1
+	  - Code de la mutualité - art. R211-2
+
+
+###### Article D223-6
+
+I.-Le montant des participations aux excédents peut être affecté directement aux provisions mathématiques ou porté,
+partiellement ou totalement, à la provision pour participation aux excédents prévue à l'article R. 343-3 du code des
+assurances. Les sommes portées à cette dernière provision sont affectées à la provision mathématique ou versées aux
+participants au cours des huit exercices suivant celui au titre duquel elles ont été portées à la provision pour
+participation aux excédents. 
+
+II.-Lorsqu'une catégorie d'opérations est assortie d'une clause de participation aux résultats, la participation affectée
+individuellement à chaque bulletin d'adhésion ou contrat réduit ou suspendu ne peut être inférieure de plus de 25 % à celle
+qui serait affectée à un bulletin d'adhésion à un règlement ou à un contrat en cours de paiement de cotisations de la même
+catégorie ayant la même provision mathématique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code des assurances - art. R343-3
 
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques.
@@ -19061,6 +13765,8 @@ la fin de l'année au plus tard, directement à l'organisme qui a consenti l'ava
 
 #### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant salarié.
 
+#### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant opérationnel
+
 ###### Article A114-0-26
 
 Les indemnités correspondant à la perte de leurs gains versées en application de l'article L. 114-26 aux administrateurs
@@ -19122,11 +13828,13 @@ entre les catégories d'opérations suivantes :
 
 - 9 Opérations d'assurance vie ou de capitalisation en unités de compte à cotisation périodique ;
 
-- 10 Opérations collectives relevant de l'article L. 222-1 du code de la mutualité ;
+- 10 Opérations collectives relevant de l'article L. 222-1 du code de la mutualité mais ne relevant pas de l'article L. 222-3
+du code de la mutualité et de l'article L. 144-2 du code des assurances ;
 
-- 11 Plans d'épargne retraite populaire relevant de l'article 108 de la loi n° 2003-275 du 21 août 2003 ;
+- 11 Opérations collectives relevant de l'article L. 144-2 du code des assurances mais ne relevant pas de l'article L. 222-3
+du code de la mutualité ;
 
-- 12 Opérations de nuptialité-natalité ;
+- 12 Opérations collectives relevant de l'article L. 222-3 du code de la mutualité ;
 
 - 19 Acceptations en réassurance (vie) ;
 
@@ -19144,7 +13852,9 @@ collectives) ;
 
 - 38 Caution ;
 
-- 39 Acceptations en réassurance (non-vie). 
+- 39 Acceptations en réassurance (non-vie).
+
+Les garanties nuptialité-natalité sont à inclure, selon le cas, dans les catégories 4 à 9.
 
 Les mutuelles et unions qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par
 exercice et par catégorie les éléments suivants de leurs opérations brutes de cessions et de leurs opérations cédées :
@@ -19153,65 +13863,46 @@ pour chaque catégorie :
 
 - par état de situation du risque ou de l'engagement ;
 
-- entre les opérations du siège social et les opérations de chacun des organismes affiliés établis à l'étranger. 
+- entre les opérations du siège social et les opérations de chacun des organismes affiliés établis à l'étranger.
 
 Toutefois, les mutuelles et unions qui acceptent des opérations mentionnées au 1° du I de l'article L. 111-1 en réassurance
 et qui ne pratiquent pas directement ces mêmes opérations peuvent ne pas procéder à la ventilation des cotisations,
 prestations, commissions et provisions techniques par état de situation du risque ou de l'engagement.
 
+Les opérations réalisées sur l'ensemble du territoire de la République française ainsi que sur le territoire monégasque sont
+considérées comme opérations en France.
+
+Les affaires directes à l'étranger, ainsi que les affaires acceptées, des catégories 20 à 31 du présent article sont
+assimilées à des opérations pluriannuelles à prime unique ou non révisable lorsque les usages de marché conduisent à
+rattacher les sinistres par exercice de souscription.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L111-1 (V)
-	  - Code de la mutualité - art. L222-1 (V)
+	  - Code des assurances - art. L144-2
+	  - Code de la mutualité - art. L222-1
+	  - Code de la mutualité - art. L222-3
 
 
 ###### Article A114-2
 
-I.-Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions soumises au contrôle de
-l'Autorité de contrôle prudentiel et de résolution en application de l'article L. 510-1 remettent chaque année à cette
-dernière leurs comptes annuels dans les trente jours qui suivent leur approbation par l'assemblée générale. Elles joignent à
-cet envoi le rapport de gestion du conseil d'administration ainsi que les rapports des commissaires aux comptes et, pour
-celles qui y sont astreintes, le bilan social. 
+I. - Les modalités de vérification de l'identité d'un membre participant ou de la personne morale souscriptrice du contrat
+collectif, telles que prévues aux alinéas 1 et 2 de l'article R. 561-5 du code monétaire et financier, sont considérées comme
+satisfaites dès lors que le paiement de leur première cotisation s'effectue par le débit d'un compte ouvert à leur nom auprès
+d'un établissement de crédit lui-même tenu à l'obligation d'identification.
 
-II.-Sous réserve des dispositions mentionnées au V du présent article, les mutuelles et unions régies par le livre II du
-présent code et n'ayant pas conclu de convention de substitution pour l'intégralité de leurs opérations pratiquées en vertu
-de l'article L. 211-5 remettent chaque année à l'Autorité de contrôle précitée : 
+II. - En application du 3° de l'article R. 561-16 du code monétaire et financier, ne sont pas soumises aux obligations
+mentionnées aux articles L. 561-5 et L. 561-6 les opérations des branches 15 à 18 définies à l'article R. 211-2 du code de la
+mutualité lorsque le montant de la cotisation annuelle par contrat ne dépasse pas 10 000 €.
 
-1° Dans les quatre mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 114-4 ; 
-
-2° (abrogé) 
-
-3° Dans le mois suivant la fin de chaque trimestre, les états relatifs aux opérations réalisées au cours du trimestre définis
-à l'article A. 114-7. 
-
-III.-Les mutuelles et unions non soumises aux obligations déclaratives prévues au II joignent aux documents mentionnés au I
-les renseignements généraux énumérés aux a, b, c et d de l'annexe à l'article A. 114-4. 
-
-IV.-Les mutuelles et unions ayant souscrit une convention de substitution en vertu de l'article L. 211-5 pour l'intégralité
-de leurs opérations, et dont les comptes annuels sont établis par l'organisme qui s'est substitué à elles, ne sont pas
-astreintes à l'obligation de transmission des documents mentionnés aux I et III du présent article. Ces documents sont
-toutefois communiqués dans les mêmes délais par l'organisme qui s'est substitué à elles.
-
-V.-Les mutuelles et unions mentionnées à l'article L. 510-2 du présent code remettent les documents mentionnés au I et au II
-ou III à l'autorité administrative qui exerce le contrôle au niveau régional, laquelle communique ces documents à l'Autorité
-de contrôle précitée.
-
-**Nota:**
-
-Arrêté du 21 décembre 2009 art. 7 : 
-
-I. - Les dispositions du présent arrêté entrent en vigueur à compter du 1er janvier 2010, sous réserve des dispositions du
-présent article.
-
-II. - Le délai de quatre mois fixé au 1° du II de l'article A. 114-2 et au dernier alinéa de l'article A. 114-8 du code de la
-mutualité dans la rédaction résultant du présent arrêté est porté à quatre mois et quinze jours pour la remise du compte
-rendu détaillé annuel et des résultats du test d'exigibilité relatifs à l'exercice 2009.
+III. - En application de l'article R. 561-38 du code monétaire et financier, les mutuelles et unions mentionnées au 4° de
+l'article L. 561-2 du code monétaire et financier sont soumises aux dispositions I de l'article A. 310-9 du Code des
+assurances.
 
 **Liens relatifs à cet article**
 
@@ -19223,909 +13914,38 @@ rendu détaillé annuel et des résultats du test d'exigibilité relatifs à l'e
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. A114-7 (V)
-	  - Code de la mutualité - art. L211-5 (V)
-	  - Code de la mutualité - art. L510-1 (V)
-	  - Code de la mutualité - art. L510-2 (V)
-
-
-###### Article A114-3
-
-L'organisme habilité à recevoir les informations et documents énoncés à l'article A. 114-2 détermine le nombre d'exemplaires
-et les supports matériels utilisés par les mutuelles et unions pour la fourniture des documents mentionnés à cet article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A114-2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A114-4
-
-Le compte rendu détaillé annuel mentionné au 1° du II de l'article A. 114-2 comprend : 
-
-1° Les renseignements généraux énumérés à l'annexe au présent article ; 
-
-2° Les comptes constitués du compte de résultat, du bilan, y compris le tableau des engagements reçus et donnés, et de
-l'annexe, tels qu'ils ont été arrêtés par le conseil d'administration pour être soumis à l'assemblée ; 
-
-3° Les états d'analyse des comptes énumérés à l'article A. 114-5 ; 
-
-4° Les états statistiques relatifs à la protection sociale complémentaire énumérés àà l'article D. 114-11. 
-
-Le compte rendu détaillé annuel est certifié par le président du conseil d'administration de la mutuelle ou de l'union sous
-la formule suivante : " Le présent document, comprenant X feuillets numérotés, est certifié, sous peine de l'application des
-sanctions prévues à l'article L. 510-12 du code de la mutualité, conforme aux écritures de la mutuelle ou de l'union et aux
-dispositions prévues par l'article L. 114-46 du même code.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 27 avril 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-2 (M)
-	  - Code de la mutualité - art. A114-9 (Ab)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. A114-5
-	  - Code de la mutualité - art. Annexe à l'article A114-4
-	  - Code de la mutualité - art. D114-11
-	  - Code de la mutualité - art. L114-46
-	  - Code de la mutualité - art. L114-9
-	  - Code de la mutualité - art. L510-12
-
-
-###### Article A114-5
-
-Les états d'analyse des comptes mentionnés au 3° de l'article A. 114-4 sont les suivants :
-
-- C 1 Résultats techniques par catégories d'opérations ;
-
-- C 2 Engagements et résultats techniques par pays ;
-
-- C 3 Acceptations et cessions en réassurance, affaires directes prises et opérations données en substitution ;
-
-- C 4 Cotisations par catégories de contrats et garanties ;
-
-- C 5 Représentation des engagements réglementés ;
-
-- C 6 Marge de solvabilité ;
-
-- C 6 bis Test d'exigibilité ;
-
-- C 7 Provisionnement des rentes en service ;
-
-- C 8 Description du plan de réassurance ;
-
-- C 9 Dispersion des réassureurs et simulations d'événements ;
-
-- C 10 Cotisations et résultats par année de survenance des prestations ;
-
-- C 11 Prestations par année de survenance ;
-
-- C 12 Prestations et résultats par année de souscription ;
-
-- C 13 Part des réassureurs dans les prestations ;
-
-- C 20 Mouvements des bulletins d'adhésion aux règlements ou des contrats des capitaux et rentes ;
-
-- C 21 Etat détaillé des provisions et engagements techniques ;
-
-- C 30 Cotisations, prestations et commissions des opérations non-vie dans l'Espace économique européen ;
-
-- C 31 Cotisations des opérations vie dans l'Espace économique européen (hors la France).
-
-Ces états sont établis annuellement d'après les comptes définis au 2° de l'article A. 114-4 et dans la forme fixée en annexe
-au présent article.
-
-Les mutuelles et unions qui acceptent des opérations mentionnées au 1° du I de l'article L. 111-1 en réassurance et qui ne
-les pratiquent pas directement n'établissent que les états C 1, C 2, C 3, C 4, C 10, C 11, C 12, C 13 et C 21.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A114-4, L111-1, A114-5
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-4 (Ab)
-	  - Code de la mutualité - art. A114-8 (Ab)
-	  - Code de la mutualité - art. Annexe à l'article A114-4 (Ab)
-	  - Code de la mutualité - art. Annexe à l'article D114-11 (V)
-	  - Code de la sécurité sociale. - art. Annexe à l'art. D931-37 (V)
-	  - Code des assurances - art. Annexe D344-5 (MMN)
-
-
-###### Article A114-7
-
-Les états trimestriels mentionnés au 3° du II de l'article A. 114-2 sont les suivants :
-
-- T 1 Flux trimestriels relatifs aux opérations en France ;
-
-- T 2 Encours trimestriel des placements ;
-
-- T 3 Simulations actif-passif, pour les mutuelles ou unions mentionnées à l'article R. 212-30.
-
-Ces états sont établis dans la forme fixée en annexe au présent article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-04-18 art. 1 JORF 25 mai 2005 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A114-2, R212-30, A114-7
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-2 (M)
-
-
-###### Article A114-8
-
-Le test d'exigibilité mentionné à l'article R. 212-27-1 vise à quantifier l'impact d'une détérioration marquée des marchés
-financiers sur la capacité de la mutuelle ou de l'union à faire face à ses engagements vis-à-vis des membres participants,
-bénéficiaires et ayants droit. Il est pratiqué à partir d'hypothèses financières standardisées. Ces hypothèses consistent,
-par rapport à leur moyenne respective constatée sur les trois dernières années :
-
-- en une baisse de l'indice boursier de référence de 30 % ;
-
-- en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
-
-- en une baisse de 20 % du prix des transactions immobilières. 
-
-Le test consiste à comparer l'ensemble des décaissements et des encaissements prévisibles de la mutuelle ou de l'union au
-cours des cinq exercices qui suivent le dernier arrêté comptable. Quatre simulations sont successivement réalisées. Les trois
-premières prennent en compte séparément chacune des trois hypothèses mentionnées aux alinéas précédents. La quatrième résulte
-de la combinaison de l'ensemble des hypothèses énumérées. Pour l'établissement de ce test, la mutuelle ou l'union tient
-compte des encaissements et des décaissements constatés au cours des exercices précédents. Les prévisions d'encaissement sont
-calculées après prise en compte des disponibilités, des revenus financiers, des dépôts à court terme et des prêts et titres
-du marché monétaire et du marché obligataire énumérés à l'article R. 212-31 venant à échéance à moins de cinq ans et les
-autres actifs en proportion de leur part dans le portefeuille résiduel de la mutuelle ou de l'union. Les prévisions de
-décaissement sont calculées à partir des engagements comptabilisés. Les engagements pour prestations à payer sont recalculés
-sur la base de prestations majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux
-annuel moyen des rachats constatés au cours des années passées. 
-
-Les mutuelles et unions transmettent les résultats du test chaque année à l'Autorité de contrôle prudentiel et de résolution
-dans les quatre mois suivant la clôture de l'exercice, dans la forme de l'état C 6 bis défini dans l'annexe à l'article A.
-114-5.
-
-**Nota:**
-
-Arrêté du 21 décembre 2009 art. 7 : 
-
-I. - Les dispositions du présent arrêté entrent en vigueur à compter du 1er janvier 2010, sous réserve des dispositions du
-présent article.
-
-II. - Le délai de quatre mois fixé au 1° du II de l'article A. 114-2 et au dernier alinéa de l'article A. 114-8 du code de la
-mutualité dans la rédaction résultant du présent arrêté est porté à quatre mois et quinze jours pour la remise du compte
-rendu détaillé annuel et des résultats du test d'exigibilité relatifs à l'exercice 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 21 décembre 2009 - art. 7 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
 	  - Arrêté du 30 décembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité - art. A114-5
-	  - Code de la mutualité - art. R212-27-1
-	  - Code de la mutualité - art. R212-31
-
-
-###### Article A114-10
-
-Les mutuelles et unions soumises à la surveillance complémentaire en application du premier alinéa de l'article L. 212-7-2 et
-des articles R. 213-1, R. 213-5 et R. 213-6 fournissent chaque année à l'Autorité de contrôle mentionnée à l'article L.
-510-1, avant le 30 avril, un dossier constitué conformément aux annexes 1 et 2 du présent article. 
-
-Le dossier est certifié par le président du conseil d'administration ou le directeur général dans les mutuelles ou unions,
-par le mandataire général ou son représentant légal dans les succursales d'entreprises étrangères, sous la formule suivante :
-" Le présent document, comprenant x feuillets numérotés, est certifié, sous peine de l'application des sanctions prévues à
-l'article L. 510-12 du code de la mutualité, conforme aux écritures de la mutuelle ou union et de ses organismes apparentés,
-et aux dispositions de la section VI du chapitre IV du livre Ier du même code. " 
-
-L'Autorité de contrôle mentionnée à l'article L. 510-1 peut dispenser une mutuelle ou union de produire les éléments du
-dossier prévus à l'annexe 1 lorsque ce dossier est fourni par un organisme apparenté ou lorsque l'Autorité a attribué
-l'exercice de la surveillance complémentaire à une autre autorité conformément à l'article R. 213-5.
-
-**Nota:**
-
-Arrêté du 21 décembre 2009 art. 7 : 
-
-I. - Les dispositions du présent arrêté entrent en vigueur à compter du 1er janvier 2010, sous réserve des dispositions du
-présent article.
-
-III. - La date du "30 avril" fixée à l'article A. 114-10 du code de la mutualité dans la rédaction résultant du présent
-arrêté est portée au " 15 mai " pour la remise du dossier relatif aux opérations de l'exercice 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 21 décembre 2009 - art. 6
-
-	**Cité par**:
-
-	  - Arrêté du 21 décembre 2009 - art. 7 (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. Annexe 1 à l'article A114-10
-	  - Code de la mutualité - art. Annexe 2 à l'article A114-10
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. R561-16
+	  - Code monétaire et financier - art. R561-38
+	  - Code monétaire et financier - art. R561-5
+	  - Code des assurances - art. A310-9
+	  - Code de la mutualité - art. R211-2
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
 
 ### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
 
-#### Chapitre Ier : Champ d'application et conditions d'activité.
-
-##### Section 1 : Agrément administratif.
-
-###### Article A211-1
-
-I. - Toute demande d'agrément administratif présentée par une mutuelle ou union régie par le présent livre doit être produite
-en double exemplaire et comporter :
-
-a) La liste, établie conformément aux dispositions de l'article R. 211-2, des branches ou sous-branches que la mutuelle ou
-l'union se propose de pratiquer ;
-
-b) Le cas échéant, l'indication des pays étrangers où la mutuelle ou l'union se propose d'opérer ;
-
-c) Le procès-verbal de l'assemblée générale constitutive mentionné à l'article L. 113-1 et le récépissé délivré par le préfet
-de région lors de la demande d'immatriculation au registre national des mutuelles mentionné à l'article L. 411-1 ;
-
-d) Un exemplaire des statuts ;
-
-e) La liste des membres du conseil d'administration et des dirigeants salariés mentionnés aux articles L. 114-16 et L.
-114-19, ainsi que de toute personne appelée à exercer en fait des fonctions équivalentes avec les nom, prénoms, domicile,
-nationalité, date et lieu de naissance de chacun d'eux. Si ces personnes ont résidé hors de France pendant la période de cinq
-ans précédant la demande d'agrément, elles doivent indiquer leur dernière adresse hors de France. Le dossier défini à
-l'article A. 211-2 doit être fourni par chacune de ces personnes ;
-
-f) Un programme d'activités comprenant les pièces suivantes :
-
-1. Un document précisant la nature des risques que la mutuelle ou l'union se propose de garantir ou des engagements qu'elle
-se propose de prendre ;
-
-2. Une note technique exposant le mode d'établissement des tarifs et les bases de calcul des diverses catégories de
-cotisations ; s'il s'agit d'opérations mentionnées au 26 de l'article R. 211-2, la mutuelle ou l'union doit produire une note
-technique exposant le mode d'établissement des tarifs, les modalités de détermination des cotisations annuelles ainsi que les
-indications relatives à la fixation du nombre d'unités de rente correspondant à ces cotisations ; s'il s'agit d'opérations
-mentionnées au 24 de l'article précité, le tarif complet des versements ou cotisations, accompagné de tableaux indiquant au
-moins année par année les provisions mathématiques et les valeurs de rachat correspondantes, ainsi que d'une note technique
-exposant le mode d'établissement de ces divers éléments ;
-
-3. Les principes directeurs que la mutuelle ou l'union se propose de suivre en matière de réassurance ; la liste des
-principaux réassureurs pressentis et les éléments de nature à démontrer leur intention de contracter avec la mutuelle ou
-l'union ;
-
-4. La description de l'organisation administrative et des structures de développement ainsi que des moyens en personnel et en
-matériel dont dispose la mutuelle ou l'union ; les prévisions de frais d'installation des services administratifs et des
-services de développement, ainsi que les moyens financiers destinés à y faire face ;
-
-5. Pour la branche mentionnée au 18 de l'article R. 211-2, les moyens en personnel et en matériel dont dispose la mutuelle ou
-l'union, par elle-même ou par personne interposée, pour faire face à ses engagements ;
-
-6. Pour les cinq premiers exercices comptables d'activité : les comptes de résultat et bilans prévisionnels, ainsi que le
-détail des hypothèses retenues (principes de tarification, nature des garanties, sinistralité, évolution des frais généraux,
-rendement des placements) ;
-
-7. Pour les mêmes exercices :
-
-- les prévisions relatives aux moyens financiers destinés à la couverture des engagements ;
-
-- les prévisions relatives à la marge de solvabilité que la mutuelle ou l'union doit posséder en application des dispositions
-du 3° de l'article L. 212-1 ;
-
-- les prévisions de trésorerie ;
-
-8. La justification des éléments constituant le montant minimal du fonds de garantie que la mutuelle ou l'union doit
-posséder, selon le cas, conformément aux dispositions de l'article L. 211-8 ;
-
-9. Le cas échéant, les listes et certificats détaillant les modalités de constitution du fonds d'établissement mentionné au
-4° de l'article L. 114-4 et une note détaillant les éléments constitutifs de la marge de solvabilité ;
-
-10. Le nom et l'adresse du ou des principaux établissements bancaires où sont domiciliés les comptes de la mutuelle ou de
-l'union.
-
-II. - En cas de demande d'extension d'agrément, le dossier à communiquer est le même que celui prévu au I du présent article,
-à l'exception des documents mentionnés au c. A ces documents est joint le procès-verbal de l'assemblée générale ayant décidé
-l'extension d'activité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2001-11-23 art. 1, art. 2 JORF 25 novembre 2001
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R211-2, L113-1, L411-1, L114-16, L114-19, A211-2, L212-1, L211-8, L114-4
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A510-1 (Ab)
-
-
-###### Article A211-2
-
-Les personnes mentionnées au I (e) de l'article A. 211-1 et celles mentionnées à l'article R. 213-7 doivent produire un état
-descriptif de leurs activités. Elles indiquent notamment :
-
-1. La nature de leurs activités professionnelles actuelles et de celles qu'elles ont exercées pendant les dix années
-précédant la demande d'agrément ainsi que, durant cette même période, les activités exercées au sein des organes des
-mutuelles, unions ou fédérations relevant du présent code ;
-
-2. Si elles ont fait l'objet soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation
-professionnelle compétente, soit d'un refus d'inscription sur une liste professionnelle ;
-
-3. Si elles ont fait l'objet d'un licenciement pour faute lourde ou d'une mesure équivalente pendant les dix années précédant
-la demande d'agrément ;
-
-4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des entreprises ayant fait l'objet de mesures de
-redressement ou de liquidation judiciaires prévues par le livre VI du code de commerce ou, dans le régime antérieur, de
-mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les
-banqueroutes ou de mesures équivalentes à l'étranger.
-
-Les personnes mentionnées au I, e de l'article A. 211-1 et celles mentionnées à l'article R. 213-7 doivent également produire
-un bulletin n° 3 de leur casier judiciaire datant de moins de trois mois ou un document équivalent délivré par une autorité
-judiciaire ou administrative compétente d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
-économique européen autre que la France. Lorsque ces personnes ne sont pas des ressortissants d'un Etat partie à l'accord sur
-l'Espace économique européen, elles doivent produire un document équivalent ou, à défaut, une déclaration sous serment ou une
-déclaration solennelle faite devant une autorité compétente ou un notaire, aux termes de laquelle elles affirment ne pas
-avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction française, serait
-inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou le notaire délivre une attestation faisant foi de ce
-serment ou de cette déclaration solennelle. En outre, si elles ne sont pas de nationalité française, ces personnes doivent
-satisfaire aux dispositions des lois et règlements relatifs à la situation et à la police des étrangers.
-
-Le même dossier doit être fourni par chaque nouvelle personne mentionnée au I, e de l'article A. 211-1 et celles mentionnées
-à l'article R. 213-7.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2005-11-03 art. 1 JORF 15 novembre 2005
-
-	**Cite**:
-
-	  - Loi n°67-563 du 13 juillet 1967
-	  - Code de la mutualité (nouveau) A211-1, R213-7
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A510-1 (Ab)
-
-
-###### Article A211-3
-
-La mutuelle ou l'union qui souhaite se substituer à un autre organisme mutualiste présente à l'Autorité de contrôle instituée
-par l'article L. 510-1 un dossier d'information en double exemplaire qui comporte :
-
-a) La décision d'agrément ou la copie de la demande d'agrément de la mutuelle ou de l'union ;
-
-b) La copie des statuts et des règlements détaillant les prestations garanties par la mutuelle ou l'union ;
-
-c) Le projet de convention de substitution ;
-
-d) Le nom et l'adresse du siège social de l'organisme cédant ;
-
-e) Les décisions des assemblées générales des deux organismes autorisant la conclusion de la convention ;
-
-f) Pour les deux organismes, le bilan et le compte de résultat du dernier exercice connu, ainsi que les montants et les
-bénéficiaires des engagements donnés hors bilan par catégorie ;
-
-g) Pour la mutuelle ou l'union, le bilan et le compte de résultat prévisionnels de l'exercice suivant celui de la signature
-de la convention, ainsi que les montants et les bénéficiaires des engagements donnés hors bilan par catégorie, assortis des
-pièces justificatives des cessions d'engagements hors bilan effectuées ou prévues depuis la clôture du dernier exercice
-connu ;
-
-h) Les traités ou projets de traité de réassurance des engagements pris par la mutuelle ou l'union et les documents par
-lesquels les réassureurs donnent leur accord sur les montants ou les proportions de risques ou de sinistres pris en charge
-par eux ;
-
-i) Un état justifié des engagements pris ou repris selon le modèle joint en annexe I, un tableau de calcul du besoin de marge
-de solvabilité selon le modèle joint en annexe II et un tableau des éléments constitutifs de la marge selon le modèle joint
-en annexe III.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L510-1, annexe I, annexe II, annexe III
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A211-4
-
-Lorsque la mutuelle ou l'union a bénéficié d'apports financiers ou de transferts d'actifs depuis la clôture du dernier
-exercice connu ou que de tels apports ou transferts sont prévus avant la clôture de l'exercice suivant celui de la signature
-de la convention, le dossier comporte également en double exemplaire :
-
-a) Le nom et l'adresse du siège social des organismes mutualistes ayant fusionné ou décidé de fusionner avec la mutuelle ou
-l'union, la date effective ou prévisionnelle de la fusion ainsi que la décision de leurs assemblées générales, le bilan et le
-compte de résultat du dernier exercice connu et les montants et les bénéficiaires des engagements donnés hors bilan par
-catégorie au titre de cet exercice ;
-
-b) La nature, la date et le montant des apports en fonds propres, des transferts de provisions et des émissions et
-souscriptions de titres et emprunts subordonnés assortis des pièces justificatives ;
-
-c) La nature, la date et le montant des souscriptions des emprunts pour fonds d'établissement et fonds de développement ainsi
-que la date des versements prévus ou réalisés assortis des pièces justificatives.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2002-02-06 art. 1 JORF 8 mars 2002
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
 #### Chapitre II : Fonctionnement.
 
-##### Section 1 : Marge de solvabilité.
-
-###### Article A212-1
-
-I. - Les emprunts et titres subordonnés entrant dans la composition de la marge de solvabilité visés au 8 de l'article R.
-212-11 et au 7 de l'article R. 212-15 doivent répondre aux conditions suivantes :
-
-1° Dans l'hypothèse d'une liquidation de la mutuelle ou de l'union débitrice, ces titres ou emprunts ne peuvent être
-remboursés qu'après règlement de toutes les autres dettes existant à la date de la liquidation ou contractés pour les besoins
-de celle-ci ;
-
-2° Le contrat d'émission ou d'emprunt ne comporte pas de clause prévoyant que, dans des circonstances déterminées autres que
-la liquidation de la mutuelle ou de l'union débitrice, la dette devra être remboursée avant l'échéance convenue ;
-
-3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié qu'après que l'Autorité de contrôle instituée à
-l'article L. 510-1 aura déclaré, après avoir vérifié que le contrat modifié continuera de remplir les conditions fixées au
-présent article, ne pas s'opposer à la modification envisagée ;
-
-4° Le contrat d'émission ou d'emprunt doit prévoir une échéance de remboursement de fonds au moins égale à cinq ans ou,
-lorsque aucune échéance n'est fixée, un préavis d'au moins cinq ans pour tout remboursement.
-
-II. - Au plus tard un an avant la date prévue pour le remboursement de tout ou partie des fonds visés au I ci-dessus, la
-mutuelle ou l'union débitrice soumet à l'Autorité de contrôle instituée à l'article L. 510-1 un plan indiquant comment la
-marge de solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. Ce plan n'est pas exigé
-si la part des fonds incluse dans la marge de solvabilité est progressivement et régulièrement ramenée à zéro par la mutuelle
-ou l'union au cours des cinq dernières années au moins avant l'échéance de remboursement.
-
-III. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée entrant dans la composition de la marge de
-solvabilité peuvent être remboursés par anticipation à l'initiative de la mutuelle ou de l'union débitrice si l'Autorité de
-contrôle instituée par l'article L. 510-1 a préalablement autorisé un tel remboursement, après s'être assurée que la marge de
-solvabilité ne risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir durablement le respect de la marge
-requise par la réglementation.
-
-Dans les mêmes conditions, l'Autorité de contrôle instituée par l'article L. 510-1 peut autoriser le remboursement des fonds
-provenant des emprunts et titres subordonnés à durée indéterminée entrant dans la composition de la marge de solvabilité sans
-application du préavis prévu au 4° du paragraphe I du présent article.
-
-Dans les cas visés au présent paragraphe, la mutuelle ou l'union débitrice soumet au moins six mois à l'avance à l'Autorité
-de contrôle instituée par l'article L. 510-1, à l'appui de sa demande d'autorisation, un plan indiquant comment la marge de
-solvabilité sera maintenue, après le remboursement, au niveau requis par la réglementation. L'absence de décision notifiée à
-la mutuelle ou à l'union à l'expiration d'un délai de six mois vaut autorisation.
-
-Sont notamment soumis aux dispositions du présent paragraphe l'amortissement anticipé par offre publique d'achat ou d'échange
-et le rachat en bourse de titres cotés ; toutefois, un émetteur peut racheter en bourse sans autorisation préalable jusqu'à 5
-p 100 des titres émis, à condition d'informer l'Autorité de contrôle instituée par l'article L. 510-1 des rachats effectués.
-
-IV. - Les contrats d'émission concernant des emprunts et titres à durée indéterminée qui prévoient formellement que tout
-remboursement est subordonné à autorisation préalable de l'Autorité de contrôle instituée par l'article L. 510-1 n'ont pas à
-prévoir le délai de préavis minimum visé au 4° du I du présent article.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-11, R212-15, L510-1
-
-
-###### Article A212-2
-
-L'excédent annuel mentionné au 6 a, de l'article R. 212-15 pour le calcul des excédents futurs résulte de la moyenne
-arithmétique des excédents réalisés au cours des cinq dernières années.
-
-L'excédent de chaque exercice pris en compte pour ce calcul est le résultat technique des opérations vie, auquel sont
-ajoutées les participations des membres participants aux excédents autres que celles qui ne dépendent pas du résultat de
-l'exercice. Il n'est pas tenu compte des profits et charges à caractère exceptionnel.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-3
-
-Le facteur mentionné au 6 a de l'article R. 212-15 par lequel l'excédent annuel estimé peut être multiplié représente la
-durée résiduelle moyenne des bulletins d'adhésion ou contrats, corrigée comme il est dit au troisième alinéa du présent
-article. Ce facteur ne peut excéder dix.
-
-La durée résiduelle moyenne, à la date du calcul de la marge de solvabilité, est déterminée comme une moyenne pondérée des
-durées résiduelles des bulletins d'adhésion ou contrats à la même date. Ce calcul s'effectue, après accord de l'Autorité de
-contrôle mentionnée à l'article L. 510-1, à partir de la cotisation annuelle ou d'une cotisation équivalente compte tenu de
-la durée du bulletin d'adhésion ou du contrat collectif ou de la provision mathématique.
-
-Cette durée résiduelle moyenne est corrigée, sur la base des statistiques afférentes aux cinq dernières années, pour tenir
-compte de l'extinction des bulletins d'adhésion ou des contrats collectifs avant leur terme.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-15, L510-1
-
-
-##### Section 2 : Provisions techniques.
-
-###### Article A212-4
-
-La provision technique pour cotisations non acquises prévue au 3° de l'article R. 212-23 est calculée prorata temporis pour
-chacune des catégories d'opérations définies au 1° du I de l'article L. 111-1, bulletin par bulletin, contrat par contrat ou
-sur la base de méthodes statistiques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-23, L111-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-5
-
-Pour déterminer la provision pour risques en cours prévue au 4° de l'article R. 212-23, la mutuelle ou l'union calcule,
-bulletin par bulletin, contrat collectif par contrat collectif ou par des méthodes statistiques, séparément pour chacune des
-catégories d'opérations définies au 1° du I de l'article L. 111-1, le montant total des charges des sinistres rattachés à
-l'exercice écoulé et à l'exercice précédent. Elle rapporte ce total au montant des cotisations brutes émises au cours de ces
-exercices, corrigé de la variation, sur la même période, des cotisations restant à émettre, des cotisations à annuler et de
-la provision pour cotisations non acquises. Si ce rapport est supérieur à 100 %, l'écart constaté par rapport à 100 % est
-appliqué au montant des provisions pour cotisations non acquises et, le cas échéant, des cotisations qui seront émises, au
-titre des opérations en cours à la date de l'inventaire, pendant la période définie au 4° de l'article R. 212-23. Le montant
-ainsi calculé est inscrit pour provisions pour risques en cours. Pour l'application du présent alinéa, les sinistres sont
-rattachés à l'exercice de survenance.
-
-L'Autorité de contrôle instituée par l'article L. 510-1 peut prescrire à une mutuelle ou union de prendre des dispositions
-appropriées pour le calcul prévu au précédent alinéa. Elle peut également, si le taux calculé en application du précédent
-alinéa apparaît insuffisant en raison d'évolutions récentes et significatives de la sinistralité ou de la tarification,
-prescrire l'utilisation d'un taux plus élevé. Elle peut également, sur la base de justifications appropriées fournies par la
-mutuelle ou l'union, autoriser l'utilisation d'un taux inférieur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-23, L111-1, L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-6
-
-Pour les acceptations en réassurance ou les opérations collectives, lorsqu'un traité, un contrat ou un règlement prévoit
-qu'en cas de résiliation une somme est susceptible d'être payée au cédant, à l'adhérent ou au membre participant en sus du
-règlement des sinistres et que le total des provisions constituées, au titre de ce traité, ce contrat ou ce règlement, à
-l'exception des provisions pour sinistres à payer, est inférieur à cette somme, évaluée dans l'hypothèse où le traité, le
-contrat ou le règlement serait résilié à la prochaine date de résiliation possible, la provision pour risques en cours prévue
-au 4° de l'article R. 212-23 est augmentée de la différence ainsi constatée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-23
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-
-###### Article A212-7
-
-La part des réassureurs dans les provisions pour cotisations non acquises et dans la provision pour risques en cours prévues
-aux 3° et 4° de l'article R. 212-23 est calculée dans les mêmes conditions et selon les mêmes méthodes que celles retenues
-pour le calcul des provisions brutes objet de la cession, sans pouvoir excéder le montant effectivement à la charge des
-réassureurs tel qu'il résulte de l'application des clauses des traités, compte tenu notamment des prescriptions de l'article
-A. 212-8 et de toutes les conditions du traité applicables en cas de résiliation à la plus prochaine date de résiliation
-possible, en particulier lorsque le traité prévoit dans ce cas des pénalités ou restitutions à la charge de la cédante.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-23, A212-8
-
-
-###### Article A212-8
-
-Lorsqu'un traité ou tout engagement de la cédante, quelle qu'en soit la forme, prévoit un ajustement rétroactif des
-cotisations en fonction de la sinistralité constatée ou de tout autre élément de résultat du traité ou d'un autre traité, la
-part du réassureur concerné dans les provisions pour risques en cours prévue au 4° de l'article R. 212-23 est diminuée du
-montant total des compléments de cotisation qui, compte tenu de la sinistralité constatée, seront dus en application de cet
-engagement.
-
-Lorsque l'application des dispositions du précédent alinéa conduit à une valeur négative de la part du réassureur dans la
-provision pour risques en cours, cette part est inscrite pour une valeur nulle, et la cédante constate selon le cas une
-provision pour charges ou une dette à l'égard du réassureur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-23
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-9
-
-Les provisions techniques des prestations d'incapacité et d'invalidité sont la somme : 
-
-1° Des provisions correspondant aux prestations d'incapacité de travail à verser après le 31 décembre de l'exercice, au titre
-des sinistres en cours à cette date majorées des provisions dites pour rentes en attente relatives aux rentes d'invalidité
-susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ; 
-
-2° Des provisions correspondant aux prestations d'invalidité à verser après le 31 décembre de l'exercice au titre des
-sinistres d'invalidité en cours à cette date ; 
-
-Le calcul des provisions techniques de prestations d'incapacité de travail et d'invalidité est effectué à partir des éléments
-suivants : 
-
-1° Les lois de maintien en incapacité de travail et invalidité indiquées en annexe au présent article. 
-
-Toutefois, il est possible pour une mutuelle et union d'utiliser une loi de maintien établie par ses soins et certifiée par
-un actuaire indépendant de cette mutuelle et union, agréé à cet effet par l'une des associations d'actuaires reconnues par
-l'Autorité de contrôle mentionnée à l'article L. 510-1 du code de la mutualité ; 
-
-2° Un taux d'actualisation qui ne peut excéder 75 % du taux moyen au cours des deux derniers exercices des emprunts de l'Etat
-français, sans pouvoir dépasser 4,5 %.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 22 décembre 2010 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 24 décembre 2010 (V)
-	  - Arrêté du 24 décembre 2010 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L510-1
-
-
-##### Section 3 
+##### Section 3 : Fusion, scission, dissolution, redressement judiciaire, liquidation, mesures d'assainissement
 
 ###### Article A212-10
 
-Les tarifs pratiqués par les mutuelles et unions effectuant des opérations mentionnées au b du 1° du I de l'article L. 111-1
-comprennent la rémunération de celles-ci et sont établis d'après les éléments suivants : 
+La note visée à l'article R. 212-22-1 porte sur les délais à observer, les sanctions prévues quant à ces délais, l'organe ou
+l'autorité habilité à recevoir la production des créances ou les observations relatives aux créances et toute autre mesure.
 
-1° Un taux d'intérêt technique fixé dans les conditions prévues par arrêté ; 
+La note indique également si les créanciers dont la créance est privilégiée ou garantie par une sûreté réelle doivent
+produire leur créance.
 
-2° Une des tables suivantes : 
-
-a) Tables homologuées par arrêté du ministre chargé de la mutualité, établies par sexe, sur la base de populations de membres
-participants et bénéficiaires pour les contrats de rente viagère, et sur la base de données publiées par l'Institut national
-de la statistique et des études économiques pour les autres contrats ; 
-
-b) tables établies ou non par sexe par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à
-cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle instituée à l'article L. 510-1. 
-
-Les tables mentionnées au b sont établies d'après des données d'expérience de la mutuelle ou de l'union, ou des données
-d'expérience démographiquement équivalentes. 
-
-Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors qu'est retenue une table unique pour tous
-les membres participants, celle-ci correspond à la table par sexe appropriée conduisant au tarif le plus prudent. 
-
-Pour les contrats en cas de vie autres que les contrats de rente viagère, les tables mentionnées au a sont utilisées en
-corrigeant l'âge du membre participant conformément aux décalages d'âge ci-annexés. 
-
-Ces décalages d'âge sont appliqués de telle sorte que chaque taux de mortalité annuel à un âge donné soit égal au taux de
-mortalité annuel à l'âge ayant subi le décalage dans la table par sexe appropriée. 
-
-Pour les opérations de rentes viagères, en ce compris celles revêtant un caractère temporaire, et à l'exception des contrats
-relevant du chapitre II bis du titre II du livre II, les tarifs et les provisions techniques déterminés en utilisant les
-tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables par sexe appropriées
-mentionnées au a. 
-
-Pour l'élaboration des tarifs des opérations collectives en cas de décès résiliables annuellement, la mutuelle ou l'union
-peut utiliser les tables mentionnées au a avec une méthode forfaitaire dès lors que celle-ci est justifiable.
+Dans le cas des créances d'assurance, la note indique en outre les effets généraux de la procédure de liquidation sur les
+contrats, les règlements ou les bulletins d'adhésion, en particulier la date à laquelle les contrats, les règlements ou les
+bulletins d'adhésion cessent de produire leurs effets ainsi que les droits et obligations de l'adhérent concernant le
+contrat, le règlement ou le bulletin d'adhésion.
 
 **Liens relatifs à cet article**
 
@@ -20136,642 +13956,11 @@ peut utiliser les tables mentionnées au a avec une méthode forfaitaire dès lo
 	  - Arrêté du 8 décembre 2006 - art. 7 (M)
 	  - Arrêté du 8 décembre 2006 - art. 8 (M)
 	  - Arrêté du 8 décembre 2006 - art. 9 (M)
+	  - Code de la mutualité - art. Annexe à l'article A114-4 (Ab)
 
 	**Modifié par**:
 
-	  - Arrêté du 18 décembre 2012 - art. 3
-
-	**Cite**:
-
-	  - Code des assurances - art. L111-1
-
-
-###### Article A212-11
-
-Les provisions mathématiques des opérations d'assurance sur la vie, de capitalisation et d'assurance nuptialité-natalité, à
-cotisations périodiques, sont calculées en prenant en compte les prélèvements destinés aux frais d'acquisition dans
-l'engagement du payeur de cotisations.
-
-La provision résultant du calcul précédent ne peut être négative, ni inférieure à la valeur de rachat du contrat ou du
-bulletin d'adhésion, ni inférieure à la provision correspondant au capital réduit.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
 	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-12
-
-1° Les provisions mathématiques des opérations de capitalisation, d'assurance nuptialité-natalité, d'acquisition d'immeubles
-au moyen de la constitution de rentes viagères, d'assurance sur la vie sont calculées d'après des taux d'intérêt au plus
-égaux à ceux retenus pour l'établissement du tarif et, s'ils comportent un élément viager et sous réserve du premier alinéa
-de l'article A. 212-13, d'après les tables de mortalité appropriées mentionnées à l'article A. 212-l0 en vigueur à l'époque
-de l'application du tarif ;
-
-2° La provision de gestion mentionnée au 4° de l'article R. 212-26 est dotée, à due concurrence de l'ensemble des charges de
-gestion future des contrats ou des règlements non couverts par des prélèvements sur cotisations ou par des prélèvements sur
-produits financiers prévus par ceux-ci ;
-
-Elle est déterminée dans les conditions suivantes :
-
-Pour chaque ensemble homogène de contrats, il est établi, au titre de chacun des exercices clos pendant la durée de ceux-ci,
-un compte prévisionnel des charges et des produits futurs de gestion. Pour l'établissement de ces comptes prévisionnels, sont
-pris en compte :
-
-a) Les produits correspondant aux chargements sur cotisation pour les cotisations périodiques, aux commissions de réassurance
-perçues pour couvrir les frais de gestion, et aux produits financiers disponibles après prise en compte des charges
-techniques et financières découlant de la réglementation et des clauses contractuelles. Les produits financiers sont calculés
-en appliquant le taux de rendement, ci-après défini, au montant moyen des provisions mathématiques de l'exercice.
-
-Ce taux de rendement est calculé au titre de chaque exercice, sur la base :
-
-- d'une part, du rendement hors plus-values des obligations et titres assimilés en portefeuille et présumés détenus jusqu'à
-leur échéance et, pour le réemploi des coupons et des obligations à échoir pendant les cinq premières années suivant
-l'exercice considéré, de 75 % du taux moyen semestriel des emprunts d'Etat, et, au-delà, de 60 % du taux moyen semestriel des
-emprunts d'Etat ;
-
-- d'autre part, pour les autres actifs, de 70 % du rendement hors plus-values du portefeuille obligataire constaté en moyenne
-sur l'exercice considéré et les deux exercices précédents ;
-
-b) Les charges correspondant aux frais d'administration, aux frais de gestion des sinistres et aux frais internes et externes
-de gestion des placements retenus pour l'évaluation de produits dans la limite des charges moyennes unitaires observées au
-titre de l'exercice considéré et des deux exercices précédents.
-
-Pour chaque ensemble homogène de contrats le taux estimé des rachats totaux ou partiels et des réductions ne pourra excéder
-80 % de la moyenne des sorties anticipées de contrats constatées sur les deux derniers exercices clos et sur l'exercice en
-cours.
-
-Pour chaque ensemble homogène de contrats, le montant de la provision est égal à la valeur actuelle des charges de gestion
-futures diminuée de la valeur actuelle des ressources futures issues des contrats, telles que définies ci-dessus. Le taux
-d'actualisation est, pour chaque exercice, le même que celui retenu pour le taux de rendement précédemment défini.
-
-La provision de gestion prévue à l'article R. 212-26 est la somme des provisions ainsi calculées.
-
-3° Les mutuelles et unions peuvent calculer les provisions mathématiques de leurs opérations en cours en appliquant lors de
-tous les inventaires annuels ultérieurs les taux mentionnés au premier alinéa et les tables de mortalité appropriées en
-vigueur à la date de l'inventaire.
-
-Cette possibilité ne concerne pas les opérations pour lesquelles l'actif représentatif des engagements correspondants est
-isolé dans la comptabilité de la mutuelle ou de l'union et a été déterminé de manière à pouvoir procurer un taux de rendement
-supérieur d'au moins un tiers au taux d'intérêt du tarif.
-
-Pour l'application du présent 3°, les mutuelles et les unions peuvent répartir sur une période de huit ans au plus les effets
-de la modification des bases de calcul des provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2006-12-08 art. 3 JORF 30 décembre 2006
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A212-13, A212, R212-26
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Arrêté du 22 avril 2004 - art. 15 (Ab)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-13
-
-Les provisions mathématiques des opérations individuelles et collectives des rentes viagères en cours de service au 1er
-janvier 2007 ou liquidées à compter de cette date sont calculées en appliquant à ces opérations, lors de leurs inventaires
-annuels postérieurs à cette date, les tables de mortalité appropriées mentionnées à l'article A. 212-10 applicables aux
-contrats de rente viagère souscrits a compter de cette même date.
-
-Pour la détermination des provisions mathématiques, les mutuelles et unions peuvent répartir sur une période allant jusqu'à
-l'exercice 2021 inclus les effets de l'utilisation des tables de génération homologuées par arrêté du ministre chargé de la
-mutualité.
-
-Les mutuelles ou unions devront néanmoins avoir, d'ici au 31 décembre 2010, un niveau de provisionnement des contrats de
-rentes viagères, quelle que soit leur date de souscription, supérieur ou égal à celui obtenu avec la table de génération
-homologuée par arrêté du ministre de l'économie du 28 juillet 1993, lorsque ce niveau est inférieur à celui prévu au premier
-alinéa.
-
-Les dispositions des alinéas précédents ne font pas obstacle au pouvoir de l'autorité mentionnée à l'article L. 510-1
-d'exiger conformément à l'article R. 212-21 qu'une mutuelle ou union majore les provisions mathématiques mentionnées au
-premier alinéa, après examen des données d'expérience relatives à la population des membres participants et bénéficiaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1993-07-28
-
-	**Modifié par**:
-
-	  - Arrêté 2006-12-08 art. 4 JORF 30 décembre 2006
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Cité par**:
-
-	  - Arrêté du 22 avril 2004 - art. 16 (Ab)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-14
-
-Si, lors de l'inventaire, le taux de rendement réel des actifs d'une mutuelle ou d'une union, diminué d'un cinquième, est
-inférieur au quotient du montant total des intérêts techniques et du minimum contractuellement garanti de participation aux
-excédents dans des conditions définies par arrêté des opérations de la mutuelle ou de l'union, par le montant moyen des
-provisions mathématiques constituées, une comparaison est effectuée entre les deux montants suivants : 
-
-1° Les provisions mathématiques recalculées en actualisant les paiements futurs à un taux déterminé suivant l'une des trois
-méthodes suivantes : 
-
-a) Un taux unique égal à 60 % du taux moyen des emprunts de l'Etat français calculé sur base semestrielle ; 
-
-b) Un taux égal, pour chacune des échéances futures de paiement, à la moyenne pondérée, par le montant au bilan de chacune
-des catégories d'actifs auxquels ils se rapportent, des taux suivants :
-
-- pour les obligations non arrivées à terme à la date d'échéance considérée, le taux moyen visé au a ;
-
-- pour les autres actifs, coupons et amortissements d'obligation, 75 % du taux moyen visé au a si la date d'échéance
-considérée est inférieure à cinq ans, 60 % de ce taux moyen sinon ; 
-
-c) Sur demande de l'entreprise et après accord de l'Autorité de contrôle, un taux égal au taux de rendement futur prudemment
-estimé des actifs affectés à la représentation des engagements réglementés. 
-
-2° Les provisions mathématiques à l'inventaire. 
-
-Si le premier montant est supérieur au second, une dotation égale à leur différence est affectée à la provision pour aléas
-financiers mentionnée au 5° de l'article R. 212-26. Cette provision est reprise dans les comptes de la mutuelle ou de l'union
-à l'inventaire suivant. 
-
-Les opérations en unité de compte ainsi que les opérations collectives relevant de l'article L. 222-1 ne sont pas concernées
-par ces dispositions. 
-
-Le taux de rendement réel des actifs est égal au rapport :
-
-- des produits de placement nets de charges des mutuelles et unions nets de charges augmenté des plus-values sur cessions
-d'éléments d'actifs, nettes des moins-values, ainsi que du montant des réévaluations d'actifs ;
-
-- au montant moyen, au cours de l'exercice, de l'ensemble des placements, ainsi que des autres éléments d'actifs pouvant être
-admis en représentation des provisions techniques, à l'exception des valeurs remises par les réassureurs.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 22 décembre 2008 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L222-1
-	  - Code de la mutualité - art. R212-26
-
-
-##### Section 5 : Réglementation des placements et autres éléments d'actifs.
-
-###### Article A212-15
-
-I. - La caution ou engagement équivalent mentionnée au troisième alinéa de l'article R. 212-50 doit :
-
-- être régie par le droit français et soumise en cas de litige à la compétence exclusive des juridictions françaises ;
-
-- constituer une garantie à la première demande, irrévocable et inconditionnelle.
-
-II. - L'établissement de crédit garant visé au troisième alinéa de l'article précité doit répondre aux conditions suivantes :
-
-1° Le garant est un établissement de crédit habilité à opérer en France en application de la loi n° 84-46 du 24 janvier 1984
-modifiée relative à l'activité et au contrôle des établissements de crédit et respecte, compte tenu de la garantie envisagée,
-l'ensemble des dispositions législatives et réglementaires qui lui sont applicables ;
-
-2° Le garant n'est pas une entreprise liée au réassureur ni à la mutuelle ou l'union garantie.
-
-III. - La dérogation prévue au troisième alinéa de l'article R. 212-50 ne peut être accordée par l'Autorité de contrôle
-mentionnée à l'article L. 510-1 que dans la mesure où elle ne diminue pas la qualité de la représentation des engagements
-réglementés, et dans les limites suivantes :
-
-- la durée fixée initialement par l'Autorité de contrôle ne peut excéder un exercice, éventuellement renouvelable dans les
-conditions définies par celle-ci ;
-
-- le montant total des garanties admises au titre de ladite dérogation ne peut à aucun moment excéder :
-
-- le montant maximum autorisé par l'Autorité de contrôle ;
-
-- la moitié du montant total des engagements réglementés tels que définis à l'article R. 212-21 ;
-
-- les deux tiers du montant total de la part des réassureurs dans les provisions techniques.
-
-IV. - La dérogation peut être supprimée à tout moment par l'Autorité de contrôle mentionnée à l'article L. 510-1 si celle-ci
-estime que les conditions l'ayant justifiée ne sont plus remplies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-50, L510-1, R212-21
-	  - Loi n°84-46 du 24 janvier 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-16
-
-Pour l'application de l'article R. 212-56, l'Autorité de contrôle mentionnée à l'article L. 510-1 notifie à la mutuelle ou à
-l'union, par lettre recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et le nom de l'expert
-qu'elle a choisi pour chacun d'eux.
-
-Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, la mutuelle ou l'union fait connaître à l'Autorité
-de contrôle, par lettre recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par l'Autorité
-de contrôle comme expert unique, dont la conclusion liera les deux parties, ou si elle demande une expertise contradictoire,
-d'abord par deux experts, le premier désigné par l'Autorité de contrôle, le second désigné par la mutuelle ou l'union, puis,
-en cas de désaccord entre ces deux experts, par un tiers expert, dont les conclusions lieront les deux parties.
-
-Lorsque la mutuelle ou l'union opte pour l'expertise contradictoire, elle indique dans sa réponse le nom, l'adresse et les
-qualités de son expert et joint à cette réponse une lettre de ce dernier acceptant la mission et se déclarant prêt à
-l'effectuer dans le délai fixé à l'alinéa suivant. Dès réception de la réponse de la mutuelle ou de l'union, l'Autorité
-invite l'expert unique ou les deux experts à procéder à l'expertise. Elle communique cet avis à la mutuelle ou à l'union.
-
-L'expert unique ou les deux experts déposent leurs conclusions et les notifient aux deux parties dans un délai maximal de
-trois mois à dater de l'avis de l'Autorité ci-dessus prévu.
-
-S'il y a désaccord entre les conclusions des deux experts, il est immédiatement procédé à la désignation du tiers expert,
-soit après accord entre les parties, par l'Autorité de contrôle, soit, à défaut d'accord entre les parties, dans les quinze
-jours du dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du tribunal de
-grande instance du siège social de la mutuelle ou de l'union.
-
-Le tiers expert dépose ses conclusions et les notifie aux deux parties dans les deux mois de sa désignation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R212-56, L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-17
-
-Si, après avoir été désigné comme il est indiqué à l'article A. 212-16, un expert se trouve empêché de remplir sa mission
-dans les délais fixés, il est immédiatement procédé à une nouvelle désignation dans les mêmes formes, et les délais sont
-dûment prorogés.
-
-Toutefois, si l'expert défaillant est celui de l'institution ou de l'union, l'Autorité de contrôle mentionnée à l'article L.
-510-1 peut requérir immédiatement du président du tribunal la désignation d'un expert unique, dont les conclusions lieront
-les deux parties. Elle peut formuler la même requête s'il n'a pas été répondu à sa demande d'expertise dans le délai prévu au
-deuxième alinéa de l'article A. 212-16 ou si l'expert de la mutuelle ou de l'union n'a pas déposé son rapport dans le délai
-fixé au quatrième alinéa de cet article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A212-16, L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article A212-18
-
-I. - Le ou les experts désignés conformément aux dispositions des articles A. 212-16 et A. 212-17 sont dispensés de prêter
-serment.
-
-II. - Les institutions ou les unions sont tenues de fournir aux experts, dès leur désignation, et sur demande de ceux-ci,
-conjointe ou non, tous les moyens d'investigation que ces derniers jugent utiles pour l'accomplissement de leur mission,
-notamment lorsqu'il s'agit d'immeubles, pour la visite des lieux et la connaissance des actes et documents se rapportant aux
-immeubles expertisés.
-
-III. - Le ou les experts adressent à la mutuelle ou à l'union, avec leur rapport, l'état de leurs vacations, frais et
-honoraires, et en remettent une copie à l'Autorité de contrôle mentionnée à l'article L. 510-1. Lorsqu'elle envisage de
-contester le montant demandé par un des experts, la mutuelle ou l'union le notifie à l'Autorité de contrôle dans un délai de
-quinze jours à compter de la réception de l'état des vacations.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) A212-16, A212-17, L510-1
-
-
-###### Article A212-19
-
-I.-En cas de vente de valeurs évaluées conformément à l'article R. 212-52, à l'exception des obligations à taux variable, des
-versements ou des prélèvement et versements sont effectués sur la réserve de capitalisation prévue au 3° de l'article R.
-212-26. 
-
-Le montant de ces versements ou prélèvements est calculé dans les conditions prévues au présent article. 
-
-II.-Lors de l'entrée en portefeuille des titres soumis à la réserve de capitalisation, leur taux actuariel de rendement est
-calculé en tenant compte du prix d'acquisition, des probabilités, dates d'échéances et montants, nets de tous impôts, des
-coupons, des lots et autres avantages accessoires attachés à ces titres, et des valeurs de remboursement. 
-
-Pour les obligations visées au II de l'article R. 212-52, le calcul s'effectue en prenant pour valeur de remboursement la
-valeur de remboursement initiale multipliée par le rapport entre l'indice de référence à la date considérée et ce même indice
-à la date d'émission du titre. 
-
-III.-Lors de la vente ou de la conversion d'une obligation, l'opération est appliquée au titre le plus ancien du
-portefeuille. 
-
-En cas de vente ou de conversion d'un titre, on se réfère à la date d'acquisition de ce titre pour calculer, en fonction de
-son taux actuariel de rendement, sa valeur actuelle au jour de la vente ou de la conversion. 
-
-Pour les obligations visées au II de l'article R. 212-52, la valeur actuelle ainsi calculée est multipliée par le rapport
-entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition. 
-
-Lorsque le prix de vente est supérieur à la valeur actuelle, diminuée, le cas échéant, de la dépréciation mentionnée au
-dernier alinéa du I de l'article R. 212-52, l'excédent est versé à la réserve de capitalisation ; lorsqu'il est inférieur à
-la valeur actuelle, diminuée, le cas échéant, de la dépréciation mentionnée au dernier alinéa du I du même article, la
-différence est prélevée sur la réserve de capitalisation, dans la limite du montant de celle-ci. 
-
-La charge ou le produit théorique d'impôts lié à la non-prise en compte, dans le résultat imposable de la mutuelle ou de
-l'union, des versements ou prélèvements mentionnées à l'alinéa précédent donne lieu à respectivement une reprise non
-technique sur la réserve de capitalisation ou à une dotation non technique à la réserve de capitalisation, pour un montant
-équivalent. Cette reprise ou cette dotation contribue au résultat non technique de l'organisme. 
-
-IV.-Les mutuelles ou unions, dont les placements en valeurs soumises à la réserve de capitalisation ne dépassent pas 750 000
-Euros à la date de l'inventaire, peuvent ne pas appliquer les dispositions du II et du III (2e et 3e alinéas) du présent
-article. Elles sont alors tenues de porter à la réserve de capitalisation 10 % de l'excédent résultant de la comparaison
-entre le montant du prix de vente et le prix d'entrée en portefeuille des titres mentionnés au I du présent article vendus
-dans l'exercice, ou de prélever sur celle-ci la totalité de l'insuffisance résultant de la même comparaison. Une fois
-exercée, l'option prévue au présent paragraphe ne peut être remise en cause.
-
-**Nota:**
-
-Arrêté du 22 décembre 2010 JORF du 30 décembre 2010 art. 3 : 
-
-Les dispositions du présent arrêté s'appliquent aux comptes des mutuelles et des institutions de prévoyance, y compris celles
-pratiquant de la réassurance, à compter de l'exercice comptable 2010 .
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 avril 2004 - art. 14 (Ab)
-
-	**Modifié par**:
-
-	  - Arrêté du 22 décembre 2010 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. R212-52
-
-
-###### Article A212-20
-
-Les mutuelles et unions pratiquant des opérations mentionnées au b du 1° du I de l'article L. 111-1, maintiennent le revenu
-net de leurs placements à un montant au moins égal à celui des intérêts dont sont créditées les provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-25 art. 1 JORF 5 juillet 2002
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L111-1
-
-
-###### Article A212-24
-
-Au sens du présent article, est appelée duration du passif d'une mutuelle ou d'une union de mutuelles une estimation prudente
-de l'échéance moyenne pondérée des paiements futurs relatifs aux engagements réglementés. Cette estimation doit être un
-nombre entier et ne peut être supérieure à 8. 
-
-Cette duration est calculée annuellement pour l'application de l'article A. 212-24-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 mars 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A212-24-1 (Ab)
-
-
-###### Article A212-24-1
-
-Lorsque la mutuelle ou l'union de mutuelles décide d'appliquer les dispositions de l'article R. 212-24, elle mouvemente un
-compte dont le solde ne peut à aucun moment être créditeur de la manière suivante : 
-
-a) Ce compte est débité d'une somme égale au montant de la dotation à la provision pour risque d'exigibilité de l'exercice. 
-
-b) Les reprises de provisions pour risque d'exigibilité font l'objet, pour un même montant, d'un crédit de ce compte ; 
-
-c) A la fin de chaque exercice, ce compte est également crédité d'une fraction de la moins-value latente globale mentionnée à
-l'article R. 212-24. Cette fraction est égale à : 
-
-1 / d, 
-
-où d est la duration des passifs mentionnée à l'article A. 212-24. 
-
-Lorsque la mutuelle ou l'union de mutuelles décide de ne plus appliquer les dispositions de l'article R. 212-24-1, ce compte
-est intégralement soldé.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 11 mars 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. A212-24 (Ab)
-	  - Code de la mutualité - art. R212-24-1
-
-
-##### Section 7 : Surveillance complémentaire des mutuelles et unions faisant partie d'un groupe.
-
-###### Article A213-1
-
-Sont considérés comme pouvant être effectivement rendus disponibles pour couvrir la solvabilité ajustée des mutuelles ou
-unions participantes visées à l'article R. 213-1 et des mutuelles ou unions visées à l'article R. 213-5, et comme pouvant
-être pris en compte au titre des organismes apparentés intégrés dans le calcul de solvabilité ajustée les éléments suivants :
-
-1. Les plus-values latentes sur actifs dans la limite, s'agissant d'organismes assureurs sur la vie ou mixtes, de l'exigence
-de marge de solvabilité de l'organisme assureur à l'actif duquel ces actifs sont inscrits. Au-delà, les plus-values latentes
-sur actifs de ces organismes assureurs ne sont prises en compte qu'une fois déduits les droits à participations des assurés ;
-
-Pour les mutuelles ou unions relevant de l'article L. 111-1 ces droits sont calculés conformément à l'article R. 212-90 ;
-
-2. Les titres et emprunts subordonnés détenus en dehors de l'ensemble formé par les mutuelles ou unions et les organismes
-auxquels elles sont apparentées ou subordonnées dans la mesure où ils sont admis à contribuer à la constitution de la marge
-de solvabilité de l'organisme assureur au passif duquel ils sont inscrits. Toutefois, l'Autorité de contrôle mentionnée à
-l'article L. 510-1 dispose de la capacité de considérer comme pouvant être rendue disponible une plus grande part de ces
-titres et emprunts, dès lors qu'elle considère comme adéquate la répartition à l'intérieur de l'ensemble formé par les
-mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées des éléments admissibles pour la
-marge ;
-
-3. Les rappels de cotisations des sociétés d'assurance mutuelle ou des mutuelles relevant du livre II du code de la
-mutualité, dans la mesure et pour le montant où ils sont admis à contribuer à la constitution de la marge de solvabilité de
-l'organisme assureur qui a la possibilité d'y faire appel ;
-
-4. Les intérêts minoritaires dans la mesure où ils sont admis à contribuer à la constitution de la marge de solvabilité de
-l'organisme assureur dont ils représentent une partie des fonds propres et dans la limite de la part de l'exigence de
-solvabilité de cet organisme correspondant au pourcentage de détention par lesdits intérêts minoritaires.
-
-En outre, dans tous les cas, ne peuvent être considérés comme pouvant être effectivement rendus disponibles les actifs des
-organismes dont le siège est situé dans un Etat exerçant des restrictions aux mouvements de capitaux.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2006-12-08 art. 10 JORF 30 décembre 2006
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R213-1, R213-5, L111-1, R212-90, L510-1
-
-
-###### Article A213-2
-
-La déclaration des opérations mentionnées à l'article R. 213-6 est jointe au dossier mentionné à l'article A. 114-10, annexe
-II. La mutuelle ou union soumise à surveillance complémentaire présente en outre, dès lors qu'elles ne sont pas incluses dans
-les documents décrits à l'article A. 114-10, annexe II, ni décrites dans l'état G 22 transmis le cas échéant à l'Autorité de
-contrôle conformément à l'article A. 114-11. Les opérations, effectuées directement ou indirectement avec les organismes
-auxquels elle est apparentée ou subordonnée, supérieures à 5 % des fonds propres ou à 0,5 % des provisions techniques de
-l'ensemble formé par ces organismes tels que calculés à la clôture de l'exercice précédent. Ce tableau doit isoler les
-opérations suivantes : les prêts, les transactions portant sur les éléments admissibles pour la marge de solvabilité, les
-investissements, l'état des cessions d'actifs internes à l'ensemble formé par ces organismes (notamment les ventes
-d'immeubles ou de titres non cotés) et les engagements d'un montant défini reçus ou donnés hors bilan.
-
-Chacune de ces opérations doit être déclarée en précisant l'organisme vendeur, l'organisme acheteur, la valeur comptable dans
-le premier, le prix de vente et la référence ayant permis d'établir celui-ci.
-
-Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque trimestre dans les trente jours à l'Autorité
-de contrôle mentionnée à l'article L. 510-1.
-
-En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou
-indirectement entre organismes apparentés du même ensemble formé par les mutuelles ou unions et les organismes auxquels elles
-sont apparentées ou subordonnées sont déclarés sans délai par la mutuelle ou union soumise à surveillance complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R213-6, A114-10, A114-11, L510-1
-
-	**Modifié par**:
-
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-##### Section 8 : Dispositions relatives à la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.
-
-###### Article A213-3
-
-Les modalités de la surveillance complémentaire des conglomérats financiers mentionnée à l'article L. 212-7-4 sont précisées
-par arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 novembre 2014 - art. 18
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. L212-7-4
 
 
 ### Titre II : Opérations des mutuelles et des unions.
@@ -20812,7 +14001,7 @@ paragraphe IV ci-après.
 
 Les calculs de la provision mathématique théorique mentionnée à l'article R. 222-16, des équivalences actuarielles prévues à
 l'article R. 222-15 et de la répartition des droits prévue au second alinéa de l'article R. 222-21 sont effectués en
-utilisant les tables de mortalité appropriées mentionnées à l'article A. 212-10 applicables aux contrats de rente viagère
+utilisant les tables de mortalité appropriées mentionnées à l'article A. 223-8 applicables aux contrats de rente viagère
 souscrits à compter du 1er janvier 2007, et à l'aide d'un taux au plus égal au plus élevé des deux taux suivants : 
 
 a) Un taux obtenu par composition de taux d'intérêt égaux pour les huit premières années à 75 % du taux moyen au cours des
@@ -20838,11 +14027,7 @@ mathématique théorique résultant de l'utilisation des tables mentionnées au 
 
 	**Modifié par**:
 
-	  - Arrêté du 5 octobre 2015 - art. 1
-
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) L222-1, R222-8, R222-15, R222-16, R222-21, A212-10
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 
 ###### Article A222-2
@@ -20885,6 +14070,8 @@ la fixation de la nouvelle valeur de service de l'unité de rente.
 
 #### Chapitre II bis : Opérations de retraite professionnelle supplémentaire.
 
+#### Chapitre II bis : Retraite professionnelle supplémentaire.
+
 ###### Article A222-3
 
 I. - Le seuil mentionné au troisième alinéa de l'article L. 222-4 est de 5 000 adhérents.
@@ -20908,8 +14095,11 @@ II. - Le seuil mentionné au dernier alinéa de l'article R. 222-28 s'élève, p
 
 ###### Article A222-4
 
-I. - En application de l'article L. 222-8, sont remis sur demande aux adhérents d'un contrat mentionné à l'article L. 222-3,
-dans un délai qui ne peut excéder trois mois :
+I. - En application de l'article L. 222-8, sont remis sur demande aux participants et aux bénéficiaires d'un contrat
+mentionné à l'article L. 222-3, dans un délai qui ne peut excéder un mois :
+
+- le rapport de gestion et les comptes annuels relatifs à la ou aux comptabilités auxiliaires d'affectation mentionnées à
+l'article L. 222-6 ;
 
 - les modalités d'exercice du transfert ;
 
@@ -20920,22 +14110,37 @@ l'article L. 223-22 du code de la mutualité, apprécié à la date de la demand
 
 II. - Les participants reçoivent chaque année des informations succinctes sur la situation de la mutuelle ou de l'union.
 
-III. - Lorsque le salarié fait liquider ses droits à la retraite, la mutuelle ou l'union lui adresse, dans un délai de trois
-mois à compter de la date de la demande, une information sur ses droits.
+III. - Lorsque le salarié fait liquider ses droits à la retraite ou que d'autres prestations deviennent exigibles, la
+mutuelle ou l'union lui adresse, ou au bénéficiaire le cas échéant, dans un délai de deux mois, une information adéquate sur
+les prestations qui lui sont dues et sur les options de paiement correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L223-22
+
+
+###### Article A222-5
+
+Pour les contrats mentionnés à l'article L. 222-3, lorsque les garanties sont exprimées en unités de compte, l'organisme
+assureur, sur demande du souscripteur, adhérent ou bénéficiaire, communique dans un délai qui ne peut excéder un mois
+l'éventail des options éventuelles de placement et le portefeuille de placements existant, avec une description des risques
+et des coûts relatifs à ces placements.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté 2006-06-27 art. 2 JORF 29 juin 2006
+	  - Arrêté du 30 décembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L222-8, L222-3, L223-22
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Code de la mutualité - art. L222-3 (V)
 
 
 #### Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.
@@ -20966,7 +14171,7 @@ mutuelle ou l'union de mutuelles.
 
 La valeur visée à l'article R. 223-2 est obtenue en divisant l'actif net de la société immobilière ou foncière par le nombre
 d'actions ou de parts. L'actif net est celui qui ressort du dernier bilan après affectation du résultat et réévaluation des
-immeubles, selon la procédure définie par l'article R. 212-53 (b).
+immeubles, selon la procédure définie par l'article R. 343-11 du code des assurances.
 
 Toutefois, pour l'évaluation entre deux bilans comptables du capital ou de la rente garantis, il peut être indiqué dans le
 règlement ou le contrat collectif que la valeur de l'unité de compte est déterminée, selon une périodicité définie dans ces
@@ -20975,23 +14180,19 @@ réévaluation des immeubles. Dans ce cas, la valeur de l'actif net fait l'objet
 de la société immobilière ou foncière ou du commissaire aux comptes de la mutuelle ou de l'union de mutuelles.
 
 La réévaluation doit être effectuée par immeuble soit par une expertise effectuée par un expert accepté par l'Autorité de
-contrôle instituée à l'article L. 510-1, soit par actualisation de la dernière estimation certifiée par un expert accepté par
+contrôle prudentiel et de résolution, soit par actualisation de la dernière estimation certifiée par un expert accepté par
 l'Autorité de contrôle précitée par application d'une règle basée sur des indices représentatifs du marché immobilier et
 figurant dans le règlement ou le contrat collectif.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R223-2, R212-53, L510-1
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. R343-11
 
 
 ###### Article A223-3
@@ -21021,25 +14222,23 @@ faire publiquement appel à l'épargne.
 ###### Article A223-4
 
 La substitution d'une unité de compte au profit d'unités de compte de nature comparable prévue à l'article R. 223-4 est
-autorisée par l'Autorité de contrôle instituée à l'article L. 510-1 au vu du rapport d'un expert mandaté par la mutuelle ou
+autorisée par l'Autorité de contrôle prudentiel et de résolution au vu du rapport d'un expert mandaté par la mutuelle ou
 l'union de mutuelles. L'expert certifie la comparabilité des sociétés, au regard des critères de destination, tels que
-habitation, bureaux, centres commerciaux, et de localisation des actifs de celles-ci.
+habitation, bureaux, centres commerciaux, et de localisation des actifs de celles-ci. 
 
-Toutefois, l'Autorité peut également requérir une expertise selon les modalités fixées à l'article R. 212-56.
+Toutefois, l'Autorité peut également requérir une expertise selon les modalités fixées à l'article A. 343-2-1 du code des
+assurances.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la mutualité (nouveau) R223-4, L510-1, R212-56
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code des assurances - art. A343-2-1
+	  - Code de la mutualité - art. R223-4 (V)
 
 
 ###### Article A223-5
@@ -21129,6 +14328,23 @@ le bulletin d'adhésion].
 	  - Code de la mutualité (nouveau) L223-8
 
 
+###### Article A223-6-1
+
+La note d'information mentionnée à l'article L. 223-8, la notice mentionnée à l'article L. 221-6 contient les informations
+prévues par le modèle ci-annexé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L221-6 (V)
+	  - Code de la mutualité - art. L223-8 (V)
+
+
 ###### Article A223-7
 
 1° Pour l'application du dixième alinéa de l'article L. 223-21, l'estimation du montant de la rente viagère qui serait versée
@@ -21169,6 +14385,70 @@ duquel vous pouvez liquider votre retraite obligatoire à taux plein. "
 	  - Code de la sécurité sociale. - art. L161-17-2
 	  - Code de la mutualité - art. L223-21
 
+
+##### Section 2 : Tarif 
+
+
+
+###### Article A223-8
+
+Les tarifs pratiqués par les mutuelles et unions effectuant des opérations mentionnées au b du 1° du I de l'article L. 111-1
+comprennent la rémunération de celles-ci et sont établis d'après les éléments suivants : 
+
+1° Un taux d'intérêt technique fixé dans les conditions prévues par arrêté ; 
+
+2° Une des tables suivantes : 
+
+a) Tables homologuées par arrêté du ministre chargé de la mutualité, établies par sexe, sur la base de populations de membres
+participants et bénéficiaires pour les contrats de rente viagère, et sur la base de données publiées par l'Institut national
+de la statistique et des études économiques pour les autres contrats ; 
+
+b) tables établies ou non par sexe par la mutuelle ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à
+cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle mentionnée à l'article L. 510-1. 
+
+Les tables mentionnées au b sont établies d'après des données d'expérience de la mutuelle ou de l'union, ou des données
+d'expérience démographiquement équivalentes. 
+
+Lorsque les tarifs sont établis d'après des tables mentionnées au a), et dès lors qu'est retenue une table unique pour tous
+les membres participants, celle-ci correspond à la table appropriée conduisant au tarif le plus prudent. 
+
+Pour les contrats en cas de vie autres que les contrats de rente viagère, les tables mentionnées au a sont utilisées en
+corrigeant l'âge du membre participant conformément aux décalages d'âge ci-annexés. 
+
+Ces décalages d'âge sont appliqués de telle sorte que chaque taux de mortalité annuel à un âge donné soit égal au taux de
+mortalité annuel à l'âge ayant subi le décalage dans la table appropriée. 
+
+Pour les opérations de rentes viagères, en ce compris celles revêtant un caractère temporaire, et à l'exception des contrats
+relevant du chapitre II bis du titre II du livre II, les tarifs et les provisions techniques déterminés en utilisant les
+tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables appropriées
+mentionnées au a. 
+
+Pour l'élaboration des tarifs des opérations collectives en cas de décès résiliables annuellement, la mutuelle ou l'union
+peut utiliser les tables mentionnées au a avec une méthode forfaitaire dès lors que celle-ci est justifiable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 2006 - art. 7 (V)
+	  - Arrêté du 8 décembre 2006 - art. 8 (V)
+	  - Arrêté du 8 décembre 2006 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Arrêté du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-1 (V)
+	  - Code de la mutualité - art. L510-1 (V)
+
+
+## Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.
+
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.
+
+### Titre II : Opérations des mutuelles et des unions.
 
 ## Livre IV : Relations avec l'Etat et les autres collectivités publiques
 
@@ -21342,187 +14622,33 @@ renouvellement des membres du Conseil supérieur de la mutualité.
 	  - Code de la mutualité - art. R411-2-1
 
 
-## Livre V : Contrôle des mutuelles, unions et fédérations.
+###### Article A411-7
 
-### Chapitre unique
+En cas d'urgence constatée par le secrétariat général, les commissions spécialisées peuvent statuer par voie de consultation
+écrite. 
 
-#### Section 1 : Libre prestation de services.
+Lorsqu'une commission spécialisée fait usage de cette possibilité, le secrétaire général recueille, dans un délai qu'il fixe
+mais qui ne peut être inférieur à cinq jours ouvrés, les observations et avis des membres de la commission. Toutefois, si un
+membre en fait la demande écrite dans ce délai, le secrétaire général convoque la commission dans les conditions prévues à
+l'article A. 411-3. 
 
-###### Article A510-1
+Pour que ses résultats puissent être pris en compte, la consultation écrite doit avoir permis de recueillir des avis de la
+moitié au moins des membres de la commission ayant voix délibérative plus un dans le délai fixé par le secrétariat général.
+Le secrétariat général informe, dans les meilleurs délais, les membres de la commission de la décision résultant de cette
+consultation. 
 
-I.-1° En application du premier alinéa du I de l'article R. 510-16, toute mutuelle ou union projetant d'ouvrir une succursale
-ou d'exercer des activités en libre prestation de services doit fournir, en double exemplaire, à l'Autorité de contrôle
-prudentiel et de résolution les documents et informations suivants : 
-
-a) La dénomination et l'adresse du siège de la mutuelle ou de l'union ; 
-
-b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation
-de services ; 
-
-c) Un programme relatif à l'activité envisagée comportant les pièces mentionnées au a et au point 1 du f de l'article A.
-211-1 ; 
-
-d) Dans le cas où la mutuelle ou l'union se proposerait de couvrir les risques définis à la branche 17 mentionnée à l'article
-R. 211-2, l'option choisie parmi celles énoncées à l'article L. 224-7 ; 
-
-e) Un dossier décrivant les moyens mis en oeuvre par la mutuelle ou l'union pour les opérations qu'elle envisage de réaliser
-et ses prévisions d'activités, sauf si cette mutuelle ou union est soumise aux dispositions des d et e du 2°. 
-
-2° Les dossiers concernant des demandes d'activité sous le régime de la liberté d'établissement comportent en outre : 
-
-a) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au b du 1° peuvent demander des informations en
-vue de l'exercice de leurs compétences ; 
-
-b) Le nom et les pouvoirs du mandataire général ; 
-
-c) Les informations concernant le mandataire général mentionnées à l'article A. 211-2 ; 
-
-d) Un programme d'activité relatif à l'établissement envisagé comportant les pièces mentionnées aux 3,4 et 5 du f de
-l'article A. 211-1 ainsi que, pour les cinq premiers exercices comptables d'activité, les comptes de résultat prévisionnels,
-les prévisions relatives aux moyens financiers destinés à la couverture des engagements et celles relatives à la
-trésorerie ; 
-
-e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnées aux 2 et 10 du
-f de l'article A. 211-1. 
-
-II.-Le dossier communiqué par l'Autorité de contrôle prudentiel et de résolution, en application du deuxième alinéa du I de
-l'article R. 510-16, aux autorités de l'Etat membre sur le territoire duquel la mutuelle ou l'union envisage d'opérer en
-liberté d'établissement ou en libre prestation de services comprend : 
-
-1° Une attestation de l'Autorité de contrôle prudentiel et de résolution certifiant que l'entreprise dispose de la marge de
-solvabilité conformément aux dispositions de la section 2 du chapitre II du titre Ier du livre II du présent code ; 
-
-2° Les éléments mentionnés aux a, c et d du 1° du I ainsi que, s'agissant de l'ouverture d'une succursale, les éléments
-mentionnés aux a, b, d et e du 2° du I. 
-
-III.-Les documents mentionnés au I sont accompagnés de leur traduction certifiée conforme dans la langue officielle de l'Etat
-membre sur le territoire duquel elle envisage d'opérer en liberté d'établissement ou en libre prestation de services.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. A211-1
-	  - Code de la mutualité - art. A211-2
-	  - Code de la mutualité - art. L224-7
-	  - Code de la mutualité - art. R211-2
-	  - Code de la mutualité - art. R510-16
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A510-2 (Ab)
-
-
-###### Article A510-2
-
-I.-La mutuelle ou l'union peut commencer ses activités, en liberté d'établissement : 
-
-1° A l'expiration d'un délai de deux mois à compter de la réception des éléments mentionnés au II de l'article A. 510-1 par
-les autorités de l'Etat sur le territoire duquel elle entend exercer ses activités, la date de réception de ces éléments
-étant auparavant communiquée à la mutuelle ou l'union par l'Autorité de contrôle prudentiel et de résolution ; 
-
-2° Dès réception d'une communication de l'Autorité de contrôle prudentiel et de résolution lui indiquant les conditions dans
-lesquelles ces mêmes autorités entendent que ces activités soient exercées sur leur territoire. 
-
-La mutuelle ou l'union peut commencer ses activités, en liberté de prestation de services, dès qu'elle a été avisée de la
-communication mentionnée au deuxième alinéa du I de l'article R. 510-16. 
-
-II.-1° Lorsqu'en application du premier alinéa du II de l'article R. 510-16, une mutuelle ou union notifie à l'Autorité de
-contrôle prudentiel et de résolution son intention de modifier la nature ou les conditions d'exercice de ses activités en
-liberté d'établissement ou en libre prestation de services, cette notification est accompagnée des documents mentionnés au I
-de l'article A. 510-1 qui sont affectés par le projet de modification. 
-
-2° Le dossier mentionné au second alinéa du II de l'article R. 510-16 comporte ceux des documents mentionnés au II de
-l'article A. 510-1 qui font l'objet d'une modification ainsi qu'une attestation de l'Autorité de contrôle prudentiel et de
-résolution certifiant que la mutuelle ou union dispose toujours de la marge de solvabilité conformément aux dispositions de
-la section 2 du chapitre II du titre Ier du livre II du présent code. 
-
-3° L'ensemble de ces documents sont accompagnés de leur traduction certifiée conforme dans la langue officielle de l'Etat
-membre de libre prestation de services.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la mutualité - art. A510-1 (Ab)
-	  - Code de la mutualité - art. R510-16
-
-
-###### Article A510-3
-
-I. - Les modalités de vérification de l'identité d'un membre participant ou de la personne morale souscriptrice du contrat
-collectif, telles que prévues aux alinéas 1 et 2 de l'article R. 561-5 du code monétaire et financier, sont considérées comme
-satisfaites dès lors que le paiement de leur première cotisation s'effectue par le débit d'un compte ouvert à leur nom auprès
-d'un établissement de crédit lui-même tenu à l'obligation d'identification. 
-
-II. - En application de l'article R. 561-16 (3°) du code monétaire et financier, ne sont pas soumises aux obligations
-mentionnées aux articles L. 561-5 et L. 561-6 les opérations des branches 15 à 18 définies à l'article R. 211-2 du code de la
-mutualité lorsque le montant de la cotisation annuelle par contrat ne dépasse pas 10 000 €.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 10 novembre 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R561-5
-	  - Code de la mutualité - art. R211-2
-
-
-#### Section 2 : Contrôle déconcentré.
-
-###### Article A510-4
-
-Le contrôle des mutuelles et unions pratiquant exclusivement les opérations mentionnées au a du 1° du I de l'article L. 111-1
-à l'exception des prestations d'une durée supérieure à un an est exercé au niveau régional lorsque la mutuelle ou l'union :
-
-1° N'a pas encaissé au cours de chacun des trois derniers exercices clos un montant de cotisations supérieur à quarante-cinq
-millions d'euros ;
-
-2° Et n'a pas versé au cours de chacun des mêmes exercices un montant de prestations supérieur à trente-six millions d'euros.
-
-Pour les mutuelles et les unions qui se sont substituées à d'autres organismes selon les modalités prévues à l'article L.
-211-5, sont prises en compte les cotisations encaissées et les prestations versées par ces derniers organismes.
+Les avis rendus par voie de consultation écrite sont annexés au procès-verbal de la séance suivante. Mention y est faite du
+nom des membres ayant émis un avis et des membres n'ayant pas pris part à la consultation.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté 2005-01-10 art. 1 II JORF 19 janvier 2005
-
-	**Abrogé par**:
-
 	  - Arrêté du 30 décembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la mutualité (nouveau) L111-1, L211-5
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance 2001-350 2001-04-19
+	  - Code de la mutualité - art. A411-3 (V)
 
 
 # Partie réglementaire ancienne
@@ -23428,15483 +16554,6 @@ rédaction issue de la loi n° 85-773 du 25 juillet 1985 sont abrogées.
 
 # Annexes
 
-## Annexe à l'article A114-4 
-
-
-
-###### Article Annexe à l'article A114-4
-
-Les renseignements généraux du compte rendu détaillé annuel sont les suivants : 
-
-a) La raison sociale de la mutuelle ou de l'union, son adresse, la date de sa constitution et un exemplaire à jour des
-statuts lorsque ceux-ci ont été modifiés ; 
-
-b) Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ; 
-
-c) Les nom, date et lieu de naissance, nationalité, domicile, grade et fonction des personnels de direction en fonction à la
-date d'établissement du compte rendu détaillé annuel ; 
-
-d) Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants ; 
-
-e) La liste des branches pratiquées en France et, pour chaque branche, la date de l'agrément administratif dans les termes de
-l'article L. 211-7 et l'année de début d'exercice des opérations relevant de chaque branche ; 
-
-f) La liste des pays où la mutuelle ou l'union exerce son activité, d'une part en régime d'établissement et, d'autre part en
-libre prestation de service et, pour chaque pays et chaque régime, des branches qu'elle y pratique, avec, pour chaque
-branche, la date de l'acte administratif ayant autorisé les opérations, lorsque l'exercice de l'activité d'assurance est
-soumis à une telle formalité, ainsi que l'année de début d'exercice des opérations relevant de chaque branche ; 
-
-g) Un tableau indiquant, par pays d'établissement, l'effectif moyen annualisé du personnel salarié en distinguant les
-personnels affectés à la commercialisation des contrats des autres personnels et, au sein de chacun de ces deux ensembles,
-les catégories suivantes : personnels de direction, cadres, non-cadres. Ce tableau est complété par l'indication de
-l'effectif moyen annualisé des mandataires de la mutuelle ou de l'union auxquels elle a recours pour la commercialisation ou
-la gestion des contrats conformément à l'article L. 114-31 du présent code. 
-
-h) La liste des règlements dont la commercialisation a commencé au cours de l'exercice. Chaque règlement est identifié par
-son nom commercial et l'indication de la catégorie ou sous-catégorie, définie à l'état C 4 figurant à l'annexe à l'article A.
-114-5, à laquelle il appartient. Les différentes versions d'un règlement commercialisé sous une même dénomination sont à
-considérer comme des règlements distincts. 
-
-i) La liste des tables mentionnées au b de l'article A. 212-10 et établies durant l'année.
-
-A l'appui de cette liste, la mutuelle ou l'union conserve à la disposition des commissaires-contrôleurs un dossier relatif à
-chacune des prestations en cours. Ce dossier comprend :
-
-- un spécimen du règlement mutualiste ;
-
-- un spécimen du contrat collectif ou du bulletin d'adhésion ;
-
-- un spécimen de la note d'information. 
-
-En assurance vie et capitalisation, le dossier comprend, en outre, une fiche technique explicitant les garanties accordées,
-le tarif appliqué (avec justification de sa suffisance), les modalités de fixation à toute époque de la valeur de rachat et
-de la valeur de réduction-si le contrat le comporte-, la méthode de calcul de la charge annuelle de participation aux
-bénéfices ainsi que le mode de répartition de cette participation entre les assurés (quotité et délai), et le calcul des
-provisions mathématiques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-4 (Ab)
-
-	**Cite**:
-
-	  - Code de la mutualité - art. A114-5 (Ab)
-	  - Code de la mutualité - art. A212-10 (V)
-	  - Code de la mutualité - art. L114-31
-	  - Code de la mutualité - art. L211-7
-
-
-## Annexes à l'article A114-5
-
-###### Article Annexe C1 à l'article A114-5
-
-**ETAT C1 **
-
-**Etats d'analyse des comptes**
-
-Dans cette annexe, le terme mutuelle s'applique aux mutuelles et aux unions de mutuelles.
-
-A défaut de mention spécifique, le terme provisions recouvre les provisions techniques et les engagements techniques sur
-opérations données en substitution et le terme affaires directes recouvre les opérations directes et les opérations prises en
-substitution.
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
-
-**ETAT C 1 : RÉSULTATS TECHNIQUES PAR CATÉGORIES D'OPÉRATIONS**
-
-Les mutuelles agréées pour pratiquer des opérations visées au b du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 1 Vie-capitalisation ; si elles pratiquent des opérations
-visées au a du 1
-  <sup>o</sup> du I de l'article L. 111-1, elles établissent en outre un état C 1 Dommages corporels. Les autres mutuelles
-agréées pour pratiquer des opérations visées au 1
-  <sup>o</sup> du I de ce même article établissent un état C 1 Non-vie.
-
-L'état C 1 répartit d'abord les résultats techniques par pays d'établissement. Les opérations souscrites en France sont
-ensuite détaillées selon leur modalité d'exploitation : affaires directes françaises ; opérations réalisées en libre
-prestation de services ; acceptations. Enfin, les affaires directes françaises sont ventilées par catégories ou regroupements
-de catégories de règlements ou de contrats définis à l'article A. 214-1. Pour chaque catégorie, la mutuelle porte oui ou non
-en haut de la colonne selon que les opérations décrites dans la colonne sont ou non données en substitution.
-
-Lorsqu'un règlement ou un contrat regroupe des opérations différentes, il est d'abord scindé en deux ensembles selon que les
-opérations sont ou non données en substitution, puis chaque ensemble est rattaché en totalité à une catégorie principale, dès
-lors que celle-ci peut être déterminée sans ambiguïté. Lorsque aucune catégorie ne peut être qualifiée de principale, les
-garanties sont ventilées en autant de sous-ensembles qu'il existerait de règlements ou de contrats séparés au regard des
-pratiques constatées sur le marché ; chacun de ces sous-ensembles de garanties est rattaché à sa catégorie principale. Par
-exception, les garanties de dommages corporels sont toujours dissociées des garanties en cas de vie ou de décès.
-
-Le modèle des états C 1 Vie-capitalisation, C 1 Non-vie et C 1 Dommages corporels est fixé ci-après. Le contenu des lignes
-est précisé par référence aux comptes et sous-comptes du plan comptable relatifs aux opérations directes, hors opérations en
-unités de compte ; les mutuelles effectuent les transpositions nécessaires pour présenter leurs opérations prises en
-substitution, leurs opérations en unités de compte et leurs acceptations. Les sous-comptes rattachés aux comptes 6004, 6024,
-6104, 6124, 62004, 62124, sont identifiés par la post-position pb ou it selon qu'ils retracent les participations aux
-excédents ou les intérêts techniques.
-
-Lorsque la mutuelle prend des opérations en substitution, les états C 1 Vie, C 1 Non-vie et C 1 Dommages Corporels sont
-complétés par deux états annexes qui en sont l'éclatement :
-
-- annexe A : état de modèle C 1 pour les opérations autres que prises en substitution ;
-
-- annexe B : état de modèle C 1 pour les opérations prises en substitution.
-
-**ETAT C 1 VIE-CAPITALISATION**
-
-L'état C 1 Vie-capitalisation comporte les colonnes suivantes :
-
-Total général ;
-
-Sous-total des opérations non données en substitution ;
-
-Sous-total des opérations données en substitution ;
-
-Opérations de capitalisation en euros ou devises à cotisation unique ou versements libres (catégorie 1) ;
-
-Opérations de capitalisation en euros ou devises à cotisations périodiques (catégorie 2) ;
-
-Opérations individuelles (y compris groupes ouverts) d'assurance temporaire décès en euros ou devises (catégorie 3) ;
-
-Autres opérations individuelles (y compris groupes ouverts d'assurance vie) en euros ou devises à cotisation unique
-(catégorie 4) ;
-
-Autres opérations individuelles (y compris groupes ouverts d'assurance vie) en euros ou en devises à cotisations périodiques
-(catégorie 5) ;
-
-Opérations collectives en cas de décès en euros ou devises (catégorie 6) ;
-
-Opérations collectives en cas de vie en euros ou devises (catégorie 7) ;
-
-Opérations d'assurance vie ou de capitalisation en unités de compte à cotisation unique ou à versements libres (catégorie
-8) ;
-
-Opération d'assurance vie ou de capitalisation en unités de compte à cotisations périodiques (catégorie 9) ;
-
-Opérations collectives relevant de l'article L. 222-1 (catégorie 10) ;
-
-Plans d'épargne retraite populaires relevant de l'article 108 de la loi n
-  <sup>o</sup> 2003-275 du 21 août 2003 (catégorie 11) ;
-
-Opération de nuptialité ou de natalité (catégorie 12) ;
-
-Total des affaires directes en France (catégories 1 à 12) ;
-
-Opérations en libre prestation de services par un établissement en France ;
-
-Acceptations par un établissement en France ;
-
-Opérations des succursales établies dans un État de l'Union européenne (hors la France) ;
-
-Opérations des succursales établies hors de l'Union européenne.
-
-L'état C 1 Vie-capitalisation comporte les lignes suivantes :
-
-(L. 1) Cotisations et accessoires émis (comptes 7000 et 7001) ;
-
-(L. 2) Annulations (compte 7002) ;
-
-(L. 3) Cotisations à émettre nettes de cotisations à annuler, à la clôture de l'exercice (comptes 4000 moins 4010 à la
-clôture) ;
-
-(L. 4) Cotisations à émettre nettes de cotisations à annuler, à l'ouverture de l'exercice (comptes 4000 moins 4010 à
-l'ouverture) ;
-
-(L. 5) Sous-total : Cotisations nettes (lignes L. 1 - L. 2 + L. 3 - L. 4) ;
-
-(L. 10) Prestations et capitaux payés (compte 6000) ;
-
-(L. 11) Versements périodiques de rentes (compte 6001) ;
-
-(L. 12) Rachats (compte 6002) ;
-
-(L. 13) Frais de gestion et de règlement des prestations (comptes 6005 et 6008) ;
-
-(L. 14) Provisions pour prestations à payer à la clôture de l'exercice (compte 320 à la clôture) ;
-
-(L. 15) Provisions pour prestations à payer à l'ouverture de l'exercice (compte 320 à l'ouverture) ;
-
-(L. 16) Intérêts techniques inclus dans l'exercice dans les prestations payées ou provisionnées (comptes 6004it et 6104it) ;
-
-(L. 17) Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées (comptes
-6004pb, 6104pb, 63093 et 63094) ;
-
-(L. 18) Sous-total : charge des prestations (lignes L. 10 + L. 11 + L. 12 + L. 13 + L. 14-L. 15-L. 16-L. 17) ;
-
-(L. 20) Provisions d'assurance vie à la clôture de l'exercice (comptes 300 à la clôture) ;
-
-(L. 21) Provisions d'assurance vie à l'ouverture de l'exercice (comptes 300 à l'ouverture) ;
-
-(L. 22) Intérêts techniques incorporés dans l'exercice aux provisions d'assurance vie (compte 62004 it) ;
-
-(L. 23) Ajustement sur opérations à capital variable (comptes 766 moins 666) ;
-
-(L. 24) Participations aux excédents incorporées dans l'exercice aux provisions d'assurance vie (compte 62004pb et 63095) ;
-
-(L. 25) Autres provisions techniques à la clôture de l'exercice (comptes 3600, 3700 et 377 à la clôture) ;
-
-(L. 26) Autres provisions techniques à l'ouverture de l'exercice (comptes 3600, 3700 et 377 à l'ouverture) ;
-
-(L. 27) Sous-total : Charge de provisions (L. 20-L. 21-L. 22-L. 23-L. 24 + L. 25-L. 26) ;
-
-(L. 28) Virement de provisions
-
-(L. 30) Participation aux excédents (comptes 6303 à 6306) ;
-
-(L. 40) Frais d'acquisition (compte 6400) ;
-
-(L. 41) Frais d'administration et autres charges techniques nets (comptes 6402 et 644 moins 720, 740 et 7451, quote-part
-vie) ;
-
-(L. 42) Subventions d'exploitation reçues (compte 730) ;
-
-(L. 43) Produits des placements nets de charges (comptes 76, sauf 766, moins 7939 et 66, sauf 666) ;
-
-(L. 44) Intérêts techniques nets de cessions et d'opérations données en substitution (comptes 6300 à 6302 moins sous-comptes
-correspondants du compte 6390) ;
-
-(L. 45) Sous-total : produits financiers nets (L. 43-L. 44) ;
-
-(L. 50) Cotisations cédées et données en substitution (compte 7090) ;
-
-(L. 51) Part des réassureurs et des garants en substitution dans les prestations payées (compte 6090 sauf sous-compte
-correspondant au 6004) ;
-
-(L. 52) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
-participation aux excédents, à la clôture de l'exercice (comptes 390, 392, 3960 et 3970 à la clôture) ;
-
-(L. 53) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
-participation aux excédents, à l'ouverture de l'exercice (comptes 390, 392, 3960 et 3970 à l'ouverture) ;
-
-(L. 54) Part des réassureurs et des garants en substitution dans les participations aux excédents incorporées dans l'exercice
-aux prestations payées ou provisions techniques (sous-comptes des comptes 6090, 6190, 6290 correspondants aux comptes 6004,
-6104, 62004, ainsi que sous-comptes du compte 6390 correspondants au compte 6309) ;
-
-(L. 55) Part des réassureurs et des garants en substitution dans les participations aux excédents (sous-comptes du compte
-6390 correspondants aux comptes 6303 à 6306) ;
-
-(L. 56) Commissions reçues des réassureurs et des garants en substitution (compte 6490) ;
-
-(L. 57) Sous-total : charge de la réassurance et de la garantie en substitution (L. 50-L. 51 - L. 52 + L. 53 + L. 54-L. 55-L.
-56) ;
-
-(L. 60) Résultat technique (L. 5 - L. 18-L. 27-L. 30 - L. 40-L. 41 + L. 42 + L. 45-L. 57).
-
-**L'ÉTAT C 1 VIE-CAPITALISATION EST COMPLÉTÉ PAR QUATRE LIGNES HORS COMPTE**
-
-(L. 70) Provisions pour participation aux excédents et ristournes à la clôture de l'exercice (compte 34 à la clôture) ;
-
-(L. 71) Provisions pour participation aux excédents et ristournes à l'ouverture de l'exercice (compte 34 à l'ouverture) ;
-
-(L. 72) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
-ristournes à la clôture de l'exercice (compte 394 à la clôture) ;
-
-(L. 73) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
-ristournes à l'ouverture de l'exercice (compte 394 à l'ouverture).
-
-**ETAT C 1 NON VIE**
-
-L'état C 1 non-vie comporte les colonnes suivantes :
-
-Total général ;
-
-Sous-total des opérations non données en substitution ;
-
-Sous-total des opérations données en substitution ;
-
-Total des dommages corporels, opérations individuelles (catégorie 20) ;
-
-Dommages corporels, opérations individuelles non données en substitution (catégorie 201) ;
-
-Dommages corporels, opérations individuelles données en substitution (catégorie 202) ;
-
-Total des dommages corporels, opérations collectives (catégorie 21) ;
-
-Dommages corporels, opérations collectives non données en substitution (catégorie 211) ;
-
-Dommages corporels, opérations collectives données en substitution (catégorie 212) ;
-
-Protection juridique (catégorie 29) ;
-
-Assistance (catégorie 30) ;
-
-Pertes pécuniaires diverses (catégorie 31) ;
-
-Sous-total (catégories 20 à 31) ;
-
-Caution (catégorie 38) ;
-
-Total des affaires directes en France (catégories 20 à 38) ;
-
-Opérations en libre prestation de service par un établissement en France ;
-
-Acceptations par un établissement en France (catégorie 39) ;
-
-Opérations des succursales établies dans un Etat de l'Union européenne (hors la France) ;
-
-Opérations des succursales établies hors de l'Union européenne.
-
-L'état C 1 Non-vie comporte les lignes suivantes :
-
-(L. 1) Cotisations, participation légale au titre de la CMU et accessoires émis (comptes 7020 et 7021) ;
-
-(L. 2) Annulations et charge de ristournes (comptes 7022 et 7023 moins 63297) ;
-
-(L. 3) Cotisations à émettre nettes de cotisations à annuler, à la clôture de l'exercice (comptes 4000 moins 4010 à la
-clôture) ;
-
-(L. 4) Cotisations à émettre nettes de cotisations à annuler, à l'ouverture de l'exercice (comptes 4000 moins 4010 à
-l'ouverture) ;
-
-(L. 5) Sous-total : Cotisations nettes (lignes L. 1 - L. 2 + L. 3 - L. 4) ;
-
-(L. 6) Provisions pour cotisations non acquises à la clôture (compte 312 à la clôture) ;
-
-(L. 7) Provisions pour cotisations non acquises à l'ouverture (compte 312 à l'ouverture) ;
-
-(L. 8) Sous-total : cotisations de l'exercice (L. 5 - L. 6 + L 7) ;
-
-(L. 10) Prestations et prestations légales au titre de la CMU payées (comptes 6020 et 6021) ;
-
-(L. 11) Versements périodiques de rentes (compte 6022) ;
-
-(L. 12) Recours encaissés (compte 6026) ;
-
-(L. 13) Frais de gestion et de règlement des prestations (comptes 6025 et 6028) ;
-
-(L. 14) Provisions pour prestations à payer à la clôture de l'exercice (compte 332 à la clôture) ;
-
-(L. 15) Provisions pour prestations à payer à l'ouverture de l'exercice (compte 332 à l'ouverture) ;
-
-(L. 16) Prévision de recours à encaisser à la clôture de l'exercice (compte 336 à la clôture) ;
-
-(L. 17) Prévision de recours à encaisser à l'ouverture de l'exercice (compte 336 à l'ouverture) ;
-
-(L. 18) Autres provisions techniques à la clôture de l'exercice (comptes 3622, 37202, 37212, 37222, 3723 à la clôture) ;
-
-(L. 19) Autres provisions techniques à l'ouverture de l'exercice (comptes 3622, 37202, 37212, 37222, 3723 à l'ouverture) ;
-
-(L. 20) Participations aux excédents incorporées dans l'exercice aux prestations payées ou aux provisions techniques (comptes
-6024, 6124, 62124 et 6329 sauf 63297) ;
-
-(L. 21) Sous-total : charge des prestations (L. 10 + L. 11-L. 12 + L. 13 + L. 14-L. 15-L. 16 + L. 17 + L. 18-L. 19-L. 20) ;
-
-(L. 30) Participation aux excédents (comptes 6323, 6324 et 6326) ;
-
-(L. 40) Frais d'acquisition (compte 6420) ;
-
-(L. 41) Frais d'administration et autres charges techniques nets (comptes 6422 et 645 moins 722, 742, 7450 et 7451, quote-
-part non-vie) ;
-
-(L. 42) Subventions d'exploitation reçues (compte 732) ;
-
-(L. 43) Produits des placements alloués (compte 7920) ;
-
-(L. 44) Intérêts techniques nets de cessions et des opérations données en substitution (comptes 6320 et 6321 moins sous-
-comptes correspondants du compte 6392) ;
-
-(L. 45) Sous-total : produits financiers nets (L. 43-L. 44) ;
-
-(L. 50) Cotisations cédées et données en substitution (compte 7092 moins sous-compte du compte 6392 correspondant au compte
-63297) ;
-
-(L. 51) Part des réassureurs et des garants en substitution dans les prestations payées (compte 6092 sauf sous-compte
-correspondant au 6024) ;
-
-(L. 52) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
-participation aux excédents, à la clôture de l'exercice (comptes 391, 393, 3962 et 3972 à la clôture) ;
-
-(L. 53) Part des réassureurs et des garants en substitution dans les provisions techniques, autres que les provisions pour
-participation aux excédents, à l'ouverture de l'exercice (comptes 391, 393, 3962 et 3972 à l'ouverture) ;
-
-(L. 54) Part des réassureurs et des garants en substitution dans les participations aux excédents incorporées dans l'exercice
-aux prestations payées ou provisions techniques (sous-comptes des comptes 6092, 6192, 62912 et 62913 correspondants aux
-comptes 6024, 6124 et 62124, ainsi que sous-compte du compte 6392 correspondant au compte 6329 sauf sous-compte 63297) ;
-
-(L. 55) Part des réassureurs et des garants en substitution dans les participations aux excédents (sous-comptes du compte
-6392 correspondants aux comptes 6323, 6324 et 6326) ;
-
-(L. 56) Commissions reçues des réassureurs et des garants en substitution (compte 6492) ;
-
-(L. 57) Sous-total : charge de la réassurance et de la garantie en substitution (L. 50 - L. 51 - L. 52 + L. 53 + L. 54 - L.
-55 - L. 56) ;
-
-(L. 60) Résultat technique (L. 8 - L. 21 - L. 30 - L. 40 - L. 41 + L. 42 + L. 45 - L. 57).
-
-L'état C 1 non-vie est complété par quatre lignes hors compte :
-
-(L. 70) Provisions pour participation aux excédents et ristournes à la clôture de l'exercice (compte 352 à la clôture) ;
-
-(L. 71) Provisions pour participations aux excédents et ristournes à l'ouverture de l'exercice (compte 352 à l'ouverture) ;
-
-(L. 72) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
-ristournes à la clôture de l'exercice (compte 395 à la clôture) ;
-
-(L. 73) Part des réassureurs et des garants en substitution dans les provisions pour participation aux excédents et
-ristournes à l'ouverture de l'exercice (compte 395 à l'ouverture
-
-**ETAT C 1 DOMMAGES CORPORELS**
-
-L'état C 1 Dommages corporels comporte les colonnes suivantes :
-
-Total général ;
-
-Sous-total des opérations non données en substitution ;
-
-Sous-total des opérations données en substitution ;
-
-Total des dommages corporels, opérations individuelles (catégorie 20) ;
-
-Dommages corporels, opérations individuelles non données en substitution (catégorie 201) ;
-
-Dommages corporels, opérations individuelles données en substitution (catégorie 202) ;
-
-Total des dommages corporels, opérations collectives (catégorie 21) ;
-
-Dommages corporels, opérations collectives non données en substitution (catégorie 211) ;
-
-Dommages corporels, opérations collectives données en substitution (catégorie 212) ;
-
-Opérations en libre prestation de service par un établissement en France ;
-
-Acceptations par un établissement en France ;
-
-Opérations des succursales établies dans un Etat de l'Union européenne (hors la France) ;
-
-Opérations des succursales établies hors de l'Union européenne.
-
-Si la mutuelle est agréée pour pratiquer des opérations visées au a du 1
-  <sup>o</sup> du I de l'article L. 111-1, l'état C 1 Dommages corporels comporte les mêmes lignes que l'état C 1 Non-vie.
-
-Dans les autres cas, l'état C 1 dommages corporels comporte les mêmes lignes que l'état C 1 Vie.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C2 à l'article A114-5
-
-**ETAT C2 : ENGAGEMENTS ET RESULTATS TECHNIQUES PAR PAYS**
-
-Les mutuelles décrivent leurs engagements et résultats techniques par pays d'établissement selon le modèle suivant :
-
-<table>
-  <thead>
-    <tr>
-      <td width="130">
-
-PAYS
-
-</td>
-      <td width="39">
-
-CODE PAYS (1)
-
-</td>
-      <td width="65">
-
-COTISATIONS (2)
-
-</td>
-      <td width="65">
-
-DONT COTISATIONS données en substitution
-
-</td>
-      <td width="65">
-
-PROVISIONS (3)
-
-</td>
-      <td width="52">
-
-DONT ENGAGEMENTS techniques
-
-</td>
-      <td width="39">
-
-RÉSULTAT technique (4)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Union européenne (5)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Allemagne
-
-</td>
-      <td>
-
-DE
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Autriche
-
-</td>
-      <td>
-
-AT
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Belgique
-
-</td>
-      <td>
-
-BE
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Chypre
-
-</td>
-      <td>
-
-CY
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Danemark
-
-</td>
-      <td>
-
-DK
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Espagne
-
-</td>
-      <td>
-
-ES
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Estonie
-
-</td>
-      <td>
-
-EE
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Finlande
-
-</td>
-      <td>
-
-FI
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-France
-
-</td>
-      <td>
-
-FR
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-LPS depuis la France
-
-</td>
-      <td>
-
-FR
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Grèce
-
-</td>
-      <td>
-
-GR
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Hongrie
-
-</td>
-      <td>
-
-HU
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Irlande
-
-</td>
-      <td>
-
-IE
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Italie
-
-</td>
-      <td>
-
-IT
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lettonie
-
-</td>
-      <td>
-
-LV
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lituanie
-
-</td>
-      <td>
-
-LT
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Luxembourg
-
-</td>
-      <td>
-
-LU
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Malte
-
-</td>
-      <td>
-
-MT
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Pays-Bas
-
-</td>
-      <td>
-
-NL
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Pologne
-
-</td>
-      <td>
-
-PL
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Portugal
-
-</td>
-      <td>
-
-PT
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-République tchèque
-
-</td>
-      <td>
-
-CZ
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Royaume-Uni
-
-</td>
-      <td>
-
-GB
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Slovaquie
-
-</td>
-      <td>
-
-SK
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Slovénie
-
-</td>
-      <td>
-
-SI
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Suède
-
-</td>
-      <td>
-
-SE
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total Union européenne
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Espace économique européen hors Union européenne
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Islande
-
-</td>
-      <td>
-
-IS
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Liechtenstein
-
-</td>
-      <td>
-
-LI
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Norvège
-
-</td>
-      <td>
-
-NO
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total EEE hors UE
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Hors Espace économique européen...
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Divers
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total hors EEE
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total général
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(1) Code à 2 lettres de la norme internationale ISO 3166-1.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(2) Cotisations nettes au sens de la ligne L. 5 de l'état C 1, brutes de réassurance et y compris opérations données en
-substitution.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(3) Provisions techniques brutes de réassurance à la clôture de l'exercice et engagements techniques sur opérations données
-en substitution.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(4) Au sens de la ligne L. 60 de l'état C 1.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(5) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-  </tbody>
-</table>
-
-Les chiffres relatifs aux pays non membres de l'Union européenne dans lesquelles les cotisations sont inférieures à 1 % des
-cotisations en France et les provisions et engagements techniques sont inférieurs à 1 % des provisions et engagements
-techniques en France peuvent être regroupés en une seule ligne intitulée "divers".
-
-Si la mutuelle opère dans plus de dix pays non membres de l'Union européenne en réalisant dans chacun d'eux un volume
-d'activité supérieur aux seuils visés à l'alinéa précédent, seuls sont détaillés les chiffres relatifs aux dix pays de plus
-forte activité en termes de cotisations d'abord, de provisions et d'engagements techniques ensuite. Les autres pays sont
-regroupés à la ligne intitulée "divers ".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C3 à l'article A114-5
-
-**ÉTAT C3 Acceptations et cessions en réassurance, affaires directes prises et opérations données en substitution**
-
-Les mutuelles décrivent, selon le modèle fixé ci-après, leurs opérations de réassurance acceptées (tableau A) et cédées
-(tableau B), ainsi que leurs opérations prises en substitution (tableau C) et données en substitution (tableau D), en les
-ventilant d'après l'Etat de l'établissement qui a signé le traité ou la convention de substitution (France ou étranger) et en
-fonction du lien existant entre les cocontractants (mutuelles ou institutions de prévoyance ou entreprises d'assurance du
-groupe au sens de l'article L. 212-7 ou non).
-
-Tableau A : Acceptations (France et
-étranger)                                                                                       
-
-<table>
-  <thead>
-    <tr>
-      <td width="104">
-
-ACCEPTATIONS   PAR UN ÉTABLISSEMENT
-
-</td>
-      <td colspan="2" width="169">
-
-FRANÇAIS
-
-</td>
-      <td colspan="2" width="160">
-
-ÉTRANGER
-
-</td>
-      <td width="80">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="104">
-
-En   provenance de :
-
-</td>
-      <td width="89">
-
-Organismes   du groupe
-
-</td>
-      <td width="80">
-
-Autres   organismes
-
-</td>
-      <td width="80">
-
-Organismes   du groupe
-
-</td>
-      <td width="80">
-
-Autres organismes
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Cotisations   acceptées
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Provisions   techniques sur acceptations
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Solde   technique (1)
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Intérêts   sur dépôts espèces
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="513" colspan="6">
-
-(1) Le solde   technique est le montant des cotisations diminué des prestations (y compris   variation des provisions
-techniques) et des frais d'acquisition.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Tableau B : Cessions et rétrocessions (France et
-étranger)                                                                              
-
-<table>
-  <thead>
-    <tr>
-      <td width="104">
-
-CESSIONS   PAR UN ÉTABLISSEMENT
-
-</td>
-      <td colspan="2" width="169">
-
-FRANÇAIS
-
-</td>
-      <td width="160" colspan="2">
-
-ÉTRANGER
-
-</td>
-      <td width="80">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="104">
-
-A   des :
-
-</td>
-      <td width="89">
-
-Organismes   du groupe
-
-</td>
-      <td width="80">
-
-Autres   organismes
-
-</td>
-      <td width="80">
-
-Organismes   du groupe
-
-</td>
-      <td width="80">
-
-Autres organismes
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Cotisations   cédées
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Provisions   techniques cédées
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Charge   de réassurance (2)
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Intérêts   sur dépôts espèces
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="6" width="513">
-
-(2) Charge de   réassurance au sens de la ligne L. 57 de l'état C 1.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Tableau C : Opérations prises en
-substitution                                                                                        
-
-<table>
-  <tbody>
-    <tr>
-      <td width="104">
-
-OPÉRATIONS   en provenance de :
-
-</td>
-      <td width="89">
-
-ORGANISMES   du groupe
-
-</td>
-      <td width="80">
-
-AUTRES   organismes
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Cotisations
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Provisions   techniques
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Solde   technique (1)
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Produits   financiers nets
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="273" colspan="3">
-
-(1) Le solde   technique est le montant des cotisations diminué des prestations (y compris   variation des provisions
-techniques) et des frais d'acquisition.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Tableau D : Opérations données en
-substitution                                                                                             
-
-<table>
-  <thead>
-    <tr>
-      <td width="104">
-
-OPÉRATIONS   données à des :
-
-</td>
-      <td width="89">
-
-ORGANISMES   du groupe
-
-</td>
-      <td width="80">
-
-AUTRES   organismes
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="104">
-
-Cotisations
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Engagements   techniques
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Solde   technique (1)
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-Produits   financiers alloués
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-</td>
-      <td width="89">
-
-</td>
-      <td width="80">
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" width="273">
-
-(1) Le solde   technique est le montant des cotisations diminué des prestations (y compris   variation des engagements
-techniques) et des frais d'acquisition.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C4 à l'article A114-5
-
-**ÉTAT C4 : COTISATIONS PAR CATÉGORIES DE CONTRATS ET GARANTIES**
-
-Les mutuelles ventilent les cotisations nettes par catégories, sous-catégories ou regroupements de catégories d'opérations,
-subdivisés par garanties en dommages corporels, selon le modèle fixé ci-après.
-
-Les mutuelles agréées pour pratiquer les opérations visées au b du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 4 Vie-capitalisation-mixte et les autres mutuelles visées au
-1
-  <sup>o</sup> du I de l'article L. 111-1 un état C 4 Non-Vie.
-
-Etat C 4 Vie-capitalisation mixte
-
-L'état C 4 Vie-capitalisation mixte comporte les lignes suivantes :
-
-I. - Total des affaires directes en France (catégories 01 à 21)
-
-01 Opérations de capitalisation à prime unique ou versements libres
-
-02 Opérations de capitalisation à cotisations périodiques
-
-03 Opérations individuelles (y compris groupes ouverts) d'assurance temporaire décès 
-
-031 Temporaires décès à prime unique ou versements libres 
-
-032 Temporaires décès à cotisations périodiques 
-
-04 Autres opérations individuelles (y compris groupes ouverts) d'assurance vie à prime unique ou versements libres 
-
-041 Rentes à prime unique ou versements libres 
-
-042 Autres opérations à prime unique ou versements libres 05 Autres opérations individuelles (y compris groupes ouverts)
-d'assurance vie à cotisations périodiques 
-
-051 Rentes à cotisations périodiques 
-
-052 Autres opérations à cotisations périodiques 
-
-06 Opérations collectives en cas de décès 
-
-061 Opérations collectives en cas de décès visés à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989 
-
-062 Autres opérations collectives en cas de décès 
-
-07 Opérations collectives en cas de vie 
-
-071 Opérations collectives de rentes 
-
-072 Autres opérations collectives 
-
-08 Opérations d'assurance vie ou de capitalisation en unités de compte à prime unique ou versements libres
-
-081 Opérations de capitalisation en unités de compte à prime unique ou versements libres
-
-082 Temporaires décès en unités de compte à prime unique ou versements libres
-
-083 Rentes individuelles en unités de compte à prime unique ou versements libres
-
-084 Autres opérations individuelles en unités de compte à prime unique ou versements libres
-
-085 Opérations collectives en cas de décès en unités de compte à prime unique ou versements libres visés à l'article 2 de la
-loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-086 Autres opérations collectives en cas de décès en unités de compte à prime unique ou versements libres
-
-087 Opérations collectives de rentes en unités de compte à prime unique ou versements libres
-
-088 Autres opérations collectives d'assurance en unités de compte à prime unique ou versements libres
-
-09 Opérations d'assurance vie ou de capitalisation en unités de compte à cotisations périodiques
-
-091 Opérations de capitalisation en unités de compte à cotisations périodiques
-
-092 Temporaires décès en unités de compte à cotisations périodiques
-
-093 Rentes individuelles en unités de compte à cotisations périodiques
-
-094 Autres opérations individuelles en unités de compte à cotisations périodiques
-
-095 Opérations collectives en cas de décès en unités de compte à cotisations périodiques
-
-096 Autres opérations collectives en cas de décès en unités de compte à cotisations périodiques
-
-097 Opérations collectives de rentes en unités à cotisations périodiques
-
-098 Autres opérations collectives d'assurance en unités de compte à cotisations périodiques
-
-10 Opérations collectives relevant de l'article L. 222-1
-
-11 Plans d'épargne retraite populaires relevant de l'article 108 de la loi n
-  <sup>o</sup> 2003-275 du 21 août 2003 
-
-111 Opérations non données en substitution
-
-1111 Plans consistant en l'acquisition d'une rente viagère différée, en cotisations uniques et à versements libres 
-
-11111 Plans prévoyant une provision technique de diversification 
-
-11112 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
-affectée à l'acquisition de la provision mathématique 
-
-11113 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
-affectée à l'acquisition de la provision mathématique 
-
-1112 Plans consistant en l'acquisition d'une rente viagère différée, en cotisations périodiques 
-
-11121 Plans prévoyant une provision technique de diversification 
-
-11122 Plan ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement affectée
-à l'acquisition de la provision mathématique 
-
-11123 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
-affectée à l'acquisition de la provision mathématique 
-
-1113 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations uniques et à versements libres 
-
-11131 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion choisie par l'adhérent 
-
-11132 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion fixée par le plan 
-
-11133 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
-affectée à l'acquisition de la provision mathématique 11134 Plans ne prévoyant pas de provision technique de diversification
-et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 
-
-11135 Plans en unités de compte
-
-1114 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations périodiques 
-
-11141 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion choisie par l'adhérent 
-
-11142 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion fixée par le plan 
-
-11143 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
-affectée à l'acquisition de la provision mathématique 11144 Plans ne prévoyant pas de provision technique de diversification
-et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 11145 Plans en unités
-de compte
-
-1115 Plans régis par l'article L. 222-1
-
-112 Opérations données en substitution
-
-1121 Plans consistant en l'acquisition d'une rente viagère différée, en cotisations uniques et à versements libres 
-
-11211 Plans prévoyant une provision technique de diversification 
-
-11212 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
-affectée à l'acquisition de la provision mathématique 11213 Plans ne prévoyant pas de provision technique de diversification
-et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 1122 Plans consistant
-en l'acquisition d'une rente viagère différée, en cotisations périodiques 
-
-11221 Plans prévoyant une provision technique de diversification 
-
-11222 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
-affectée à l'acquisition de la provision mathématique 
-
-11223 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
-affectée à l'acquisition de la provision mathématique 
-
-1123 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations uniques et à versements libres 
-
-11231 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion choisie par l'adhérent 
-
-11232 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion fixée par le plan 
-
-11233 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
-affectée à l'acquisition de la provision mathématique 
-
-11234 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est partiellement
-affectée à l'acquisition de la provision mathématique [ 
-
-11235 Plans en unités de compte
-
-1124 Plans consistant en la constitution d'une épargne convertie en rente, en cotisations périodiques 
-
-11241 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion choisie par l'adhérent 
-
-11242 Plans prévoyant une provision technique de diversification et pour lesquels la cotisation est affectée à l'acquisition
-de la provision mathématique selon une proportion fixée par le plan
-
-11243 Plans ne prévoyant pas de provision technique de diversification et pour lesquels la cotisation est entièrement
-affectée à l'acquisition de la provision mathématique 11244 Plans ne prévoyant pas de provision technique de diversification
-et pour lesquels la cotisation est partiellement affectée à l'acquisition de la provision mathématique 
-
-11245 Plans en unités de compte
-
-1125 Plans régis par l'article L. 222-1
-
-12 Opérations de Nuptialité-Natalité
-
-121 Nuptialité
-
-122 Natalité
-
-20 Opérations individuelles (y compris groupes ouverts) de dommages corporels (y compris garanties accessoires ou
-complémentaires aux opérations individuelles d'assurance en cas de vie ou de décès).
-
-201 Autres garanties frais de soins
-
-2011 Opérations non données en substitution
-
-2012 Opérations données en substitution
-
-202 Autres garanties
-
-2021 Opérations non données en substitution
-
-2022 Opérations données en substitution
-
-203 Garanties frais de soins relevant de la couverture maladie universelle définie par la loi n
-  <sup>o</sup> 99-641 du 27 juillet 1999
-
-2031 Opérations non données en substitution
-
-2032 Opérations données en substitution
-
-21 Opérations collectives de dommages corporels (y compris garanties accessoires ou complémentaires aux opérations
-collectives d'assurance en cas de vie ou de décès)
-
-211 Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2111 Opérations non données en substitution
-
-2112 Opérations données en substitution
-
-212 Autres garanties délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2121 Opérations non données en substitution
-
-2122 Opérations données en substitution
-
-213 Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2131 Opérations non données en substitution
-
-2132 Opérations données en substitution
-
-214 Autres garanties non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2141 Opérations non données en substitution
-
-2142 Opérations données en substitution
-
-II. - Total des opérations en libre prestation de services par un établissement en France
-
-III. - Total des acceptations en réassurance par un établissement en France
-
-IV. - Total des opérations des succursales établies dans l'Union européenne (hors la France)
-
-a) Affaires directes souscrites par les succursales établies dans l'Union européenne (hors la France)
-
-b) Opérations effectuées en libre prestation de service par les succursales établies dans l'Union européenne (hors la France)
-
-c) Acceptations en réassurance par les succursales établies dans l'Union européenne (hors la France)
-
-V. - Total des opérations des succursales établies hors de l'Union européenne
-
-a) Affaires directes souscrites par les succursales établies hors de l'Union européenne
-
-b) Opérations effectuées en libre prestation de service par les succursales établies hors de l'Union européenne
-
-c) Acceptations en réassurance par les succursales établies hors de l'Union européenne
-
-Total général (rubriques I à V)
-
-**ÉTAT C 4 NON-VIE**
-
-L'état C 4 Non-vie comporte trois colonnes :
-
-Colonne A : cotisations émises au titre d'opérations autres que les opérations pluriannuelles à prime unique ou non révisable
-et les affaires assimilées en application de l'article A. 114-12 ;
-
-Colonne B : cotisations émises au titre des opérations pluriannuelles à prime unique ou non révisable et d'affaires
-assimilées en application de l'article A. 114-12 ;
-
-Colonne C : totaux partiels par catégorie d'opérations et total général.
-
-L'état C 4 Non-vie comporte les lignes suivantes :
-
-I. - Total des affaires directes en France (catégories 20 à 38)
-
-20 Opérations individuelles (y compris groupes ouverts) de dommages corporels (y compris garanties accessoires ou
-complémentaires aux opérations individuelles d'assurance en cas de vie ou de décès)
-
-201 Autres garanties frais de soins
-
-2011 Opérations non données en substitution
-
-2012 Opérations données en substitution
-
-202 Autres garanties
-
-2021 Opérations non données en substitution
-
-2022 Opérations données en substitution
-
-203 Garanties frais de soins relevant de la couverture maladie universelle définie par la loi n
-  <sup>o</sup> 99-641 du 27 juillet 1999
-
-2031 Opérations non données en substitution
-
-2032 Opérations données en substitution
-
-21 Opérations collectives de dommages corporels (y compris garanties accessoires ou complémentaires aux opérations
-collectives d'assurance en cas de vie ou de décès)
-
-211 Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2111 Opérations non données en substitution
-
-2112 Opérations données en substitution
-
-212 Autres garanties délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2121 Opérations non données en substitution
-
-2122 Opérations données en substitution
-
-213 Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2131 Opérations non données en substitution
-
-2132 Opérations données en substitution
-
-214 Autres garanties non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989
-
-2141 Opérations non données en substitution
-
-2142 Opérations données en substitution
-
-29 Opérations de protection juridique
-
-30 Opérations d'assistance
-
-31 Opérations de pertes pécuniaires diverses
-
-38 Opérations de caution
-
-II. - Total des opérations en libre prestation de services par un établissement en France
-
-III. - Total des acceptations en réassurance par un établissement en France
-
-IV. - Total des opérations des succursales établies dans l'Union européenne (hors la France)
-
-a) Affaires directes souscrites par les succursales établies dans l'Union européenne (hors la France)
-
-b) Opérations effectuées en libre prestation de service par les succursales établies dans l'Union européenne (hors la France)
-
-c) Acceptations en réassurance par les succursales établies dans l'Union européenne (hors la France)
-
-V. - Total des opérations des succursales établies hors de l'Union européenne
-
-a) Affaires directes souscrites par les succursales établies hors de l'Union européenne
-
-b) Opérations effectuées en libre prestation de service par les succursales établies hors de l'Union européenne
-
-c) Acceptations en réassurance par les succursales établies hors de l'Union européenne
-
-Total général (rubriques I à V)
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C5 à l'article A114-5
-
-**ÉTAT C5 REPRÉSENTATION DES ENGAGEMENTS RÉGLEMENTÉS**
-
-Les mutuelles établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements
-réglementés
-
-<table>
-  <thead>
-    <tr>
-      <td rowspan="3" width="143">
-
-</td>
-      <td width="312" colspan="4">
-
-PROVISIONS TECHNIQUES
-
-</td>
-      <td rowspan="3">
-
-AUTRES engagements réglementés
-
-</td>
-      <td rowspan="3">
-
-TOTAL
-
-</td>
-    </tr>
-    <tr>
-      <td width="312" colspan="3">
-
-Union européenne
-
-</td>
-      <td rowspan="2">
-
-Hors Union européenne
-
-</td>
-    </tr>
-    <tr>
-      <td width="52">
-
-PERP et L. 222-1
-
-</td>
-      <td width="52">
-
-Autres affaires directes
-
-</td>
-      <td width="52">
-
-Acceptations
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Engagements techniques sur opérations données en substitution
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions d'assurance vie
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions pour cotisations non acquises
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions pour risques en cours
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions pour prestations à payer
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions mathématiques (non-vie)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions pour participation aux excédents et ristournes
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions pour égalisation
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Provisions pour risque d'exigibilité des engagements techniques
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Autres provisions techniques
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réserve de capitalisation (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Engagements au titre des opérations relevant de la branche 25 de l'article R. 211-2 (2)
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Dettes privilégiées
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Dépôts de garantie des adhérents et participants, des intermédiaires et des tiers
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réserves d'amortissement des emprunts et réserves pour cautionnements
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total des passifs réglementés (A)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Parts des garants dans les engagements techniques donnés en substitution
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Avances sur contrats mentionnées à l'article R. 212-36
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cotisations mentionnées à l'article R. 212-36
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Valeurs mentionnées à l'article R. 212-37
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnés à l'article R. 212-59
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cotisations mentionnées aux articles R. 212-38
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnés à l'article R. 212-58
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Avances aux transporteurs mentionnées à l'article R. 212-39
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Créances nettes sur les cédants mentionnées à l'article R. 212-40
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Actifs mentionnés à l'article R. 212-41
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Recours admis
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Divers (3)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Créances mentionnées à l'article R. 212-42
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Valeurs déposées en cautionnement
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total des actifs admissibles divers B
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Base de la dispersion visée à l'article R. 212-32 (A - B)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Valeurs couvrant les engagements dans le cadre de la branche 25 de l'article R. 211-2 (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Autres placements mentionnés du 1
-          <sup>o</sup> au 17
-          <sup>o</sup> de l'article R. 212-31 (4)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Dépôts mentionnés au 18
-          <sup>o</sup> de l'article R. 212-31
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Intérêts courus des placements mentionnés à l'article R. 212-31
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Créances garanties sur les réassureurs mentionnées à l'article R. 212-35
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total des placements et actifs assimilés
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(1) La réserve de capitalisation est inscrite dans la colonne "autres engagements réglementés" à l'exception des montants
-relatifs aux PERP.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(2) Les placements correspondants ne figurent au présent état que s'ils appartiennent à la mutuelle.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(3) Le détail de la rubrique "divers" est à annexer au présent état.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">
-
-(4) Sont notamment incluses parmi ces placements les valeurs remises par les mutuelles garanties en substitution.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C6 bis à l'article A114-5
-
-**ÉTAT C6 bis TEST D'EXIGIBILITÉ**
-
-Les mutuelles agréées pour pratiquer les opérations visées au 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent annuellement, selon le modèle fixé ci-après, un état donnant les
-résultats du test d'exigibilité mentionné aux articles R. 212-27-1 et A. 114-8.
-
-Lorsque, du fait des conditions légales, il ne peut y avoir de compensation financière entre les actifs représentatifs de
-différents portefeuilles de règlements ou contrats, les tableaux sont établis par la mutuelle pour chaque portefeuille de
-règlements ou contrats et l'état résulte de l'agrégation des tableaux relatifs à chaque portefeuille.
-
-Les engagements des règlements ou contrats en unités de compte, les engagements sur opérations données en substitution et les
-actifs correspondants ne sont pas pris en compte. Les transformations de garanties en euros en garanties en unités de compte
-sont assimilées à des prestations échues.
-
-Le montant des prestations tient compte du minimum de revalorisation résultant de la participation aux bénéfices
-contractuelle et réglementaire.
-
-Dans le tableau D sont aussi donnés les résultats d'un scénario de référence dans lequel il n'y a pas de détérioration des
-marchés financiers.
-
-**Etape 1.**
- - Simulation du montant des cessions futures 
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-      </td><td valign="middle" align="center">
-      </td><td align="center" valign="middle">
-      </td><td valign="middle" align="center">
-      </td><td valign="middle" align="center">
-      </td><td valign="middle" align="center">
-      </td><td align="center" valign="middle">
-      </td><td valign="middle" align="center">
-    </td></tr>
-    <tr>
-      <th align="center" valign="middle">EXERCICES</th>
-      <th align="center" valign="middle">RÉALISÉ N</th>
-      <th valign="middle" align="center">N + 1</th>
-      <th align="center" valign="middle">N + 2</th>
-      <th valign="middle" align="center">N + 3</th>
-      <th align="center" valign="middle">N + 4</th>
-      <th valign="middle" align="center">N + 5</th>
-      <th valign="middle" align="center">TOTAL N + 1
-
-à N + 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tableau A : décaissements</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Vie :</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Prestations (hors rachats) et frais payés</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Rachats exceptionnels (majorés) (1)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Total prestations Vie</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont intérêts techniques</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont participation aux bénéfices</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Non-vie :</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Total prestations non-vie (majorées) (1)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Autres décaissements (2)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Total (i)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="8">(1) Pour le réalisé N, on ne met que les rachats constatés et les prestations non-vie constatées.</td>
-    </tr>
-    <tr>
-      <td colspan="8">(2) Inclus notamment les frais d'administration des contrats.</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-      </td><td align="center" valign="middle">
-      </td><td align="center" valign="middle">
-      </td><td align="center" valign="middle">
-      </td><td valign="middle" align="center">
-      </td><td align="center" valign="middle">
-      </td><td valign="middle" align="center">
-      </td><td align="center" valign="middle">
-    </td></tr>
-    <tr>
-      <td align="center" valign="middle">EXERCICES</td>
-      <td>RÉALISÉ N</td>
-      <td>N + 1</td>
-      <td>N + 2</td>
-      <td>N + 3</td>
-      <td>N + 4</td>
-      <td>N + 5</td>
-      <td>TOTAL N + 1
-
-à N + 5</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tableau B : Encaissements (1)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Revenus nets des placements</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont sur placements échus dans les cinq ans</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Placements échus</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont ceux relevant de R. 212-25 
-
-(titres monétaires et obligataires)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont ceux relevant de R. 212-53
-
-(dépôts, prêts)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Part des réassureurs dans 
-
-les prestations (majorées) (2)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Autres actifs techniques admis en représentation</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Total (ii)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Solde encaissements/décaissements (iii) = (ii) - (i)</td>
-      <td align="center">xxx</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="8">(1) Hors produit des cessions d'actif.</td>
-    </tr>
-    <tr>
-      <td colspan="8">(2) Pour le réalisé N, on ne met que les rachats constatés et les prestations non-vie constatées.</td>
-    </tr>
-  </tbody>
-</table>
-
-**Etape 2.**
- - Résultat des cessions 
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-      </td><td valign="middle" align="center">
-      </td><td valign="middle" align="center">
-      </td><td valign="middle" align="center">
-    </td></tr>
-    <tr>
-      <td>
-      </td><td>VALEUR NETTE
-
-COMPTABLE</td>
-      <td>VALEUR DE
-
-RÉALISATION</td>
-      <td>PLUS OU 
-
-MOINS-VALUE LATENTE</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tableau C : Placements au 31/12/N (1)</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Produits de taux</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont disponibilités</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont placements échus dans les cinq ans</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>- dont placements échus au-delà de cinq ans</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Actions et actifs assimilés</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Actifs immobiliers</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Total</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Dont :</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Total R. 212-25</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Total R. 212-53</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="4">(1) Pour le classement des actifs, on se réfère à l'état T 3.</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-      </td><td align="center" valign="middle">
-      </td><td align="center" valign="middle">
-      </td><td valign="middle" align="center">
-      </td><td align="center" valign="middle">
-      </td><td align="center" valign="middle">
-    </td></tr>
-    <tr>
-      <td width="182">
-      </td><td>SCÉNARIO
-
-de référence</td>
-      <td>SCÉNARIO 
-
-TAUX
-
-(+ 200 PB)</td>
-      <td>SCÉNARIO 
-
-ACTIONS 
-
-(indice - 30 %)</td>
-      <td>SCÉNARIO
-
-immobilier 
-
-(prix - 20 %)</td>
-      <td>SCÉNARIO
-
-global</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tableau D : Cessions</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Disponibilités au 31/12/N</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Cumul des soldes (1)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Ajustement de revenus nets de PB (2)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Montant des cessions à effectuer (3)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Valeur de réalisation dégradée des placements (4)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Pourcentage des placements à céder (5)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Plus ou moins-value latente sur placements (6)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Résultat des cessions (7)</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>Rappel : PRE au 31/12/N</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="6">
-
-(1) Ligne (iii) colonne Total, négatif si décaissements supérieurs aux encaissements.
-
-(2) Résultant de la détérioration du marché.
-
-(3) Si la somme des trois lignes précédentes est négative, l'opposé de cette somme ; sinon zéro.
-
-(4) Hors disponibilités et actifs échus dans les cinq ans.
-
-(5) Rapport du montant des cessions à effectuer à la valeur de réalisation dégradée des placements.
-
-(6) Hors disponibilités et actifs échus dans les cinq ans.
-
-(7) Produit des placements à céder par la plus-ou moins-value latente.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C6 à l'article A114-5
-
-**ÉTAT C6 : MARGE DE SOLVABILITÉ**
-
-Les mutuelles établissent, selon le modèle fixé ci-après, un état rapprochant la marge de solvabilité constituée de
-l'exigence minimale de marge.
-
-Les mutuelles agréées pour pratiquer les opérations visées au a et/ou au c et/ou au d et/ou au e du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 6 Non-vie selon le modèle ci-dessous (A). Les mutuelles
-agréées pour pratiquer les opérations visées au b du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent un état C 6 Vie-capitalisation selon le modèle ci-dessous (B). Les
-mutuelles agréées pour pratiquer simultanément les opérations visées au a et b dudit article établissent un état C 6 Non-vie
-et un état C 6 Vie-capitalisation.
-
-Les opérations que la mutuelle donne en substitution sont exclues du calcul de l'exigence minimale de marge et du fonds de
-garantie.
-
-**ÉTAT C6 NON-VIE**
-
-**I. - EXIGENCE MINIMALE DE MARGE DE SOLVABILITÉ (art. R. 212-12)**
-
-A. - Calcul par rapport aux cotisations
-
-Cotisations, hors taxes, émises et acceptées au cours du dernier exercice, nettes d'annulations.
-
-Base des cotisations, chiffre le plus élevé :
-
-Se répartissant en :
-
-Tranche inférieure à 10 000 000 d'euros × 0,18.
-
-Tranche supérieure à 10 000 000 d'euros × 0,16.
-
-Total (a1).
-
-(b) = Charge des prestations pour le dernier exercice (nette de cessions)/Charge des prestations pour le dernier exercice
-(brute de cessions).
-
-(c) Montant de (b) s'il est supérieur à 0,50, sinon 0,50.
-
-Premier résultat = [(a1) × (c)].
-
-B. - Calcul par rapport aux prestations
-
-Période de référence : les trois derniers exercices : 
-
-1. Prestations payées (affaires directes et acceptations) pendant la période de référence, nettes de recours.
-
-2. Provision pour prestations à payer (affaires directes et acceptations) constituée à la fin de la période de référence.
-
-A déduire :
-
-3. Provision pour prestations à payer (affaires directes et acceptations) constituée au début de la période de référence.
-
-4. Charge de prestations pour la période de référence : (1) + (2) - (3).
-
-5. Moyenne annuelle : 1/3 de (4)
-
-Se répartissant en :
-
-Tranche inférieure à 7 000 000 d'euros × 0,26
-
-Tranche supérieure à 7 000 000 d'euros × 0,23
-
-Total (a2)
-
-Second résultat = [(a2) × (c)].
-
-Etat récapitulatif
-
-Premier résultat
-
-Second résultat
-
-Montant de la charge à constituer (résultat le plus élevé)
-
-**II. - ÉLÉMENTS CONSTITUTIFS DE LA MARGE DE SOLVABILITÉ (R. 212-11)**
-
-Les éléments sous B peuvent être admis sur demande et justification par la mutuelle.
-
-A. - 1 Fonds d'établissement constitué.
-
-2. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement.
-
-3. Emprunts pour fonds de développement : au-delà de la moitié de la durée de l'emprunt, plafonné au montant de l'emprunt
-diminué progressivement chaque année d'un montant constant égal au double du montant total de l'emprunt divisé par le nombre
-d'années de sa durée.
-
-4. Réserves ne correspondant pas à des engagements, y compris réserve de capitalisation.
-
-5. Excédents reportés (après affectation des résultats).
-
-6. Titres ou emprunts subordonnés : 
-
-- à durée indéterminée, dans la limite de la moitié du total (A + B) ou, si ce montant est plus faible, de la moitié de
-l'exigence minimale de marge ;
-
-- à durée déterminée, dans la limite du quart du total (A + B) ou, si ce montant est plus faible, du quart de l'exigence
-minimale de marge.
-
-7. Réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de la cotisation versée par la
-mutuelle et non utilisée par le système fédéral de garantie ou le fonds de garantie.
-
-A déduire :
-
-8. Éléments incorporels figurant au bilan.
-
-Sous-total : marge bilan.
-
-9. Moitié du rappel possible de cotisations variables au titre de l'exercice, dans la limite de la moitié du total (A + B)
-ou, si ce montant est plus faible, de la moitié de l'exigence minimale de marge.
-
-10. Plus-values résultant de sous-estimation d'éléments d'actif dans la mesure où les valeurs de marché sont publiées dans
-l'annexe
-
-Total A (1 à 10).
-
-B-11. Plus-values résultant de la surestimation d'éléments de passif, dans la mesure où de telles plus-values n'ont pas un
-caractère exceptionnel.
-
-Total B (11).
-
-Total des éléments constitutifs (A + B).
-
-**ÉTAT C6 VIE-CAPITALISATION**
-
-**I. - EXIGENCE MINIMALE DE LA MARGE DE SOLVABILITÉ (art. R. 212-16)**
-
-TITRE 1er : VIE-DÉCÈS, NUPTIALITÉ, NATALITÉ (BRANCHES 20 et 21, SAUF COMPLÉMENTAIRES)
-
-Premier résultat
-
-(a) Provisions mathématiques brutes de cessions et rétrocessions en réassurance (affaires directes et acceptations) :
-
-(b Rapport de rétention :
-
-Rapport entre le montant des provisions mathématiques nettes de cessions et rétrocessions en réassurance et le montant des
-provisions mathématiques brutes des cessions et rétrocessions en réassurance
-
-(c) Montant de (b) s'il est supérieur ou égal à 0,85, sinon 0,85
-
-Premier résultat = [(a) × (c) × 0,04]
-
-Second résultat
-
-Pour les organismes n'ayant qu'un faible volume d'affaires dans ces branches, il est possible de retenir un chiffre global en
-l'affectant en totalité à la rubrique (a1).
-
-(a) Capitaux sous risques non négatifs bruts de réassurance
-
-(a1) Toutes assurances, sauf temporaires décès de durée inférieure ou égale à 5 ans
-
-(a2) Temporaires décès de durée supérieure à 3 ans et inférieure ou égale à 5 ans
-
-(a3) Temporaires décès de durée inférieure ou égale à 3 ans
-
-(b) Rapport de rétention :
-
-Rapport entre le montant des capitaux sous risques nets de cessions et rétrocessions en réassurance et le montant des
-capitaux sous risques bruts de cessions et rétrocessions en réassurance
-
-(c) Montant de (b) s'il est supérieur ou égal à 0,50, sinon 0,50
-
-(d) = (a1) × (c) × 0,003
-
-(e) = (a2) × (c) × 0,0015
-
-(f) = (a3) × (c) × 0,001
-
-Second résultat = [(d) + (e) + (f)]
-
-TITRE II : Assurances complémentaires à des contrats correspondant à des opérations classées aux branches 20, 21 ET 22
-
-Cotisations, hors taxes, émises et acceptées au cours du dernier exercice, nettes d'annulations
-
-Se répartissant en :
-
-Tranche inférieure à 10 000 000 d'euros 0,18
-
-Tranche supérieure à 10 000 000 d'euros 0,16
-
-(a) Total
-
-(b) Charge de prestations du dernier exercice (nette de cessions)/Charge de prestations du dernier exercice (brute de
-cessions)
-
-(c) Montant de (b) s'il est supérieur à 0,50, sinon 0,50
-
-Résultat = [(a) (c)]
-
-TITRE III : Capitalisation (branche 24, sauf opérations exprimées en unités de compte)
-
-(a) Provisions mathématiques
-
-(b) Rapport de rétention :
-
-Rapport entre le montant des provisions mathématiques nettes des cessions et rétrocessions en réassurance et le montant des
-provisions mathématiques brutes des cessions et rétrocessions en réassurance
-
-(c) Montant de (b) s'il est supérieur ou égal à 0,85, sinon 0,85
-
-Résultat =[(a) (c) 0,04]
-
-TITRE IV : Assurances liées à des fonds d'investissement (branche 22) sauf complémentaires - opérations de capitalisation
-exprimées en unités de compte (branche 24) - gestion de fonds collectifs (branche 25)
-
-Premier résultat
-
-(a) Provisions mathématiques brutes de cessions et rétrocessions en réassurance :
-
-Affaires directes et acceptations
-
-(a1) Avec risque de placement
-
-(a2) Sans risque de placement lorsque le contrat collectif ou le bulletin d'adhésion a une durée supérieure à 5 ans et que
-les frais de gestion sont fixés pour plus de 5 ans
-
-(a3) Sans risque de placement et lorsque le montant destiné à couvrir les frais de gestion n'est pas fixé pour une période
-supérieure à cinq ans
-
-(b) Rapport de rétention :
-
-Rapport entre le montant des provisions mathématiques nettes des cessions et rétrocessions en réassurance et le montant des
-provisions mathématiques brutes des cessions et rétrocessions en réassurance
-
-(c) Montant de (b) s'il est supérieur ou égal à 0,85, sinon 0,85.
-
-(d) Dépenses de gestion nettes relatives aux opérations visées au (a3)
-
-(e) = (a1) (c) 0,04
-
-(f) = (a2) (c) 0,01
-
-(g) = (d) 0,25
-
-Premier résultat = [(e) + (f) + (g)]
-
-Second résultat
-
-(a) Capitaux sous risques non négatifs bruts de réassurance
-
-(b) Rapport de rétention :
-
-Rapport entre le montant des capitaux sous risques nets des cessions et rétrocessions en réassurance et le montant des
-capitaux sous risques bruts des cessions et rétrocessions en réassurance
-
-(c) Montant de (b) s'il est supérieur ou égal à 0,50, sinon 0,50
-
-Second résultat = [(a) × (c) × 0,003]
-
-TITRE V : Opérations à caractère collectif définies aux articles L. 222-1 et suivants
-
-<ul>
-  <li>a) Provision mathématique théorique (art. R.222-16) après cessions en réassurance;</li>
-  <li>b) b) 85% de la provision mathématique théorique (art. R.212-16) avant cessions en réassurance.</li>
-  <li>c) Résultat=0,04×max [(a), (b)].</li>
-  <li>d) État récapitulatif</li>
-</ul>
-
-TITRE V : Résultat
-
-Total des résultats (a)
-
-Fonds de garantie R. 212-17
-
-1/3 de (a)
-
-(b) 50 % du tiers de (a) = 1/6 de (a)
-
-(c) Minimum absolu du fonds de garantie
-
-Minimum à couvrir en éléments A de marge de solvabilité :
-
-Montant le plus élevé de (b) et de (c)
-
-Marge de solvabilité
-
-Marge à constituer : montant le plus élevé de (a) et (c)
-
-**II. - ÉLÉMENTS CONSTITUTIFS DE LA MARGE DE SOLVABILITÉ (R. 212-15)**
-
-Les éléments sous B peuvent être admis sur demande et justification par la mutuelle.
-
-A. - 1. Fonds d'établissement constitué ;
-
-2. La moitié de la part restant à rembourser de l'emprunt pour fonds d'établissement ;
-
-3. Emprunts pour fonds de développement : au-delà de la moitié de la durée de l'emprunt, plafonné au montant de l'emprunt
-diminué progressivement chaque année d'un montant constant égal au double du montant total de l'emprunt divisé par le nombre
-d'années de sa durée ;
-
-4. Réserves ne correspondant pas à des engagements, y compris réserve de capitalisation ;
-
-5. Excédents reportés (après affectation des résultats).
-
-6. Titres ou emprunts subordonnés :
-
-- à durée indéterminée, dans la limite de la moitié du total (A + B) ou, si ce montant est plus faible, de la moitié de
-l'exigence minimale de marge ;
-
-- à durée déterminée, dans la limite du quart du total (A + B) ou, si ce montant est plus faible, du quart de l'exigence
-minimale de marge ;
-
-7. Réserves constituées en application des articles L. 111-6 et L. 431-1, y compris la part de la cotisation versée par la
-mutuelle et non utilisée par le système fédéral de garantie ou le fonds de garantie.
-
-A déduire :
-
-8. Éléments incorporels figurant au bilan.
-
-Sous-total : marge bilan.
-
-9. Plus-values résultant de sous-estimation d'éléments d'actif dans la mesure où les valeurs de marché sont publiées dans
-l'annexe ;
-
-Total A (1 à 9).
-
-B. - 10. Part des bénéfices futurs de la mutuelle (joindre le détail du calcul), 
-
-a) Bénéfice annuel estimé ;
-
-b) Durée résiduelle moyenne (inférieure ou égale à 10 ans) ;
-
-Total (10) = [a b 0,5].
-
-11. Plus-values résultant de la surestimation d'éléments de passif autres que les provisions mathématiques, dans la mesure où
-de telles plus-values n'ont pas un caractère exceptionnel ;
-
-Total B (10 à 11).
-
-Total des éléments constitutifs (A + B).
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C7 à l'article A114-5
-
-**ÉTAT C7 : PROVISIONNEMENT DES RENTES EN SERVICE**
-
-Les mutuelles qui, au titre des affaires directes, à l'exclusion des opérations données en substitution, servent des
-prestations périodiques conditionnées par la survie du bénéficiaire établissent, selon le modèle fixé ci-après, un état
-retraçant la liquidation de leurs provisions.
-
-**Tableau A.** - Prestations servies au titre d'un contrat de rente ou d'une garantie décès (accidentel ou non) à un
-bénéficiaire non victime d'un préjudice corporel personnel
-
-<table>
-  <tbody>
-    <tr>
-      <td align="left">
-
-1. Provisions mathématiques à l'ouverture de l'exercice (1)
-
-</td>
-      <td valign="top" align="center" colspan="2" width="150" rowspan="9">
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-2. Capitaux entrés au cours de l'exercice 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-3. Autres ressources (2) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-4. Produits financiers (3) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-5. Prestations payées
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-6. Capitaux sortis au cours de l'exercice
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-7. Provisions mathématiques à la clôture de l'exercice (1)
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-8. Charges de gestion (4)
-
-</td>
-    </tr>
-    <tr>
-      <td> Solde (= 1 + 2 + 3 + 4 - 5 - 6 - 7 - 8)</td>
-    </tr>
-    <tr>
-      <td> (1) Provisions mathématiques vie et non-vie
-
-(2) Notamment participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées et ajustement
-des contrats en unités de compte.
-
-(3) Aux taux prévus pour la constitution des provisions mathématiques.
-
-(4) Egales aux chargements prévus pour la constitution des provisions mathématiques.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Les provisions et les règlements incluent les éventuelles majorations légales. La part de ces majorations à la charge de
-l'Etat au titre de l'exercice est portée en "autres ressources" .
-
-**Tableau A'**. - Prestations servies au titre d'un contrat de rente ou d'une garantie décès (accidentel ou non) à un
-bénéficiaire non victime d'un préjudice corporel personnel
-
-<table>
-  <thead>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-PROVISIONS (1)
-
-</td>
-      <td>
-
-AGE moyen atteint (2)
-
-</td>
-      <td>
-
-RENTES annuelles (3)
-
-</td>
-      <td>
-
-DURÉE moyenne résiduelle (4)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Rentes temporaires
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Rentes viagères
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="5">
-
-(1) Provisions mathématiques à la clôture de l'exercice.
-
-(2) Age atteint par les rentiers pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
-
-(3) Rentes annuelles au niveau atteint à la clôture de l'exercice.
-
-(4) Durée résiduelle limite en année des prestations pondérées par les rentes annuelles au niveau atteint à la clôture de
-l'exercice.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau B**. - Prestations servies à un bénéficiaire victime d'une invalidité permanente. - Paiements et provisions par
-année de constitution de la rente
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE CONSTITUTION de la rente
-
-</td>
-      <td width="39">
-
-N - 5 et ant.
-
-</td>
-      <td width="39">
-
-(N - 4)
-
-</td>
-      <td width="39">
-
-(N - 3)
-
-</td>
-      <td width="39">
-
-(N - 2)
-
-</td>
-      <td width="39">
-
-(N - 1)
-
-</td>
-      <td width="39">
-
-(N)
-
-</td>
-      <td width="39">
-
-Total
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">
-
-1. Provisions mathématiques à l'ouverture (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-xxx
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-2. Provisions mathématiques à l'ouverture (1) et (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-3. Capitaux entrés au cours de l'exercice (3)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-4. Autres ressources (4)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-5. Produits financiers (5)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-6. Prestations payées
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-7. Capitaux sortis au cours de l'exercice
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-8. Provisions mathématiques à la clôture (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-9. Charges de gestion (6)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Solde = 2 + 3 + 4 + 5 - 6 - 7 - 8
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="8">
-
-(1) Uniquement provisions mathématiques (non-vie) en cas d'invalidité permanente.
-
-(2) Provisions recalculées au taux d'actualisation de l'exercice.
-
-(3) Pour les exercices antérieurs à N, uniquement par révision de rente.
-
-(4) Notamment participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées.
-
-(5) Aux taux prévus pour la constitution des provisions mathématiques.
-
-(6) Égales aux chargements prévus pour la constitution des provisions mathématiques.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau B'.** - Prestations servies à un bénéficiaire victime d'une invalidité permanente
-
-Le tableau ci-après ne concerne pas les prestations issues de contrats d'assurance de groupe souscrits par un établissement
-de crédit, ayant pour objet la garantie du remboursement d'un emprunt.
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-</td>
-      <td align="center">
-
-PROVISIONS (1)
-
-</td>
-      <td align="left">
-
-AGE MOYEN À
-
-l'entrée (2)
-
-</td>
-      <td align="center">
-
-RENTES ANNUELLES (3)
-
-</td>
-      <td align="center">
-
-DURÉE MOYENNE courue (4)
-
-</td>
-      <td align="center">
-
-AGE MOYEN LIMITE
-
-de garantie (5)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="middle" align="center">
-
-Rentes
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="6">
-
-(1) Provisions à la clôture de l'exercice.
-
-(2) Age à l'entrée en invalidité pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
-
-(3) Rentes annuelles au niveau atteint à la clôture de l'exercice.
-
-(4) Durée en années courues depuis l'entrée en invalidité des prestations pondérée par les rentes annuelles au niveau atteint
-à la clôture de l'exercice.
-
-(5) Age au terme de la garantie pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Pour les prestations issues de contrats d'assurance de groupe souscrits par un établissement de crédit, ayant pour objet la
-garantie du remboursement d'un emprunt, les dispositions suivantes s'appliquent :
-
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-PROVISIONS (1)
-
-</td>
-      <td align="center">
-
-AGE MOYEN ATTEINT (2)
-
-</td>
-      <td align="center">
-
-RENTES ANNUELLES (3)
-
-</td>
-      <td align="center">
-
-DURÉE MOYENNE résiduelle (4)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Rentes
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="5">
-
-(1) Provisions à la clôture de l'exercice.
-
-(2) Age atteint pondéré par les rentes annuelles au niveau atteint à la clôture de l'exercice.
-
-(3) Rentes annuelles au niveau atteint à la clôture de l'exercice.
-
-(4) Durée en années restant à courir des emprunts pondérée par les rentes annuelles au niveau atteint à la clôture de
-l'exercice.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau C**. - Prestations servies à un bénéficiaire victime d'une incapacité temporaire
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-PROVISIONS pour IJ (1)
-
-</td>
-      <td align="center" valign="middle">
-
-PROVISIONS pour rentes en attente (2)
-
-</td>
-      <td align="center" valign="middle">
-
-AGE MOYEN à l'entrée (3)
-
-</td>
-      <td valign="middle" align="center">
-
-RENTES MENSUELLES (4)
-
-</td>
-      <td align="center" valign="middle">
-
-MOYENNE COURUE (5)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-
-Rentes
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="6">
-
-(1) Provisions et engagements techniques des indemnités journalières à la clôture de l'exercice.
-
-(2) Provision de passage d'incapacité temporaire en invalidité permanente.
-
-(3) Age à l'arrêt de travail pondéré par les rentes mensuelles au niveau atteint à la clôture de l'exercice.
-
-(4) Rentes mensuelles à la clôture de l'exercice.
-
-(5) Durée en mois courus depuis l'arrêt de travail pondérée par les rentes mensuelles au niveau atteint à la clôture de
-l'exercice.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C8 à l'article A114-5
-
-**ÉTAT C 8 : DESCRIPTION DU PLAN DE RÉASSURANCE**
-
-Les mutuelles agréées pour pratiquer les opérations visées au 1
-  <sup>o</sup> du I de l'article L. 111-1, établissent, selon le modèle fixé ci-après, un état décrivant leur plan de
-réassurance en vigueur à la date à laquelle ce document d'analyse est adressé à la commission de contrôle pour chacun des
-types de risques qu'elles souscrivent en affaires directes et qui figurent dans la liste suivante :
-
-- dommages corporels, incapacité, invalidité ;
-
-- dommages corporels, frais de soins ;
-
-- dommages corporels, dépendance ;
-
-- dommages corporels, autres dommages ;
-
-- crédit caution ;
-
-- assurance non-vie : pertes pécuniaires, assistance, protection juridique ;
-
-- assurance vie : décès toutes causes ;
-
-- garanties plancher des contrats en unités de compte ;
-
-- assurance vie et capitalisation : autre risque.
-
-Les opérations que la mutuelle donne en substitution sont exclues de ces documents.
-
-**Tableau A.** - Couverture proportionnelle
-
-<table>
-  <thead>
-    <tr>
-      <td width="143">
-
-COUVERTURE proportionnelle (1)
-
-</td>
-      <td width="78">
-
-TAUX DE cession (2) (A)
-
-</td>
-      <td width="78">
-
-ASSIETTE de prime (3) (B)
-
-</td>
-      <td width="78">
-
-LIMITE PAR évènement (4) (C)
-
-</td>
-      <td width="78">
-
-COMMISSION de réassurance (5) (D)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau B.** - Couverture non proportionnelle par risque
-
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-
-COUVERTURE non proportionnelle par risque (6)
-
-</td>
-      <td width="65">
-
-TAUX de placement (7) (A)
-
-</td>
-      <td width="65">
-
-FRANCHISE annuelle (8) (B)
-
-</td>
-      <td width="65">
-
-PRIORITÉ (C)
-
-</td>
-      <td width="65">
-
-PORTÉE (9) (D)
-
-</td>
-      <td width="65">
-
-PRIME de réassurance (5) (E)
-
-</td>
-      <td width="65">
-
-Nombre de reconstitutions (10) (F)
-
-</td>
-      <td>Prime de reconstitution 
-
-(11) (G) 
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 1 (12)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 2
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 3
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 4
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 5
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 6
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 7
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 8
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 9
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 10 (13)
-
-</td>
-      <td>
-
-(14)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau C** - Couverture non proportionnelle par événement
-
-<table>
-  <thead>
-    <tr>
-      <td width="65">
-
-COUVERTURE non proportionnelle par évènement (15)
-
-</td>
-      <td width="65">
-
-TAUX de placement (7) (A)
-
-</td>
-      <td width="65">
-
-FRANCHISE annuelle (8) (B)
-
-</td>
-      <td width="65">
-
-PRIORITÉ (C)
-
-</td>
-      <td width="65">
-
-PORTÉE (9) (D)
-
-</td>
-      <td width="65">
-
-PRIME de réassurance (E)
-
-</td>
-      <td width="65">
-
-NOMBRE de reconstitutions (10) (F)
-
-</td>
-      <td>PRIME
-
-de reconstitution 
-
-(11) (G)  
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Tranche n
-          <sup>o</sup> 1 (12)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 2</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 3</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 4</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 5</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 6</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 7</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 8</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td> Tranche n
-        <sup>o</sup> 9</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Tranche n
-          <sup>o</sup> 10
-
-(13) 
-
-</td>
-      <td align="center"> (14)</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau D** - Synthèse des couvertures
-
-<table>
-  <thead>
-    <tr>
-      <td width="91">
-
-SYNTHÈSE (16)
-
-</td>
-      <td width="91">
-
-PROPORTIONNELLE avant ou après non proportionnelle (17) (A)
-
-</td>
-      <td width="91">
-
-CONSERVATION maximale hors dépassement de couverture (18) (B)
-
-</td>
-      <td width="91">
-
-SEUIL de dépassement (19) (C)
-
-</td>
-      <td width="91">
-
-PRESTATION maximale possible du cédant (20) (D)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Couverture par risque
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Couverture par événement
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau E** - Couverture en excédent de perte annuelle
-
-<table>
-  <thead>
-    <tr>
-      <td width="91">
-
-COUVERTURE EN EXCÉDENT de perte annuelle (21)
-
-</td>
-      <td width="91">
-
-TAUX DE PLACEMENT (7) (A)
-
-</td>
-      <td width="91">
-
-PRIORITÉ (B)
-
-</td>
-      <td width="91">
-
-PORTÉE (9) (C)
-
-</td>
-      <td width="91">
-
-PRIME de réassurance (5) (D)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-(1) Si aucune couverture proportionnelle n'est souscrite pour le type de risque concerné, ce tableau n'est pas renseigné.
-
-(2) Ce taux doit être exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 33,18
-%).
-
-(3) Assiette de cotisations estimée à laquelle le taux de cession renseigné dans la colonne A s'applique.
-
-(4) Si aucune limite par événement n'est prévue, cette colonne n'est pas renseignée.
-
-(5) Montant estimé pour l'année en cours.
-
-(6) Si aucune couverture non proportionnelle par risque n'est souscrite pour le type de risque concerné, le tableau n'est pas
-renseigné.
-
-(7) Il s'agit du taux de placement du programme de réassurance à la date à laquelle cet état est adressé à la commission de
-contrôle, exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 98,33 %). Un taux
-de placement égal à 100 % signifie donc que la couverture effective de la mutuelle correspond exactement à la couverture
-caractérisée par les éléments indiqués dans les colonnes B à G (franchise annuelle, priorité, portée, nombre de
-reconstitutions).
-
-(8) Il s'agit du montant cumulé sur l'année (appelé également franchise annuelle aggregate) de prestations concernées à
-partir duquel la couverture est susceptible de jouer. Si aucune franchise n'est prévue, cette cellule n'est pas renseignée.
-
-(9) Il s'agit du montant de la garantie de réassurance jouant au-delà de la priorité. Si la portée est illimitée, inscrire
-par convention "- 1" .
-
-(10) Il s'agit du nombre de reconstitutions prévues contractuellement, que celles-ci soient gratuites ou non. Si ce nombre
-est illimité, inscrire par convention "- 1".
-
-(11) Il s'agit du montant de la prime à payer pour la première reconstitution.
-
-(12) Les tranches sont classées de la plus basse à la plus élevée. La tranche n
-  <sup>o</sup> 1 correspond donc à la plus basse tranche du plan de réassurance.
-
-(13) La tranche n
-  <sup>o</sup> 10 figurant dans le tableau correspond à l'agrégation de toutes les tranches du plan de réassurance au-delà de
-la tranche n
-  <sup>o</sup> 9.
-
-(14) Si l'ensemble des tranches au-delà de la tranche n
-  <sup>o</sup> 9 n'est pas entièrement placé, ne pas renseigner cette cellule du tableau.
-
-(15) Si aucune couverture non proportionnelle par événement n'est souscrite pour le type de risque concerné, ce tableau n'est
-pas renseigné.
-
-(16) Il s'agit de la synthèse des couvertures renseignées dans les tableaux précédents A, B et C.
-
-(17) Inscrire par convention "1" si la couverture proportionnelle intervient avant la couverture non proportionnelle, et
-inscrire "2" sinon.
-
-(18) La conservation maximale hors dépassement de couverture est la rétention par sinistre ou par événement nette maximale
-possible compte non tenu des dépassements de couverture non proportionnelle. Si cette conservation maximale est illimitée,
-inscrire par convention "- 1".
-
-(19) Le seuil de dépassement de couverture non proportionnelle est le montant du sinistre au-delà duquel la couverture non
-proportionnelle propre au type de risque ne joue plus. Si aucun dépassement n'est possible, inscrire par convention "- 1".
-
-(20) La prestation maximale possible correspond au montant de la garantie (afférente au type de risque concerné) la plus
-importante prévue dans un contrat d'assurance souscrit par la mutuelle ou, si ce n'est pas pertinent, au plus fort sinistre
-maximal possible afférent à un contrat d'assurance, en net de réassurances facultatives.
-
-(21) Par couverture en excédent de perte annuelle, on entend les protections de type stop loss. Si aucune couverture en
-excédent de perte annuelle n'est souscrite pour le type de risque concerné, ce tableau n'est pas renseigné.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C9 à l'article A114-5
-
-**ÉTAT C 9 DISPERSION DES RÉASSUREURS ET SIMULATIONS D'ÉVÉNEMENTS**
-
-Les mutuelles agréées pour pratiquer les opérations visées au 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état décrivant, à la date de clôture
-du dernier exercice inventorié, la dispersion de leurs cessionnaires et rétrocessionnaires et retraçant le niveau de
-protection conféré par leurs protections en réassurances si survenaient des événements défavorables.
-
-Les opérations que la mutuelle donne en substitution sont exclues de ces documents.
-
-**Tableau A** : Répartition par réassureur des provisions techniques cédées
-
-<table>
-  <thead>
-    <tr>
-      <td width="130">
-
-DISPERSION DES CESSIONS (1)
-
-</td>
-      <td width="39">
-
-NOM (2) (A)
-
-</td>
-      <td colspan="2" align="center" valign="middle">
-
-PROVISIONS TECHNIQUES CÉDÉES OU RÉTROCÉDÉES
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-montant notifié au réassureur (B)
-
-</td>
-      <td>
-
-montant non notifié au réassureur (3) (C)
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 1
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 2
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 3
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 4
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 5
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 6
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 7
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 8
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 9
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 10
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Autres réassureurs
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-DISPERSION des cessions
-
-</td>
-      <td width="52">
-
-SOLDE des comptes courants (4) (D)
-
-</td>
-      <td width="78">
-
-DÉPÔTS ESPÈCES (E)
-
-</td>
-      <td width="78">
-
-MONTANT des autres garanties apportées (5) (F)
-
-</td>
-      <td width="130">
-
-PROVISIONS techniques cédées non garanties/Capitaux propres nets d'incorporels (6) (G)
-
-</td>
-      <td width="65">
-
-MONTANT des créances de plus d'un an (7) (H)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Réassureur 1
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 2
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 3
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 4
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 5
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 6
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 7
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 8
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 9
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Réassureur 10
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Autres réassureurs
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-(1) Les réassureurs de la mutuelle sont à classer par ordre d'importance des provisions techniques cédées ou rétrocédées (y
-compris la part non notifiée de ces provisions). Le réassureur n
-  <sup>o</sup> 1 correspond au réassureur le plus important. Les montants demandés dans ce tableau sont ceux à la date de
-clôture du dernier exercice inventorié et retracés dans le bilan.
-
-(2) Il s'agit de la dénomination usuelle du réassureur.
-
-(3) Il s'agit des montants de provisions techniques à charge des réassureurs figurant au bilan mais qui n'ont pas été
-communiqués à ces derniers.
-
-(4) Il s'agit du montant des soldes des comptes courants à la date de clôture du dernier exercice inventorié (signe - s'ils
-sont en faveur du réassureur).
-
-(5) Il s'agit du montant des garanties apportées conformément à l'article R. 212-35 (nantissement et garantie à première
-demande).
-
-(6) Ce ratio doit être exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 33,18
-%). Le calcul à effectuer est le suivant : (G) = (B + C + D - E - F)/(capitaux propres après affectation - actifs
-incorporels), ou zéro si le résultat est négatif.
-
-(7) Il s'agit des créances au titre des comptes courants. L'ancienneté de ces créances est à mesurer par la durée qui sépare
-la date d'exigibilité de la créance de la date de clôture du dernier exercice inventorié.
-
-**Tableau B** : SIMULATIONS D'ÉVÉNEMENTS
-
-Les mutuelles agréées pour pratiquer les opérations visées au b) du 1
-  <sup>o</sup> du I de l'article  L. 111-1 doivent renseigner les lignes numérotées 1 à 4 du tableau suivant. Les autres
-mutuelles doivent renseigner la ligne 1.
-
-<table>
-  <thead>
-    <tr>
-      <td width="260">
-
-SIMULATION SUR L'ENSEMBLE
-
-des risques souscrits
-
-</td>
-      <td width="195" colspan="2">
-
-CHARGE DE SINISTRE (1)
-
-</td>
-    </tr>
-    <tr>
-      <td width="260">
-
-</td>
-      <td width="104">
-
-Brute (A)
-
-</td>
-      <td width="91">
-
-Nette (B)
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Pire événement survenu pour la société (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Evénement majeur "accidents technologiques" (3)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Evénement majeur "épidémie" (4)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Evénement majeur "garanties plancher" (5)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-(1) Il s'agit de la charge de prestations réévaluée correspondant à la survenance dans l'exercice en cours des événements
-définis dans ce tableau, compte tenu du portefeuille actuel de risques de la mutuelle. La charge nette doit tenir compte des
-couvertures actuelles en réassurance.
-
-(2) Evénement qu'a connu la mutuelle dans le passé et qui conduirait, s'il survenait dans l'exercice en cours, à la charge de
-prestations brute de réassurance la plus importante, compte tenu de l'actuel portefeuille de risques de la mutuelle. La
-charge nette doit tenir compte des couvertures actuelles en réassurance.
-
-(3) Il s'agit d'un scénario défavorable de type "accidents technologiques" utilisé par la mutuelle pour établir et analyser
-son programme de réassurance.
-
-(4) Il s'agit d'un scénario défavorable de type "épidémie" utilisé par la mutuelle pour établir et analyser son programme de
-réassurance.
-
-(5) Il s'agit d'un scénario défini par la combinaison d'hypothèses financières standardisées. Ces hypothèses consistent, par
-rapport à leur moyenne respective constatée sur les trois dernières années, en une baisse de l'indice boursier de référence
-de 30 %, en une baisse de deux points des taux d'intérêt de l'obligation de référence et en une baisse de 20 % du prix des
-transactions immobilières. 
-
-La charge de prestations à renseigner correspond ici à la valeur actuelle probable, calculée au 1
-  <sup>er</sup> janvier de l'exercice en cours, des prestations (nettes des prélèvements effectués au titre de ces garanties)
-associées aux garanties plancher jusqu'à leur extinction sous les hypothèses financières précédentes. Le taux d'actualisation
-à retenir est égal au minimum entre 3,5 % et 60 % du TME.
-
-Entre la table de mortalité TD 88-90 et la table TV 88-90 doit être retenue celle donnant la valeur actuelle probable des
-prestations la plus élevée. Pour le calcul de la charge nette sont prises en compte les cotisations cédées et les prestations
-cédées, en valeur actuelle probable, et sont appliquées les conditions des traités en vigueur, notamment celles concernant la
-durée de la garantie, sans tenir compte des renouvellements éventuels de ces traités.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C10 à l'article A114-5
-
-**ÉTAT C10 : COTISATIONS ET RÉSULTATS PAR ANNÉE DE SURVENANCE DES PRESTATIONS**
-
-Les mutuelles pratiquant des opérations visées au a, c, d ou e du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations et de
-leurs résultats, par année de survenance des prestations, pour chacune des catégories, sous-catégories ou totalisations
-d'opérations suivantes, les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en
-application de l'article A. 114-1 étant exclues.
-
-a) Affaires directes souscrites en France :
-
-- dommages corporels : opérations individuelles (y compris groupes ouverts) - ensemble (y compris garanties contre les
-dommages corporels complémentaires à des garanties en cas de vie ou de décès) (catégorie 20) ;
-
-- dommages corporels : opérations individuelles non données en substitution (y compris groupes ouverts) - ensemble (y compris
-garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2011,
-2021 et 2031) ;
-
-- dommages corporels : opérations individuelles non données en substitution (y compris groupes ouverts) - autres dommages
-corporels (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès)
-(sous-catégories 2011 et 2021) ;
-
-- dommages corporels : opérations individuelles non données en substitution (y compris groupes ouverts) - frais de soins
-relevant de la couverture maladie universelle définie par la loi n
-  <sup>o</sup> 99-641 du 27 juillet 1999 (y compris garanties contre les dommages corporels complémentaires à des garanties
-en cas de vie ou de décès) (sous-catégorie 2031) ;
-
-- dommages corporels : opérations individuelles données en substitution (y compris groupes ouverts) - ensemble (y compris
-garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2012,
-2022 et 2032) ;
-
-- dommages corporels : opérations individuelles données en substitution (y compris groupes ouverts) - autres dommages
-corporels (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès)
-(sous-catégories 2012 et 2022) ;
-
-- dommages corporels : opérations individuelles données en substitution (y compris groupes ouverts) - frais de soins relevant
-de la couverture maladie universelle définie par la loi n
-  <sup>o</sup> 99-641 du 27 juillet 1999 (y compris garanties contre les dommages corporels complémentaires à des garanties
-en cas de vie ou de décès) (sous-catégorie 2032) ;
-
-- dommages corporels : opérations collectives, ensemble (y compris garanties contre les dommages corporels complémentaires à
-des garanties en cas de vie ou de décès) (catégorie 21) ;
-
-- dommages corporels : opérations collectives non données en substitution, ensemble (y compris garanties contre les dommages
-corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2111, 2121, 2131 et 2141) ;
-
-- dommages corporels : opérations collectives non données en substitution visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989 (y compris garanties contre les dommages corporels complémentaires à des garanties
-en cas de vie ou de décès) (sous-catégories 2111 et 2121) ;
-
-- dommages corporels : opérations collectives non données en substitution, autres (y compris garanties contre les dommages
-corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2131 et 2141) ;
-
-- dommages corporels : opérations collectives données en substitution, ensemble (y compris garanties contre les dommages
-corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2112, 2122, 2132 et 2142) ;
-
-- dommages corporels : opérations collectives données en substitution visées à l'article 2 de la loi n
-  <sup>o</sup> 89-1009 du 31 décembre 1989 (y compris garanties contre les dommages corporels complémentaires à des garanties
-en cas de vie ou de décès) (sous-catégories 2112 et 2122) ;
-
-- dommages corporels : opérations collectives données en substitution, autres (y compris garanties contre les dommages
-corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 2132 et 2142) ;
-
-- protection juridique (catégorie 29) ;
-
-- assistance (catégorie 30) ;
-
-- pertes pécuniaires diverses (catégorie 31) ;
-
-- total des affaires directes souscrites en France (catégories 20 à 31).
-
-b) Autres opérations :
-
-- total des opérations des catégories 20 à 31 souscrites en LPS depuis la France ;
-
-- total des acceptations en France couvrant les catégories 20 à 31 ;
-
-- total Union européenne hors France, opérations directes et acceptées des catégories 20 à 31 ;
-
-- total hors Union européenne : opérations directes et acceptées des catégories 20 à 31.
-
-**Tableau A** : Cotisations acquises
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE RATTACHEMENT
-
-</td>
-      <td width="52">
-
-N - 5 ET ANT.
-
-</td>
-      <td width="52">
-
-(N - 4)
-
-</td>
-      <td width="52">
-
-(N - 3)
-
-</td>
-      <td width="52">
-
-(N - 2)
-
-</td>
-      <td width="52">
-
-(N - 1)
-
-</td>
-      <td width="52">
-
-EX.INV.
-
-</td>
-      <td width="52">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Cumul des émissions, nettes d'annulations, au cours des exercices antérieurs
-
-</td>
-      <td>
-
-xxxxx
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-xxxxx
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Emissions, nettes d'annulations, au cours de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Emissions, nettes d'annulations, restant à effectuer à la fin de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Fraction des cotisations non courue à la fin de l'année de rattachement antérieure (1)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-xxxxx
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Fraction des cotisations non courue à la fin de l'année de rattachement
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-xxxxx
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Total : Cotisations acquises (2)
-
-</td>
-      <td>
-
-xxxxx
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-xxxxx
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Rappel : Emissions, nettes d'annulations, restant à effectuer à la fin de l'exercice précédent
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-xxxxx
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td colspan="8">
-
-(1) Montant égal au montant inscrit ligne 5 de la colonne précédente.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="8">
-
-(2) 1 + 2 + 3 + 4 - 5.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau B** : Nombre de risques
-
-<table>
-  <thead>
-    <tr>
-      <td width="221">
-      </td><td width="78">
-
-CONTRATS
-
-</td>
-      <td width="78">
-
-PARTICIPANTS
-
-</td>
-      <td width="78">
-
-PERSONNES protégées
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Nombre à l'ouverture de l'exercice
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Nombre à la clôture de l'exercice
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-    </td></tr>
-  </tbody>
-</table>
-
-**Tableau C** : Coût moyen et rapport p/c par année de survenance des prestations
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-
-ANNÉE DE SURVENANCE
-
-</td>
-      <td width="28">
-
-N - 5
-
-</td>
-      <td width="28">
-
-N - 4
-
-</td>
-      <td width="28">
-
-N - 3
-
-</td>
-      <td width="28">
-
-N - 2
-
-</td>
-      <td width="28">
-
-N - 1
-
-</td>
-      <td width="71">
-
-EX.INV.
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Cumul des paiements (1) y compris capitaux constitués, nets de recours, au cours des exercices antérieurs (frais de
-gestion inclus) (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Paiements (1) y compris capitaux constitués, nets de recours, au cours de l'exercice inventorié (frais de gestion inclus)
-(2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Provisions pour prestations à payer, nettes de prévisions de recours, à la fin de l'exercice inventorié (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Charge nette de recours (2) (3)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Nombre de sinistres ou d'événements
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Coût moyen net de recours (4)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-7. Cotisations acquises à l'année
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-8. Rapport p/c (charge nette/cotisations acquises) en %, 4/7 en %
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="7">
-
-(1) Capitaux de rentes constituées dans l'exercice inclus.
-
-(2) Frais de gestion inclus.
-
-(3) 1 + 2 + 3
-
-(4) Par dérogation aux dispositions du 1
-          <sup>er</sup> alinéa de la présente annexe, les montants portés à cette ligne sont portés en euros.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C11 à l'article A114-5
-
-**ÉTAT C11 : PRESTATIONS PAR ANNÉE DE SURVENANCE**
-
-Les mutuelles pratiquant les opérations visées au a, c, d ou e du 1 de I de l'article L. 111-1 établissent, selon le modèle
-fixé ci-après, un état de leurs prestations, par année de survenance, pour chacune des catégories, sous-catégories ou
-totalisations d'opérations suivantes, les opérations données en substitution, les opérations pluriannuelles à cotisation
-unique ou non révisable et les opérations assimilées en application de l'article A. 114-1 étant exclues.
-
-a) Affaires directes souscrites en France ;
-
-- dommages corporels : opérations individuelles non données en substitution - ensemble (sous-catégories 2011, 2021 et 2031) ;
-
-- dommages corporels : opérations individuelles non données en substitution, garantie frais de soins (sous-catégories 2011 et
-2031) ;
-
-- dommages corporels : opérations individuelles non données en substitution, autres garanties (sous-catégorie 2021) ;
-
-- dommages corporels : opérations collectives non données en substitution, ensemble (sous-catégories 2111, 2121, 2131 et
-2141) ;
-
-- dommages corporels : opérations collectives non données en substitution, garanties frais de soins (sous-catégories 2111 et
-2131) ;
-
-- dommages corporels : opérations collectives non données en substitution, autres garanties (sous-catégories 2121 et 2141) ;
-
-- protection juridique (catégorie 29) ;
-
-- assistance (catégorie 30) ;
-
-- pertes pécuniaires diverses (catégorie 31) ;
-
-- total des affaires directes souscrites en France (catégories 20 à 31) ;
-
-b) Autres opérations ;
-
-- total des opérations des catégories 20 à 31, souscrites en LPS depuis la France ;
-
-- total des acceptations en France couvrant les catégories 20 à 31 ;
-
-- total Union européenne hors la France : opérations directes et acceptées des catégories 20 à 31 ;
-
-- total hors Union européenne ; opérations directes et acceptées des catégories 20 à 31.
-
-**Tableau A** : Nombre de prestations payées ou à payer
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-
-ANNÉE de survenance
-
-</td>
-      <td width="71">
-
-N - 5 et antérieurs
-
-</td>
-      <td width="28">
-
-N - 4
-
-</td>
-      <td width="28">
-
-N - 3
-
-</td>
-      <td width="28">
-
-N - 2
-
-</td>
-      <td width="28">
-
-N - 1
-
-</td>
-      <td width="28">
-
-EX. inv.
-
-</td>
-      <td width="71">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Terminés à l'ouverture de l'exercice inventorié (1)
-
-</td>
-      <td>
-
-X
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-      <td>
-
-X
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Réouverts dans l'exercice
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Terminés dans l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Restant à payer à la clôture de l'exercice inventorié (2)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-5. Total 1 - 2 + 3 + 4
-
-</td>
-      <td>
-
-X
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Dont déclaré dans l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="8">
-
-(1) 1 - 2 + 3 de l'année précédente.
-
-(2) Cette ligne doit comprendre l'estimation du nombre de prestations mais non déclarées.</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau B** : Prestations, paiements et provisions
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE de survenance
-
-</td>
-      <td valign="middle" align="center">
-
-N - 5 et antérieurs
-
-</td>
-      <td align="center" valign="middle">
-
-N - 4
-
-</td>
-      <td valign="middle" align="center">
-
-N - 3
-
-</td>
-      <td align="center" valign="middle">
-
-N - 2
-
-</td>
-      <td align="center" valign="middle">
-
-N - 1
-
-</td>
-      <td align="center" valign="middle">
-
-EX. inv.
-
-</td>
-      <td valign="middle" align="center">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Paiements de prestations dans l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Capitaux de rente constitués dans l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Provisions pour prestations à payer à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-5. Total (1 - 2 + 3 + 4)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-6. Provisions pour prestations à payer à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-7. Paiements de prestations et capitaux de rentes constitués cumulés des exercices antérieurs à l'exercice inventorié
-
-</td>
-      <td>
-
-X
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-      <td>
-
-X
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau C** : Recours
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-
-ANNÉE de survenance
-
-</td>
-      <td valign="middle" align="center">
-
-N - 5 et antérieurs
-
-</td>
-      <td align="center" valign="middle">
-
-N - 4
-
-</td>
-      <td valign="middle" align="center">
-
-N - 3
-
-</td>
-      <td align="center" valign="middle">
-
-N - 2
-
-</td>
-      <td valign="middle" align="center">
-
-N - 1
-
-</td>
-      <td align="center" valign="middle">
-
-EX. inv.
-
-</td>
-      <td valign="middle" align="center">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Recours encaissés dans l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Prévisions de recours restant à encaisser à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Total
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Prévisions de recours restant à encaisser à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-5. Recours encaissés cumulés des exercices antérieurs à l'exercice inventorié
-
-</td>
-      <td>
-
-X
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-      <td>
-
-X
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau D** : Frais de gestion des prestations et des recours
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE de survenance
-
-</td>
-      <td valign="middle" align="center">
-
-N - 5 et antérieures
-
-</td>
-      <td valign="middle" align="center">
-
-N - 4
-
-</td>
-      <td align="center" valign="middle">
-
-N - 3
-
-</td>
-      <td align="center" valign="middle">
-
-N - 2
-
-</td>
-      <td align="center" valign="middle">
-
-N - 1
-
-</td>
-      <td align="center" valign="middle">
-
-EX. inv.
-
-</td>
-      <td valign="middle" align="center">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Frais de gestion payés dans l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Total
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-5. Frais de gestion payés cumulés des exercices antérieures à l'exercice inventorié
-
-</td>
-      <td>
-
-X
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-X
-
-</td>
-      <td>
-
-X
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C12 à l'article A114-5
-
-**ÉTAT C12 : PRESTATIONS ET RÉSULTATS PAR ANNÉE DE SOUSCRIPTION**
-
-Les mutuelles pratiquant des opérations visées au a, c, d ou e du 1 du I de l'article L. 111-1 établissent, selon le modèle
-fixé ci-après, un état de leurs cotisations et de leurs résultats, par année de souscription des contrats, pour chacune des
-six totalisations d'opérations ci-après.
-
-a) Affaires directes souscrites en France :
-
-- opérations de la catégorie 38 ;
-
-- opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31, y compris opérations assimilées en
-application du dernier alinéa de l'article A. 114-1 :
-
-- total des affaires directes en France
-
-- total des affaires directes en France non données en substitution
-
-- total des affaires directes en France données en substitution
-
-b) Autres opérations :
-
-- total des opérations en LPS, acceptées et à l'étranger.
-
-**Tableau A.** - Prestations, paiements et provisions, par année de souscription (1).
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE SOUSCRIPTION
-
-</td>
-      <td align="center" valign="middle">
-
-N - 5 et ant.
-
-</td>
-      <td width="38">
-
-(N - 4)
-
-</td>
-      <td width="38">
-
-(N - 3)
-
-</td>
-      <td width="38">
-
-(N - 2)
-
-</td>
-      <td width="38">
-
-(N - 1)
-
-</td>
-      <td width="38">
-
-EX. inv.
-
-</td>
-      <td width="42">
-
-TOTAL
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Paiements de prestations dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Frais de gestion payés dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Recours encaissés dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Provisions pour prestations à payer à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Prévision de recours restant encaisser à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-7. Autres provisions techniques à la clôture de l'exercice inventorié (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-8. Sous-total (lignes 1 + 2 - 3 + 4 + 5 - 6 + 7)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-9. Provisions pour prestations à payer à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-12. Autres provisions techniques à l'ouverture de l'exercice inventorié (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-13. Augmentation des cotisations acquises (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-14. Participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-15. Sous-total (lignes 9 + 10 - 11 + 12 + 13 + 14)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="8">
-
-(1) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours,
-provisions pour risques croissants.
-
-(2) Nettes de frais d'acquisition.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau B** : Rapport p/c par année de souscription
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE SURVENANCE
-
-</td>
-      <td width="99">
-
-N - 5 et antérieurs
-
-</td>
-      <td width="38">
-
-N - 4
-
-</td>
-      <td width="38">
-
-N - 3
-
-</td>
-      <td width="38">
-
-N - 2
-
-</td>
-      <td width="38">
-
-N - 1
-
-</td>
-      <td width="38">
-
-EX. INV.
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Paiements, nets de recours, au cours de l'exercice inventorié (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Charge nette de recours
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Cumul des participations aux excédents incorporés dans l'exercice aux prestations payées ou provisionnées
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Cotisations acquises à l'année (3)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-7. Coûts net/cotisations en % (4)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="7">(1) Frais de gestion inclus. 
-
-(2) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours,
-provisions pour risques croissants et provisions pour sinistres à payer, nettes de prévisions de recours.
-
-(3) Cumul des cotisations, nettes d'annulations, émises au titre de l'année de souscription considérée, augmenté de
-l'estimation des cotisations à émettre, nette des cotisations à annuler.
-
-(4) Ligne 4 - ligne 5/ligne 6.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C13 à l'article A114-5
-
-**ÉTAT C13 : PART DES RÉASSUREURS DANS LES PRESTATIONS**
-
-Les mutuelles pratiquant des opérations visées au a, c, d ou e du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état retraçant la part des
-cessionnaires et rétrocessionnaires dans les prestations.
-
-**Tableau A** : Prestations au titre d'opérations relevant des catégories 20 à 31 (affaires directes en France)
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE SURVENANCE
-
-</td>
-      <td width="99">
-
-N - 5 et antérieurs
-
-</td>
-      <td width="28">
-
-N - 4
-
-</td>
-      <td width="28">
-
-N - 3
-
-</td>
-      <td width="28">
-
-N - 2
-
-</td>
-      <td width="28">
-
-N - 1
-
-</td>
-      <td width="56">
-
-EX. INV.
-
-</td>
-      <td width="56">
-
-Total
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Capitaux de rente constitués dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Provisions pour prestations à payer à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Parcipation aux excédents incorporée dans l'exercice dans les prestations payées ou provisionnées
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Total 1 + 2 + 3 + 4
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-</td>
-      <td>
-      </td><td>
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-6. Provisions pour prestations à payer à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-      </td><td>
-    </td></tr>
-  </tbody>
-</table>
-
-**Tableau B** : Prestations au titre d'opérations pluriannuelles à cotisation unique ou non révisable relevant des catégories
-20 à 31 y compris opérations assimilées et au titre des opérations relevant de la catégorie 38 (affaires directes en France)
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE SURVENANCE
-
-</td>
-      <td width="99">
-
-N - 5 et antérieurs
-
-</td>
-      <td width="28">
-
-N - 4
-
-</td>
-      <td width="28">
-
-N - 3
-
-</td>
-      <td width="28">
-
-N - 2
-
-</td>
-      <td width="28">
-
-N - 1
-
-</td>
-      <td width="56">
-
-EX. INV.
-
-</td>
-      <td width="56">
-
-Total
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Provisions techniques à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Total 1 + 2
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Provisions techniques à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-      </td><td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Augmentation des cotisations acquises et autres ressources (3)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Total 4 + 5
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="8">
-
-(3) Les autres ressources sont la contribution des cessionnaires et des rétrocessionnaires dans les participations aux
-excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau C** : Prestations au titre d'opération relevant des catégories 20 à 31 (LPS, acceptations et opérations à
-l'étranger)
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE SURVENANCE
-
-</td>
-      <td width="99">
-
-N - 5 et antérieurs
-
-</td>
-      <td width="28">
-
-N - 4
-
-</td>
-      <td width="28">
-
-N - 3
-
-</td>
-      <td width="28">
-
-N - 2
-
-</td>
-      <td width="28">
-
-N - 1
-
-</td>
-      <td width="56">
-
-EX. INV.
-
-</td>
-      <td width="56">
-
-Total
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Capitaux de rente constitués dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Provisions pour prestations à payer à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Participation aux excédents incorporés dans l'exercice dans les prestations payées ou provisionnées
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Total 1 + 2 + 3 + 4
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Provisions pour prestations à payer à l'ouverture de l'exercice invontorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Tableau D** : Prestations au titre d'opérations pluriannuelles à cotisation unique ou non révisable relevant des catégories
-20 à 31 y compris opérations assimilées et au titre des opérations relevant de la catégorie 38 (LPS, acceptations et
-opérations à l'étranger)
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ANNÉE DE SURVENANCE
-
-</td>
-      <td width="99">
-
-N - 5 et antérieurs
-
-</td>
-      <td width="28">
-
-N - 4
-
-</td>
-      <td width="28">
-
-N - 3
-
-</td>
-      <td width="28">
-
-N - 2
-
-</td>
-      <td width="28">
-
-N - 1
-
-</td>
-      <td width="56">
-
-EX. INV.
-
-</td>
-      <td width="56">
-
-Total
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2. Provisions techniques à la clôture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3. Total 1 + 2
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4. Provisions techniques à l'ouverture de l'exercice inventorié
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5. Augmentation des cotisations acquises et autres ressources (3)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-6. Total 4 + 5
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="8">
-
-(3) Les "autres ressources" sont la contribution des cessionnaires et des rétrocessionnaires dans les participations aux
-excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C20 à l'article A114-5
-
-**ÉTAT C20 : MOUVEMENTS DES BULLETINS D'ADHÉSION AUX RÈGLEMENTS OU DES CONTRATS DES CAPITAUX ET RENTES**
-
-Les mutuelles agréées pour pratiquer des opérations visées au b du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état retraçant les mouvements des
-bulletins d'adhésion aux règlements, des contrats, des capitaux et des rentes au cours de l'exercice inventorié.
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center" colspan="2">
-
-MOUVEMENTS
-
-</td>
-      <td width="117">
-
-CATÉGORIE
-
-ou sous-catégorie
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">
-
-En cours à l'ouverture de l'exercice
-
-</td>
-      <td>
-
-Nombre (1)
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-<font size="1">
-            **Entrées**
-          </font>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Souscriptions
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Remplacements ou transformations
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Revalorisations (3)
-
-</td>
-      <td>
-
-Nombre (4)
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-**Total des entrées sauf revalorisations pour le total nombre**
-
-</td>
-      <td>
-
-**Nombre**
-
-</td>
-      <td>
-
-**
-        **
-
-**
-      **</td>
-    </tr>
-    <tr>
-      <td>
-
-**
-        **
-
-**
-      **</td>
-      <td>
-
-**Montant**
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-**
-            <font size="1">Sorties</font>
-          **
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Sans effet
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Remplacements ou transformations
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Echéances
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Sinistres (5)
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Extinctions
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Rachats
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Réductions
-
-</td>
-      <td>
-
-Nombre (4)
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Résiliations
-
-</td>
-      <td>
-
-Nombre
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montant
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-**Total des sorties 
-
-sauf réductions pour le total nombre**
-
-</td>
-      <td>
-
-**Nombre**
-
-</td>
-      <td>
-
-**
-        **
-
-**
-      **</td>
-    </tr>
-    <tr>
-      <td>
-
-**Montant**
-
-</td>
-      <td>
-
-**
-        **
-
-**
-      **</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-**En cours à la clôture de l'exercice**
-
-</td>
-      <td>
-
-**Nombre**
-
-</td>
-      <td>
-
-**
-        **
-
-**
-      **</td>
-    </tr>
-    <tr>
-      <td>
-
-**Montant**
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-(1) Nombre de bulletins d'adhésion aux règlements et de contrats.
-
-(2) Capitaux ou rentes annuelles.
-
-(3) Revalorisations au cours de l'exercice : indexations, incorporations de participations aux excédents.
-
-(4) Les nombres figurant sur cette ligne ne s'additionnent pas dans le total.
-
-(5) Pour les opérations relevant de la branche 24 (capitalisation), cette rubrique enregistre les remboursements par tirage
-au sort.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Cet état comporte en colonnes les catégories et sous catégories suivantes d'opérations directes en France :
-
-Opérations de capitaux en euros ou en devises
-
-Opérations de capitalisation à cotisation unique ou versements libres (catégorie 01).
-
-Opérations de capitalisation à cotisations périodiques (catégorie 02).
-
-Opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) : temporaires décès
-(catégorie 03).
-
-Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique
-ou versements libres (sous-catégorie 042).
-
-Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations
-périodiques (sous-catégorie 052).
-
-Opérations collectives en cas de décès (catégorie 06).
-
-Autres opérations collectives en cas de vie (sous-catégorie 072).
-
-Opérations de nuptialité-natalité (catégorie 12).
-
-Opérations de capitaux en unités de compte
-
-Opérations de capitalisation à cotisation unique ou versements libres (sous-catégorie 081).
-
-Opérations de capitalisation à cotisations périodiques (sous-catégorie 091).
-
-Opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) : temporaires décès (sous-
-catégories 082 et 092).
-
-Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique
-ou versements libres (sous-catégorie 084).
-
-Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations
-périodiques (sous-catégorie 94).
-
-Opérations collectives en cas de décès (sous-catégories 085, 086, 095 et 096).
-
-Autres opérations collectives en cas de vie (sous-catégories 088 et 098).
-
-Opérations de rentes en euros ou en devises
-
-Rentes individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) différées en cours de
-constitution (partie des sous-catégories 041 et 051) (1).
-
-Rentes individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) en service (partie des sous-
-catégories 041 et 051) (1).
-
-Rentes collectives en cas de vie différées en cours de constitution (partie de la sous-catégorie 071) (2).
-
-Rentes collectives en cas de vie en service (partie de la sous-catégorie 071) (2).
-
-Opérations de rentes en unités de compte
-
-Rentes différées en cours de constitution (partie des sous-catégories 083, 087, 093, et 097) (3).
-
-Rentes en service (partie des sous-catégories 083, 087, 093, et 097) (3).
-
-Les opérations en unités de compte sont converties en euros à la contre-valeur de l'unité de compte à la date d'inventaire et
-regroupées toutes unités de compte confondues. La mutuelle détient le détail de chaque catégorie ou sous-catégorie par unité
-de compte.
-
-(1) L'addition des éléments relatifs aux rentes individuelles différées en cours de constitution et aux rentes individuelles
-en service est égale au total des éléments relatifs aux sous-catégories 041 et 051.
-
-(2) L'addition des éléments relatifs aux rentes collectives différées en cours de constitution et aux rentes collectives en
-service est égale au total des éléments relatifs à la sous-catégorie 071.
-
-(3) L'addition des éléments relatifs aux rentes différées en cours de constitution et aux rentes en service est égale au
-total des éléments relatifs aux sous-catégories 083, 087, 093 et 097.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe C21 à l'article A114-5
-
-**ÉTAT C21 : ÉTAT DÉTAILLÉ DES PROVISIONS ET ENGAGEMENTS TECHNIQUES**
-
-Les mutuelles pratiquant des opérations visées au b du 1
-  <sup>o</sup> du I de l'article L. 111-1 établissent, selon le modèle fixé ci-après, un état détaillé de leurs provisions
-techniques.
-
-L'état est constitué de deux ensembles de lignes :
-
-**A.** - Le premier ensemble de lignes est ordonné en quatre-vingt-sept rubriques correspondant aux catégories, sous-
-catégories ou regroupements d'opérations définies à l'état C 4 :
-
-I. - Opérations directes en France : catégories ou sous-catégories 01, 02, 031, 032, 041, 042, 051, 052, 061, 062, 071, 072,
-081, 082, 083, 084, 085, 086, 087, 088, 091, 092, 093, 094, 095, 096, 097, 098, 10, 11111, 11112, 11113, 11121, 11122, 11123,
-11131, 11132, 11133, 11134, 11135, 11141, 11142, 11143, 11144, 11145, 1115, 11211, 11212, 11213, 11221, 11222, 11223, 11231,
-11232, 11233, 11234, 11235, 11241, 11242, 11243, 11244, 11245, 1125, 121, 122, 2011, 2012, 2021, 2022, 2031, 2032, 2111,
-2112, 2121, 2122, 2131, 2132, 2141, puis 2142 ;
-
-II. - Opérations en libre prestation de services par un établissement en France ;
-
-III. - Acceptations en réassurance par un établissement en France ;
-
-IV. - Opérations des succursales établies dans l'Union européenne (hors la France), détaillées par rubriques a, b, puis c ;
-
-V. - Opérations des succursales établies hors de l'Union européenne, détaillées par rubriques a, b, puis c.
-
-Ce premier ensemble comporte une ligne par règlement ou contrat type en cours. Chaque règlement ou contrat type est identifié
-par sa dénomination ; les différentes versions d'un contrat type proposé sous une même dénomination sont à considérer comme
-des règlements ou des contrats distincts. Chaque rubrique est totalisée. Les provisions techniques relatives aux garanties en
-euros ou en devises des opérations en unités de compte sont indiquées sur une ligne distincte rattachée au règlement ou au
-contrat.
-
-Sous réserve de respecter la décomposition par régime de participation aux excédents, les mutuelles peuvent regrouper au sein
-de chaque rubrique les règlements ou contrats types dont les provisions techniques représentent moins de 0,5 % du total des
-provisions techniques afférentes aux opérations directes en France ;
-
-**B.** - Le deuxième ensemble de lignes retrace les provisions et engagements techniques communs à plusieurs règlements ou
-contrats types :
-
-- d'abord, celles des provisions pour participation aux excédents qui ne sont pas propres à un règlement ou contrat type ;
-
-- ensuite, les autres provisions techniques, notamment provisions pour aléas financiers, provisions de gestion, provision
-pour risque d'exigibilité des engagements techniques.
-
-L'état est complété par un total général.
-
-L'état comporte les colonnes suivantes :
-
-- dénomination du règlement ou du contrat type ;
-
-- nombre de bulletins d'adhésion aux règlements et de contrats en cours à la clôture de l'exercice ;
-
-- taux d'intérêt garanti ;
-
-- capitaux ou rentes garantis donnés en substitution ;
-
-- capitaux ou rentes garantis non donnés en substitution ;
-
-- cotisations émises données en substitution dans l'exercice, nettes d'annulations ;
-
-- cotisations émises non données en substitution dans l'exercice, nettes d'annulations ;
-
-- provisions mathématiques à la clôture de l'exercice, hors engagements donnés en substitution ;
-
-- provisions pour participations aux excédents à la clôture de l'exercice, hors engagements donnés en substitution ;
-
-- autres provisions techniques spécifiques au règlement ou au contrat à la clôture de l'exercice, hors engagements donnés en
-substitution ;
-
-- engagements techniques sur opérations données en substitution ;
-
-- capitaux ou rentes cédés ;
-
-- capitaux ou rentes donnés ;
-
-- cotisations cédées ;
-
-- cotisations données ;
-
-- provisions mathématiques cédées à la clôture de l'exercice ;
-
-- part des garants dans les provisions mathématiques à la clôture de l'exercice ;
-
-- provisions pour participation aux excédents cédées à la clôture de l'exercice ;
-
-- part des garants dans les provisions pour participation aux excédents à la clôture de l'exercice ;
-
-- autres provisions techniques spécifiques au règlement ou au contrat cédées à la clôture de l'exercice ;
-
-- part des garants dans les autres provisions techniques spécifiques au règlement ou au contrat à la clôture de l'exercice.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 18 avril 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-## Annexes à l'article A114-7
-
-###### Article Annexe T1 à l'article A114-7
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
-
-**État T1 : Flux trimestriels relatifs aux opérations en France**
-
-Les mutuelles et les unions établissent trimestriellement, selon le modèle fixé ci-après, un état relatif à leurs opérations
-réalisées en France au cours du trimestre écoulé.
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle">
-
-**Quatre trimestres précédents**
-
-</td>
-      <td valign="middle">
-
-**Trimestre T-7**
-
-</td>
-      <td valign="middle">
-
-**Trimestre T-6**
-
-</td>
-      <td valign="middle">
-
-**Trimestre T-5**
-
-</td>
-      <td valign="middle">
-
-**Trimestre T-4**
-
-</td>
-      <td valign="middle">
-
-**Cum**ul
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Nombre de contrats souscrits
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Nombre de prestations ouvertes (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cotisations émises nettes d'annulations (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Prestations payées (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Frais d'acquisition et d'administration (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Produits des placements (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-**Quatre derniers trimestres**
-
-</td>
-      <td>
-
-**Trimestre T-3**
-
-</td>
-      <td>
-
-**Trimestre T-2**
-
-</td>
-      <td>
-
-**Trimestre T-1**
-
-</td>
-      <td>
-
-**Trimestre courant**
-
-</td>
-      <td>
-
-**Cumul**
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Nombre de contrats souscrits
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Nombre de prestations ouverts (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cotisations émises nettes d'annulations (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Prestations payées (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Frais d'acquisition et d'administration (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Produits des placements (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="6">
-
-(1) En vie et capitalisation, prestations, sorties par tirage, échéances et rachats totaux.
-
-(2) Montants extraits du grand livre au dernier jour ouvrable de chaque trimestre civil avant toute opération d'inventaire.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe T2 à l'article A114-7
-
-**ETAT T2 : Encours trimestriel des placements**
-
-1. Opérations autres que les PERP et les opérations collectives définies aux articles L. 222-1 et suivants :
-
-<table>
-  <thead>
-    <tr>
-      <td width="221" rowspan="3">
-
-DÉSIGNATION
-
-</td>
-      <td width="234" colspan="6">
-
-ENCOURS
-
-</td>
-    </tr>
-    <tr>
-      <td width="117" colspan="3">
-
-A la fin du trimestre inventorié
-
-</td>
-      <td width="117" colspan="3">
-
-A la fin du trimestre précédent
-
-</td>
-    </tr>
-    <tr>
-      <td width="39">
-
-Valeur brute
-
-</td>
-      <td width="39">
-
-Valeur nette
-
-</td>
-      <td width="39">
-
-Valeur de réalisation
-
-</td>
-      <td width="39">
-
-Valeur brute
-
-</td>
-      <td width="39">
-
-Valeur nette
-
-</td>
-      <td width="39">
-
-Valeur de réalisation
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-A. - Placements mentionnés à l'article R. 212-31
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-I. - Placements non représentatifs de contrats en unités de compte
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. Obligations et autres valeurs émises ou garanties par l'un des États membres de l'OCDE
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Obligations, parts de fonds communs de créance et titres participatifs négociés sur un marché reconnu, autres que celles
-ou ceux visés au 1
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Titres de créances négociables admissibles d'un an au plus
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Bons à moyen terme négociables admissibles
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-5. Actions de Sicav et parts de FCP d'obligations et de titres de créances négociables
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total placements obligataires
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Dont titres mis en pension et titres empruntés ou achetés à réméré
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-6. Actions et titres assimilés cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-7. Titres non cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-8. Parts de FCP à risques (dont FCP dans l'innovation) et fonds communs de proximité
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-9. OPCVM contractuels, OPCVM à procédure allégée, FCP à risques allégés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-10. OPCVM à règles allégées, à l'exception des OPCVM de fonds alternatifs
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-11. OPCVM de fonds alternatifs
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-12. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social dans l'OCDE
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-13. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social hors de l'OCDE
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-14. Actions de SICAV et parts de FCP diversifiés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total des actions et titres assimilés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-15. Droits réels immobiliers
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-16. Parts de sociétés immobilières ou foncières non cotées (y compris les avances en compte courant)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total des placements immobiliers
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-17. Prêts obtenus ou garantis par les États membres de l'OCDE ou assimilés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-18. Prêts hypothécaires
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-19. Avances sur polices
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-20. Prêts de titres garantis par des espèces
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-21. Autres prêts de titres garantis
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-22. Autres prêts
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total des prêts
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-II. - Placements représentatifs de contrats en unités de compte
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-23. Fonds en dépôt
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-24. Placements immobiliers représentatifs de contrats en unités de compte
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-25. Autres placements représentatifs de contrats en unités de compte
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total A
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-B. - Autres placements
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-26. Valeurs mobilières
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Dont titres mis en pension et titres empruntés ou achetés à réméré
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-27. Immeubles et parts de sociétés immobilières non cotées
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-28. Prêts de titres non garantis
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-29. Autres prêts
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-30. Fonds en dépôt
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total B
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-C. - Instruments financiers à terme
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-31. Instruments financiers à terme liés à des produits de taux
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-32. Instruments financiers à terme liés à des actions et actifs assimilés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-33. Autres instruments financiers à terme
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total C
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total A + B + C
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Dont titres mis en pension et titres empruntés ou achetés à réméré
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Engagements reçus (1)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Engagements donnés (1)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="7">
-
-1. Hors instruments financiers à terme et hors nantissements.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-2. PERP et opérations collectives définies aux articles L. 222-1 et suivants :
-
-<table>
-  <thead>
-    <tr>
-      <td width="221" rowspan="3">
-
-DÉSIGNATION
-
-</td>
-      <td colspan="6" width="234">
-
-ENCOURS
-
-</td>
-    </tr>
-    <tr>
-      <td width="117" colspan="3">
-
-A la fin du trimestre inventorié
-
-</td>
-      <td colspan="3" width="117">
-
-A la fin du trimestre précédent
-
-</td>
-    </tr>
-    <tr>
-      <td width="39">
-
-Valeur brute
-
-</td>
-      <td width="39">
-
-Valeur nette
-
-</td>
-      <td width="39">
-
-Valeur de réalisation
-
-</td>
-      <td width="39">
-
-Valeur brute
-
-</td>
-      <td width="39">
-
-Valeur nette
-
-</td>
-      <td width="39">
-
-Valeur de réalisation
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-A. - Placements mentionnés à l'article R. 212-31 non représentatifs de contrats en unités de compte
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-1. Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'OCDE
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-2. Obligations, parts de fonds communs de créance et titres participatifs négociés sur un marché reconnu, autres que celles
-ou ceux visés au 1
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-3. Titres de créances négociables admissibles d'un an au plus
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-4. Bons à moyen terme négociables admissibles
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-5. Actions de Sicav et parts de FCP d'obligations et de titres de créances négociables
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total placements obligataires
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Dont titres mis en pension et titres empruntés ou achetés à réméré
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-6. Actions et titres assimilés cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-7. Titres non cotés sur des marchés reconnus, à l'exclusion de ceux émis par des organismes d'assurance
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-8. Parts de FCP à risques (dont FCP dans l'innovation) et fonds communs de proximité
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-9. OPCVM contractuels, OPCVM à procédure allégée, FCP à risques allégés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-10. OPCVM à règles allégées, à l'exception des OPCVM de fonds alternatifs
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-11. OPCVM de fonds alternatifs
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-12. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social dans l'OCDE
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-13. Actions d'organismes d'assurance, de réassurance ou de capitalisation ayant leur siège social hors de l'OCDE
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-14. Actions de SICAV et parts de FCP diversifiés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total des actions et titres assimilés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-15. Droits réels immobiliers
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-16. Parts de sociétés immobilières ou foncières non cotées (y compris les avances en compte courant)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total des placements immobiliers
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-17. Prêts obtenus ou garantis par les Etats membres de l'OCDE ou assimilés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-18. Prêts hypothécaires
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-19. Avances sur polices
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-20. Prêts de titres garantis par des espèces
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-21. Autres prêts de titres garantis
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-22. Autres prêts
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total des prêts
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total A
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-B. - Autres placements
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-23. Valeurs mobilières
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Dont titres mis en pension et titres empruntés ou achetés à réméré
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-24. Immeubles et parts de sociétés immobilières non cotées
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-25. Prêts de titres non garantis
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-26. Autres prêts
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-27. Fonds en dépôt
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total B
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-C. - Instruments financiers à terme
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-28. Instruments financiers à terme liés à des produits de taux
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-29. Instruments financiers à terme liés à des actions et actifs assimilés
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-30. Autres instruments financiers à terme
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total C
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Total A + B + C
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Dont titres mis en pension et titres empruntés ou achetés à réméré
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Engagements reçus (1)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>
-
-Engagements donnés (1)
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td colspan="7">
-
-1. Hors instruments financiers à terme et hors nantissements.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe T3 à l'article A114-7
-
-**ÉTAT T 3 : SIMULATIONS ACTIF-PASSIF**
-
-Les mutuelles et les unions établissent trimestriellement, selon le modèle fixe ci-après, un état retraçant l'incidence sur
-la valeur de réalisation de leurs placements ainsi que sur leurs provisions mathématiques, des hypothèses figurant ci-
-dessous.
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-
-PRODUITS DE TAUX
-
-</td>
-      <td align="center" valign="middle">
-
-E(TEC 10)
-
-</td>
-      <td align="center" valign="middle">
-
-E(TEC 10)
-
-</td>
-      <td valign="middle" align="center">
-
-E(TEC 10)
-
-</td>
-      <td align="center" valign="middle">
-
-E(TEC 10) (1)
-
-</td>
-      <td align="center" valign="middle">
-
-TEC 10
-
-</td>
-      <td align="center" valign="middle">
-
-E(TEC 10)
-
-</td>
-      <td align="center" valign="middle">
-
-E(TEC 10)
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-- 300 pb
-
-</td>
-      <td align="center" valign="middle">
-
-- 200 pb
-
-</td>
-      <td align="center" valign="middle">
-
-- 100 pb
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-+ 200 pb
-
-</td>
-      <td align="center" valign="middle">
-
-+ 400 pb
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Cotés
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Non cotés
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Instruments à terme liés (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="8">
-
-(1) E (TEC 10) est le nombre entier de centaines de points de base immédiatement inférieur à la valeur actuelle du TEC 10.
-
-(2) Les instruments à terme sont évalués à leurs coûts de remplacement déduits de chacune des valeurs de réalisation simulées
-sur les actifs sous-jacents.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-
-ACTIONS ET ACTIFS ASSIMILÉS
-
-</td>
-      <td valign="middle" align="center">
-
-- 40 %
-
-</td>
-      <td align="center" valign="middle">
-
-- 30 %
-
-</td>
-      <td valign="middle" align="center">
-
-- 20 %
-
-</td>
-      <td align="center" valign="middle">
-
-- 10 %
-
-</td>
-      <td align="center" valign="middle">
-
-VALEUR de réalisation
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Cotés
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Non cotés
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Instruments à terme liés (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="6">
-
-(1) Les instruments à terme sont évalués à leurs coûts de remplacement déduits de chacune des valeurs de réalisation simulées
-sur les actifs sous-jacents.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ACTIFS IMMOBILIERS
-
-</td>
-      <td align="center" valign="middle">
-
-- 40 %
-
-</td>
-      <td valign="middle" align="center">
-
-- 30 %
-
-</td>
-      <td align="center" valign="middle">
-
-- 20 %
-
-</td>
-      <td valign="middle" align="center">
-
-- 10 %
-
-</td>
-      <td align="center" valign="middle">
-
-VALEUR de réalisation
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Cotés
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Non cotés
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-ENGAGEMENTS d'assurance vie en euros, engagements viagers d'assurance non vie et PPE
-
-</td>
-      <td width="52">
-
-E(TEC 10)
-
-</td>
-      <td width="52">
-
-E(TEC 10)
-
-</td>
-      <td width="52">
-
-E(TEC 10)
-
-</td>
-      <td width="52">
-
-E(TEC 10)
-
-</td>
-      <td width="39">
-
-TEC 10
-
-</td>
-      <td width="52">
-
-E(TEC 10)
-
-</td>
-      <td width="52">
-
-E(TEC 10)
-
-</td>
-    </tr>
-    <tr>
-      <td width="104">
-
-</td>
-      <td width="52">
-
-- 330 pb
-
-</td>
-      <td width="52">
-
-- 230 pb
-
-</td>
-      <td width="52">
-
-- 130 pb
-
-</td>
-      <td width="52">
-
-- 30 pb
-
-</td>
-      <td width="39">
-
-- 30 pb
-
-</td>
-      <td width="52">
-
-+ 170 pb
-
-</td>
-      <td width="52">
-
-+370 pb
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Provisions pour participation aux excédents (1)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Engagements en euros liés à des contrats rachetables (2)
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Autres engagements en francs
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Total
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="8">
-
-(1) La provision pour participation aux excédents est évaluée à sa dernière valeur comptable connue.
-
-(2) Les provisions mathématiques sont évaluées avec application, au titre des charges de gestion, d'un abattement de 30
-points de base à chacun des taux retenus.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle" align="center">
-
-ENGAGEMENTS EN UNITÉS DE COMPTE
-
-</td>
-      <td align="center" valign="middle">
-
-- 40 %
-
-</td>
-      <td valign="middle" align="center">
-
-- 30 %
-
-</td>
-      <td align="center" valign="middle">
-
-- 20 %
-
-</td>
-      <td valign="middle" align="center">
-
-- 10 %
-
-</td>
-      <td valign="middle" align="center">
-
-Valeur de réalisation
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-Actif représentatif
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Engagements sans risque de placement
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Résultat probable lié aux engagements avec risque de placement
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td align="center" valign="middle">
-
-AUTRES PROVISIONS TECHNIQUES
-
-</td>
-      <td align="center" valign="middle">
-
-N      
-
-</td>
-      <td valign="middle" align="center">
-
-N + 1              
-
-</td>
-      <td align="center" valign="middle">
-
-N+ 2         
-
-</td>
-      <td align="center" valign="middle">
-
-N+ 3       
-
-</td>
-      <td valign="middle" align="center">
-
-N+ 4      
-
-</td>
-      <td valign="middle" align="center">
-
-N+5 et  ultérieurs        
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="middle" align="center">
-
-Provisions pour cotisations non acquises
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-
-Provision pour risques en cours
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="center">
-
-Provisions pour prestations à payer
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-
-Provisions pour risques croissants
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="center">
-
-Total
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td valign="middle" align="center">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-      <td align="center" valign="middle">
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td valign="middle">
-
-PREMIÈRES CONTREPARTIES (1)
-
-</td>
-      <td valign="middle" colspan="2">
-
-VALEUR COMPTABLE
-
-</td>
-      <td colspan="2" valign="middle">
-
-VALEUR DE RÉALISATION
-
-</td>
-    </tr>
-    <tr>
-      <td width="195">
-
-</td>
-      <td width="65">
-
-Produits de taux
-
-</td>
-      <td width="65">
-
-Autres
-
-</td>
-      <td width="65">
-
-Produits de taux
-
-</td>
-      <td width="65">
-
-Autres
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-
-1
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-2
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-3
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-4
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-5
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="5">
-
-(1) Pour ces évaluations, une contrepartie est soit une société isolée, soit plusieurs sociétés appartenant au même groupe.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-## Annexes à l'article A114-9
-
-###### Article Annexe E1 à l'article A114-9
-
-**État E 1 : **Statistiques relatives aux différentes catégories d'opérations 
-
-Les mutuelles et unions établissent un état E1 " Statistiques relatives aux différentes catégories d'opérations " selon le
-modèle ci-après : 
-
-<table>
-  <tbody>
-    <tr>
-      <td width="250" rowspan="2">
-
-RISQUES ET ENGAGEMENTS
-
-Effectifs au 31 décembre
-
-</td>
-      <td colspan="4" width="385">
-
-OPÉRATIONS DIRECTES EN FRANCE
-
-</td>
-    </tr>
-    <tr>
-      <td width="97">
-
-Collectives à adhésion obligatoire
-
-</td>
-      <td width="96">
-
-Collectives à adhésion facultative
-
-</td>
-      <td width="96">
-
-Individuelles
-
-</td>
-      <td width="96">
-
-Total
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="250">
-
-Frais de santé :
-
-</td>
-      <td width="97" valign="top">.</td>
-      <td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">.</td>
-      <td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de personnes protégées (1) 
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Incapacité temporaire - Indemnités journalières : 
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-Rentes d'invalidité :
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de rentes en cours de service 
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de cotisants (1)
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Chômage : 
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-Indemnité et prime de fin de carrière :
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de bénéficiaires servis
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Retraite supplémentaire (2) :
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de rentes en cours de service
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Autres contrats d'épargne :
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Dépendance :
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Décès et invalidité totale et définitive :
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-Capital décès et invalidité totale et définitive :
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de capitaux versés
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Rente de conjoint survivant :
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de rentes en cours de service
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Rente d'éducation ou d'orphelin :
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de rentes en cours de service
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Autres risques et engagements : 
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre de cotisants (1) 
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Total avec double compte (3) : 
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre total de cotisants
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-Total sans double compte (3) :
-
-</td>
-      <td width="97" valign="top">
-      </td><td width="96" valign="top">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="250" valign="top">
-
-- nombre total de cotisants
-
-</td>
-      <td width="97" valign="top">
-      </td><td valign="top" width="96">
-      </td><td width="96" valign="top">
-      </td><td width="96" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="250">
-
-- nombre d'organismes adhérents
-
-</td>
-      <td valign="top" width="97">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-      </td><td valign="top" width="96">
-    </td></tr>
-    <tr>
-      <td width="665" colspan="5">
-
-(1) Cotisants : membres participants visés à l'article L. 114-1 du code de la mutualité (y compris ceux des mutuelles
-substituées). Les personnes protégées comprennent les membres participants et leurs ayant droits (y compris ceux des
-mutuelles substituées).
-
-(2) Epargne retraite facultative à sortie en rente viagère (soit souscrite à titre individuel [PERP, Préfon...] soit
-souscrite dans le cadre d'un plan d'épargne collectif salarial [PERCO]).
-
-(3) Le total avec double compte correspond à un nombre de contrats tandis que le total sans double compte correspond à un
-nombre de personnes. Ainsi, une personne cotisant pour deux types de contrat (par exemple pour les frais de santé et pour la
-retraite supplémentaire) sera comptée deux fois dans le total avec double compte alors qu'elle ne sera comptée qu'une fois
-dans le total sans double compte.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 21 décembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe E2 à l'article A114-9
-
-Etat E 2 - Cotisations et prestations
-
-Les mutuelles et unions établissent un état E2 "Cotisations et prestations" selon le modèle ci-après : 
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros. 
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="3" width="221">
-
-RISQUES ET 
-
-engagements 
-
-</td>
-      <td colspan="8" width="656">
-
-OPÉRATIONS DIRECTES EN FRANCE
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="168">
-
-Collectives
-
-à adhésion obligatoire
-
-</td>
-      <td colspan="2" width="168">
-
-Collectives
-
-à adhésion facultative
-
-</td>
-      <td width="165" colspan="2">
-
-Individuelles
-
-</td>
-      <td colspan="2" width="155">
-
-Total
-
-</td>
-    </tr>
-    <tr>
-      <td width="84">
-
-Cotisations
-
-</td>
-      <td width="84">
-
-Prestations
-
-</td>
-      <td width="84">
-
-Cotisations
-
-</td>
-      <td width="84">
-
-Prestations
-
-</td>
-      <td width="84">
-
-Cotisations
-
-</td>
-      <td width="81">
-
-Prestations
-
-</td>
-      <td width="75">
-
-Cotisations
-
-</td>
-      <td width="80">
-
-Prestations
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-Frais de santé (1)(2)
-
-</td>
-      <td width="84" valign="top">.</td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td valign="top" width="80">
-    </td></tr>
-    <tr>
-      <td width="221" valign="top">
-
-dont autres prestations liées à la santé (3)
-
-</td>
-      <td valign="top" width="84">.</td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="81">
-      </td><td width="75" valign="top">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-Incapacité - invalidité (1)(2)
-
-</td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="81">
-      </td><td valign="top" width="75">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-- indemnités journalières
-
-</td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td valign="top" width="80">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-- rentes d'invalidité 
-
-</td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="81">
-      </td><td valign="top" width="75">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td width="221" valign="top">
-
-Chômage (1)(2)
-
-</td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-Indemnité et prime de fin de carrière
-
-</td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="81" valign="top">
-      </td><td valign="top" width="75">
-      </td><td valign="top" width="80">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-Retraite supplémentaire 
-
-</td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td valign="top" width="80">
-    </td></tr>
-    <tr>
-      <td width="221" valign="top">
-
-Autres contrats d'épargne
-
-</td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-Dépendance
-
-</td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="81">
-      </td><td width="75" valign="top">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td width="221" valign="top">
-
-Décès : 
-
-</td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="81" valign="top">
-      </td><td valign="top" width="75">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-- capitaux
-
-</td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="81">
-      </td><td valign="top" width="75">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-- rente de conjoint survivant
-
-</td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="221">
-
-- rente d'éducation ou d'orphelin
-
-</td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="81">
-      </td><td valign="top" width="75">
-      </td><td valign="top" width="80">
-    </td></tr>
-    <tr>
-      <td width="221" valign="top">
-
-Autres risques et engagements 
-
-</td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td width="221" valign="top">
-
-Montant total
-
-</td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="81" valign="top">
-      </td><td width="75" valign="top">
-      </td><td width="80" valign="top">
-    </td></tr>
-    <tr>
-      <td width="877" colspan="9">
-
-(1) Cotisations au sens de la ligne 7. Cotisations acquises à l'année du tableau C de l'état C10
-
-(2) Prestations au sens de la ligne 4. Charges nettes de recours du même tableau C.
-
-(3) Total autres prestations en espèces : selon ligne 23 de l'état E3
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 21 décembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe E3 à l'article A114-9
-
-**Etat E 3 - **Frais de santé et indemnités journalières versés au cours de l'exercice 
-
-Les mutuelles et unions proposant des garanties ventilées sous les codifications 20 et 21 au sens de l'état C4 défini en
-annexe à l'article A. 114-5 établissent un état E3 " frais de santé et indemnités journalières versés au cours de l'exercice"
-selon le modèle ci-après : 
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros. 
-
-Tableau A : données techniques relatives au risque "santé" issues des systèmes de gestion, 
-
-données qui doivent être cohérentes avec la ligne 10-12 de l'état E4 
-
-<table>
-  <tbody>
-    <tr>
-      <td colspan="2" rowspan="2" width="437">
-
-DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :
-
-Prestations versées du risque santé
-
-</td>
-      <td colspan="2" width="180">
-
-OPERATIONS DIRECTES
-
-en France
-
-</td>
-      <td width="84" rowspan="2">
-
-TOTAL
-
-</td>
-    </tr>
-    <tr>
-      <td width="96">
-
-Individuelles
-
-</td>
-      <td width="84">
-
-Collectives
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="41">
-
-01
-
-</td>
-      <td width="396" valign="top">
-
-Champ couvert-en pourcentage des prestations versées nettes de recours (1)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-02
-
-</td>
-      <td width="396" valign="top">
-
-Ensemble des Hôpitaux (secteur public et secteur privé) (2)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-03
-
-</td>
-      <td width="396" valign="top">
-
-- dont frais d'hébergement en SLD, suppléments chambres particulières, lit accompagnant... (3)
-
-</td>
-      <td valign="top" width="96">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-04
-
-</td>
-      <td width="396" valign="top">
-
-Soins ambulatoires (L05 + L06 + L07 + L10 + L11 + L12)
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-05
-
-</td>
-      <td valign="top" width="396">
-
-1. Médecins exerçant en cabinet libéral (4)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-06
-
-</td>
-      <td width="396" valign="top">
-
-2. Auxiliaires en cabinets libéraux (5)
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-07
-
-</td>
-      <td valign="top" width="396">
-
-3. Dentistes en cabinets libéraux
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-08
-
-</td>
-      <td valign="top" width="396">
-
-- dont honoraires
-
-</td>
-      <td valign="top" width="96">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-09
-
-</td>
-      <td width="396" valign="top">
-
-- dont prothèses
-
-</td>
-      <td width="96" valign="top">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-10
-
-</td>
-      <td valign="top" width="396">
-
-4. Centres de Santé (Dispensaires...)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-11
-
-</td>
-      <td valign="top" width="396">
-
-5. Laboratoires d'analyse (6)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-12
-
-</td>
-      <td valign="top" width="396">
-
-6. Etablissements thermaux
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-13
-
-</td>
-      <td valign="top" width="396">
-
-- dont hébergement (7)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-14
-
-</td>
-      <td valign="top" width="396">
-
-Transports des malades (ambulances, taxis, VSL...) (8)
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-15
-
-</td>
-      <td valign="top" width="396">
-
-TOTAL PRESTATIONS DE SOINS (L02 + L04 + L14)
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-16
-
-</td>
-      <td valign="top" width="396">
-
-Officines pharmaceutiques (médicaments)
-
-</td>
-      <td width="96" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-17
-
-</td>
-      <td valign="top" width="396">
-
-Distributeurs d'autres biens médicaux (L18 + L19 + L20)
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-18
-
-</td>
-      <td width="396" valign="top">
-
-1. Optique
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-19
-
-</td>
-      <td width="396" valign="top">
-
-2. Prothèses (sauf dentaires), orthèses, VHP (9)
-
-</td>
-      <td valign="top" width="96">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-20
-
-</td>
-      <td valign="top" width="396">
-
-3. Petit matériel et pansements
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-21
-
-</td>
-      <td width="396" valign="top">
-
-TOTAL BIENS MEDICAUX (L16 + L17)
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-22
-
-</td>
-      <td valign="top" width="396">
-
-TOTAL DES PRESTATIONS VERSEES en SOINS et BIENS MEDICAUX (L15 + L21)
-
-</td>
-      <td valign="top" width="96">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-23
-
-</td>
-      <td valign="top" width="396">
-
-Autres prestations liées à la santé (L24 + L25)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-24
-
-</td>
-      <td valign="top" width="396">
-
-EHPA et EHPAD des secteurs public et privé (10)
-
-</td>
-      <td valign="top" width="96">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-25
-
-</td>
-      <td width="396" valign="top">
-
-Autres prestations liées à la santé (11)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-26
-
-</td>
-      <td width="396" valign="top">
-
-TOTAL DES PRESTATIONS VERSEES (L22 + L23)
-
-</td>
-      <td width="96" valign="top">
-      </td><td valign="top" width="84">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td colspan="5" width="701">
-
-(1) Importance des opérations prises en compte dans ce tableau en pourcentage des sinistres payés nets de recours (ligne
-10-12 de l'état E4-C42d).
-
-(2) Les frais d'hospitalisation incluent le forfait journalier hospitalier, le ticket modérateur des journées et des actes,
-les honoraires et prescriptions en activité libérale.
-
-(3) Ligne à renseigner dans la mesure où ces versements pour hébergement des soins de longue durée (SLD), chambres
-particulières, lits accompagnant... font partie des prestations de santé de l'organisme complémentaire. Ces versements sont
-en effet exclus du champ des comptes de la santé.
-
-(4) Honoraires médicaux y compris sages-femmes et frais de déplacement.
-
-(5) Actes d'auxiliaires médicaux y compris frais de déplacement.
-
-(6) Analyses médicales.
-
-(7) Ligne à renseigner dans la mesure où les versements pour hébergement en cures thermales font partie des prestations de
-santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
-
-(8) VSL = Véhicule sanitaire léger.
-
-(9) VHP : véhicule pour handicapé physique.
-
-(10) EHPA = Etablissements pour Personnes âgées et EHPAD = Etablissements pour Personnes âgées Dépendantes. Ligne à
-renseigner si les versements correspondants relatifs à l'hébergement ou à la prise en charge de la dépendance font partie des
-prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
-
-(11) Prestations liées à la santé non comptabilisées dans les rubriques précédentes (par exemple forfait naissance,
-allocations funéraires...).
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Tableau B : données techniques relatives au risque "incapacité de travail" issues des systèmes de gestion
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2" colspan="2" width="437">
-
-DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :
-
-Prestations versées du risque incapacité de travail
-
-</td>
-      <td colspan="2" width="180">
-
-OPERATIONS DIRECTES
-
-en France
-
-</td>
-      <td rowspan="2" width="84">
-
-TOTAL
-
-</td>
-    </tr>
-    <tr>
-      <td width="96">
-
-Individuelles
-
-</td>
-      <td width="84">
-
-Collectives
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="41">
-
-31
-
-</td>
-      <td valign="top" width="396">
-
-Indemnités journalières maladie
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td width="41" valign="top">
-
-32
-
-</td>
-      <td valign="top" width="396">
-
-Indemnités journalières maternité
-
-</td>
-      <td valign="top" width="96">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-33
-
-</td>
-      <td width="396" valign="top">
-
-Indemnités journalières accidents du travail - maladie professionnelle
-
-</td>
-      <td valign="top" width="96">
-      </td><td width="84" valign="top">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="41">
-
-34
-
-</td>
-      <td width="396" valign="top">
-
-TOTAL des indemnités journalières versées (L01 + L02 + L03)
-
-</td>
-      <td width="96" valign="top">
-      </td><td width="84" valign="top">
-      </td><td valign="top" width="84">
-    </td></tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 21 décembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe E4 à l'article A114-9
-
-Etat E4. - Résultat technique en santé 
-
-Les mutuelles et unions proposant des garanties ventilées sous les codifications 201, 203, 211, 213 au sens de l'état C4
-défini en annexe à l'article A. 114-5 établissent un état E4 "Résultat technique en santé". 
-
-Cet état comporte les colonnes suivantes : 
-
-- santé : total contrats individuels (catégories 201 et 203 de l'état C4 tel que défini à l'article A. 114-5) ; 
-
-- santé : contrats individuels non donnés en substitution (catégories 2011 et 2031 de l'état C4 tel que défini à l'article A.
-114-5) ; 
-
-- santé : contrats individuels donnés en substitution (catégories 2012 et 2032 de l'état C4 tel que défini à l'article A.
-114-5) ; 
-
-- santé : total contrats collectifs (catégories 211 et 213 de l'état C4 tel que défini à l'article A. 114-5) ; 
-
-- santé : contrats collectifs non donnés en substitution (catégories 2111 et 2131 tel que défini à l'article A. 114-5) ; 
-
-- santé : contrats collectifs donnés en substitution (catégories 2112 et 2132 tel que défini à l'article A. 114-5). 
-
-Les lignes de cet état correspondent strictement à celles de l'état C1 "Dommages corporels " telles que définies à l'article
-A. 114-5. 
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 21 décembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-###### Article Annexe E5 à l'article A114-9
-
-Etat E5. - Compléments CMU et gestion d'un régime obligatoire santé 
-
-Les mutuelles et unions proposant des garanties ventilées sous les codifications 201, 203, 211, 213 au sens de l'état C4
-défini en annexe à l'article A. 114-5 établissent un état E 5 "Compléments CMU et gestion d'un régime obligatoire santé",
-selon le modèle ci-après. 
-
-Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros. 
-
-<table>
-  <tbody>
-    <tr>
-      <td width="401">
-
-</td>
-      <td width="156">
-
-CODE
-
-du Plan comptable (*)
-
-</td>
-      <td width="144">
-
-MONTANT 
-
-(en milliers d'euros)
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="401">
-      </td><td width="156">
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td width="401" valign="top">
-
-Gestion d'un Régime obligatoire de base
-
-</td>
-      <td width="156">
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="401">
-      </td><td width="156">
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td width="401" valign="top">
-
-Produits de gestion d'un régime obligatoire d'assurance maladie
-
-</td>
-      <td width="156">
-
-7450
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td width="401" valign="top">
-
-Charges de gestion d'un régime obligatoire d'assurance maladie
-
-</td>
-      <td width="156">
-
-6450
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="401">
-      </td><td width="156">
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td width="401" valign="top">
-
-CMU
-
-</td>
-      <td width="156">
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="401">
-      </td><td width="156">
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="401">
-
-Participation légale reçue et à recevoir au titre de la CMU
-
-</td>
-      <td width="156">
-
-7021
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="401">
-
-Participation légale reçue et à recevoir au titre de l'ACS
-
-</td>
-      <td width="156">
-
-(*)
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td width="401" valign="top">
-
-Prestations santé versées et à verser aux bénéficiaires de la CMU
-
-</td>
-      <td width="156">
-
-6021
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td width="401" valign="top">
-
-Contribution versée à la CMU
-
-</td>
-      <td width="156">
-
-6458
-
-</td>
-      <td width="144">
-
-</td>
-    </tr>
-    <tr>
-      <td width="701" colspan="3">
-
-(*) Numéro du poste du plan comptable dans lequel l'opération est enregistrée. Pour les mutuelles le numéro est ici précisé,
-pour les IP et les sociétés d'assurance le numéro sera à renseigner par l'organisme.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 21 décembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-
-## Annexes à l'article A114-10
-
-###### Article Annexe 1 à l'article A114-10
-
-1. Renseignements généraux
-
-La raison sociale de l'organisme consolidant ou combinant, son adresse, la date de sa constitution.
-
-Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration de cet
-organisme.
-
-Les nom, date et lieu de naissance, domicile, grade et fonction des personnels exerçant ces fonctions de direction au niveau
-de l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées.
-
-Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants de l'organisme consolidant ou
-combinant.
-
-Le statut fiscal de l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou
-subordonnées.
-
-Liste des organismes consolidés ou combinés avec indication lorsqu'ils appartiennent à une activité soumise à un contrôle
-(banques, assurances, services d'investissement) des autorités de contrôle auxquelles ils sont soumis ainsi que de la part
-détenue et du montant des fonds propres.
-
-L'organigramme de l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou
-subordonnées avec les pourcentages de détention.
-
-La liste des prêts réalisés entre les organismes de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
-elles sont apparentées ou subordonnées.
-
-2. Compte de résultat, bilans consolidés ou combinés et annexe complétés par les rapports de gestion et des commissaires aux
-comptes
-
-Lorsque l'organisme combinant ou consolidant a fait usage des facultés de dérogation prévues par le règlement CRC 2000-05
-pour ne pas retraiter les comptes d'un organisme, les sources d'écart sont explicitées et accompagnées d'une estimation
-chiffrée.
-
-Si l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées est soumis
-à obligation de publication des comptes par l'AMF, les documents établis en application de cette obligation sont joints au
-dossier annuel.
-
-Les informations des points 3, 5 et 6 ne sont pas exigées pour les organismes assureurs mis en équivalence.
-
-3. Etat de ventilation des principales données techniques (état G 1)
-
-Ventilation par organismes assureurs des cotisations émises, soldes de souscription, provisions techniques et contribution
-aux résultats. Doivent figurer dans cet état tous les organismes assureurs représentant plus de 5 % des cotisations ou des
-provisions techniques. Les organismes dans un même pays formant un sous-ensemble établissant des comptes combinés ou
-consolidés peuvent être regroupés. Les données des autres organismes sont regroupées en trois rubriques : France, Union
-européenne (hors France), reste du monde. Cette ventilation s'effectue séparément pour les activités vie et non-vie.
-
-4. Etat de marge ajustée (état G 2)
-
-Un premier tableau établit l'exigence de marge en ventilant selon le mode de consolidation ou de combinaison et en indiquant,
-le cas échéant, les pourcentages appliqués pour les organismes assureurs en intégration proportionnelle ou mises en
-équivalence :
-
-- pour les organismes établis dans l'Union européenne, cet état récapitule les exigences de marge de chaque organisme. S'il y
-a lieu, ce besoin de marge sera ensuite corrigé des incidences des cessions internes ;
-
-- pour les organismes hors Union européenne sont récapitulés les besoins de fonds propres et assimilés découlant des
-législations nationales. Ces éléments seront éventuellement corrigés des incidences de la réassurance interne.
-
-En pied de tableau sont indiquées à titre informatif pour les activités hors assurances réglementées les exigences de fonds
-propres découlant des législations régissant ces activités.
-
-Un second tableau analyse la façon dont ces exigences sont satisfaites au niveau de l'ensemble formé par les mutuelles ou
-unions et les organismes auxquels elles sont apparentées ou subordonnées :
-
-- fonds propres (part du groupe telle qu'elle figure au passif du bilan combiné) ;
-
-- intérêts minoritaires et leur affectabilité aux différentes entités ;
-
-- plus-values latentes et leur affectabilité aux différentes entités ;
-
-- autres éléments éventuels.
-
-5. Etat d'analyse de l'équilibre technique non-vie (état G 3)
-
-Ventilation par organisme assureur des soldes de souscription séparant résultat de l'exercice et résultat de la liquidation
-sur exercices antérieurs. Ces données sont brutes de réassurance.
-
-6. Etat d'analyse des provisions techniques vie (état G 4)
-
-Ventilation des provisions techniques par organisme assureur et par type d'engagement : en unités de compte sans risque de
-placement, en unités de compte avec risque de placement, en euros ou en devises.
-
-Ventilation des provisions techniques des engagements en euros ou en devises par organisme assureur et par taux d'intérêt
-utilisés pour leur calcul, par tranches de 0,5 %.
-
-Ventilation des provisions techniques par organisme assureur et par type d'aléa viager : en cas de décès, en cas de vie, sans
-aléa viager.
-
-Les organismes assureurs concernés sont ceux dont les provisions techniques vie représentent plus de 5 % du total des
-provisions techniques vie des comptes consolidés ou combinés. Les organismes formant un sous-ensemble établissant des comptes
-combinés ou consolidés dans un même pays peuvent être considérés comme un seul organisme. Les autres organismes sont
-regroupés en trois rubriques :
-
-France, Union européenne (hors France), reste du monde.
-
-7. Etat d'analyse des activités hors assurances (état G 5)
-
-Si celles-ci contribuent - positivement ou négativement - à plus de 5 % du résultat de l'ensemble formé par les mutuelles ou
-unions et les organismes auxquels elles sont apparentées ou subordonnées ou occupent plus de 5 % des effectifs de cet
-ensemble, les données significatives de ces activités font l'objet d'une ventilation par organisme. Les données qui doivent
-faire l'objet d'une ventilation sont celles qui sont retenues comme significatives dans les comptes consolidés ou combinés.
-Notamment, au niveau du chiffre d'affaires :
-
-produit net bancaire, commissions de services financières, et au niveau du bilan : dépôts clientèles, crédits consentis.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-10 (Ab)
-
-
-###### Article Annexe 2 à l'article A114-10
-
-Chaque mutuelle ou union soumise à la surveillance complémentaire fournit les tableaux suivants relatifs à l'ensemble formé
-par les organismes apparentés au sens de l'article L. 212-7-1 du code de la mutualité :
-
-1. Etat des cessions en réassurance internes au groupe
-
-(état G 10)
-
-Tableau des cotisations cédées par cessionnaire.
-
-Tableau des provisions techniques à la charge de chaque cessionnaire ; ne sont déclarées que les provisions cédées
-supérieures à 0,5 % des provisions brutes de réassurance.
-
-Tableau de la charge de sinistres cédés.
-
-Tableau des résultats de ces cessions par cessionnaire récapitulant les résultats supérieurs à 5 % du résultat brut de
-réassurance.
-
-La forme de ces réassurances est précisée.
-
-2. Etat des mouvements d'actifs internes au groupe (état G 11)
-
-Cet état ne concerne pas les transactions réalisées à des conditions déterminées objectivement par ailleurs (titres cotés)
-sur des titres externes à l'ensemble formé par les mutuelles ou unions et les organismes auxquels elles sont apparentées ou
-subordonnées.
-
-Au-delà d'un montant supérieur à 5 % de l'exigence de marge de solvabilité de la mutuelle ou union concernée, les ventes ou
-achats d'immeubles ou de titres à l'intérieur de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
-elles sont apparentées ou subordonnées sont recensés, faisant apparaître l'organisme vendeur, l'organisme acheteur, la valeur
-comptable dans le premier, le prix de vente et la référence ayant permis d'établir celui-ci (expertise, capitalisation du
-résultat...).
-
-Ceci inclut les souscriptions de titres émis par un organisme de l'ensemble formé par les mutuelles ou unions et les
-organismes auxquels elles sont apparentées ou subordonnées même s'ils sont destinés à être cotés.
-
-3. Recensement des accords de partage de frais généraux (G 12)
-
-Liste des GIE de moyens auxquels la mutuelle ou union participe et indication de sa contribution aux frais de ceux-ci.
-
-Recensement des remboursements de frais ou prestations externes assurés par d'autres organismes de l'ensemble formé par les
-mutuelles ou unions et les organismes auxquels elles sont apparentées ou subordonnées dès lors qu'ils dépassent 10 % des
-frais de gestion de la mutuelle ou union.
-
-4. Recensement des risques partagés solidairement (G 13)
-
-Liste des GIE, pools et autres groupements de coassurance ou coréassurance dans lesquels la mutuelle ou union est solidaire
-sans limites des autres membres ; montants des provisions de sinistres à payer au bilan de ces groupements.
-
-5. Recensement des opérations avec une personne physique (G 14)
-
-Liste des opérations de toute nature avec une personne physique visée à l'article R. 213-6 dès lors qu'elles dépassent 5 % de
-l'exigence de marge de solvabilité de la mutuelle ou union.
-
-6. Recensement des apports de fonds (G 15)
-
-Liste des apports de fonds aux autres organismes de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
-elles sont apparentées ou subordonnées sous toute forme, en distinguant les apports en capital, en éléments de marge et
-autres apports dès lors qu'ils dépassent 5 % du minimum de marge de solvabilité de la mutuelle ou union.
-
-7. Recensement des engagements donnés (G 16)
-
-Liste des engagements donnés aux autres organismes de l'ensemble formé par les mutuelles ou unions et les organismes auxquels
-elles sont apparentées ou subordonnées dès lors qu'ils dépassent 5 % de l'exigence de marge de solvabilité de l'institution
-ou union.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A114-10 (Ab)
-
-
 ## Annexes à l'article A211-3
 
 ###### Article Annexe I
@@ -40157,5 +17806,106 @@ F(k)/F(k - 1) - 1
 	**Créé par**:
 
 	  - Arrêté du 22 décembre 2008 - art. 2
+
+
+## Annexe à l'article A223-6-1
+
+###### Article Annexe à l'article A223-6-1
+
+ANNEXE À L'ARTICLE A. 223-6-1 DU CODE DE LA MUTUALITÉ 
+
+Organisme contractant 
+
+(dénomination et forme juridique) 
+
+Nom : 
+
+Adresse (du siège social et, le cas échéant, de la succursale) 
+
+Note d'information 
+
+1° Nom commercial du règlement mutualiste ou du contrat 
+
+2° Caractéristiques du bulletin d'adhésion, du règlement mutualiste ou du contrat 
+
+a) définition contractuelle des garanties offertes ; 
+
+b) durée de l'adhésion, ou du contrat ; 
+
+c) modalités de versement des cotisations ; 
+
+d) délai et modalités de renonciation au bulletin d'adhésion, règlement mutualiste ou au contrat ; 
+
+e) formalités à remplir en cas de sinistre ; 
+
+f) Précisions complémentaires relatives à certaines catégories de contrats :
+
+- contrats  en cas de vie ou de capitalisation : frais et indemnités de rachat et  autres frais prélevés par la mutuelle ou
+l'union, mentionnés au 5° de  l'article A. 223-6 ;
+
+- autres contrats comportant des valeurs de rachat : frais prélevés en cas de rachat et autres frais ;
+
+- contrats  comportant des garanties exprimées en unités de compte : énonciation  des unités de compte de référence et pour
+chaque unité de compte  sélectionnée par l'adhérent, indication des caractéristiques  principales, et en l'absence
+d'insertion de l'encadré mentionné à  l'article L. 223-8 d'une part, des frais prélevés par la mutuelle ou  l'union sur la
+provision mathématique ou le capital garanti et, d'autre  part, des frais pouvant être supportés par l'unité de compte ainsi
+que  des modalités de versement du produit des droits attachés à la détention  de l'unité de compte. Pour chaque unité de
+compte constituée sous la  forme d'une part ou d'une action d'organisme de placement collectif  mentionné aux 3°, 7°, 7°
+quater, 8°, 9° ter, 9° quater ou 9° sexies de  l'article R. 332-2 du code des assurances, l'indication des  caractéristiques
+principales peut être valablement effectuée par la  remise du document d'information clé pour l'investisseur. Pour chaque
+unité de compte constituée sous la forme d'une part ou d'une action  d'organisme de placement collectif mentionné au 7° ter
+de l'article R.  332-2 du code des assurances, l'indication des caractéristiques  principales peut être valablement effectuée
+par la remise de la note  détaillée. En cas de non-remise du document d'information clé pour  l'investisseur ou, le cas
+échéant, de la note détaillée, l'adhérent est  informé de ses modalités d'obtention ainsi que, le cas échéant, de  l'adresse
+électronique où se procurer ce document ou, le cas échéant,  cette note ;
+
+- contrats collectifs : nom et adresse du souscripteur, formalités de résiliation et de transfert ;
+
+- contrats collectifs comportant une clause de transférabilité en application de l'article L. 223-22 du code de la
+mutualité ;
+
+- plans  d'épargne retraite populaire : indication en caractères apparents que  les sommes versées dans un plan d'épargne
+retraite populaire donnent  lieu à des prestations versées sous forme de rente à partir de l'âge  prévu de liquidation des
+droits, et qu'un plan ne peut faire l'objet de  rachats sauf dans les cas prévus à l'article L. 223-20 du code de la
+mutualité et au quatrième alinéa du I de l'article L. 144-2 du code des  assurances ; indication, le cas échéant, de la
+faculté ouverte par le  deuxième alinéa du I de l'article L. 144-2 du code des assurances ;  indication des dispositions
+législatives et réglementaires qui régissent  le fonctionnement du plan ; dénomination et siège social du dépositaire  du
+plan ; mention, le cas échéant, de l'existence de l'accord de  représentation des engagements mentionné au VIII de l'article
+L. 144-2  du code des assurances ; 
+
+g) information sur  les cotisations relatives aux garanties principales et complémentaires  lorsque de telles informations
+s'avèrent appropriées ; 
+
+3° Rendement minimum garanti et participation : 
+
+a) taux d'intérêt garanti et durée de cette garantie ; 
+
+b)  indications des garanties de fidélité, des valeurs de réduction, des  valeurs de rachat ou, pour les contrats collectifs
+comportant une clause  de transférabilité en application de l'article L. 223-20 du code de la  mutualité, des valeurs de
+transfert ; 
+
+c) modalités de calcul et d'attribution de la participation aux bénéfices. 
+
+4° Procédure d'examen des litiges : 
+
+Modalités  d'examen des réclamations pouvant être formulées au sujet du contrat,  du bulletin d'adhésion ou du règlement
+mutualiste. 
+
+5° Le cas échéant, référence expresse au rapport sur la solvabilité et  la situation financière prévu à l'article L. 355-5 du
+code des  assurances, qui permet au souscripteur ou à l'adhérent d'accéder  facilement à ces informations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 30 décembre 2015 - art.
+
+	**Cite**:
+
+	  - Code des assurances - art. L144-2
+	  - Code des assurances - art. L355-5
+	  - Code des assurances - art. R332-2
+	  - Code de la mutualité - art. L223-20
+	  - Code de la mutualité - art. L223-22
 
 

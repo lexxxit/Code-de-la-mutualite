@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-04-22
 
 # Partie législative
 
@@ -1952,48 +1952,48 @@ de formation à la gestion.
 
 ###### Article L114-26
 
-Les fonctions d'administrateur sont gratuites.
+Les fonctions d'administrateur sont gratuites. 
 
 Cependant, lorsque l'importance de l'organisme le nécessite, l'assemblée générale peut décider d'allouer une indemnité au
 président du conseil d'administration ou à des administrateurs auxquels des attributions permanentes ont été confiées. Les
 cas et conditions de cette indemnisation, notamment le seuil d'activité à partir duquel elle peut être allouée, sont définis
-par décret en Conseil d'Etat.
+par décret en Conseil d'Etat. 
 
 L'organisme rembourse à l'employeur les rémunérations maintenues, pour permettre aux administrateurs salariés d'exercer leurs
-fonctions pendant le temps de travail, ainsi que les avantages et les charges y afférents.
+fonctions pendant le temps de travail, ainsi que les avantages et les charges y afférents. 
 
 Une convention conclue entre l'organisme, d'une part, et l'employeur, d'autre part, fixe les conditions de ce remboursement.
 Dans le cas où l'employeur ne maintient pas la rémunération, l'organisme peut verser au président et à l'administrateur ayant
-des attributions permanentes une somme d'un montant égal au montant brut du dernier salaire perçu.
+des attributions permanentes une somme d'un montant égal au montant brut du dernier salaire perçu. 
 
 Les administrateurs ayant la qualité de travailleurs indépendants ont droit à des indemnités correspondant à la perte de
-leurs gains, dans des limites fixées par arrêté du ministre chargé de la mutualité.
+leurs gains, dans des limites fixées par arrêté du ministre chargé de la mutualité. 
 
 Les mutuelles, unions et fédérations remboursent également aux administrateurs les frais de garde d'enfants, de déplacement
-et de séjour, dans des limites fixées par arrêté du ministre chargé de la mutualité.
+et de séjour, dans des limites fixées par arrêté du ministre chargé de la mutualité. 
 
 Le présent article est applicable aux agents publics dans les conditions fixées par les dispositions statutaires ou
-réglementaires qui les régissent.
+réglementaires qui les régissent. 
 
 Les fonctions de membre du conseil d'administration d'une mutuelle, union ou fédération, ouvrant droit aux indemnités visées
 au deuxième alinéa du présent article ne constituent ni des activités professionnelles procurant des revenus au sens de
-l'article L. 161-22 du code de la sécurité sociale, ni une activité privée lucrative au sens de l'article 25 de la loi n°
-83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
+l'article L. 161-22 du code de la sécurité sociale, ni une activité privée lucrative au sens de   l'article 25 septies  de la
+loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-634 1983-07-13 art. 25
-	  - Code de la sécurité sociale. - art. L161-22 (M)
+	  - Loi n°83-634 du 13 juillet 1983 - art. 25 septies
+	  - Code de la sécurité sociale. - art. L161-22
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Modifié par**:
 
-	  - Loi n°2004-810 du 13 août 2004 - art. 69 () JORF 17 août 2004
+	  - Loi n°2016-483 du 20 avril 2016 - art. 10
 
 	**Cité par**:
 

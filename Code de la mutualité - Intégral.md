@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2016-04-22
+Version Consolidée au 2016-06-17
 
 # Partie législative
 
@@ -2281,13 +2281,12 @@ qu'à toute personne interposée.
 
 Les mutuelles et unions régies par le livre II, les unions mutualistes de groupe, ou, lorsqu'elles dépassent un volume
 d'activité fixé par décret, les mutuelles et unions régies par le livre III, ainsi que les fédérations, sont tenues de nommer
-au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L. 822-1 du code de commerce.
-Le président convoque les commissaires aux comptes à toute assemblée générale. 
+au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée au I de l'article L. 822-1 du code de
+commerce. Le président convoque les commissaires aux comptes à toute assemblée générale. 
 
-Les dispositions des articles L. 822-9 à L. 822-18 ainsi que celles des articles de la section 2 du chapitre III du titre II
-du livre VIII du code de commerce sont applicables aux commissaires aux comptes contrôlant les mutuelles, unions et
-fédérations sous réserve des dispositions du présent code et dans les conditions d'exercice définies par voie réglementaire
-au code de commerce. 
+Les dispositions du titre II du livre VIII du code de commerce sont applicables aux commissaires aux comptes contrôlant les
+mutuelles, unions et fédérations sous réserve des dispositions du présent code et dans les conditions d'exercice définies par
+voie réglementaire au code de commerce. 
 
 Les honoraires des commissaires aux comptes sont à la charge de la mutuelle, de l'union ou de la fédération. Le montant des
 honoraires est fixé d'un commun accord entre le commissaire aux comptes et la mutuelle, union ou fédération, eu égard à
@@ -2308,12 +2307,12 @@ confiées par l'organisme à la demande d'une autorité publique.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 50
 
 	**Cite**:
 
 	  - Code de commerce - art. L822-1
-	  - Code de commerce - art. L822-9 (V)
+	  - Code de commerce - art. L822-9
 
 	**Cité par**:
 
@@ -3842,13 +3841,13 @@ mentionné à l'article L. 823-19 du code de commerce assure également le suivi
 de gestion des risques. 
 
 Toutefois, sur décision de l'organe chargé de l'administration ou de la surveillance, cette mission peut être confiée à un
-comité distinct, régi par les deuxième et dernier alinéas du même article L. 823-19.
+comité distinct, régi par le premier alinéa et le 7° du II du même article L. 823-19.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 15
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 50
 
 	**Cite**:
 
@@ -13342,9 +13341,9 @@ de la remise, au 30 avril 2016, des états statistiques relatifs à l'exercice 2
 
 ###### Article D114-10
 
-Sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article    L.
-822-1 du code de commerce les mutuelles et unions relevant du livre III et les fédérations qui dépassent deux des seuils
-suivants : 
+Sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article
+au I de l'article L. 822-1 du code de commerce les mutuelles et unions relevant du livre III et les fédérations qui dépassent
+deux des seuils suivants : 
 
 a) 1 524 490 Euros pour le total du bilan ; 
 
@@ -13356,7 +13355,7 @@ c) 50 salariés en équivalent temps plein.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1857 du 30 décembre 2015 - art. 1
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 46 (VD)
 
 	**Cite**:
 

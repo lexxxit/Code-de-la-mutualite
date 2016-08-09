@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2016-07-10
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -1901,7 +1901,7 @@ Ces absences n'entraînent aucune diminution de leurs rémunérations et des ava
 
 Tout salarié ou agent public non titulaire, élu président du conseil d'administration ou auquel des attributions permanentes
 sont confiées au sein d'une mutuelle, union ou fédération, et qui, pour l'exercice de telles fonctions, doit cesser toute
-activité professionnelle, bénéficie des dispositions des articles L. 3142-60 à L. 3142-63 du code du travail. 
+activité professionnelle, bénéficie des dispositions des articles L. 3142-83 à L. 3142-86  du code du travail. 
 
 Le licenciement par l'employeur d'un salarié exerçant le mandat d'administrateur ou ayant cessé son mandat depuis moins de
 six mois est soumis à la procédure prévue aux articles L. 2411-3 et L. 2421-9 du code du travail. Il en est de même du
@@ -1929,13 +1929,13 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+	  - Loi n°2016-1088 du 8 août 2016 - art. 9
 
 	**Cite**:
 
-	  - Code du travail - art. L2411-3 (V)
-	  - Code du travail - art. L2421-9 (V)
-	  - Code du travail - art. L3142-60 (V)
+	  - Code du travail - art. L2411-3
+	  - Code du travail - art. L2421-9
+	  - Code du travail - art. L3142-60
 
 
 ###### Article L114-25

@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-12-11
 
 # Partie législative
 
@@ -6053,24 +6053,36 @@ l'article L. 111-1.
 ###### Article L223-2
 
 En matière d'assurance sur la vie, les sommes garanties et les conditions d'affectation des excédents techniques et
-financiers sont fixées par le bulletin d'adhésion ou le contrat collectif.
+financiers sont fixées par le bulletin d'adhésion ou le contrat collectif. 
 
 En matière d'assurance sur la vie ou d'opérations de capitalisation, le capital ou la rente garantis peuvent être exprimés en
 unités de compte constituées de valeurs mobilières ou d'actifs offrant une protection suffisante de l'épargne investie et
 figurant sur une liste dressée par décret en Conseil d'Etat. Le membre participant ou le bénéficiaire obtient le règlement en
 espèces ; il peut cependant opter pour la remise de titres ou de parts lorsque ceux-ci sont négociables et ne confèrent pas
 directement le droit de vote à l'assemblée générale des actionnaires d'une société inscrite à la cote officielle d'un marché
-réglementé de valeurs mobilières.
+réglementé de valeurs mobilières. 
+
+L'article L. 131-4 du code des assurances s'applique aux opérations d'assurance vie des mutuelles et unions dont les
+garanties sont exprimées en unités de compte.
+
+**Nota:**
+
+Conformément au V de l'article 118 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions sont immédiatement applicables
+aux contrats d'assurance sur la vie et aux contrats de capitalisation en cours à la date d'entrée en vigueur de ladite loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 118
+
+	**Cite**:
+
+	  - Code des assurances - art. L131-4 (V)
 
 	**Cité par**:
 
@@ -6449,6 +6461,28 @@ dus n'ont pas été versés au bénéficiaire.
 	  - Code de la mutualité - art. L223-10-2 (V)
 
 
+###### Article L223-10-4
+
+Les mutuelles et unions proposant des contrats d'assurance vie dont les prestations sont liées à la cessation d'activité
+professionnelle informent annuellement les assurés ayant dépassé la date de liquidation de leur pension dans un régime
+obligatoire d'assurance vieillesse ou, à défaut, celle mentionnée à l'article L. 161-17-2 du code de la sécurité sociale, de
+la possibilité de liquider les prestations au titre du contrat. 
+
+Elles établissent chaque année, chacune pour ce qui la concerne, un rapport adressé à l'Autorité de contrôle prudentiel et de
+résolution et au ministre chargé de l'économie, précisant le nombre et l'encours des contrats non liquidés pour lesquels
+l'adhérent a dépassé l'âge de départ en retraite, ainsi que les moyens mis en œuvre pour les en informer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 115 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L161-17-2 (V)
+
+
 ###### Article L223-11
 
 I. Sous réserve des dispositions du dernier alinéa de l'article L. 223-7-1, la stipulation en vertu de laquelle le bénéfice
@@ -6727,7 +6761,7 @@ Pour tout bulletin d'adhésion ou contrat collectif relatif à une opération d'
 rachat et pour les opérations de capitalisation, la valeur de rachat ou, le cas échéant, de transfert, lorsqu'elle existe,
 est égale à la différence entre la valeur actuelle des engagements respectivement pris par la mutuelle ou l'union et par les
 membres participants, dans la limite, pour la valeur de rachat des bulletins d'adhésion ou des contrats collectifs relatifs à
-une opération d'assurance sur la vie, du montant assuré en cas de décès .   
+une opération d'assurance sur la vie, du montant assuré en cas de décès. 
 
 La valeur de rachat ou de transfert des bulletins d'adhésion ou des contrats collectifs relatifs à une opération d'assurance
 sur la vie ainsi que des opérations de capitalisation, est calculée en tenant compte, dans la détermination de l'engagement
@@ -6738,7 +6772,9 @@ bulletin d'adhésion ou contrat collectif relatif à une opération d'assurance 
 capitalisation, la valeur de rachat ou de transfert ne peut être inférieure de plus de 5 % à la valeur de rachat ou de
 transfert qui serait calculée sans qu'elle ne tienne compte de la partie des cotisations mentionnée au présent alinéa. Le
 montant des frais à l'entrée et sur versement mis à la charge de l'intéressé au cours d'une année donnée ne peut excéder 5 %
-du montant des cotisations versées cette même année. 
+du montant des cotisations versées cette même année. Cette dernière limite ne s'applique pas aux formules de financement
+d'obsèques mentionnées à l'article L. 2223-33-1 du code général des collectivités territoriales pour lesquelles les
+chargements d'acquisition représentent chaque année un montant inférieur ou égal à 2,5 % du capital garanti. 
 
 Lorsque le mécanisme prévu au précédent alinéa n'est pas appliqué, la valeur de rachat ou de transfert peut être diminuée
 d'une indemnité dont le montant maximal est fixé par décret en Conseil d'Etat. 
@@ -6748,9 +6784,13 @@ capitalisation, un arrêté du ministre chargé de la mutualité fixe les règle
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 81
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2223-33-1 (V)
 
 
 ###### Article L223-21
@@ -8333,9 +8373,10 @@ adhérents.
 
 ###### Article L431-2
 
-I.-Lorsque l'Autorité de contrôle prudentiel et de résolution estime qu'un des organismes mentionnés au premier alinéa de
-l'article L. 431-1 n'est plus en mesure de faire face à ses engagements envers les personnes mentionnées au même article,
-elle décide de recourir au fonds de garantie après avoir consulté par écrit le président du directoire de celui-ci. 
+I.-Lorsque l'Autorité de contrôle prudentiel et de résolution prend, à l'égard d'un organisme mentionné au premier alinéa de
+l'article L. 431-1, la mesure conservatoire prévue au 14° du I de l'article L. 612-33 du code monétaire et financier, elle
+recourt au fonds de garantie régi par le présent chapitre, après avoir consulté par écrit le président du directoire de ce
+fonds. 
 
 S'il conteste la décision de l'Autorité, le président du directoire peut, dans un délai de quinze jours à compter de celle-
 ci, saisir le ministre chargé de la mutualité. Celui-ci peut alors, dans l'intérêt des personnes mentionnés au premier alinéa
@@ -8346,40 +8387,30 @@ La décision de l'Autorité de recourir au fonds de garantie est immédiatement 
 cas de mise en œuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle délibération de l'Autorité est notifiée
 à l'organisme. 
 
-II.-Dès cette notification, l'Autorité lance un appel d'offres en vue du transfert du portefeuille de contrats de cet
-organisme mutualiste. Cet appel d'offres est communiqué au fonds de garantie. 
+II.-Dès cette notification, l'autorité communique au fonds de garantie l'appel d'offres qu'elle lance pour mettre en œuvre la
+mesure conservatoire mentionnée au 14° du I de l'article L. 612-33 du code monétaire et financier. 
 
-III.-L'Autorité retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des personnes mentionnées au premier
-alinéa de l'article L. 431-1, eu égard notamment à la solvabilité du ou des organismes candidats et aux taux de réduction des
-engagements que ces derniers proposent. 
-
-La décision de l'Autorité qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle a
-désignées et qui mentionne, le cas échéant, le taux de réduction pour chaque type d'opérations transférées est publiée au
-Journal officiel de la République française. Cette décision libère l'organisme cédant de tout engagement envers les personnes
-mentionnées au premier alinéa de l'article L. 431-1, dont les opérations ont été transférées en vertu des dispositions du
-présent article. 
-
-Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
+III.-Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
 
 IV.-Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les excédents éventuels dus à une
 sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert reviennent aux personnes
 mentionnées au premier alinéa de l'article L. 431-1 dont les contrats ont été transférés. 
 
 V.-Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait, par
-l'Autorité, de tous les agréments administratifs de la mutuelle ou de l'union défaillante. Le fonds de garantie accomplit,
-jusqu'à la nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille de contrats qui n'a pas
-été transférée. L'administrateur provisoire nommé, le cas échéant, l'Autorité peut accomplir ces actes de gestion pour le
-compte du fonds de garantie.
+l'Autorité, de tous les agréments administratifs de la mutuelle ou de l'union défaillante en application du II de l'article
+L. 612-33-2 du code monétaire et financier. Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur, les actes
+nécessaires à la gestion de la partie du portefeuille de contrats qui n'a pas été transférée. L'administrateur provisoire
+nommé, le cas échéant, l'Autorité peut accomplir ces actes de gestion pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 47 (V)
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L431-1 (VT)
+	  - Code monétaire et financier - art. L612-33 (V)
 
 	**Cité par**:
 

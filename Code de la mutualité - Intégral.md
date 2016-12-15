@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-16
 
 # Partie législative
 
@@ -9487,6 +9487,107 @@ directeur général ".
 	**Créé par**:
 
 	  - Décret n°2015-513 du 7 mai 2015 - art. 13
+
+
+### Chapitre VI : Unions mentionnées à l'article L. 111-4-3 du code de la mutualité 
+
+
+###### Article R116-1
+
+Les unions mentionnées à l'article L. 111-4-3 constituent une catégorie particulière d'union mutualiste. Elles sont régies
+par les règles fixées au présent chapitre, sous réserve des dispositions de l'article R. 116-4. 
+
+Elles se forment dans les conditions propres aux unions énoncées à l'article L. 113-1. 
+
+Elles sont tenues de s'immatriculer auprès du secrétaire général du Conseil supérieur de la mutualité dans les conditions
+prévues à l'article R. 414-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1715 du 13 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-4-3 (V)
+	  - Code de la mutualité - art. L113-1 (V)
+	  - Code de la mutualité - art. R116-4 (V)
+	  - Code de la mutualité - art. R414-2 (V)
+
+
+###### Article R116-2
+
+I.-Sous réserve des dispositions des II et III, les statuts fixent les conditions dans lesquelles l'assemblée générale est
+convoquée. 
+
+II.-Il est tenu chaque année au moins une assemblée générale au cours de laquelle le bilan, le compte de résultat et l'annexe
+de l'exercice écoulé sont présentés. 
+
+III.-La convocation à l'assemblée générale doit être faite par lettre recommandée adressée aux organismes adhérents, quinze
+jours au moins avant la date fixée pour la réunion de l'assemblée, en mentionnant l'ordre du jour. 
+
+L'ordre du jour comporte les propositions du conseil d'administration et celles qui lui auront été communiquées par tout
+organisme adhérent vingt jours au moins avant la réunion de l'assemblée générale. 
+
+L'assemblée ne peut délibérer que sur une question inscrite à l'ordre du jour. Néanmoins, elle peut, en toutes circonstances,
+révoquer un ou plusieurs membres du conseil d'administration et procéder à leur remplacement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1715 du 13 décembre 2016 - art. 1
+
+
+###### Article R116-3
+
+I.-L'assemblée générale délibère valablement si les organismes adhérents présents, représentés ou ayant fait usage des
+facultés de vote par correspondance lorsque celles-ci sont prévues par les statuts, représentent la moitié au moins du nombre
+total des organismes adhérents et si les organismes adhérents prenant ainsi part à la délibération détiennent plus de la
+moitié du nombre total des droits de vote. 
+
+A défaut, une nouvelle assemblée est convoquée dans les formes et délais prescrits par les statuts. Cette assemblée délibère
+valablement si les organismes adhérents présents, représentés ou ayant fait usage des facultés de vote par correspondance
+lorsque celles-ci sont prévues par les statuts, représentent le quart au moins du nombre total des organismes adhérents et si
+les organismes adhérents prenant ainsi part à la délibération détiennent plus du quart du nombre total des droits de vote. 
+
+II.-L'assemblée générale, à condition de délibérer à la majorité des deux tiers des suffrages exprimés, peut modifier les
+statuts dans toutes leurs dispositions. Elle peut également, à la majorité des deux tiers des suffrages exprimés, autoriser
+la fusion de l'union avec une autre union mentionnée à l'article L. 111-4-3. 
+
+III.-Pour les autres décisions, la majorité simple des suffrages exprimés est requise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1715 du 13 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-4-3 (V)
+
+
+###### Article R116-4
+
+Sous réserve des règles particulières fixées au présent chapitre et au III de l'article L. 111-4-3, les conditions de
+fonctionnement des unions mentionnées à l'article L. 111-4-3 sont régies par les dispositions du présent code propres aux
+unions fixées au livre Ier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1715 du 13 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L111-4-3 (V)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R116-1 (V)
 
 
 ## Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.

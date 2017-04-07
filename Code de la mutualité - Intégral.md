@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2017-02-23
+Version Consolidée au 2017-04-08
 
 # Partie législative
 
@@ -314,7 +314,14 @@ sociétés de groupe d'assurance mutuelle et les groupements d'assurance mutuell
 322-1-3 et L. 322-1-5 du code des assurances ;
 
 3° Autres organismes d'assurance à forme mutuelle ou coopérative ou à gestion paritaire dont le siège est situé dans un Etat
-membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
+membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+4° Fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du code des assurances lorsqu'ils sont
+constitués sous forme de sociétés d'assurance mutuelle ;
+
+5° Mutuelles et unions de retraite professionnelle supplémentaire ;
+
+6° Institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité sociale.
 
 Dans un tel cas, l'union est dénommée union de groupe mutualiste.
 
@@ -342,15 +349,15 @@ Les conditions de fonctionnement de l'union de groupe mutualiste sont fixées pa
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13
-
 	**Cité par**:
 
 	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
 	  - Code de la sécurité sociale. - art. L931-2-1 (V)
-	  - Code des assurances - art. L322-1-5 (M)
+	  - Code des assurances - art. L322-1-5 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
@@ -380,13 +387,21 @@ autre Etat partie à l'accord sur l'Espace économique européen ;
 
 d) Des unions mutualistes de groupe définies au présent article, des sociétés de groupe d'assurance mutuelle définies à
 l'article L. 322-1-3 du code des assurances, ou des sociétés de groupe assurantiel de protection sociale définies à l'article
-L. 931-2-2 du code de la sécurité sociale.
+L. 931-2-2 du code de la sécurité sociale ;
+
+e) Des fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du code des assurances lorsqu'ils
+sont constitués sous forme de sociétés d'assurance mutuelle ;
+
+f) Des mutuelles et unions de retraite professionnelle supplémentaire ;
+
+g) Des institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité
+sociale.
 
 L'union mutualiste de groupe doit exercer effectivement une influence dominante au moyen d'une coordination centralisée sur
 les décisions, y compris financières, des organismes affiliés.
 
 L'union mutualiste de groupe doit compter au moins deux organismes affiliés dont l'un au moins est, soit une mutuelle ou
-union relevant du livre II, soit une union mutualiste de groupe. 
+union relevant du livre II, soit une union mutualiste de groupe.
 
 Les mutuelles et unions relevant du présent code disposent d'au moins la moitié des sièges à l'assemblée générale et au
 conseil d'administration. Toute clause contraire des statuts entraîne la nullité de la constitution de l'union mutualiste de
@@ -429,7 +444,7 @@ fonctionnement de ces unions mutualistes de groupe.
 	  - Code de la sécurité sociale. - art. L931-2-2 (V)
 	  - Code des assurances - art. L322-1-2 (V)
 	  - Code des assurances - art. L322-1-3 (V)
-	  - Code des assurances - art. L322-1-5 (M)
+	  - Code des assurances - art. L322-1-5 (V)
 	  - Code des assurances - art. L322-26-8 (V)
 	  - Code des assurances - art. L345-2 (V)
 	  - Code des assurances - art. R345-1-1 (V)
@@ -445,7 +460,7 @@ fonctionnement de ces unions mutualistes de groupe.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
@@ -1653,101 +1668,99 @@ d'administrateurs.
 
 I.-Nul ne peut directement ou indirectement administrer ou diriger un organisme mutualiste, et pour les mutuelles et unions
 mentionnées à l'article L. 211-10 et les unions mutualistes de groupe définies à l'article L. 111-4-2 ni être responsable
-d'une des fonctions clés mentionnées à l'article L. 211-12 : 
+d'une des fonctions clés mentionnées à l'article L. 211-12 :
 
-1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive pour crime ; 
+1° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive pour crime ;
 
 2° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à une peine d'emprisonnement ferme ou d'au moins
-six mois avec sursis pour : 
+six mois avec sursis pour :
 
 a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
-punis des peines prévues pour l'escroquerie et l'abus de confiance ; 
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
 
 b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
-II du livre III du code pénal ; 
+II du livre III du code pénal ;
 
-c) Blanchiment ; 
+c) Blanchiment ;
 
-d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ; 
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
 
 e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
-l'autorité ; 
+l'autorité ;
 
-f) Participation à une association de malfaiteurs ; 
+f) Participation à une association de malfaiteurs ;
 
-g) Trafic de stupéfiants ; 
+g) Trafic de stupéfiants ;
 
 h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
-pénal ; 
+pénal ;
 
-i) L'une des infractions prévues à la section 3 du même chapitre ; 
+i) L'une des infractions prévues à la section 3 du même chapitre ;
 
-j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de
-commerce ; 
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
 
-k) Banqueroute ; 
+k) Banqueroute ;
 
-l) Pratique de prêt usuraire ; 
+l) Pratique de prêt usuraire ;
 
 m) L'une des infractions à la législation sur les jeux de hasard, casinos et loteries, prévues par les dispositions des
-articles L. 324-1 à L. 324-10 du code de sécurité intérieure ; 
+articles L. 324-1 à L. 324-10 du code de sécurité intérieure ;
 
-n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ; 
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
-o) Fraude fiscale ; 
+o) Fraude fiscale ;
 
 p) L'une des infractions prévues aux articles L. 121-6, L. 121-28, L. 122-8 à L. 122-10, L. 213-1 à L. 213-5, L. 217-1 à L.
-217-3, L. 217-6 et L. 217-10 du code de la consommation ; 
+217-3, L. 217-6 et L. 217-10 du code de la consommation ;
 
-q) L'une des infractions prévues au code monétaire et financier ; 
+q) L'une des infractions prévues au code monétaire et financier ;
 
-r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ; 
+r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ;
 
-s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ; 
+s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ;
 
 t) L'une des infractions à la législation ou à la réglementation applicable aux institutions de prévoyance, unions et
 sociétés de groupe assurantiel de protection sociale régies par le titre 3 du livre 9 du code de la sécurité sociale, aux
-entreprises régies par le code des assurances et aux mutuelles, unions et fédérations régies par le présent code ; 
+entreprises régies par le code des assurances et aux mutuelles, unions et fédérations régies par le présent code ;
 
 3° S'il a fait l'objet depuis moins de dix ans d'une condamnation définitive à la destitution des fonctions d'officier public
-ou ministériel. 
+ou ministériel.
 
 II.-L'incapacité prévue au premier alinéa du I s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
 définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le livre VI
-du code de commerce. 
+du code de commerce.
 
 III.-Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
-décision qui entraîne cette incapacité peut en réduire la durée. 
+décision qui entraîne cette incapacité peut en réduire la durée.
 
 IV.-Les personnes exerçant une fonction, une activité ou une profession mentionnée au premier alinéa du I qui font l'objet de
 l'une des condamnations prévues aux I et II doivent cesser leur activité dans un délai d'un mois à compter de la date à
 laquelle la décision de justice est devenue définitive. Ce délai peut être réduit ou supprimé par la juridiction qui a rendu
-cette décision. 
+cette décision.
 
 V.-En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
 constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
 condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
 et l'intéressé ayant été dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au
-premier alinéa du I. 
+premier alinéa du I.
 
 Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
 prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
 d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
-domicile du condamné. 
+domicile du condamné.
 
 VI.-Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
-l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation
-d'exercice. 
+l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
 
 VII.-Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense
-d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation. 
+d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation.
 
 VIII.-Les personnes appelées à diriger une mutuelle ou union mentionnée à l'article L. 211-1 ou une union mutualiste de
 groupe, ou à y exercer une des fonctions clés mentionnées à l'article L. 211-12 doivent posséder l'honorabilité, la
-compétence ainsi que l'expérience nécessaires à leurs fonctions. 
+compétence ainsi que l'expérience nécessaires à leurs fonctions.
 
-Les membres du conseil d'administration des mutuelles et unions mentionnées au 3° du B du I de l'article L. 612-2 du code
-monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises. 
+Les membres du conseil d'administration des mutuelles et unions mentionnées aux 3° et 10° du B du I de l'article L. 612-2 du
+code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises.
 
 Pour apprécier la compétence des intéressés, l'Autorité de contrôle prudentiel et de résolution tient compte de leur
 formation et de leur expérience de façon proportionnée à leurs attributions, notamment l'expérience acquise en tant que
@@ -1755,13 +1768,13 @@ président d'un conseil ou d'un comité. L'autorité tient compte également, da
 la compétence, de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats
 ont été antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres,
 l'Autorité de contrôle prudentiel et de résolution tient compte des formations dont ils pourront bénéficier tout au long de
-leur mandat. 
+leur mandat.
 
 IX.-Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se prononcer sur l'honorabilité, la compétence et
 l'expérience des personnes qui dirigent effectivement l'entreprise ou qui sont responsables de fonctions clés au sens de
 l'article L. 211-13 et, lorsque ces personnes exercent de telles fonctions auprès d'une autre entité du même groupe au sens
 défini à l'article L. 356-1 du code des assurances, elle consulte les autorités compétentes de cette autre entité. Elle
-communique à ces autorités les informations utiles à l'exercice de leurs missions. 
+communique à ces autorités les informations utiles à l'exercice de leurs missions.
 
 X.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -1784,15 +1797,15 @@ X.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 3
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-28
 	  - Code de la consommation - art. L121-6
-	  - Code de la consommation - art. L122-8 (V)
-	  - Code de la consommation - art. L213-1 (V)
-	  - Code de la consommation - art. L217-1 (V)
+	  - Code de la consommation - art. L122-8
+	  - Code de la consommation - art. L213-1
+	  - Code de la consommation - art. L217-1
 	  - Code de la consommation - art. L217-10
 	  - Code de la consommation - art. L217-6
 	  - Code pénal
@@ -1805,12 +1818,12 @@ X.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 	  - Code du travail - art. L8224-1
 	  - Code des assurances
 	  - Code des assurances - art. L356-1
-	  - Code de la mutualité - art. L111-4-2 (V)
-	  - Code de la mutualité - art. L211-1 (V)
-	  - Code de la mutualité - art. L211-10 (VD)
-	  - Code de la mutualité - art. L211-12 (VD)
-	  - Code de la mutualité - art. L211-13 (VD)
-	  - Code de la sécurité intérieure - art. L324-1 (V)
+	  - Code de la mutualité - art. L111-4-2
+	  - Code de la mutualité - art. L211-1
+	  - Code de la mutualité - art. L211-10
+	  - Code de la mutualité - art. L211-12
+	  - Code de la mutualité - art. L211-13
+	  - Code de la sécurité intérieure - art. L324-1
 
 
 ###### Article L114-22
@@ -3090,13 +3103,16 @@ nécessaires à l'appréciation de l'ensemble des caractéristiques de l'opérat
 ###### Article L211-1
 
 Les mutuelles et les unions qui réalisent des opérations relevant du 1° du I de l'article L. 111-1 ou de l'article L. 111-1-1
-sont régies par les dispositions du présent livre.
+sont régies par le présent livre, à l'exception du chapitre IV du présent titre.
+
+Les mutuelles et unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 sont régies par la
+présente sous-section et le chapitre IV du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: ORDONNANCE n°2015-378 du 2 avril 2015 - art. 14
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
@@ -3595,6 +3611,19 @@ vie ;
 	**Cite**:
 
 	  - Code de la mutualité - art. L211-5 (VD)
+
+
+###### Article L211-11-1
+
+Les mutuelles et unions de retraite professionnelle supplémentaire ne sont pas des mutuelles ou unions relevant du régime dit
+“ Solvabilité II ” définies à l'article L. 211-10, ni des mutuelles ou unions ne relevant pas du régime dit “ Solvabilité II
+” définies à l'article L. 211-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 
 ##### Section 2 : Système de gouvernance applicable aux mutuelles et unions relevant du régime dit “Solvabilité II”
@@ -4597,6 +4626,249 @@ l'exercice de laquelle l'infraction a été commise.
 	  - Code de la mutualité - art. L213-5 (VT)
 
 
+### Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation et aux mutuelles et unions de retraite professionnelle supplémentaire.
+
+#### Chapitre Ier : Champ d'application et conditions d'activité.
+
+#### Chapitre II : Fonctionnement.
+
+#### Chapitre III : Peines.
+
+#### Chapitre IV : Mutuelles et unions de retraite professionnelle supplémentaire 
+
+##### Section 1 : Dispositions générales 
+
+###### Article L214-1
+
+Les mutuelles et unions de retraite professionnelle supplémentaire sont des personnes morales de droit privé ayant pour objet
+la couverture d'engagements de retraite professionnelle supplémentaire, telle que définie à l'article L. 222-3.
+
+Les mutuelles et unions de retraite professionnelle supplémentaire limitent leur activité à la couverture d'engagements de
+retraite professionnelle supplémentaire et aux activités qui en découlent, notamment la couverture de garanties
+complémentaires mentionnées à l'article L. 222-4.
+
+Les mutuelles et unions de retraite professionnelle supplémentaire peuvent se voir transférer des risques provenant d'autres
+mutuelles et unions de retraite professionnelle supplémentaire, de fonds de retraite professionnelle supplémentaire
+mentionnés à l'article L. 381-1 du code des assurances et d'institutions de retraite professionnelle supplémentaire
+mentionnées à l'article L. 942-1 du code de la sécurité sociale, lorsque le transfert est proportionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-2 (VD)
+
+
+###### Article L214-2
+
+L'article L. 381-2 du code des assurances est applicable aux mutuelles et unions de retraite professionnelle supplémentaire.
+Pour l'application de cet article, les mutuelles et unions de retraite professionnelle supplémentaire sont assimilées à des
+fonds de retraite professionnelle supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L214-3
+
+Les mutuelles et unions de retraite professionnelle supplémentaire obéissent aux règles de constitution et de fonctionnement
+applicables, respectivement, aux mutuelles et unions, figurant au livre Ier et à la section 2 du chapitre Ier du présent
+titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L214-4
+
+Les chapitres Ier à III du titre II du présent livre sont applicables aux contrats souscrits par les mutuelles et unions
+régies par le présent chapitre. Pour l'application de ces dispositions, les mutuelles et unions de retraite professionnelle
+supplémentaire sont assimilées à des mutuelles ou unions exerçant des opérations d'assurance sur la vie ou de capitalisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L214-5
+
+Les dispositions des articles L. 212-14 à L. 212-16 et de la section 4 du chapitre Ier du titre II du présent livre
+applicables aux mutuelles ou unions exerçant des opérations d'assurance vie ou de capitalisation s'appliquent aux mutuelles
+et unions de retraite professionnelle supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L214-6
+
+Sous réserve d'adaptations précisées par décret en Conseil d'Etat, les dispositions de la section 2 du chapitre Ier du titre
+II du présent livre, applicables aux mutuelles ou unions exerçant des opérations d'assurance sur la vie ou de capitalisation,
+s'appliquent aux mutuelles et unions de retraite professionnelle supplémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+##### Section 2 :  Agrément 
+
+###### Article L214-7
+
+Le chapitre II du titre VIII du livre III du code des assurances est applicable aux mutuelles et unions de retraite
+professionnelle supplémentaire.
+
+Pour l'application de ces dispositions, il y a lieu d'entendre : “ mutuelles et unions de retraite supplémentaire ” là où
+sont mentionnés dans le code des assurances : “ fonds de retraite professionnelle supplémentaire ” ou “ fonds ” et “ aux
+participants et aux ayants droit ” là où est mentionné dans le code des assurances : “ aux assurés et aux tiers bénéficiaires
+”. La référence à l'article L. 143-1 du code des assurances est remplacée par la référence à l'article L. 222-3 du présent
+code, la référence à l'article L. 143-2 du code des assurances est remplacée par la référence à l'article L. 222-4 du présent
+code et la référence à l'article L. 322-2 est remplacée par la référence à l'article L. 114-21 du présent code.
+
+**Nota:**
+
+Conformément à l'article 18 de l'ordonnance n° 2017-484 du 6 avril 2017, au cours de l'année 2017, les agréments accordés par
+l'Autorité de contrôle prudentiel et de résolution en application des articles L. 382-1 du code des assurances, L. 214-7 du
+code de la mutualité et L. 942-7 du code de la sécurité sociale et les opérations de transfert autorisées par l'Autorité dans
+les conditions prévues aux articles L. 384-1 du code des assurances, L. 214-9 du code de la mutualité et L. 942-9 du code de
+la sécurité sociale le sont dans les mêmes conditions que si ces articles avaient été applicables à compter du 1er janvier
+2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+##### Section 3 :  Retrait d'agrément 
+
+###### Article L214-8
+
+Le chapitre III du titre VIII du livre III du code des assurances est applicable aux mutuelles et unions de retraite
+professionnelle supplémentaire.
+
+Pour l'application de ces dispositions, il y a lieu d'entendre : “ mutuelles et unions de retraite professionnelle
+supplémentaire ” là où sont mentionnés dans le code des assurances : “ fonds de retraite professionnelle supplémentaire ” ou
+“ fonds ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+##### Section 4 :  Transfert de portefeuille 
+
+###### Article L214-9
+
+Les sections 1 et 3 du chapitre IV du titre VIII du livre III du code des assurances sont applicables aux mutuelles et unions
+de retraite professionnelle supplémentaire.
+
+Pour l'application de ces dispositions, il y a lieu d'entendre : “ mutuelles ou unions ” là où est mentionné dans le code des
+assurances : “ entreprises d'assurance ”. La référence à l'article L. 132-29 du code des assurances est remplacée par la
+référence à l'article L. 223-25-5 du présent code, la référence à l'article L. 143-1 du code des assurances est remplacée par
+la référence à l'article L. 222-3 du présent code et la référence à l'article L. 324-1 du code des assurances est remplacée
+par la référence à l'article L. 212-11 du présent code.
+
+Pour l'application de l'article L. 384-2 du code des assurances, il y a lieu d'entendre : “ mutuelles et unions de retraite
+professionnelle supplémentaire ” là où sont mentionnés dans le code des assurances : “ fonds de retraite professionnelle
+supplémentaire ” ou “ fonds ”.
+
+**Nota:**
+
+Conformément à l'article 18 de l'ordonnance n° 2017-484 du 6 avril 2017, au cours de l'année 2017, les agréments accordés par
+l'Autorité de contrôle prudentiel et de résolution en application des articles L. 382-1 du code des assurances, L. 214-7 du
+code de la mutualité et L. 942-7 du code de la sécurité sociale et les opérations de transfert autorisées par l'Autorité dans
+les conditions prévues aux articles L. 384-1 du code des assurances, L. 214-9 du code de la mutualité et L. 942-9 du code de
+la sécurité sociale le sont dans les mêmes conditions que si ces articles avaient été applicables à compter du 1er janvier
+2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L214-10
+
+Les mutuelles ou unions de retraite professionnelle supplémentaire peuvent être autorisées, dans les conditions définies à
+l'article L. 212-11, à transférer tout ou partie de leur portefeuille de contrats, à un ou plusieurs mutuelles ou unions de
+retraite professionnelle supplémentaire, fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du
+code des assurances et institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L214-11
+
+I.-Les opérations de fusion ou de scission de mutuelles ou d'unions de retraite professionnelle supplémentaire qui comportent
+des transferts de portefeuille de contrats réalisés dans les conditions prévues à l'article L. 214-10 sont menées
+conformément à la procédure prévue par cet article.
+
+II.-Lorsque les opérations de fusion ou de scission de mutuelles de retraite professionnelle supplémentaire ne comportent pas
+de transfert de portefeuille de contrats réalisé dans les conditions prévues à l'article L. 214-10, les mutuelles ou unions
+de retraite professionnelle supplémentaire sont tenues de fournir à l'Autorité de contrôle prudentiel et de résolution une
+déclaration accompagnée de tous les documents utiles exposant les buts et les modalités de l'opération projetée un mois avant
+sa réalisation définitive. Durant ce délai, l'Autorité de contrôle prudentiel et de résolution peut s'opposer à l'opération
+si elle juge qu'elle n'est pas conforme à l'intérêt des membres participants et bénéficiaires ou des créanciers ou qu'elle a
+pour conséquence de diminuer la valeur de réalisation des placements correspondant à des engagements pris envers les membres
+participants et bénéficiaires déterminés conformément aux dispositions de l'article L. 212-6. Elle peut également demander
+des documents complémentaires nécessaires à l'appréciation de l'opération. Dans ce dernier cas, le délai d'un mois pendant
+lequel l'Autorité de contrôle prudentiel et de résolution peut s'opposer à la poursuite de l'opération court à compter de la
+date de production des documents demandés et la réalisation définitive de l'opération ne peut intervenir avant l'expiration
+de ce même délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+##### Section 5 :  Règles financières et prudentielles  
+
+###### Article L214-12
+
+Le chapitre V du titre VIII du livre III du code des assurances est applicable aux mutuelles et unions de retraite
+professionnelle supplémentaire.
+
+Pour l'application de ces dispositions, il y a lieu d'entendre : “ mutuelles ou unions de retraite professionnelle
+supplémentaire ” là où sont mentionnés dans le code des assurances : “ fonds de retraite professionnelle supplémentaire ” ou
+“ fonds ”. La référence à l'article L. 354-1 du code des assurances est remplacée par la référence à l'article L. 211-12 du
+présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
 ### Titre II : Opérations des mutuelles et des unions.
 
 #### Chapitre Ier : Dispositions générales.
@@ -5540,13 +5812,21 @@ a) Lorsqu'il s'agit d'actifs immobiliers, d'une hypothèque légale inscrite dè
 b) D'un privilège mobilier et d'un privilège immobilier qui priment les privilèges respectivement prévus aux premier et
 deuxième alinéas de l'article L. 212-23.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+Lorsqu'une mutuelle ou union pratique des opérations relevant du présent chapitre, elle doit, pour chaque convention, tenir
+une comptabilité auxiliaire d'affectation.
+
+**Nota:**
+
+Conformément à l'article 14 de l'ordonnance n° 2017-484 du 6 avril 2017, les conventions de toute nature existant au 1er
+juillet 2017 et pratiquant ou prévoyant des opérations mentionnées à l'article L. 222-1 du code de la mutualité doivent être
+rendues conformes aux dispositions du chapitre II du titre II du livre II de ce code, dans sa version issue de ladite
+ordonnance, avant le 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
@@ -5582,9 +5862,122 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 	  - Code monétaire et financier - art. R561-16 (VD)
 	  - Code rural et de la pêche maritime - art. D741-39 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 13
+
 	**Cite**:
 
-	  - Code de la mutualité - art. L212-23 (M)
+	  - Code de la mutualité - art. L212-23
+
+
+###### Article L222-1-1
+
+I.-Les conventions mentionnées à l'article L. 222-1 ainsi que toutes les informations relatives à celle-ci, y compris les
+communications à caractère publicitaire, doivent préciser, en caractères très apparents, selon un contenu exact, clair et non
+trompeur, les modalités et les conditions dans lesquelles la valeur de service de l'unité de rente est susceptible de
+baisser.
+
+Les conventions conclues à compter du 1er juillet 2017 prévoient des possibilités de baisse de la valeur de service de
+l'unité de rente et de conversion, dans des limites précisées par voie réglementaire.
+
+II.-Les conventions relevant du présent chapitre ne peuvent comporter de rachat, sauf dans le cas des évènements énumérés à
+l'article L. 132-23 du code des assurances. En ce cas, la valeur de rachat ne peut être inférieure à la valeur de transfert.
+
+III.-Une modification de la valeur de service ou de la valeur d'acquisition de l'unité de rente ou une modification des
+coefficients de surcote et de décote ne constitue pas une modification des droits et obligations au sens de l'article L.
+221-6 du présent code, à la différence d'une modification des barèmes liés à l'âge.
+
+IV.-Les conventions régies par le présent chapitre qui sont constitutives d'un plan d'épargne retraite populaire appliquent
+les dispositions de l'article L. 144-2 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 13
+
+
+###### Article L222-1-2
+
+I.-Pour les opérations à adhésion facultative, la notice remise par le souscripteur ou adhérent au participant lors de
+l'adhésion inclut, outre les informations mentionnées à l'article L. 221-6 :
+
+a) La dénomination sociale et les coordonnées du souscripteur ;
+
+b) Les stipulations essentielles de la convention, notamment les possibilités de baisse de la valeur de service de l'unité de
+rente et de conversion de la convention qui peuvent être prévues, conformément au I de l'article L. 222-1-1 ;
+
+c) La mention que les droits et obligations du participant peuvent être modifiés par des avenants à cette convention ainsi
+que les modalités d'adoption de ces avenants par le souscripteur ;
+
+d) Les conditions d'exercice de la faculté de renonciation ainsi qu'un modèle de lettre destiné à faciliter l'exercice de
+cette faculté de renonciation ;
+
+e) Les modalités de la conversion de la convention en rentes viagères selon les conditions fixées par arrêté du ministre
+chargé de la mutualité.
+
+Un résumé des caractéristiques essentielles de la convention figure au début de cette notice, dans un format précisé par
+arrêté du même ministre qui en fixe également, de façon limitative, le contenu. Cet arrêté précise également l'ensemble des
+informations qui doivent figurer dans la notice, notamment les stipulations essentielles au sens du b.
+
+II.-Pour les opérations à adhésion facultative, le défaut de remise de la notice prévue au I entraîne de plein droit la
+prorogation du délai de renonciation prévu à l'article L. 223-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 13
+
+
+###### Article L222-1-3
+
+Pour l'ensemble des opérations régies par le présent chapitre, le souscripteur ou l'adhérent est tenu de communiquer chaque
+année au participant :
+
+1° Le montant de la cotisation versée au titre de l'adhésion au cours de l'année ;
+
+2° Les valeurs d'acquisition de l'unité de rente correspondant à la situation du participant au cours de l'année écoulée ;
+
+3° Le montant total des droits acquis exprimés en nombre d'unités de rente ;
+
+4° La valeur de service de l'unité de rente, l'âge auquel elle correspond et son évolution depuis l'année précédente, ainsi
+que les coefficients de surcote et de décote correspondant à une liquidation différée ou anticipée par rapport à l'âge de
+référence ;
+
+5° Les principales informations techniques et financières de la convention, notamment celles permettant au participant
+d'apprécier la situation financière de la convention à laquelle il a adhéré ;
+
+6° Pour les opérations dont les prestations sont liées à la cessation d'activité professionnelle, le montant de la valeur de
+transfert ;
+
+7° Lorsque la convention prévoit une réduction du nombre d'unités de rente en cas de cessation du paiement des primes ou
+cotisations, les conditions de cette réduction et le nombre d'unités de rente qui en résulte ;
+
+8° Lorsque la convention prévoit des possibilités de baisse de la valeur de service de l'unité de rente et de conversion, les
+conditions et les modalités de la mise en œuvre de ces possibilités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 13
+
+
+###### Article L222-1-4
+
+Un décret en Conseil d'Etat détermine les règles techniques et les conditions d'application du présent chapitre, notamment
+les modalités selon lesquelles les informations prévues par l'article L. 222-1-3 peuvent être mises à disposition des
+participants et la possibilité d'inclure ces informations dans les rapports prévus aux articles L. 222-4-2 du présent code et
+L. 385-7 du code des assurances pour les conventions constitutives d'engagements relevant du chapitre II bis du présent titre
+ou dans le rapport prévu au III de l'article L. 144-2 du code des assurances pour les conventions relevant de cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 13
 
 
 ###### Article L222-2
@@ -5691,35 +6084,40 @@ la valeur du point des pensions militaires d'invalidité à cette date.
 
 ###### Article L222-3
 
-Le présent chapitre s'applique aux opérations pratiquées par les mutuelles ou unions dans le cadre de l'agrément
+Le présent chapitre s'applique aux opérations pratiquées par les mutuelles et unions de retraite professionnelle
+supplémentaire dans le cadre de leur agrément administratif et par les mutuelles ou unions dans le cadre de l'agrément
 administratif accordé pour les activités de retraite professionnelle supplémentaire. Peuvent être proposés, dans le cadre de
-cet agrément, les contrats d'assurance sur la vie dont les prestations sont liées à la cessation d'activité professionnelle
-et sont versées en supplément des prestations servies par les régimes de base et complémentaires légalement obligatoires. Ces
-contrats sont souscrits :
+cet agrément, les contrats d'assurance ayant pour objet la fourniture de prestations de retraite liées à une activité
+professionnelle, versées en supplément des prestations servies par les régimes de base et complémentaires légalement
+obligatoires ou attribuées par référence à la perspective d'atteindre la retraite. Ces contrats sont souscrits :
 
 1° Par un employeur ou un groupe d'employeurs au profit de leurs salariés ou anciens salariés, ou par un groupement
 professionnel représentatif d'employeurs au profit des salariés ou anciens salariés de ceux-ci. Ils revêtent un caractère
-collectif déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 ;
+collectif déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale ;
 
-2° Ou par un groupement défini à l'article 41 de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à
-l'entreprise individuelle ou au I de l'article 55 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche
-maritime et les cultures marines.
+2° Ou par une association dans le cadre des opérations mentionnées à l'article L. 223-25-1.
+
+**Nota:**
+
+Pour les conditions d'applications, se reporter à l'article 7-II et 7-IV de l'ordonnance n° 2017-484 du 6 avril 2017 relative
+à la création d'organismes dédiés à l'exercice de l'activité de retraite professionnelle supplémentaire et à l'adaptation des
+régimes de retraite supplémentaire en unités de rente.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°94-126 du 11 février 1994 - art. 41 (Ab)
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 55 (M)
-	  - Code de la mutualité L911-1
+	  - Loi n°94-126 du 11 février 1994 - art. 41
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 55
+	  - Code de la mutualité
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cité par**:
 
@@ -5740,70 +6138,116 @@ maritime et les cultures marines.
 
 ###### Article L222-4
 
-Les prestations relatives aux contrats mentionnés à l'article L. 222-3 sont payables au membre participant à compter de la
-date de liquidation de sa pension dans un régime obligatoire d'assurance vieillesse ou à l'âge fixé en application de
-l'article L. 351-1 du code de la sécurité sociale. Elles peuvent prévoir des garanties complémentaires en cas de décès de
-l'adhérent avant ou après la date de mise en service de la rente viagère, ainsi qu'en cas d'invalidité et d'incapacité.
+Les prestations relatives aux contrats mentionnés à l'article L. 222-3 peuvent prévoir des garanties complémentaires en cas
+de décès du participant avant ou après la date de mise en service de la rente viagère, ainsi qu'en cas d'invalidité et
+d'incapacité.
 
 Les droits individuels en cours de constitution relatifs aux contrats mentionnés à l'article L. 222-3 sont transférables vers
 un autre contrat mentionné à l'article L. 222-3, ainsi que, dans des conditions et des limites fixées par décret, vers un
 plan d'épargne retraite populaire défini à l'article L. 144-2 du code des assurances. Ces droits sont également transférables
 vers un contrat offrant les prestations mentionnées à l'article L. 222-3, mais n'ayant pas été souscrit dans le cadre de
-l'agrément administratif mentionné au premier alinéa de cet article. La notice d'information précise les modalités d'exercice
-de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats revêt un caractère obligatoire déterminé dans
-le cadre d'une des procédures mentionnées à l'article L. 911-1 de la sécurité sociale, les droits individuels relatifs à ces
-contrats ne sont transférables que lorsque le participant n'est plus tenu d'y adhérer.
+l'agrément administratif mentionné au premier alinéa de cet article et réciproquement. La notice d'information précise les
+modalités d'exercice de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats revêt un caractère
+obligatoire déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 de la sécurité sociale, les droits
+individuels relatifs à ces contrats ne sont transférables que lorsque le participant n'est plus tenu d'y adhérer.
 
-Il est institué pour chaque contrat mentionné au deuxième alinéa de l'article L. 222-3, ne relevant pas du b du 1 du I de
-l'article 163 quatervicies du code général des impôts et dont le nombre des membres participants est supérieur à un seuil
-fixé par un arrêté conjoint du ministre chargé de l'économie, du ministre chargé de la sécurité sociale et du ministre chargé
-de la mutualité, un comité de surveillance chargé de veiller à la bonne exécution du contrat et à la représentation des
-intérêts des adhérents, et établi dans les six mois suivant le franchissement du seuil susmentionné, y compris suite à la
-décision mentionnée à l'article L. 143-8 du code des assurances. Le comité de surveillance est composé à part égale de
-représentants des salariés et des employeurs. Les membres du comité de surveillance sont tenus au secret professionnel à
-l'égard des informations présentant un caractère confidentiel et données comme telles par les personnes consultées dans les
-conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Le comité peut entendre le ou les
-commissaires aux comptes mentionnés à l'article L. 222-8 sur les comptes mentionnés à cet article. Ils sont sur cette
-question déliés à son égard de l'obligation du secret professionnel.
+Il est institué, pour chaque contrat mentionné au 1° de l'article L. 222-3 dont le nombre des membres participants est
+supérieur à un seuil fixé par arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, un
+comité de surveillance chargé de veiller à la bonne exécution du contrat et à la représentation des intérêts des
+participants. Ce comité est formé dans les six mois suivant le franchissement du seuil mentionné à la première phrase. Il est
+composé à parts égales de représentants des salariés et des employeurs. Les membres du comité de surveillance sont tenus au
+secret professionnel à l'égard des informations présentant un caractère confidentiel et données comme telles par les
+personnes consultées dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Le comité
+peut entendre le ou les commissaires aux comptes compétents, qui sont déliés de l'obligation du secret professionnel à
+l'égard du comité en ce qui concerne les comptes concernés. Lorsque, pour une même mutuelle ou union de retraite
+professionnelle supplémentaire ou une même mutuelle ou union, un même souscripteur a souscrit plusieurs contrats pour
+lesquels doit être instauré un comité de surveillance, les comités de surveillance de ces contrats peuvent être regroupés au
+sein d'un unique comité chargé de veiller à la bonne exécution de l'ensemble des contrats concernés et à la représentation
+des intérêts des participants de l'ensemble de ces contrats.
+
+Par dérogation à l'alinéa précédent, les missions du comité de surveillance peuvent être confiées à une autre instance qui se
+substitue à lui, à condition que cette instance soit représentative, à parts égales, des salariés et des employeurs du
+contrat concerné et sous réserve que les membres de cette instance soient tenus aux mêmes obligations de secret professionnel
+que celles prévues pour les membres d'un comité de surveillance.
 
 Les deuxième et troisième alinéas ne s'appliquent ni aux contrats à prestations définies bénéficiant du régime prévu au 2° et
 au 2° 0 bis de l'article 83 du code général des impôts, ni à ceux entrant dans le champ d'application de l'article L. 137-11
 du code de la sécurité sociale. Ils ne s'appliquent pas non plus aux contrats ayant pour seul objet la prestation
-d'indemnités de départ en retraite mentionnées à l'article L. 122-14-13 du code du travail.
+d'indemnités de départ en retraite mentionnées à l'article L. 1237-9 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 163 quatervicies, 83
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-	  - Code du travail - art. L122-14-13 (M)
-	  - Code de la sécurité sociale. - art. L137-11 (M)
-	  - Code de la sécurité sociale. - art. L351-1 (M)
-	  - Code des assurances - art. L143-8 (V)
-	  - Code des assurances - art. L144-2 (V)
-	  - Code de la mutualité - art. L222-3 (V)
-	  - Code de la mutualité - art. L222-8 (V)
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-14
+	  - Code du travail - art. L122-14-13
+	  - Code de la sécurité sociale. - art. L137-11
+	  - Code de la sécurité sociale. - art. L351-1
+	  - Code des assurances - art. L143-8
+	  - Code des assurances - art. L144-2
+	  - Code de la mutualité - art. L222-3
+	  - Code de la mutualité - art. L222-8 (VT)
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 64 (V) JORF 31 décembre 2006
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 65 (V) JORF 31 décembre 2006
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L222-4-1
+
+Les actifs de chaque contrat relevant du présent chapitre et faisant l'objet d'une comptabilité auxiliaire d'affectation sont
+conservés par un ou plusieurs dépositaires distincts de la mutuelle ou union de retraite professionnelle supplémentaire ou de
+la mutuelle ou union, qui exercent à titre principal le service mentionné au 1° de l'article L. 321-2 du code monétaire et
+financier et sont agréés en France ou dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
+économique européen.
+
+Les autres actifs des mutuelles ou unions de retraite professionnelle supplémentaire sont également conservés par un ou
+plusieurs dépositaires distincts de la mutuelle ou union, dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
+
+
+###### Article L222-4-2
+
+Le bulletin d'adhésion mentionné à l'article L. 221-1 indique que le contrat souscrit est un contrat de retraite
+professionnelle supplémentaire relevant du présent chapitre.
+
+Lors de la liquidation de ses droits, la mutuelle ou union de retraite professionnelle supplémentaire ou la mutuelle ou union
+informe chaque membre participant et bénéficiaire, dans des conditions définies par arrêté du ministre chargé de la
+mutualité, du montant des prestations qui lui sont dues et des options de paiement correspondantes.
+
+La mutuelle ou union de retraite professionnelle supplémentaire ou la mutuelle ou union établit et révise au moins tous les
+trois ans, pour chaque contrat, un rapport indiquant sa politique de placement et les risques techniques et financiers
+correspondants. Ce rapport est mis à jour dans un délai de trois mois après tout changement majeur de la politique de
+placement. Il est mis à la disposition du souscripteur, du participant et du bénéficiaire. Un arrêté du ministre chargé de la
+mutualité précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement, doivent être remises
+aux membres participants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 
 ###### Article L222-5
 
 L'agrément mentionné à l'article L. 222-3 est délivré dans les conditions prévues à l'article L. 211-8. Il ne peut être
 accordé qu'aux mutuelles et unions agréées pour exercer les opérations dépendant de la durée de la vie humaine, y compris les
-opérations collectives mentionnées à l'article L. 222-1.
+opérations collectives mentionnées à l'article L. 222-1. 
 
 Cet agrément vaut également agrément pour les activités des mutuelles ou unions en tant qu'institution de retraite
-professionnelle dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+professionnelle dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen.
 
 **Liens relatifs à cet article**
@@ -5817,15 +6261,17 @@ professionnelle dans un autre Etat membre de la Communauté européenne ou dans 
 	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 7 (Ab)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
+
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L211-7
-	  - Code de la mutualité - art. L222-1
-	  - Code de la mutualité - art. L222-3
+	  - Code de la mutualité - art. L222-3 (VT)
 
 
 ###### Article L222-6
@@ -5833,40 +6279,39 @@ professionnelle dans un autre Etat membre de la Communauté européenne ou dans 
 Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, la mutuelle ou union établit une comptabilité
 auxiliaire d'affectation pour les opérations relevant de la présente section et des opérations mentionnées à l'article L.
 310-14 du code des assurances. Cette disposition peut s'appliquer individuellement à un contrat selon des conditions fixées
-par décret. 
+par décret.
 
 Les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées à l'article
-L. 222-3 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général des impôts, celles
-mentionnées au VII de l'article L. 144-2 du code des assurances, sont établies séparément de la comptabilité auxiliaire
-d'affectation mentionnée à l'alinéa précédent. 
+L. 222-3  et au VII de l'article L. 144-2 du code des assurances, sont établies séparément de la comptabilité auxiliaire
+d'affectation mentionnée à l'alinéa précédent.
 
 L'Autorité de contrôle prudentiel et de résolution peut également exiger que la mutuelle ou union établisse séparément de la
 comptabilité mentionnée au premier alinéa une comptabilité auxiliaire d'affectation pour les opérations mentionnées à
-l'article L. 310-14 du code des assurances. 
-
-Les actifs de chaque contrat sont conservés par un dépositaire unique distinct de la mutuelle ou union, qui exerce à titre
-principal le service mentionné au 1 de l'article L. 321-2 du code monétaire et financier, et qui peut être agréé dans un
-autre Etat membre ou dans autre Etat partie à l'accord sur l'Espace économique européen.
+l'article L. 310-14 du code des assurances.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 163 quatervicies
 	  - Code monétaire et financier - art. L321-2
 	  - Code des assurances - art. L144-2
-	  - Code des assurances - art. L310-14 (V)
+	  - Code des assurances - art. L310-14
 	  - Code de la mutualité - art. L222-3
 
 	**Cité par**:
 
 	  - Code de la mutualité - art. L222-7 (VT)
 	  - Code de la mutualité - art. L222-8 (VT)
-	  - Code de la mutualité - art. L222-9 (M)
+	  - Code de la mutualité - art. L222-9 (VT)
 	  - Code des assurances - art. R342-10 (VD)
 	  - Code des assurances - art. R342-12 (VD)
 	  - Code des assurances - art. R342-14 (VD)
@@ -5876,56 +6321,46 @@ autre Etat membre ou dans autre Etat partie à l'accord sur l'Espace économique
 ###### Article L222-7
 
 En cas d'insuffisance de représentation des engagements faisant l'objet de la comptabilité auxiliaire d'affectation
-mentionnée au premier alinéa de l'article L. 222-6, de celle mentionnée au deuxième alinéa, ou de celle mentionnée au
-troisième alinéa de cet article, et sans préjudice de toute procédure qui pourrait être engagée dans le cadre du livre V, la
-mutuelle ou union et le ou les souscripteurs conviennent d'un plan de redressement permettant de parfaire la représentation
-de ces engagements par affectation d'actifs représentatifs de réserves ou de provisions autres que ceux représentatifs de ses
-engagements réglementés. Lorsque la représentation des engagements du ou des contrats le rend possible, les actifs affectés à
-ce ou ces contrats ou leur contre-valeur sont réaffectés aux autres opérations de la mutuelle ou union dans des conditions
-convenues entre celle-ci et le ou les souscripteurs des contrats faisant l'objet de la comptabilité auxiliaire d'affectation.
-En cas de désaccord entre les parties, l'Autorité de contrôle prudentiel et de résolution détermine le montant et le
-calendrier d'affectation d'actifs par la mutuelle ou union. 
+mentionnée aux premier, deuxième et troisième alinéas de l'article L. 222-6, et sans préjudice de toute procédure qui
+pourrait être engagée dans le cadre du livre V, la mutuelle ou union et le ou les souscripteurs conviennent d'un plan de
+redressement permettant de parfaire la représentation de ces engagements par affectation d'actifs représentatifs de réserves
+ou de provisions autres que ceux représentatifs de ses engagements réglementés. Lorsque la représentation des engagements du
+ou des contrats le rend possible, les actifs affectés à ce ou ces contrats ou leur contre-valeur sont réaffectés aux autres
+opérations de la mutuelle ou union dans des conditions convenues entre celle-ci et le ou les souscripteurs des contrats
+faisant l'objet de la comptabilité auxiliaire d'affectation. En cas de désaccord entre les parties, l'Autorité de contrôle
+prudentiel et de résolution détermine le montant et le calendrier d'affectation d'actifs par la mutuelle ou union.
 
 L'élaboration du plan de redressement mentionné au premier alinéa tient compte de la situation particulière de la mutuelle ou
-union au titre de la comptabilité auxiliaire faisant l'objet dudit plan. Ce plan est tenu à la disposition des adhérents.
+union au titre de la comptabilité auxiliaire faisant l'objet dudit plan. Ce plan est tenu à la disposition des participants.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 7 (Ab)
-	  - Code de la mutualité - art. L222-9 (M)
+	  - Code de la mutualité - art. L222-9 (VT)
 	  - Code des assurances - art. R352-28 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L222-6 (V)
+	  - Code de la mutualité - art. L222-6
 
 
 ###### Article L222-8
-
-La précision qu'il s'agit d'un contrat de retraite professionnelle supplémentaire relevant des dispositions de la présente
-section doit figurer dans le bulletin d'adhésion. 
 
 La mutuelle ou union établit et arrête, dans les mêmes conditions que ses comptes individuels, le rapport de gestion et les
 comptes annuels relatifs à la ou les comptabilités auxiliaires d'affectation mentionnée à l'article L. 222-6. Le ou les
 commissaires aux comptes de la mutuelle ou union certifient que ces comptes annuels sont réguliers et sincères. Ces documents
 sont remis à leur demande aux souscripteurs dans les six mois qui suivent la clôture de l'exercice précédent, et sont tenus à
-la disposition des membres participants et bénéficiaires. 
-
-Lors de la liquidation de ses droits, la mutuelle ou union informe chaque membre participant ou bénéficiaire, dans des
-conditions définies par arrêté du ministre chargé de la sécurité sociale, sur le montant des prestations qui lui sont dues et
-sur les options de paiement correspondantes. 
-
-Pour chaque contrat, la mutuelle ou union établit et révise au moins tous les trois ans un rapport indiquant sa politique de
-placement et les risques techniques et financiers y afférents. Ce rapport doit être mis à jour dans un délai de trois mois
-après tout changement majeur de la politique de placement. Il est remis, sur demande, au souscripteur, au membre participant
-et au bénéficiaire. Un arrêté du ministre chargé de la sécurité sociale précise les autres informations qui, sur demande ou
-périodiquement, doivent être remises aux membres participants.
+la disposition des membres participants et bénéficiaires.
 
 **Liens relatifs à cet article**
 
@@ -5933,57 +6368,65 @@ périodiquement, doivent être remises aux membres participants.
 
 	  - Ordonnance n°2001-350 du 19 avril 2001
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2014-1662 du 30 décembre 2014 - art. 16
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cité par**:
 
-	  - Code de la mutualité - art. L222-4 (M)
+	  - Code de la mutualité - art. L222-4 (VD)
 
 	**Cite**:
 
-	  - Code de la mutualité - art. L222-6 (V)
+	  - Code de la mutualité - art. L222-6
 
 
 ###### Article L222-9
 
 Sans préjudice des droits des titulaires de créances nées de la gestion de ces opérations, aucun créancier de la mutuelle ou
-union autre que les membres participants ou bénéficiaires au titre des opérations relevant du présent chapitre ne peut se
-prévaloir d'un quelconque droit sur les biens et droits résultant de l'enregistrement comptable établi en vertu du premier
-alinéa de l'article L. 222-6, même sur le fondement du livre VI du code de commerce, des articles 2331 et 2375 du code civil,
-des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
-sociale ou de l'article L. 212-23 du code de la mutualité. 
+union autre que les participants ou bénéficiaires au titre des opérations relevant du présent chapitre ne peut se prévaloir
+d'un quelconque droit sur les biens et droits résultant de l'enregistrement comptable établi en vertu du premier alinéa de
+l'article L. 222-6, même sur le fondement du livre VI du code de commerce, des articles 2331 et 2375 du code civil, des
+articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du code de la sécurité
+sociale ou de l'article L. 212-23 du présent code.
 
-Sous réserve de l'article L. 222-7, les membres participants ou bénéficiaires au titre des opérations relevant du présent
-chapitre et de l'article L. 310-14 du code des assurances ne peuvent se prévaloir d'un quelconque droit sur les biens et
-droits résultant des autres opérations de la mutuelle ou union, même sur le fondement du livre VI du code de commerce, des
-articles 2331 et 2375 du code civil, des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de
-l'article L. 932-24 du code de la sécurité sociale ou de l'article L. 212-23 du code de la mutualité.
+Sous réserve de l'article L. 222-7, les participants ou bénéficiaires au titre des opérations relevant du présent chapitre et
+de l'article L. 310-14 du code des assurances ne peuvent se prévaloir d'un quelconque droit sur les biens et droits résultant
+des autres opérations de la mutuelle ou union, même sur le fondement du livre VI du code de commerce, des articles 2331 et
+2375 du code civil, des articles L. 310-25, L. 326-2 à L. 327-6 et L. 441-8 du code des assurances, de l'article L. 932-24 du
+code de la sécurité sociale ou de l'article L. 212-23 du présent code.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
 	  - Code civil - art. 2331
 	  - Code civil - art. 2375
-	  - Code de la sécurité sociale. - art. L932-24
+	  - Code de la sécurité sociale. - art. L932-24 (V)
 	  - Code des assurances
 	  - Code des assurances - art. L310-14
 	  - Code des assurances - art. L310-25
 	  - Code des assurances - art. L441-8
 	  - Code de la mutualité - art. L212-23
-	  - Code de la mutualité - art. L222-6
-	  - Code de la mutualité - art. L222-7
+	  - Code de la mutualité - art. L222-6 (VT)
+	  - Code de la mutualité - art. L222-7 (VT)
 
 
 ###### Article L222-10
 
-L'institution peut, dans les conditions mentionnées à l'article L. 143-8 du code des assurances, soumettre au présent
+La mutuelle ou union peut, dans les conditions mentionnées à l'article L. 143-8 du code des assurances, soumettre au présent
 chapitre tout contrat offrant les prestations mentionnées à l'article L. 222-3, mais n'ayant pas été souscrit dans le cadre
 de l'agrément administratif mentionné au premier alinéa de cet article.
 
@@ -5991,42 +6434,56 @@ de l'agrément administratif mentionné au premier alinéa de cet article.
 
 	**Codifié par**:
 
-	  - Ordonnance 2001-350 2001-04-19
-
-	**Créé par**:
-
-	  - Ordonnance 2006-344 2006-03-23 art. 5 1° JORF 24 mars 2006
+	  - Ordonnance n°2001-350 du 19 avril 2001
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des assurances - art. L143-8 (V)
-	  - Code de la mutualité - art. L222-3 (V)
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 
 ###### Article L222-11
 
 Les mutuelles ou unions peuvent proposer des services d'institutions de retraite professionnelle sur le territoire d'un autre
-Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, dans les conditions
-fixées à l'article L. 310-14 du code des assurances. 
-
-Un décret en Conseil d'Etat précise les règles techniques et de garantie applicables aux opérations mentionnées à l'article
-L. 222-3, ainsi que les conditions d'application des articles L. 222-3 à L. 222-9, et notamment les modalités de constitution
-et de fonctionnement du comité de surveillance.
+Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, dans les conditions fixées
+à l'article L. 310-14 du code des assurances.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 8 (V)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 11
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
 	  - Code des assurances - art. L310-14
-	  - Code de la mutualité - art. L222-3 (V)
+	  - Code de la mutualité - art. L222-3
+
+
+###### Article L222-12
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, notamment les règles techniques et de
+garantie applicables aux opérations mentionnées à l'article L. 222-3, les modalités de constitution et de fonctionnement du
+comité de surveillance mentionné à l'article L. 222-4 et les possibilités d'inclusion du rapport mentionné à l'article L.
+222-4-2 dans le rapport sur la solvabilité et la situation financière de la mutuelle ou union ou de la mutuelle ou union de
+retraite professionnelle supplémentaire concernée ainsi que les modalités de sa mise à disposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 
 #### Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.
@@ -7178,15 +7635,15 @@ IV.-Un décret en Conseil d'Etat précise les modalités d'application du prése
 
 ###### Article L223-25-5
 
-Les mutuelles et les unions font participer, dans des conditions fixées par décret, leurs membres participants et les
-bénéficiaires désignés aux excédents techniques et financiers des opérations dépendant de la durée de la vie humaine qu'elles
-réalisent.
+Les mutuelles et les unions et les mutuelles et unions de retraite professionnelle supplémentaire font participer, dans des
+conditions fixées par décret, leurs membres participants et les bénéficiaires désignés aux excédents techniques et financiers
+des opérations dépendant de la durée de la vie humaine qu'elles réalisent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 16
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 
 ##### Section 2 : Dispositions particulières à certaines opérations collectives vie.
@@ -8313,31 +8770,33 @@ Conseil d'Etat détermine les modalités de fonctionnement et de gestion du fond
 
 ###### Article L431-1
 
-Les mutuelles et les unions relevant du livre II adhèrent à un fonds de garantie destiné à préserver les droits de leurs
-membres participants et honoraires, de leurs ayants droit et des bénéficiaires des prestations. 
+Les mutuelles et les unions relevant du livre II ainsi que les mutuelles ou unions de retraite professionnelle supplémentaire
+adhèrent à un fonds de garantie destiné à préserver les droits de leurs membres participants et honoraires, de leurs ayants
+droit et des bénéficiaires des prestations.
 
 Le fonds de garantie intervient après, le cas échéant, les systèmes fédéraux de garantie mentionnés à l'article L. 111-6. 
 
-Sont exclues de toute indemnisation par le fonds de garantie les personnes suivantes : 
+Sont exclues de toute indemnisation par le fonds de garantie les personnes suivantes :
 
 a) Administrateurs et dirigeants de la mutuelle ou de l'union, commissaire aux comptes et membres participants et ayants
 droit de la mutuelle ou de l'union ayant les mêmes qualités dans une autre mutuelle ou union relevant des dispositions des
-articles L. 111-3 et L. 111-4 ; 
+articles L. 111-3 et L. 111-4 ;
 
-b) Tiers agissant pour le compte des personnes citées au a ci-dessus ; 
+b) Tiers agissant pour le compte des personnes citées au a ci-dessus ;
 
-c) Mutuelles ou unions relevant du présent code, entreprises régies par le code des assurances, institutions de prévoyance
-régies par le code de la sécurité sociale ou le code rural et de la pêche maritime, sauf lorsqu'il s'agit de contrats
-souscrits au profit de leurs salariés ou de leurs membres participants ou de leurs clients ; 
+c) Mutuelles ou unions, entreprises d'assurance et fonds de retraite professionnelle supplémentaire régis par le code des
+assurances, institutions de prévoyance et institutions de retraite professionnelle supplémentaire régies par le code de la
+sécurité sociale ou le code rural et de la pêche maritime, sauf lorsqu'il s'agit de contrats souscrits au profit de leurs
+salariés ou de leurs membres participants ou de leurs clients ;
 
 d) Organismes entrant dans le périmètre de consolidation ou de combinaison des comptes défini à l'article L. 212-7, sauf s'il
 s'agit de contrats souscrits au profit de leurs salariés ou de leurs membres participants, et administrateurs et dirigeants
-de ces organismes ; 
+de ces organismes ;
 
 e) Etablissements de crédit, sociétés de financement et personnes mentionnées à l'article L. 518-1 du code monétaire et
-financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ; 
+financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
 
-f) Organismes de placements collectifs ; 
+f) Organismes de placements collectifs ;
 
 g) Organismes de retraite, sauf lorsqu'il s'agit de contrats souscrits pour le compte des salariés ou retraités de leurs
 adhérents.
@@ -8368,7 +8827,7 @@ adhérents.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 12
+	  - Ordonnance n°2017-484 du 6 avril 2017 - art. 6
 
 	**Cite**:
 

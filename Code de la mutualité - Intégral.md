@@ -1,5 +1,5 @@
 # Code de la mutualité  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2021-01-01
 
 # Partie législative
 
@@ -1589,6 +1589,40 @@ conditions fixées par les statuts, assistent avec voix consultative aux séance
 	  - Code de la mutualité - art. L212-7
 
 
+###### Article L114-16-1
+
+Le conseil d'administration des mutuelles mentionnées au premier alinéa de l'article L. 114-16 est composé en recherchant une
+représentation équilibrée des femmes et des hommes. 
+
+Les statuts prévoient les conditions dans lesquelles il est procédé à l'élection de ses membres pour garantir au sein du
+conseil d'administration une part minimale de sièges pour les personnes de chaque sexe au moins égale à 40 %. 
+
+Par dérogation à l'alinéa précédent, lorsque la proportion de membres participants d'un des deux sexes est inférieure à 25 %,
+la part de sièges dévolue aux membres de ce sexe est au moins égale à 25 %, dans la limite de 50 %. 
+
+L'électeur doit, sous peine de nullité du vote et sauf insuffisance du nombre de candidats d'un sexe, désigner un nombre de
+candidats de chaque sexe conforme à la part de ce sexe indiquée aux précédents alinéas.
+
+**Nota:**
+
+Conformément à l'article 2 de l'ordonnance n° 2015-950 du 31 juillet 2015, les présentes dispositions s'appliquent au titre
+du renouvellement du conseil d'administration intervenant à compter du 1er janvier 2021.
+
+Par dérogation à l'alinéa précédent, pour les mutuelles dont la proportion de membres participants d'un des deux sexes est
+inférieure à 25 %, les présentes dispositions s'appliquent au titre du renouvellement du conseil d'administration intervenant
+à compter du 1er janvier 2024.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-950 du 31 juillet 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la mutualité - art. L114-16
+
+
 ###### Article L114-17
 
 Le conseil d'administration détermine les orientations de l'organisme et veille à leur application. 
@@ -1764,8 +1798,6 @@ d'administrateurs.
 
 	  - Code de la mutualité - art. L114-17 (V)
 
-
-#### Section 5 : Dispositions relatives aux fonctions d'administrateur et de dirigeant opérationnel
 
 #### Section 5 : Dispositions relatives aux fonctions d'administrateur, de dirigeant opérationnel et de mandataire mutualiste
 
